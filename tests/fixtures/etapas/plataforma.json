@@ -1,0 +1,20 @@
+{
+ "ideiaDeMarca": "Café com data",
+ "crencas": ["Café especial velho é só café caro", "Ninguém precisa entender de notas sensoriais para escolher um café bom", "Quem paga mais tem direito de saber quanto chega ao produtor"],
+ "valores": [
+  { "valor": "Mostrar a data", "comportamento": "Todo pacote sai com data da torra e o site mostra o próximo dia de torra", "exemploDeDecisao": "Café que passou de 5 dias de torra vira café da equipe ou doação, nunca é enviado" },
+  { "valor": "Contar o preço", "comportamento": "Publicamos quanto pagamos por saca a cada sítio, todo ano", "exemploDeDecisao": "Recusamos um intermediário mais barato porque não informava o valor pago ao produtor" },
+  { "valor": "Falar simples", "comportamento": "Descrevemos cada café pelo jeito de tomar, não por notas técnicas", "exemploDeDecisao": "Trocamos 'notas de frutas vermelhas' por 'doce, bom puro ou com leite' nas embalagens" }
+ ],
+ "personalidade": [
+  { "traco": "Transparente", "e": "mostra números e datas sem esperar ser perguntada", "naoE": "confessional ou dramática" },
+  { "traco": "Prática", "e": "explica em uma frase o que importa", "naoE": "simplista ou condescendente" },
+  { "traco": "Do interior", "e": "próxima, sem pressa, conhece os produtores pelo nome", "naoE": "caipira caricata" }
+ ],
+ "promessa": "Café torrado nesta semana, com a data impressa no pacote e o nome de quem plantou.",
+ "pilares": [
+  { "pilar": "Frescor com data", "prova": "Envio com até 5 dias de torra, data no pacote" },
+  { "pilar": "Origem com preço aberto", "prova": "6 sítios da Mantiqueira, valor por saca publicado" },
+  { "pilar": "Café sem cerimônia", "prova": "Descrições pelo jeito de tomar e cartão de preparo em cada pedido" }
+ ]
+}

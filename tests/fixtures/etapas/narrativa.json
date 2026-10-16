@@ -1,0 +1,14 @@
+{
+ "manifesto": "Café especial velho é só café caro.\nA gente percebeu isso cedo: o cheiro que some, o pacote sem data, a promessa de frescor que ninguém prova.\nPor isso torramos às terças e quintas, em lotes de 12 kg, e só enviamos café com até 5 dias de torra. A data vem impressa no pacote, junto com o nome de quem plantou.\nCompramos de 6 sítios da Serra da Mantiqueira, todos a menos de 150 km daqui, e publicamos quanto pagamos por saca. Em 2025, foram em média 40% acima da bolsa.\nVocê não precisa entender de notas sensoriais. Precisa abrir o pacote numa segunda de manhã e sentir que o café foi torrado nesta semana.\nGrão Alto. Café com data.",
+ "historia": { "protagonista": "Quem toma café coado todo dia", "conflito": "Paga caro por café especial e recebe café velho, sem saber quando foi torrado", "virada": "Encontra um pacote com a data da torra e o nome do produtor", "transformacao": "Passa a escolher café pela data, com confiança e sem precisar de jargão" },
+ "casaDeMensagens": {
+  "guardaChuva": "Café com data: torrado nesta semana, com origem e preço abertos",
+  "pilares": [
+   { "pilar": "Frescor com data", "mensagens": ["Torrado na terça, na sua casa até sábado"], "provas": ["Torra às terças e quintas em lotes de 12 kg", "Envio com até 5 dias de torra"] },
+   { "pilar": "Origem com preço aberto", "mensagens": ["Sabemos quanto chegou a cada sítio, e você também"], "provas": ["6 sítios da Mantiqueira", "Valor por saca publicado, 40% acima da bolsa em 2025"] },
+   { "pilar": "Café sem cerimônia", "mensagens": ["Café bom de manhã, explicado sem palavra difícil"], "provas": ["Cartão de preparo em todo pedido", "Descrições pelo jeito de tomar"] }
+  ]
+ },
+ "assinaturas": [ { "frase": "Café com data.", "racional": "Resume a prova central e é dita pelos próprios clientes" }, { "frase": "Torrado nesta semana.", "racional": "Versão para embalagem e anúncios" } ],
+ "pitch": { "curto": "A Grão Alto é a torrefação da Mantiqueira que imprime a data da torra no pacote e só envia café com até 5 dias de torra.", "longo": "A Grão Alto torra café especial às terças e quintas, em lotes de 12 kg, em Bragança Paulista. Só enviamos café com até 5 dias de torra, com a data e o nome do produtor no pacote. Compramos de 6 sítios da Serra da Mantiqueira e publicamos quanto pagamos por saca. Em 2025, foram em média 40% acima da bolsa." }
+}

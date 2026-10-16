@@ -1,0 +1,2103 @@
+{
+  "batch": "identidade-sensorial",
+  "sources": [
+    {
+      "id": "src-umbrex-distinctive-brand-assets-framework",
+      "title": "Distinctive Brand Assets Framework (Ehrenberg-Bass)",
+      "url": "https://umbrex.com/resources/frameworks/marketing-frameworks/distinctive-brand-assets-framework-ehrenberg-bass/",
+      "author": "Umbrex (resumo secundário do trabalho de Jenni Romaniuk / Ehrenberg-Bass)",
+      "year": 2024,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "ehrenberg-bass",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Resumo prático do método de Romaniuk para ativos distintivos: medir cada ativo em Fama (quantos compradores ligam o ativo à marca sem ver o nome) e Unicidade (quão exclusivamente ele aponta para a marca), plotar numa grade de quatro quadrantes e decidir proteger, construir, afiar ou descartar. Traz passo a passo de auditoria, regras de codificação, ligação com pontos de entrada da categoria e arquitetura, e uma lista de armadilhas.",
+      "notes": "Fonte secundária, de consultoria, não do instituto. O exemplo numérico ('Cascade', água com gás) é ilustrativo/hipotético e não foi usado como case. Ano estimado (página sem data visível)."
+    },
+    {
+      "id": "src-ebi-brands-need-distinctive-assets-2018",
+      "title": "Brands need distinctive assets",
+      "url": "https://marketingscience.info/news-and-insights/brands-need-distinctive-assets",
+      "author": "Ehrenberg-Bass Institute (resumo de artigo de Jenni Romaniuk na Admap/WARC)",
+      "year": 2018,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "ehrenberg-bass",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Romaniuk argumenta que chamar atenção primeiro e marcar depois desperdiça a maior parte da exposição; quanto mais chamativa a criação, mais a marca precisa trabalhar. Ativos distintivos podem ser qualquer coisa sensorial (formas, cores, rostos, palavras, fontes, momentos, sons) e devem ser vistos como um cardápio. A regra central é contraste com o ambiente visual e sonoro onde a peça aparece.",
+      "notes": "Só o resumo público foi lido; o artigo integral está no WARC (pago)."
+    },
+    {
+      "id": "src-mw-romaniuk-meaning-distinctive-assets-2025",
+      "title": "Leaning on meaning could undermine your distinctive assets",
+      "url": "https://www.marketingweek.com/jenni-romaniuk-meaning-distinctive-assets/",
+      "author": "Jenni Romaniuk (Marketing Week)",
+      "year": 2025,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "ehrenberg-bass",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Escolher um ativo pelo significado que ele já carrega (verde = sustentável, rosa = amor) atrapalha em quatro fases: seleção (concorrentes escolhem o mesmo), construção (associações prévias competem com a marca), uso (o significado limita os contextos) e proteção (é difícil registrar algo descritivo). Recomenda ativos 'sobre a marca', usáveis em muitos contextos.",
+      "notes": "curl devolveu 403; lido via WebFetch (o site não bloqueia por robots). Coluna de opinião, sem dados próprios."
+    },
+    {
+      "id": "src-ebi-differentiation-versus-distinctiveness",
+      "title": "Differentiation versus distinctiveness",
+      "url": "https://marketingscience.info/differentiation-versus-distinctiveness",
+      "author": "Ehrenberg-Bass Institute (republicação de artigo de blog sobre B2B)",
+      "year": 2021,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "ehrenberg-bass",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Define diferenciação (atributos de produto que separam a marca) e distintividade (elementos que fazem a marca ser reconhecida: nome, logo, jingle, estilo). Narra a virada pós-How Brands Grow (2010), traz Ritson defendendo saliência acima de imagem inclusive em B2B e o exemplo da garrafa da Belvedere como ativo distintivo.",
+      "notes": "Autor não identificado na página; ano estimado pelas referências (coluna de Ritson e post de Romaniuk)."
+    },
+    {
+      "id": "src-ipsos-jkr-be-distinctive-everywhere-2023",
+      "title": "Be Distinctive. Everywhere.",
+      "url": "https://www.ipsos.com/en-uk/be-distinctive-everywhere",
+      "author": "Ipsos × Jones Knowles Ritchie (JKR)",
+      "year": 2023,
+      "format": "relatorio",
+      "language": "en",
+      "access": "cadastro",
+      "license": "copyright",
+      "school": "ehrenberg-bass",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "A Ipsos testou cinco tipos de ativo (logo, slogan, mascote, cor, produto) com mais de 26 mil entrevistados e classificou cada um em Ouro, Prata ou Bronze. Só 15% chegaram a Ouro (reconhecíveis sozinhos): logo 19%, slogan 6%, mascote 16%, cor 4%, produto 31%.",
+      "notes": "Lida a página da Ipsos e o microsite público; o PDF completo exige formulário e não foi baixado. Metodologia detalhada (critério de Ouro) não visível."
+    },
+    {
+      "id": "src-jkr-be-distinctive-microsite-2023",
+      "title": "Be Distinctive. Everywhere. (microsite: logos, slogans, mascots, colour, product)",
+      "url": "https://bedistinctive.jkrglobal.com/",
+      "author": "Jones Knowles Ritchie (JKR)",
+      "year": 2023,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Comentário da JKR sobre cada tipo de ativo: logos deveriam ser o gatilho mais forte e mesmo assim poucos são Ouro; slogans só viram ativo com uso consistente e longo; mascotes estão subestimados e criam vínculo rápido; cor só se 'possui' dentro de um contexto de categoria e ser 'adequado à categoria' é o oposto de distintivo; produto atípico é o ativo mais reconhecido.",
+      "notes": "Páginas /logos, /slogans, /mascots, /colour, /product lidas. A agência vende identidade distintiva: viés comercial. Inclui também a menção da 'Experience Edition' (JKR × Kantar, 2026): mídia paga constrói só 28% do brand equity (número sem metodologia visível)."
+    },
+    {
+      "id": "src-murrell-age-of-average",
+      "title": "The age of average",
+      "url": "https://www.alexmurrell.co.uk/articles/the-age-of-average",
+      "author": "Alex Murrell",
+      "year": 2023,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Ensaio que documenta a convergência estética em interiores, arquitetura, carros, rostos, filmes e marcas. Nas marcas: 'blanding' (nome inventado, sans-serif, cores vivas roxo/turquesa, ilustração fofa), logos achatados em série (Audi, VW, BMW, Toyota, Nissan), tropos de anúncio copiados (shelfie) e slogans 'Find your X'. Atribui parte disso a testes que eliminam o diferente e a moodboards das mesmas fontes.",
+      "notes": "Argumento por acúmulo de exemplos e citações de terceiros, não por medição sistemática."
+    },
+    {
+      "id": "src-ibm-design-language",
+      "title": "IBM Design Language (philosophy/principles, 8-bar logo, color, animation)",
+      "url": "https://www.ibm.com/design/language/",
+      "author": "IBM",
+      "year": 2026,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Guia público da IBM. Os princípios pedem elementos fixos e fluidos ao mesmo tempo e perguntam se uma peça seria reconhecida como IBM com o logo coberto. O logo de 8 barras (Paul Rand) está inalterado desde 1972 e tem regras ópticas e de contraste. A paleta parte de uma família de azuis com cinzas dominantes. A animação divide-se em movimento produtivo e expressivo, sempre com propósito.",
+      "notes": "Lidas: /philosophy/principles, /ibm-logos/8-bar, /color, /animation/overview. As 'experience guides' exigem login IBM e não foram abertas."
+    },
+    {
+      "id": "src-android-m3-brand-theming-codelab",
+      "title": "Create an accessible and personalized theme and brand with Material Design 3",
+      "url": "https://developer.android.com/codelabs/m3-design-theming",
+      "author": "Google (Android Developers / Material Design)",
+      "year": 2023,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "CC BY 4.0",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Mostra como expressar uma marca dentro do Material 3 mapeando cor, tipo, forma e movimento para papéis e tokens: derivar um esquema acessível da cor de marca, reservar a cor primária para ações importantes, usar fonte de display com caráter e fonte de texto legível, escolher família de forma (arredondada = amigável, cortada = distinta) e personalizar easing/duração do movimento.",
+      "notes": "A página m3.material.io/foundations/customization indicada no briefing só renderiza com JavaScript; usamos o codelab oficial equivalente. Licença do conteúdo de developer.android.com é CC BY 4.0 conforme rodapé padrão do site (não verificado nesta página específica)."
+    },
+    {
+      "id": "src-uber-2018-brand-redesign",
+      "title": "Uber 2018 redesign (Uber Design)",
+      "url": "https://www.uber.com/careers/design/work/2018-redesign",
+      "author": "Uber Brand Experience",
+      "year": 2018,
+      "format": "case",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Racional do redesenho da Uber: mais de 1.000 horas ouvindo stakeholders, decisão de investir em wordmark em vez de símbolo, devolver o 'U' que as pessoas sentiam falta, abraçar o preto (88% de aceitação em teste), tipografia própria Uber Move inspirada em sinalização de transporte, contraste 21:1 e um azul de segurança usado com parcimônia. Sistema com nove elementos.",
+      "notes": "curl devolveu 406; lido via WebFetch. Sem resultados pós-lançamento. brand.uber.com e assets.uber.com são portais Frontify em JS, sem texto extraível."
+    },
+    {
+      "id": "src-uber-motion-guidelines-behance",
+      "title": "Uber Motion Guidelines",
+      "url": "https://www.behance.net/gallery/69157695/Uber-Motion-Guidelines",
+      "author": "Equipe criativa (Behance; Uber APAC)",
+      "year": 2018,
+      "format": "case",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Guia de motion criado porque o brand guide da Uber tinha pouco sobre vídeo e cada equipe animava de um jeito. Princípios: movimento simples e suave, sempre da esquerda para a direita para sugerir progresso, velocidade baseada nas animações do app; regras para logo, lockups, legendas e tradução da animação de tipo para 11 idiomas.",
+      "notes": "curl devolveu 403; lido via WebFetch. Não define curvas de easing nem tempos exatos."
+    },
+    {
+      "id": "src-amp-sound-of-uber",
+      "title": "The Sound of Uber, sonic branding case study",
+      "url": "https://ampsoundbranding.com/work/the-sound-of-uber",
+      "author": "amp sound branding",
+      "year": 2024,
+      "format": "case",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "A amp criou a identidade sonora da Uber evitando os efeitos sonoros literais da categoria (portas de carro, campainhas) e partindo do gesto que inicia toda viagem: o toque do dedo no vidro. Motivo de três notas (intervalo, pausa de expectativa, resolução), lançado nas Olimpíadas de Paris 2024 e expandido para guias sonoros e sons de interface.",
+      "notes": "Case da própria agência; sem métricas de resultado."
+    },
+    {
+      "id": "src-mozilla-brand",
+      "title": "Mozilla Brand",
+      "url": "https://brand.mozilla.org/",
+      "author": "Mozilla",
+      "year": 2026,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": false,
+      "summary": "Portal de marca da Mozilla (Frontify).",
+      "notes": "Não dissecado: WebFetch retornou ROBOTS_DISALLOWED e o curl recebe só uma casca JavaScript (Frontify). Respeitado o bloqueio. A página antiga mozilla.org/styleguide também redireciona para o portal."
+    },
+    {
+      "id": "src-spotify-developer-design-guidelines",
+      "title": "Design & Branding Guidelines (Spotify for Developers)",
+      "url": "https://developer.spotify.com/documentation/design",
+      "author": "Spotify",
+      "year": 2026,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Regras para parceiros que integram o Spotify: atribuição obrigatória com logo completo, ícone só quando falta espaço, arte de álbum intocada com cantos arredondados especificados (4 px / 8 px), prateleira inteira dedicada ao conteúdo Spotify, nunca ao lado de serviços concorrentes, textos de chamada padronizados e link sempre para o app.",
+      "notes": "É guia de marca em ambiente de terceiros (governança de ecossistema), não de identidade completa. Media kit do newsroom não tinha texto útil."
+    },
+    {
+      "id": "src-pentagram-slack-2019",
+      "title": "Slack brand identity (Pentagram)",
+      "url": "https://www.pentagram.com/work/slack",
+      "author": "Pentagram (Michael Bierut) com equipe interna da Slack",
+      "year": 2019,
+      "format": "case",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Redesenho que manteve o equity do octothorpe (#) da Slack, refeito em grade a partir de duas formas (balão de fala e losango) que viram elementos gráficos, ícones e ilustrações. Paleta reduzida de 11 para 4 cores primárias, mais fáceis de reproduzir, mantendo o roxo berinjela que torna a Slack reconhecível contra o branco das outras janelas.",
+      "notes": "Também consultado slack.com/media-kit, que só remete ao Brand Center (sem conteúdo de princípios). Sem métricas."
+    },
+    {
+      "id": "src-collins-twitch-2019",
+      "title": "Twitch (COLLINS)",
+      "url": "https://www.wearecollins.com/work/twitch",
+      "author": "COLLINS",
+      "year": 2019,
+      "format": "case",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Identidade para a Twitch ampliar o público além dos games. Insight de papel: a Twitch não é o herói, é o 'suporte' que fortalece o criador. Partiu do roxo já reconhecido, adicionando um sistema flexível de cores vivas, tipografia própria, linguagem de emotes e fotografia 'level up'. Inclui 'augment' para integrar conteúdo de criadores sem perder coerência.",
+      "notes": "brand.twitch.com só oferece um ZIP de assets, sem texto de princípios. Resultados (2,5x audiência, receita de US$ 2,8 bi em 2022) são autodeclarados pela agência e não isolam o efeito da marca."
+    },
+    {
+      "id": "src-discord-branding",
+      "title": "Discord Branding",
+      "url": "https://discord.com/branding",
+      "author": "Discord",
+      "year": 2026,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Página de marca enxuta: logo em cor, preto ou branco, proibição de editar ou recolorir, cor Blurple, mascote Clyde. O mais útil é a definição ampla de 'Brand Assets' protegidos: não só logos, mas o look and feel, combinações de cor, personagens, sons, ícones de presença e tipografia.",
+      "notes": "O toolkit completo é um download; não foi baixado."
+    },
+    {
+      "id": "src-ubuntu-brand",
+      "title": "Ubuntu brand",
+      "url": "https://design.ubuntu.com/brand",
+      "author": "Canonical",
+      "year": 2023,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Guia da marca Ubuntu que ancora a identidade em quatro valores (liberdade, confiabilidade, precisão, colaboração) e afirma que eles devem ser evidentes em qualquer encontro com a marca. Logo, fonte Ubuntu e paleta são apresentados como expressão desses valores; a consistência é justificada como o que torna a marca forte o bastante para atrair pessoas.",
+      "notes": "Página-índice lida (logo, cor, tipografia têm subpáginas). Primeiro fetch veio comprimido; refeito."
+    },
+    {
+      "id": "src-gitlab-brand-guidelines",
+      "title": "GitLab Brand Guidelines (Pajamas) e Brand Experience (Handbook)",
+      "url": "https://design.gitlab.com/brand-introduction/",
+      "author": "GitLab",
+      "year": 2026,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "As diretrizes de marca da GitLab ficam dentro do design system Pajamas e dizem que todos contribuem para construir e representar a marca. O Handbook mostra a governança: um time de Brand Strategy (consciência, confiança, afinidade) e um time de Brand Creative (direção de arte, design, ilustração, vídeo), com canal aberto para dúvidas e autoatendimento em ferramentas como Canva.",
+      "notes": "Páginas mais profundas do handbook de brand redirecionam para login GitLab (não contornado). Licença CC BY-SA do handbook não confirmada na página."
+    },
+    {
+      "id": "src-wikimedia-movement-brand-project",
+      "title": "Wikimedia brands / 2030 movement brand project",
+      "url": "https://meta.wikimedia.org/wiki/Brand",
+      "author": "Wikimedia Foundation e comunidade",
+      "year": 2021,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "CC BY-SA",
+      "school": "pratica",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Projeto de marca do movimento Wikimedia: pesquisa mostrou que 'Wikimedia' é desconhecido e confuso; a proposta usaria a marca mais conhecida (Wikipedia) num sistema de nomes e design. A comunidade definiu critérios (reduzir confusão, proteger reputação, beneficiar todos os projetos, mitigar risco legal, crescer o movimento, adoção gradual e opcional) e rejeitou a fundação se chamar Wikipedia; o conselho pausou o renaming em 2021.",
+      "notes": "A URL /wiki/Brand redireciona para a página do projeto 2030. Texto sob CC BY-SA; marcas registradas excluídas."
+    },
+    {
+      "id": "src-dropbox-brand-guidelines",
+      "title": "Dropbox Brand Guidelines (framework, motion)",
+      "url": "https://brand.dropbox.com/",
+      "author": "Dropbox",
+      "year": 2026,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Guia organizado em Framework, Voice & Tone, Logo, Typography, Iconography, Color, Imagery e Motion. O framework define o caráter (caloroso, relacionável), clareza como revelar o que importa e pequenos momentos de alegria. Os princípios de motion pedem poucos elementos com propósito, movimento que explica e reduz carga cognitiva, peso físico e expressividade dosada.",
+      "notes": "Lidas a home, /framework e /motion."
+    },
+    {
+      "id": "src-collins-dropbox-2017",
+      "title": "Dropbox (COLLINS)",
+      "url": "https://www.wearecollins.com/work/dropbox",
+      "author": "COLLINS",
+      "year": 2017,
+      "format": "case",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Antes do IPO, a COLLINS ampliou a história de valor do Dropbox de 'sincronizar arquivos' para 'sincronizar equipes', partindo de uma característica amada do produto. A identidade traduz isso em colisões inesperadas de cor, tipo, arte e fotografia, e num logo de losangos idênticos que formam um todo maior, com assinatura de movimento própria.",
+      "notes": "Resultados (IPO +35% no 1º dia, 600→700 mi usuários, receita de US$ 1,66→1,91 bi) são autodeclarados e não isolam o efeito da marca. A estatística '2,1x mais chance de saliência' para marcas coerentes aparece sem fonte."
+    },
+    {
+      "id": "src-nasa-graphics-standards-manual-1976",
+      "title": "NASA Graphics Standards Manual NHB 1430.2 (jan. 1976)",
+      "url": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+      "author": "NASA / Danne & Blackburn",
+      "year": 1976,
+      "format": "pdf",
+      "language": "en",
+      "access": "livre",
+      "license": "dominio-publico",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Manual canônico do logotipo 'worm' (1975): sumário de logotipo, cor (vermelho NASA), usos incorretos, grade, identificação de centros, papelaria, formulários, publicações com grades, sinalização e veículos. A carta do administrador apresenta o manual como documento oficial de política, exige apoio de todos e liderança da alta gestão, e o texto define o logotipo como 'taquigrafia visual' construída pelo uso repetido.",
+      "notes": "Obra do governo federal dos EUA (domínio público), mas insígnia e logotipo seguem protegidos por lei. Extraído com pdftotext; páginas de exemplos são visuais. Contexto atual lido no NASA Brand Center (insígnia 'meatball' de 1959, aposentada 1976–1992 e restabelecida em 1992; uso regido pelo 14 CFR 1221)."
+    },
+    {
+      "id": "src-secom-manual-marca-gov-br-2025",
+      "title": "Manual de Uso da Marca do Governo Federal v1.2",
+      "url": "https://www.gov.br/secom/pt-br/central-de-conteudo/guias-e-manuais/uso-da-marca-do-governo-federal/250911_secom_manual_marcagovbr.pdf",
+      "author": "Secom, Presidência da República",
+      "year": 2025,
+      "format": "pdf",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Manual da marca do Governo Federal: conceito ligado à bandeira e ao lema 'do lado do povo brasileiro', versões, grade, área de proteção, redução mínima, sete cores nomeadas, tipografia Rawline, regras de assinatura conjunta com ministérios, órgãos e programas (ordem, tamanho máximo, posição), fundos instáveis, usos proibidos, outros idiomas, assinatura falada em áudio e vinheta de TV, marca d'água em vídeos.",
+      "notes": "curl recebeu 403/404 (proteção do servidor); lido via WebFetch, que extraiu o PDF. Uso regulado por IN Secom 5/2024 (alterada). Paginação conforme a extração."
+    },
+    {
+      "id": "src-amp-best-audio-brands-2026",
+      "title": "Best Audio Brands report reveals decline in long-term sonic asset investment",
+      "url": "https://ampsoundbranding.com/news/best-audio-brands-report-reveals-decline-in-long-term-sonic-asset-investment",
+      "author": "amp sound branding (WPP)",
+      "year": 2026,
+      "format": "relatorio",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Sétima edição do Best Audio Brands avaliou mais de 150 marcas com notas de A+ a D-. Nota A exige tratar som como ativo central, sem música de banco, com cerca de 30% do áudio próprio (Mastercard, Shell, Swiss Re A+; Nike C+; Aldi entre os piores por som minimalista e inconsistente). Uso de música customizada por campanha subiu 140% e o de música de marca caiu 67%; 73% usam logo sonoro.",
+      "notes": "Lido o comunicado; o relatório completo exige formulário (bestaudiobrands.com/download). Também lida a página da edição 2024 (src-amp-best-audio-brands-2024). A amp vende identidade sonora: viés comercial."
+    },
+    {
+      "id": "src-amp-best-audio-brands-2024",
+      "title": "amp Presents the Sixth Annual Best Audio Brands Report",
+      "url": "https://ampsoundbranding.com/news/best-audio-brands-report-2024",
+      "author": "amp sound branding",
+      "year": 2024,
+      "format": "relatorio",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Edição 2024: estudo com participantes vendo logos visuais com e sem logo sonoro (preferência ampla pela versão com som) e segundo estudo confirmando ganho quando som e movimento estão sincronizados. Recomenda evitar sons não proprietários (batimento cardíaco, campainha). Pesquisa com o conselho B2B do Spotify: 97% dos líderes concordam que estratégia sonora ajuda lealdade.",
+      "notes": "Números de amostra parcialmente ocultos no texto da página; a cifra de 97% é de opinião de executivos, não de efeito medido."
+    },
+    {
+      "id": "src-sixieme-son-faq",
+      "title": "Sixième Son FAQ e entrevista de fim de ano (2024)",
+      "url": "https://www.sixiemeson.com/faq/",
+      "author": "Sixième Son",
+      "year": 2024,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "A agência pioneira em sonic branding (550+ identidades) descreve o processo em quatro fases (análise, criação, implementação, amplificação), defende que o logo sonoro é âncora de um sistema de texturas e instrumentos adaptável, que pular etapas equivale a fazer só o logo de uma identidade visual, e que 40% dos clientes são B2B. Na entrevista de 2024, nota identidades sonoras chegando a 10 anos e entrada mais cedo no processo de branding.",
+      "notes": "Lidas a FAQ e o post de tendências (sixiemeson.com/?p=20980). Material promocional."
+    },
+    {
+      "id": "src-creativeboom-vucko-motion-identity-2025",
+      "title": "Why motion is the future of brand identity, and how to do it right",
+      "url": "https://www.creativeboom.com/insight/why-motion-is-the-future-of-brand-identity-and-how-to-do-it-right/",
+      "author": "Andrew Vucko (Vucko), Creative Boom",
+      "year": 2025,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Motion deve entrar no processo de identidade desde o início. Cases: Back Market (movimentos circulares expressam circularidade), Google Next (sistema para mais de 2.000 peças), Canva (motion baseado no cursor). Princípios: começar pela estratégia, pensar o ecossistema, escalar, manter humano, projetar para desempenho.",
+      "notes": "Texto de dono de estúdio de motion; cases sem métricas."
+    },
+    {
+      "id": "src-creativeboom-motion-first-dia-buck-2025",
+      "title": "How to do motion-first branding better",
+      "url": "https://www.creativeboom.com/insight/how-to-do-motion-first-branding-better/",
+      "author": "Creative Boom, com Mitch Paone (DIA) e Simon Chong (BUCK), webinar Frontify",
+      "year": 2025,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Motion vira estratégico quando define como a marca se comporta, não só como parece ('identidade cinética'). Lições: motion como sistema de comportamento que gera animações; documentar o porquê e o como (tempos, easing); traduzir valores abstratos em referências concretas; retrofit de motion após o rebrand (Mailchimp, Pinterest) gera inconsistência; entregar sistemas vivos em cascata (estratégia → princípios → diretrizes → templates), não PDFs.",
+      "notes": "Relato de webinar patrocinado pela Frontify (plataforma de brand portals), o que favorece o argumento contra PDFs."
+    },
+    {
+      "id": "src-studio-dumbar-instagram-motion",
+      "title": "Instagram: creating a vibrant, all-encompassing motion identity system",
+      "url": "https://studiodumbar.com/work/instagram",
+      "author": "Studio Dumbar/DEPT",
+      "year": 2023,
+      "format": "case",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Sistema de motion para o Instagram derivado de atributos nativos do app: imperfeição do movimento humano e do conteúdo do usuário, técnicas que imitam câmera e o gesto de rolar/deslizar, e uma 'física' definida para orientar todo o movimento. Entregue com diretrizes, templates e toolkits para designers do mundo todo.",
+      "notes": "Ano estimado. Sem métricas."
+    },
+    {
+      "id": "src-pentawards-directory",
+      "title": "Pentawards: the:portal / directory",
+      "url": "https://pentawards.com/directory/en",
+      "author": "Pentawards",
+      "year": 2026,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "identidade-design",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": false,
+      "summary": "Diretório e arquivo de mais de 5.000 embalagens premiadas desde 2007, filtrável por categoria, marca, ano e cor.",
+      "notes": "Aberto, mas não há texto analítico útil (só índice visual e diretório comercial). Serve como índice de cases de embalagem para outro lote; nenhum card extraído."
+    }
+  ],
+  "principles": [
+    {
+      "id": "distinctive-assets-fame-uniqueness",
+      "title": "Gerencie ativos pela grade Fama × Unicidade, não por gosto",
+      "statement": "Cada elemento sensorial candidato a ativo deve ser medido em Fama (quantos compradores ligam o elemento à marca sem ver o nome) e Unicidade (quanto ele aponta só para ela) e tratado conforme o quadrante: proteger, construir, afiar ou descartar.",
+      "why": "Ativos só ajudam a escolha se forem recuperados rápido e sem confusão com concorrentes. Na pesquisa Ipsos × JKR, com mais de 26 mil entrevistados, só 15% dos ativos testados eram reconhecíveis sozinhos, então presumir que um elemento 'já é da marca' costuma ser falso.",
+      "how": [
+        "Inventariar logo, cores, formas, embalagem, tipografia, personagens, sons, slogans e padrões de movimento da marca e dos concorrentes.",
+        "Testar cada ativo isolado e sem marca com compradores da categoria; perguntar a que marca pertence.",
+        "Fama alta e Unicidade alta: inegociável em mídia de alto alcance e nos pontos de escolha.",
+        "Fama alta e Unicidade baixa: código de categoria; parear com algo único ou redesenhar.",
+        "Fama baixa e Unicidade alta: 'emergente'; dar destaque ao lado dos ativos fortes até ganhar fama.",
+        "Fama baixa e Unicidade baixa: aposentar ou redesenhar.",
+        "Repetir o teste todo ano e promover os emergentes que cruzarem o limiar."
+      ],
+      "tests": [
+        "A marca tem uma lista escrita de ativos com status de Fama e Unicidade medidos (não opinados)?",
+        "Os testes usaram estímulos sem nome nem logo da marca?",
+        "Existe pelo menos um ativo não verbal em alto/alto?"
+      ],
+      "polarity": "sempre",
+      "domain": ["ativos-distintivos", "equity-medicao"],
+      "stage": ["diagnostico", "ativos"],
+      "school": "ehrenberg-bass",
+      "evidence": "empirica",
+      "strength": 3,
+      "sources": [
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "seções 'Fame and Uniqueness' e 'The Distinctive Asset Grid'", "paraphrase": "Define as duas dimensões, o teste com estímulos sem marca e o papel estratégico de cada quadrante." },
+        { "id": "src-ebi-brands-need-distinctive-assets-2018", "locator": "parágrafo final", "paraphrase": "Usar ativos bem exige conhecer a força atual de cada um em unicidade e fama." },
+        { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "locator": "resumo da pesquisa", "paraphrase": "Só 15% de logos, slogans, mascotes, cores e produtos testados atingiram o nível Ouro.", "quote": "Only 15% of assets tested were found to be Gold standard" }
+      ],
+      "conflictsWith": ["differentiation-vs-distinctiveness"],
+      "cases": ["case-slack-2019-pentagram"],
+      "contexts": "Vale para qualquer categoria com compra rápida e muita concorrência visual (varejo, apps, FMCG). Em marcas novas, sem fama, o teste mede Unicidade potencial e confusão com concorrentes; o resto se constrói com exposição. Pequenas empresas podem fazer versão barata com 30 a 50 compradores da categoria."
+    },
+    {
+      "id": "distinctive-assets-portfolio-beyond-logo",
+      "title": "Construa uma carteira de ativos além do logo",
+      "statement": "Planeje desde o início ativos que funcionem quando o logo não aparece ou não é lido: cor, forma, produto, personagem, som, movimento, tipografia.",
+      "why": "Na pesquisa Ipsos, o produto foi o tipo de ativo com mais Ouro (31%), à frente do logo (19%) e do mascote (16%); cor (4%) e slogan (6%) raramente chegam lá. Em telas pequenas, vídeo pulado, áudio e varejo o logo muitas vezes some, e a marca precisa ser reconhecida por outros sinais.",
+      "how": [
+        "Mapear os contextos onde o logo fica pequeno, ilegível ou ausente (feed, áudio, prateleira de longe, notificação, ícone de app).",
+        "Escolher 1 ou 2 sinais não-logo por contexto (ex.: som no áudio, forma/cor na prateleira, movimento no vídeo).",
+        "Projetar o produto ou a interface para ter um detalhe atípico próprio, já que produto distinto é o ativo mais reconhecido."
+      ],
+      "tests": [
+        "Se o logo for removido de uma peça típica, outro elemento ainda identifica a marca?",
+        "A marca tem pelo menos um ativo sonoro ou de movimento planejado?"
+      ],
+      "polarity": "prefira",
+      "domain": ["ativos-distintivos", "identidade-visual", "sonoro-motion"],
+      "stage": ["ativos"],
+      "school": "ehrenberg-bass",
+      "evidence": "empirica",
+      "strength": 3,
+      "sources": [
+        { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "locator": "resumo da pesquisa", "paraphrase": "Percentual Ouro por tipo: logo 19%, slogan 6%, mascote 16%, cor 4%, produto 31%." },
+        { "id": "src-jkr-be-distinctive-microsite-2023", "locator": "/product e /logos", "paraphrase": "Quanto mais atípico o produto, mais distintiva a marca; e poucos logos atingem o padrão esperado." },
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "'Common Pitfalls', dependência do logo", "paraphrase": "Recomenda construir sinais não-logo (cor, forma, movimento, som) que funcionem quando o logo não pode." },
+        { "id": "src-discord-branding", "locator": "termos de uso", "paraphrase": "Trata como ativos protegidos o look and feel, combinações de cor, personagens, sons e tipografia, não só o logo." }
+      ],
+      "conflictsWith": ["brand-is-not-logo"],
+      "cases": ["case-uber-sonic-2024-amp", "case-instagram-motion-studio-dumbar"],
+      "contexts": "Crítico em marcas digitais e de áudio. Em B2B de nicho com poucos pontos de contato, a carteira pode ser menor, mas o teste do logo coberto continua valendo."
+    },
+    {
+      "id": "distinctive-assets-concentrate-core",
+      "title": "Concentre-se em 3 a 5 ativos centrais e use-os por anos",
+      "statement": "Escolha poucos ativos centrais, codifique-os com regras precisas e mantenha-os visíveis por anos, evoluindo devagar em vez de multiplicar elementos 'especiais'.",
+      "why": "Fama só cresce com exposição repetida; quando há elementos demais, nenhum acumula memória suficiente e quem produz não sabe o que é essencial. A IBM mantém o desenho básico do logo de 8 barras inalterado desde 1972 e o trata como um de seus ativos mais valiosos.",
+      "how": [
+        "Priorizar 3 a 5 ativos pela grade Fama × Unicidade; o resto vira apoio ou sai.",
+        "Codificar cada ativo: cor com códigos e proporção de uso, forma com do/don't, som com duração e casos de uso.",
+        "Definir como os ativos se combinam para se reforçar e não competir.",
+        "Evoluir (refinar) em vez de substituir quando a marca envelhecer."
+      ],
+      "tests": [
+        "A marca consegue listar em uma linha seus ativos centrais?",
+        "Os ativos centrais aparecem em todas as peças de alto alcance?",
+        "Há elementos sazonais ou 'de campanha' substituindo os ativos centrais?"
+      ],
+      "polarity": "prefira",
+      "domain": ["ativos-distintivos", "gestao-governanca"],
+      "stage": ["ativos", "ativacao"],
+      "school": "ehrenberg-bass",
+      "evidence": "framework",
+      "strength": 2,
+      "sources": [
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "passos 'Define a prioritized asset set' e pitfall 'Asset sprawl'", "paraphrase": "Concentrar em poucos ativos acelera a memória; elementos demais confundem criadores e compradores." },
+        { "id": "src-ibm-design-language", "locator": "/ibm-logos/8-bar", "paraphrase": "O desenho do logo de Paul Rand não muda desde 1972 e seu uso consistente torna a marca mais memorável." },
+        { "id": "src-nasa-graphics-standards-manual-1976", "locator": "seção 1.1 The NASA Logotype", "paraphrase": "O logotipo vira taquigrafia visual da agência pelo uso consistente e repetido em toda comunicação.", "quote": "a visual shorthand which identifies the Agency" }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-ibm-8-bar-rand", "case-nasa-1975-danne-blackburn"],
+      "contexts": "Vale para quase todas as marcas. Marcas de moda e entretenimento podem girar a expressão (campanhas, collabs), mas mantendo um núcleo fixo."
+    },
+    {
+      "id": "consistency-over-time",
+      "title": "Consistência ao longo do tempo é o que transforma elemento em ativo",
+      "statement": "Mantenha ativos visuais e sonoros estáveis por muitos anos e trate o manual como política, não como sugestão.",
+      "why": "Tanto a escola de design quanto a de ciência de marketing convergem: o reconhecimento é construído por repetição. A IBM preserva o 8-bar há mais de 50 anos; a NASA tratou o manual de 1976 como política oficial; agências sonoras relatam identidades chegando a 10 anos; a amp mostra que marcas nota A têm identidade sonora própria e coerente.",
+      "how": [
+        "Definir no manual o que é fixo (não muda sem decisão formal) e o que é variável.",
+        "Ligar a aprovação de mudanças no núcleo a uma instância (time de marca, diretoria).",
+        "Medir reconhecimento antes de qualquer mudança no núcleo."
+      ],
+      "tests": [
+        "Os ativos centrais têm mais de 3 anos de uso estável?",
+        "Existe um dono formal com poder para barrar alterações no núcleo?"
+      ],
+      "polarity": "sempre",
+      "domain": ["ativos-distintivos", "gestao-governanca"],
+      "stage": ["ativos", "ativacao"],
+      "school": "misto",
+      "evidence": "caso",
+      "strength": 2,
+      "sources": [
+        { "id": "src-ibm-design-language", "locator": "/ibm-logos/8-bar", "paraphrase": "Uso visível e consistente do logo reforça a marca e autentica o que ele assina." },
+        { "id": "src-nasa-graphics-standards-manual-1976", "locator": "carta introdutória", "paraphrase": "O manual é documento oficial de política e o tom de qualidade de toda a comunicação gráfica." },
+        { "id": "src-sixieme-son-faq", "locator": "entrevista 2024", "paraphrase": "Clientes renovam e ampliam o uso do som ao longo dos anos, com identidades chegando a uma década." },
+        { "id": "src-ubuntu-brand", "locator": "introdução", "paraphrase": "Seguir as diretrizes com consistência faz a marca ficar forte o bastante para atrair pessoas." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-ibm-8-bar-rand"],
+      "contexts": "Universal. O risco oposto é a marca ficar datada: resolva com refinamento do núcleo, não troca."
+    },
+    {
+      "id": "recognizable-without-logo",
+      "title": "Teste do logo coberto: a peça precisa ser reconhecível sem o logo",
+      "statement": "Toda execução deveria ser atribuível à marca mesmo com logo e nome cobertos, graças a elementos fixos (cor, tipo, grade, forma, movimento, som).",
+      "why": "A IBM usa essa pergunta como critério explícito de design. Ela operacionaliza o conceito de distintividade numa verificação que qualquer revisor faz em segundos, e pega o caso comum de peças bonitas porém genéricas.",
+      "how": [
+        "Na revisão de cada peça, cobrir logo e nome e perguntar a pessoas de fora a que marca pertence.",
+        "Se falhar, aumentar a presença dos ativos centrais (cor dominante, tipografia própria, forma, padrão de movimento).",
+        "Incluir a pergunta no checklist de aprovação."
+      ],
+      "tests": [
+        "Com o logo coberto, a peça ainda é atribuída à marca por pessoas da categoria?"
+      ],
+      "polarity": "sempre",
+      "domain": ["identidade-visual", "ativos-distintivos"],
+      "stage": ["ativos", "ativacao"],
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "strength": 2,
+      "sources": [
+        { "id": "src-ibm-design-language", "locator": "/philosophy/principles", "paraphrase": "Pergunta se uma execução seria identificada como IBM com logo e nome cobertos.", "quote": "If you covered up our logo or name, would you identify an execution" },
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "pitfall de dependência do logo", "paraphrase": "Sinais não-logo devem funcionar quando o logo não pode." }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Ótimo como teste de revisão em qualquer marca. Em categorias reguladas com layouts impostos (bula, embalagem obrigatória), reconhecer só pela cor/forma pode ser o único caminho."
+    },
+    {
+      "id": "identity-system-fixed-fluid",
+      "title": "Separe elementos fixos de elementos fluidos no sistema",
+      "statement": "Um sistema de identidade precisa de elementos fixos que unificam (logo, cor núcleo, tipo, grade) e de elementos fluidos que dão variedade (cores de apoio, ilustração, composição), com regras claras de onde cada um entra.",
+      "why": "A IBM afirma que continuidade e criatividade devem coexistir e que sistemas bem-sucedidos combinam o fixo e o fluido. A Twitch manteve o roxo reconhecido e acrescentou uma paleta viva para representar comunidades diversas; o Material 3 separa cores de acento (expressivas), semânticas (fixas) e de superfície (base).",
+      "how": [
+        "Listar o núcleo fixo e marcar como 'não negociável'.",
+        "Definir a camada flexível com limites (ex.: cores de apoio nunca dominam, gradientes só entre famílias permitidas).",
+        "Mostrar no guia exemplos do mesmo sistema em registros diferentes (sóbrio a expressivo)."
+      ],
+      "tests": [
+        "O guia distingue explicitamente o que é fixo e o que é variável?",
+        "Peças de campanhas diferentes ainda compartilham o núcleo fixo?"
+      ],
+      "polarity": "prefira",
+      "domain": ["identidade-visual", "gestao-governanca"],
+      "stage": ["ativos"],
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "strength": 2,
+      "sources": [
+        { "id": "src-ibm-design-language", "locator": "/philosophy/principles e /color", "paraphrase": "Elementos fixos dão unidade e o uso inovador deles dá distinção; cinzas e azul dominam, outras famílias dão propósito." },
+        { "id": "src-collins-twitch-2019", "locator": "seção sobre cor", "paraphrase": "Partiu do roxo amado e adicionou um sistema flexível de cores para mostrar a diversidade de criadores." },
+        { "id": "src-android-m3-brand-theming-codelab", "locator": "'Color hierarchy and roles'", "paraphrase": "Cores de acento carregam a expressividade; semânticas têm significado fixo; superfícies formam a maior parte." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-twitch-2019-collins", "case-slack-2019-pentagram"],
+      "contexts": "Essencial em marcas com muitos produtos, criadores ou campanhas. Pequenas marcas podem ter um núcleo e pouquíssima camada flexível."
+    },
+    {
+      "id": "strategy-to-visual-translation",
+      "title": "Derive a direção visual de uma verdade da marca, não de tendência",
+      "statement": "Traduza a ideia de marca em decisões formais a partir de algo que já é da marca (gesto do produto, papel na vida do cliente, característica amada), e justifique cada elemento por essa ideia.",
+      "why": "Cases bem documentados seguem esse caminho: o Dropbox expandiu 'sincronizar arquivos' para 'sincronizar equipes' e expressou isso em colisões inesperadas e num logo de peças iguais formando um todo; a Uber partiu de movimento e transporte para o preto, o wordmark e a tipografia de sinalização; a Twitch se viu como 'suporte' do criador; o som da Uber nasceu do toque no vidro. Ideias assim são difíceis de copiar porque vêm da própria marca.",
+      "how": [
+        "Escrever a ideia de marca em uma frase e listar 3 a 5 verdades concretas (gesto, produto, ritual, origem).",
+        "Para cada elemento (logo, cor, tipo, forma, motion, som), registrar qual verdade ele expressa.",
+        "Recusar elementos cuja única justificativa é 'está em alta' ou 'a categoria usa'.",
+        "Conferir com a grade Fama × Unicidade se o resultado não colide com concorrentes."
+      ],
+      "tests": [
+        "Cada elemento central tem uma justificativa escrita ligada à estratégia?",
+        "A justificativa vem de algo próprio da marca e não de um significado genérico da categoria?"
+      ],
+      "polarity": "prefira",
+      "domain": ["identidade-visual", "posicionamento", "sonoro-motion"],
+      "stage": ["plataforma", "ativos"],
+      "school": "identidade-design",
+      "evidence": "caso",
+      "strength": 2,
+      "sources": [
+        { "id": "src-collins-dropbox-2017", "locator": "estratégia e logo", "paraphrase": "De uma característica amada do produto a um valor maior, visualizado em combinações inesperadas e num logo de losangos." },
+        { "id": "src-uber-2018-brand-redesign", "locator": "estratégia e tipografia", "paraphrase": "Movimento como oportunidade orientou preto, wordmark e uma fonte inspirada em sinalização de transporte." },
+        { "id": "src-amp-sound-of-uber", "locator": "solução", "paraphrase": "O som foi derivado do toque que inicia toda viagem, e não dos efeitos sonoros da categoria." },
+        { "id": "src-collins-twitch-2019", "locator": "insight", "paraphrase": "A Twitch como 'suporte' que fortalece o criador orientou o sistema." },
+        { "id": "src-creativeboom-vucko-motion-identity-2025", "locator": "Back Market", "paraphrase": "Movimentos circulares expressam o valor de circularidade da marca." }
+      ],
+      "conflictsWith": ["distinctive-assets-avoid-borrowed-meaning"],
+      "cases": ["case-dropbox-2017-collins", "case-uber-2018-rebrand", "case-twitch-2019-collins", "case-uber-sonic-2024-amp"],
+      "contexts": "Vale para criação e rebrand. Cuidado: significado simbólico é ótimo para alinhar times e justificar, mas o público aprende o ativo por exposição, não pela explicação (ver debate asset-meaning-vs-pure-distinctiveness)."
+    },
+    {
+      "id": "personality-to-formal-attributes",
+      "title": "Converta personalidade em atributos formais verificáveis",
+      "statement": "Transforme a personalidade da marca em escolhas formais explícitas (peso e caráter da tipografia, família de forma, saturação e papel da cor, velocidade e easing do movimento), usando referências concretas em vez de adjetivos abstratos.",
+      "why": "O Material 3 mostra correspondências práticas: forma arredondada lê como amigável, cortada como distinta ou tradicional, canto zero como moderno e duro; display com caráter e texto legível; easing e duração como expressão de marca. Mitch Paone (DIA) troca 'abertura e empoderamento' por perguntas concretas do tipo 'é mais Los Angeles ou Nova York?', que os designers conseguem converter em comportamento.",
+      "how": [
+        "Para cada traço de personalidade, escolher um par de referências concretas (pessoa, cidade, objeto) que o time reconheça.",
+        "Mapear o traço para eixos formais: forma (arredondada/cortada/reta), tipo (display expressivo/texto neutro), cor (saturação, contraste), motion (rápido/lento, elástico/preciso).",
+        "Registrar a correspondência no guia para que novas peças possam ser checadas."
+      ],
+      "tests": [
+        "O guia liga cada traço de personalidade a uma regra formal observável?",
+        "Dois designers diferentes chegariam a escolhas parecidas lendo o guia?"
+      ],
+      "polarity": "prefira",
+      "domain": ["identidade-visual", "sonoro-motion"],
+      "stage": ["plataforma", "ativos"],
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "strength": 2,
+      "sources": [
+        { "id": "src-android-m3-brand-theming-codelab", "locator": "seções de cor, tipografia, forma e motion", "paraphrase": "Cor, tipo, forma e easing expressam personalidade; dá correspondências como arredondado = amigável." },
+        { "id": "src-creativeboom-motion-first-dia-buck-2025", "locator": "trecho sobre documentar o porquê", "paraphrase": "Valores abstratos viram referências concretas que todos conseguem traduzir em comportamento." }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Útil em qualquer etapa de briefing para design. Correspondências como 'serifa = corporativo' são convenções culturais, não leis: confira com o público local (Brasil) e com a categoria."
+    },
+    {
+      "id": "distinctive-assets-avoid-borrowed-meaning",
+      "title": "Prefira ativos 'sobre a marca' a ativos de significado emprestado",
+      "statement": "Evite escolher cor, símbolo ou som só porque já significa algo desejável (verde = sustentável, coração = cuidado); prefira elementos cuja associação principal será a própria marca.",
+      "why": "Romaniuk mostra quatro custos: concorrentes que buscam o mesmo significado escolhem o mesmo elemento (perde unicidade), associações prévias competem com a marca na memória, o significado restringe onde o ativo pode ser usado e elementos descritivos são difíceis de proteger legalmente.",
+      "how": [
+        "Para cada candidato, listar o significado que ele já tem e quais concorrentes o usam.",
+        "Se o significado for da categoria, combinar com um elemento único ou descartar.",
+        "Checar se o ativo funciona em mensagens que não têm a ver com aquele significado.",
+        "Avaliar registrabilidade antes de investir."
+      ],
+      "tests": [
+        "O principal argumento para o ativo é um significado que qualquer concorrente pode reivindicar?",
+        "O ativo ainda faria sentido se o portfólio ou a estratégia mudasse?"
+      ],
+      "polarity": "evite",
+      "domain": ["ativos-distintivos", "identidade-visual"],
+      "stage": ["ativos"],
+      "school": "ehrenberg-bass",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        { "id": "src-mw-romaniuk-meaning-distinctive-assets-2025", "locator": "quatro fases (seleção, construção, uso, proteção)", "paraphrase": "Significado prévio reduz unicidade, atrapalha o aprendizado, limita o uso e dificulta a proteção." },
+        { "id": "src-amp-best-audio-brands-2024", "locator": "parágrafo sobre sons não proprietários", "paraphrase": "Evitar sons genéricos como batimento cardíaco ou campainha em ativos sonoros." }
+      ],
+      "conflictsWith": ["strategy-to-visual-translation", "asset-meaning-vs-pure-distinctiveness"],
+      "cases": ["case-uber-sonic-2024-amp"],
+      "contexts": "Pesa mais em categorias com códigos fortes (sustentabilidade, saúde, finanças). Significado vindo da própria marca (gesto do produto, nome) é menos problemático que significado da categoria."
+    },
+    {
+      "id": "codes-of-category-break-or-follow",
+      "title": "Use códigos da categoria de forma consciente; não herde a paleta e o estilo do setor por padrão",
+      "statement": "Siga um código de categoria só onde ele ajuda o comprador a entender o que você vende, e quebre-o nos elementos que devem identificar a marca.",
+      "why": "Murrell documenta a convergência de identidades (blanding em tech, logos de carro achatados ao mesmo tempo, slogans 'Find your X'). A JKR afirma que ser 'adequado à categoria' é sedutor mas é o oposto de distintivo, e só 4% das cores testadas chegaram a Ouro. Na grade de Romaniuk, código de categoria aparece como fama alta e unicidade baixa: ajuda os concorrentes.",
+      "how": [
+        "Fazer um mapa da paisagem visual e sonora da categoria (cores, tipos, formas, tropos de foto, sons).",
+        "Marcar quais convenções sinalizam a categoria (útil) e quais só homogeneízam.",
+        "Escolher pelo menos um eixo em que a marca vai na direção oposta (cor, forma, tipo ou som).",
+        "Testar se o resultado ainda é lido como pertencente à categoria."
+      ],
+      "tests": [
+        "Colocada ao lado de 5 concorrentes, a identidade se destaca na primeira olhada?",
+        "A cor principal é a mesma da maioria da categoria?"
+      ],
+      "polarity": "evite",
+      "domain": ["identidade-visual", "ativos-distintivos", "posicionamento"],
+      "stage": ["paisagem", "ativos"],
+      "school": "misto",
+      "evidence": "caso",
+      "strength": 2,
+      "sources": [
+        { "id": "src-murrell-age-of-average", "locator": "seção 'Brands all look the same'", "paraphrase": "Identidades, anúncios e slogans convergem para fórmulas; blanding em tech é o exemplo mais visível.", "quote": "Bonus points for purple and turquoise." },
+        { "id": "src-jkr-be-distinctive-microsite-2023", "locator": "/colour", "paraphrase": "Ser adequado à categoria é sedutor e pode ser o oposto de ser distintivo.", "quote": "Being 'category appropriate' is seductive." },
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "limitações", "paraphrase": "Excesso de códigos comuns (verde eco, azul fintech) ajuda concorrentes sem um elemento único." },
+        { "id": "src-amp-sound-of-uber", "locator": "desafio", "paraphrase": "A categoria estava saturada de efeitos sonoros literais; a Uber foi na direção oposta." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-uber-sonic-2024-amp"],
+      "contexts": "Marcas desafiantes e novas ganham mais quebrando; líderes que definiram o código da categoria podem segui-lo, porque o código já é deles. Em categorias de risco (saúde, finanças), mantenha os sinais de confiança e quebre em outro eixo."
+    },
+    {
+      "id": "branding-contrast-with-environment",
+      "title": "Execute os ativos para contrastar com o ambiente de mídia",
+      "statement": "Escolha e execute os ativos para que se destaquem do ambiente visual e sonoro onde aparecem, não só da peça em si.",
+      "why": "Romaniuk compara chamar atenção e marcar depois a jogar dardos num enxame de vespas: a maior parte erra. Quanto mais chamativa a criação, mais a marca precisa trabalhar. O roxo berinjela da Slack é útil justamente porque contrasta com o branco das outras janelas do desktop.",
+      "how": [
+        "Para cada canal (feed, TV, prateleira, app, rádio), levantar o 'ruído típico' de cor, ritmo e som.",
+        "Escolher qual ativo da carteira contrasta mais naquele ambiente e dar destaque a ele.",
+        "Integrar a marca cedo na peça, não só na assinatura final."
+      ],
+      "tests": [
+        "No ambiente real (feed rolando, gôndola, playlist), a marca é percebida nos primeiros segundos?"
+      ],
+      "polarity": "prefira",
+      "domain": ["ativos-distintivos", "ativacao-eficacia"],
+      "stage": ["ativacao"],
+      "school": "ehrenberg-bass",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        { "id": "src-ebi-brands-need-distinctive-assets-2018", "locator": "citações de Romaniuk", "paraphrase": "Para a marca se destacar, escolher e executar por contraste com o ambiente visual e sonoro.", "quote": "choose and execute for contrast against the visual and audio environment" },
+        { "id": "src-pentagram-slack-2019", "locator": "paleta", "paraphrase": "O roxo berinjela torna a Slack reconhecível contra o branco das outras janelas." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-slack-2019-pentagram"],
+      "contexts": "Universal; mais crítico em mídia de baixa atenção (feed, áudio de fundo, varejo)."
+    },
+    {
+      "id": "rebrand-keep-equity",
+      "title": "Em rebrand, preserve e refine o que já tem fama",
+      "statement": "Antes de redesenhar, identifique os elementos com reconhecimento e mantenha-os (refinados), mudando o resto ao redor.",
+      "why": "Slack manteve o octothorpe e o roxo berinjela, corrigindo problemas de reprodução; a Uber percebeu que as pessoas sentiam falta do 'U' e que o nome já era conhecido, e reinvestiu nele; a Twitch partiu do roxo amado. A NASA reinstituiu em 1992 a insígnia que havia aposentado em 1976. O framework de Romaniuk recomenda evoluir, não substituir, ativos centrais.",
+      "how": [
+        "Auditar ativos atuais com teste sem marca antes de qualquer briefing de redesenho.",
+        "Classificar: manter intacto, refinar, aposentar.",
+        "Corrigir problemas técnicos (escala, reprodução, acessibilidade) sem mudar a gestalt reconhecida.",
+        "Introduzir mudanças por etapas e com pilotos."
+      ],
+      "tests": [
+        "O rebrand foi precedido de medição de reconhecimento dos ativos antigos?",
+        "Os ativos com fama alta sobreviveram ao redesenho?"
+      ],
+      "polarity": "prefira",
+      "domain": ["identidade-visual", "ativos-distintivos", "gestao-governanca"],
+      "stage": ["diagnostico", "ativos"],
+      "school": "misto",
+      "evidence": "caso",
+      "strength": 2,
+      "sources": [
+        { "id": "src-pentagram-slack-2019", "locator": "decisão final", "paraphrase": "Reteve o equity do octothorpe, refeito em grade para eliminar problemas de reprodução." },
+        { "id": "src-uber-2018-brand-redesign", "locator": "prioridades", "paraphrase": "Restaurar o U e apostar no nome já conhecido." },
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "pitfall de rebrands", "paraphrase": "Auditar antes; preservar ou evoluir ativos alto/alto e escalonar mudanças com pilotos." },
+        { "id": "src-nasa-graphics-standards-manual-1976", "locator": "NASA Brand Center (contexto)", "paraphrase": "A insígnia de 1959 foi aposentada em 1976 e restabelecida em 1992 como identificador oficial." }
+      ],
+      "conflictsWith": ["rebrand-vs-evolve"],
+      "cases": ["case-slack-2019-pentagram", "case-uber-2018-rebrand", "case-twitch-2019-collins", "case-nasa-1975-danne-blackburn"],
+      "contexts": "Rebrands de marcas com fama. Quando a marca é nova, tem reputação tóxica ou mudou de negócio, há menos a preservar."
+    },
+    {
+      "id": "rebrand-test-before-launch",
+      "title": "Teste escolhas de identidade com público e em uso real antes de lançar",
+      "statement": "Valide decisões de identidade com pesquisa e com testes de aplicação em todos os pontos de contato antes do lançamento.",
+      "why": "A Uber passou mais de 1.000 horas ouvindo stakeholders e testou o preto (88% de aceitação) antes de adotá-lo. A COLLINS descreve testes de pressão do sistema do ícone de app ao outdoor. Testes sem marca evitam falsos positivos que testes com o logo visível produzem.",
+      "how": [
+        "Testar ativos isolados sem marca para unicidade.",
+        "Aplicar o sistema nos 10 pontos de contato mais críticos (ícone, tela pequena, vídeo de 6 s, áudio, embalagem, sinalização).",
+        "Checar acessibilidade (contraste, legibilidade mínima)."
+      ],
+      "tests": [
+        "Houve teste com público e mock-ups nos pontos de contato reais antes do lançamento?"
+      ],
+      "polarity": "sempre",
+      "domain": ["identidade-visual", "equity-medicao"],
+      "stage": ["ativos"],
+      "school": "pratica",
+      "evidence": "caso",
+      "strength": 2,
+      "sources": [
+        { "id": "src-uber-2018-brand-redesign", "locator": "processo e cor", "paraphrase": "Mais de 1.000 horas de escuta e teste do preto com 88% de aceitação." },
+        { "id": "src-collins-dropbox-2017", "locator": "bloco de 'performance testing'", "paraphrase": "Testa o sistema em todos os pontos de contato, do ícone de app ao outdoor." },
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "pitfalls de medição", "paraphrase": "Estímulos com marca e perguntas indutoras geram falsos positivos." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-uber-2018-rebrand"],
+      "contexts": "Murrell lembra o outro lado: testes de preferência tendem a eliminar o diferente. Teste reconhecimento e funcionamento, não 'gosto'."
+    },
+    {
+      "id": "motion-principles-from-brand",
+      "title": "Derive o motion da estratégia e documente-o como comportamento",
+      "statement": "Defina como a marca se move a partir da ideia de marca e registre isso como regras de comportamento (direção, ritmo, easing, duração, física, nível de expressividade) com o porquê de cada uma.",
+      "why": "Os guias e cases convergem: a Uber anima sempre da esquerda para a direita para sugerir progresso e usa a velocidade do app; a IBM separa movimento produtivo e expressivo e só anima o que é vital; o Dropbox prefere 'uma piscadela a confete'; o Instagram definiu uma física inspirada no gesto de rolar e no movimento humano imperfeito. Para Mitch Paone, motion é estratégico quando expressa comportamento e não forma, e uma regra simples aplicada sempre já cria personalidade.",
+      "how": [
+        "Escolher 3 a 5 princípios de motion derivados da ideia de marca (ex.: progresso → esquerda para direita).",
+        "Especificar números: duração, curva de easing, direção, amplitude; ex.: expandir 400 ms ease-out, recolher 300 ms ease-in.",
+        "Definir uma escala de expressividade (produtivo/funcional a expressivo/campanha) e quando usar cada ponta.",
+        "Explicar o porquê de cada regra, não só o como.",
+        "Alinhar motion de produto (UI) e de marketing na mesma linguagem."
+      ],
+      "tests": [
+        "O guia tem princípios de motion com valores numéricos?",
+        "Cada princípio de motion é justificado pela estratégia?",
+        "Animações de UI e de campanha parecem da mesma marca?"
+      ],
+      "polarity": "sempre",
+      "domain": ["sonoro-motion", "identidade-visual"],
+      "stage": ["ativos"],
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "strength": 2,
+      "sources": [
+        { "id": "src-uber-motion-guidelines-behance", "locator": "princípios", "paraphrase": "Movimento simples, da esquerda para a direita para sugerir progresso, com velocidade baseada no app." },
+        { "id": "src-ibm-design-language", "locator": "/animation/overview", "paraphrase": "Animar só o essencial, com propósito; vocabulário de movimento produtivo e expressivo." },
+        { "id": "src-dropbox-brand-guidelines", "locator": "/motion", "paraphrase": "Poucos elementos com propósito, peso físico, e humor sutil em vez de exagero.", "quote": "make the user smile with a wink, rather than throwing confetti" },
+        { "id": "src-creativeboom-motion-first-dia-buck-2025", "locator": "falas de Mitch Paone", "paraphrase": "Motion vira estratégico quando define como a marca se comporta; documentar tempos e o porquê.", "quote": "motion expresses behaviour over form" },
+        { "id": "src-studio-dumbar-instagram-motion", "locator": "descrição do sistema", "paraphrase": "Física definida a partir de atributos nativos do app orienta todo o movimento." },
+        { "id": "src-creativeboom-vucko-motion-identity-2025", "locator": "considerações-chave", "paraphrase": "Começar pela estratégia; todo movimento precisa de propósito e sentido." },
+        { "id": "src-android-m3-brand-theming-codelab", "locator": "seção Motion", "paraphrase": "Easing e duração são slots personalizáveis que expressam a marca." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-instagram-motion-studio-dumbar", "case-squarespace-dia-2018"],
+      "contexts": "Indispensável para marcas digitais e de vídeo. Para marcas majoritariamente impressas, basta um conjunto mínimo (logo animado, transições, legenda)."
+    },
+    {
+      "id": "motion-in-identity-from-start",
+      "title": "Projete motion junto com a identidade, não depois",
+      "statement": "Inclua motion (e som) nas fases exploratórias da identidade, desenvolvendo movimento, proporção e tipografia ao mesmo tempo.",
+      "why": "Segundo a DIA, quando motion só foi pensado depois do rebrand visual (Mailchimp, Pinterest), o resultado foi inconsistente; na Squarespace, desenvolvido junto com a tipografia, o sistema dura há sete anos. A BUCK e a Vucko defendem motion como ingrediente tão essencial quanto cor e tipo; a Sixième Son nota que o som funciona melhor quando entra cedo no branding.",
+      "how": [
+        "No briefing de identidade, prever entregáveis de motion e som desde a primeira rodada de rotas.",
+        "Apresentar rotas criativas já em movimento, não só em pranchas estáticas.",
+        "Colocar designers de motion e de marca no mesmo time desde o diagnóstico."
+      ],
+      "tests": [
+        "As rotas de identidade foram apresentadas em movimento?",
+        "Motion e som estavam no escopo original do projeto?"
+      ],
+      "polarity": "sempre",
+      "domain": ["sonoro-motion", "gestao-governanca"],
+      "stage": ["ativos"],
+      "school": "identidade-design",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        { "id": "src-creativeboom-motion-first-dia-buck-2025", "locator": "trechos sobre retrofit", "paraphrase": "Retrofit de motion após o rebrand gera inconsistência; a lógica de comportamento precisa ser fundacional." },
+        { "id": "src-creativeboom-vucko-motion-identity-2025", "locator": "introdução", "paraphrase": "Motion deve ser integrado ao processo de identidade desde o início." },
+        { "id": "src-sixieme-son-faq", "locator": "entrevista 2024", "paraphrase": "Trabalhar com agências de branding mais cedo integra o som à estratégia e garante seu sucesso." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-squarespace-dia-2018", "case-mailchimp-pinterest-motion-retrofit"],
+      "contexts": "Projetos com orçamento limitado podem começar com um logo animado e duas regras de transição, mas definidos junto com o logo."
+    },
+    {
+      "id": "sonic-identity-consistency",
+      "title": "Construa som próprio e consistente, não só trilhas por campanha",
+      "statement": "Trate o som como ativo de longo prazo: um logo sonoro e uma linguagem musical própria, usados com consistência e adaptados por contexto, em vez de trocar de música a cada campanha.",
+      "why": "No Best Audio Brands 2026 (150+ marcas), a nota A exige som como ativo central, sem música de banco e com cerca de 30% do áudio próprio; enquanto isso, a música customizada por campanha cresceu 140% e a música de marca caiu 67%, sinal de troca de equity por impacto de curto prazo. Estudos da amp em 2024 indicaram preferência por logos visuais acompanhados de som.",
+      "how": [
+        "Criar um logo sonoro curto e uma paleta sonora (instrumentos, timbres, andamento) derivada da ideia de marca.",
+        "Definir versões por ponto de contato: abertura e fechamento de vídeo, app/UX, eventos, espera telefônica, podcast.",
+        "Usar o mesmo motivo em campanhas diferentes, rearranjado, em vez de trilhas sem relação.",
+        "Evitar sons genéricos da categoria (campainha, batimento, porta de carro)."
+      ],
+      "tests": [
+        "A marca tem um logo sonoro usado em pelo menos 3 pontos de contato?",
+        "As últimas campanhas compartilham algum motivo sonoro?",
+        "O som seria reconhecido sem imagem?"
+      ],
+      "polarity": "prefira",
+      "domain": ["sonoro-motion", "ativos-distintivos"],
+      "stage": ["ativos", "ativacao"],
+      "school": "pratica",
+      "evidence": "empirica",
+      "strength": 2,
+      "sources": [
+        { "id": "src-amp-best-audio-brands-2026", "locator": "comunicado", "paraphrase": "Marcas nota A soam como elas mesmas e flexionam sua identidade; uso de música de marca caiu 67%.", "quote": "A-grade brands don't just sound good, they sound like themselves." },
+        { "id": "src-amp-best-audio-brands-2024", "locator": "estudos especiais", "paraphrase": "Participantes preferiram logos visuais com logo sonoro; evitar sons não proprietários." },
+        { "id": "src-sixieme-son-faq", "locator": "resposta sobre 'só preciso de um logo'", "paraphrase": "O logo sonoro é a âncora de um sistema de texturas e instrumentos adaptável a todos os pontos de contato." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-uber-sonic-2024-amp", "case-govbr-2025-secom"],
+      "contexts": "Pesa mais em marcas com muito vídeo, áudio, app ou atendimento por voz. A Sixième Son afirma que 40% dos clientes são B2B. Evidência vem de agências que vendem o serviço: trate números como indicativos."
+    },
+    {
+      "id": "multisensory-sync",
+      "title": "Sincronize som, movimento e imagem num mesmo gesto de marca",
+      "statement": "Desenhe logo sonoro, animação do logo e elementos visuais para acontecerem juntos e expressarem o mesmo gesto.",
+      "why": "A amp relatou em 2024 que a combinação de logo visual com logo sonoro e movimento sincronizado teve melhor recepção do que versões isoladas. O som da Uber nasceu de um gesto físico (o toque) que também é visual e de interface.",
+      "how": [
+        "Escolher um gesto-assinatura (tocar, abrir, girar, encaixar) e expressá-lo no som, na animação e na forma.",
+        "Alinhar picos do som a eventos do movimento do logo.",
+        "Usar a mesma combinação na abertura/fechamento de vídeos e em microinterações."
+      ],
+      "tests": [
+        "A animação do logo e o logo sonoro foram criados um para o outro?"
+      ],
+      "polarity": "prefira",
+      "domain": ["sonoro-motion"],
+      "stage": ["ativos"],
+      "school": "pratica",
+      "evidence": "empirica",
+      "strength": 1,
+      "sources": [
+        { "id": "src-amp-best-audio-brands-2024", "locator": "estudo de sincronia som-movimento", "paraphrase": "Resultados confirmaram o efeito de visuais combinados com áudio e movimento sincronizado." },
+        { "id": "src-amp-sound-of-uber", "locator": "solução", "paraphrase": "Motivo de três notas espelha o toque, a expectativa e a partida." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-uber-sonic-2024-amp"],
+      "contexts": "Estudo de agência com detalhes metodológicos não públicos; força baixa até haver dado independente."
+    },
+    {
+      "id": "identity-governance-living-system",
+      "title": "Governe a marca como sistema vivo, com donos, níveis e ferramentas",
+      "statement": "Estabeleça quem decide, o que é norma e o que é exemplo, e entregue a identidade como sistema em camadas (estratégia → princípios → diretrizes com exemplos → templates e toolkits), não como um PDF de logo.",
+      "why": "A NASA de 1976 já tratava o manual como política com apoio da alta gestão; o gov.br regula a marca por instrução normativa e reserva casos especiais à Secom; a GitLab tem times de estratégia e de criação de marca e diz que todos constroem a marca; o Instagram e o Dropbox entregam templates e toolkits. A BUCK propõe a cascata em camadas para servir de designers sêniores (princípios) a iniciantes (templates).",
+      "how": [
+        "Nomear um dono da marca e um fluxo de aprovação para exceções.",
+        "Separar no guia: normas obrigatórias (logo, cor, assinaturas), princípios (por quê) e exemplos.",
+        "Produzir templates e assets prontos para os usos mais frequentes, inclusive para terceiros e parceiros.",
+        "Manter o guia em formato vivo (portal, design system) com versão e data.",
+        "Oferecer canal de dúvidas e treinamentos periódicos."
+      ],
+      "tests": [
+        "Há um dono formal e um fluxo para pedidos de exceção?",
+        "O guia tem camadas (princípios, normas, exemplos, templates)?",
+        "Parceiros externos têm regras e arquivos prontos para usar a marca?"
+      ],
+      "polarity": "sempre",
+      "domain": ["gestao-governanca", "identidade-visual"],
+      "stage": ["ativos", "ativacao"],
+      "school": "misto",
+      "evidence": "guia-oficial",
+      "strength": 2,
+      "sources": [
+        { "id": "src-nasa-graphics-standards-manual-1976", "locator": "carta introdutória", "paraphrase": "Alta gestão deve liderar e todos devem garantir que os padrões sejam monitorados." },
+        { "id": "src-secom-manual-marca-gov-br-2025", "locator": "pp. 41-44 e regras de atenção", "paraphrase": "Casos especiais são consultados à Secom; assinaturas prontas devem ser usadas sempre que possível." },
+        { "id": "src-gitlab-brand-guidelines", "locator": "introdução e Brand Experience", "paraphrase": "Todos contribuem para a marca; times de estratégia e criação de marca trabalham juntos." },
+        { "id": "src-creativeboom-motion-first-dia-buck-2025", "locator": "falas de Simon Chong e Mitch Paone", "paraphrase": "Sistemas vivos em cascata substituem o brand book em PDF." },
+        { "id": "src-studio-dumbar-instagram-motion", "locator": "entrega", "paraphrase": "Diretrizes, templates e toolkits permitem a designers do mundo todo aplicar a marca com consistência." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-govbr-2025-secom", "case-nasa-1975-danne-blackburn"],
+      "contexts": "Grandes organizações precisam de tudo; uma pequena empresa precisa ao menos de um dono, uma página de regras essenciais e arquivos prontos."
+    },
+    {
+      "id": "brand-architecture-visual-lockups",
+      "title": "Codifique a arquitetura de marca em regras de assinatura conjunta",
+      "statement": "Defina por escrito como a marca-mãe aparece com submarcas, unidades, programas e parceiros: ordem, posição, tamanho relativo, alinhamento e quem pode assinar.",
+      "why": "O manual do gov.br resolve uma arquitetura complexa (ministérios, estatais, programas) com regras fixas: marca do governo sempre à direita ou abaixo, nunca menor que as outras, selos de programa subordinados ao ministério e secretarias sem assinatura própria. A NASA padronizou a identificação de agência e centros. Romaniuk recomenda decidir quais ativos são compartilhados e quais são exclusivos de submarcas.",
+      "how": [
+        "Listar todas as entidades que assinam junto e o papel de cada uma (mãe, endossada, descritiva, parceira).",
+        "Fixar ordem, posição, tamanho máximo e alinhamento por papel.",
+        "Decidir quais ativos são da mãe e quais as submarcas podem ter.",
+        "Publicar assinaturas prontas para os casos mais comuns."
+      ],
+      "tests": [
+        "Existe regra escrita para co-branding e endossos?",
+        "As submarcas competem visualmente com a marca-mãe?"
+      ],
+      "polarity": "sempre",
+      "domain": ["arquitetura", "gestao-governanca", "identidade-visual"],
+      "stage": ["arquitetura", "ativos"],
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "strength": 2,
+      "sources": [
+        { "id": "src-secom-manual-marca-gov-br-2025", "locator": "pp. 13 e 18-37", "paraphrase": "Regras de ordem, posição e tamanho para assinaturas com ministérios, órgãos e programas." },
+        { "id": "src-nasa-graphics-standards-manual-1976", "locator": "seção 1.2 Agency and Center Identification", "paraphrase": "Configurações padrão para identificar a agência e cada centro." },
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "passo sobre arquitetura", "paraphrase": "Definir ativos compartilhados pela mãe e exclusivos de submarcas, evitando canibalização." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-govbr-2025-secom"],
+      "contexts": "Governo, grupos com várias marcas, franquias, marcas com programas e patrocínios."
+    },
+    {
+      "id": "identity-accessibility-built-in",
+      "title": "Embuta acessibilidade nas regras da identidade",
+      "statement": "Defina contraste, tamanho mínimo, legibilidade e versões para fundos claros e escuros como parte da identidade, não como ajuste posterior.",
+      "why": "A Uber usa preto e branco com contraste de 21:1; a IBM exige no mínimo cinco 'passos' de valor entre logo e fundo e ajusta opticamente o logo para fundo escuro; o Material 3 deriva esquemas acessíveis da cor de marca e fixa tamanho mínimo de texto; o gov.br define redução mínima (3,5 cm, 200 px).",
+      "how": [
+        "Derivar tons da cor de marca para garantir contraste em textos e ações.",
+        "Fixar tamanho mínimo do logo e do texto por meio.",
+        "Criar versões ópticas para fundo claro e escuro.",
+        "Incluir checagem de contraste no fluxo de aprovação."
+      ],
+      "tests": [
+        "O guia especifica contraste mínimo e tamanhos mínimos?",
+        "O logo tem versões ajustadas para fundos escuros?"
+      ],
+      "polarity": "sempre",
+      "domain": ["identidade-visual", "experiencia"],
+      "stage": ["ativos"],
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "strength": 2,
+      "sources": [
+        { "id": "src-uber-2018-brand-redesign", "locator": "cor", "paraphrase": "Paleta preta e branca com contraste de 21:1 para acessibilidade." },
+        { "id": "src-ibm-design-language", "locator": "/ibm-logos/8-bar", "paraphrase": "Regra de cinco passos de contraste e ajustes ópticos entre versão positiva e negativa." },
+        { "id": "src-android-m3-brand-theming-codelab", "locator": "acessibilidade de cor e tipo", "paraphrase": "Derivar esquema acessível; nunca texto abaixo de 10 sp; pesos maiores em fundo escuro." },
+        { "id": "src-secom-manual-marca-gov-br-2025", "locator": "p. 15", "paraphrase": "Limite de redução de 3,5 cm em impressos e 200 px em meio eletrônico." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-uber-2018-rebrand"],
+      "contexts": "Universal; obrigatório em serviço público e produtos digitais."
+    },
+    {
+      "id": "color-ownership-in-context",
+      "title": "Possua uma cor dentro de um contexto, não no mundo",
+      "statement": "Busque possuir uma cor (ou combinação) dentro da sua categoria e dos seus pontos de contato, usando-a com dominância e consistência, em vez de tentar uma cor 'universalmente sua'.",
+      "why": "Só 4% das cores testadas pela Ipsos chegaram a Ouro; a JKR observa que é quase impossível possuir uma cor entre categorias e raramente necessário. Combinações e proporções (cor dominante + apoio) aumentam a unicidade. A Slack possui o berinjela no contexto da área de trabalho; a Twitch, o roxo no streaming.",
+      "how": [
+        "Mapear as cores dos principais concorrentes na categoria.",
+        "Escolher uma cor ou combinação pouco usada na categoria e definir proporção de uso.",
+        "Aplicar com dominância nos pontos de alto alcance; nunca diluir com muitas cores secundárias."
+      ],
+      "tests": [
+        "A cor principal é única entre os 5 maiores concorrentes?",
+        "A proporção de uso da cor está definida no guia?"
+      ],
+      "polarity": "prefira",
+      "domain": ["identidade-visual", "ativos-distintivos"],
+      "stage": ["paisagem", "ativos"],
+      "school": "misto",
+      "evidence": "empirica",
+      "strength": 2,
+      "sources": [
+        { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "locator": "resumo", "paraphrase": "Cor foi o tipo de ativo com menor taxa de Ouro (4%)." },
+        { "id": "src-jkr-be-distinctive-microsite-2023", "locator": "/colour", "paraphrase": "Possuir uma cor depende do contexto da categoria." },
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "tipos de ativo: cor", "paraphrase": "Dominância de uma cor ou combinações distintas, com proporções de uso." },
+        { "id": "src-pentagram-slack-2019", "locator": "paleta", "paraphrase": "Paleta reduzida de 11 para 4 cores, mantendo o berinjela como acento reconhecível." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-slack-2019-pentagram", "case-twitch-2019-collins"],
+      "contexts": "Marcas novas em categorias onde 'as boas cores já foram tomadas' devem apostar em combinação e proporção, não em matiz isolado."
+    },
+    {
+      "id": "characters-as-assets",
+      "title": "Considere personagens e mascotes como ativos sérios",
+      "statement": "Avalie um personagem ou mascote como ativo, com papel e limites definidos, em vez de descartá-lo por parecer pouco sofisticado.",
+      "why": "Na pesquisa Ipsos, 16% dos mascotes chegaram a Ouro, perto dos logos (19%). A JKR argumenta que personagens atravessam idiomas, criam vínculo e ficam distintivos rapidamente quando combinados a outros ativos; o Discord mantém o Clyde como ativo protegido.",
+      "how": [
+        "Se a marca já tem personagem, medir fama e unicidade antes de aposentá-lo.",
+        "Definir papel (porta-voz, guia, assinatura) e limites de comportamento e aparência.",
+        "Combinar o personagem com cor e logo nas primeiras aplicações."
+      ],
+      "tests": [
+        "Um personagem existente foi medido antes de ser retirado?",
+        "O guia define limites de uso do personagem?"
+      ],
+      "polarity": "prefira",
+      "domain": ["ativos-distintivos", "identidade-visual"],
+      "stage": ["ativos"],
+      "school": "misto",
+      "evidence": "empirica",
+      "strength": 2,
+      "sources": [
+        { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "locator": "resumo", "paraphrase": "16% dos mascotes testados atingiram Ouro." },
+        { "id": "src-jkr-be-distinctive-microsite-2023", "locator": "/mascots", "paraphrase": "Mascotes atravessam idiomas, criam conexão e ficam distintivos rápido em combinação com outros ativos." },
+        { "id": "src-discord-branding", "locator": "termos", "paraphrase": "O personagem Clyde aparece entre as marcas protegidas do Discord." }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Forte em consumo, apps, infantil, alimentação e marcas com muito conteúdo social. Em luxo e B2B formal, exige mais cuidado de tom."
+    },
+    {
+      "id": "tagline-as-asset-requires-consistency",
+      "title": "Slogan só vira ativo com uso longo e consistente",
+      "statement": "Trate a tagline como ativo apenas se ela for testada e usada por anos; trocar de slogan a cada campanha não constrói memória.",
+      "why": "Slogans tiveram a menor taxa de Ouro entre os tipos 'clássicos' na Ipsos (6%); a JKR diz que boas linhas criam conexão com o tempo e linhas ruins nunca criam. Murrell mostra a convergência para fórmulas como 'Find your X', que nenhuma marca consegue possuir.",
+      "how": [
+        "Separar no guia 'linha de marca' (permanente) de 'linhas de campanha' (temporárias).",
+        "Testar unicidade da linha contra frases de concorrentes.",
+        "Comprometer-se com a linha de marca por vários anos."
+      ],
+      "tests": [
+        "A tagline atual tem mais de 3 anos?",
+        "A tagline segue uma fórmula usada por outras marcas?"
+      ],
+      "polarity": "evite",
+      "domain": ["ativos-distintivos", "identidade-verbal"],
+      "stage": ["voz", "ativos"],
+      "school": "misto",
+      "evidence": "empirica",
+      "strength": 2,
+      "sources": [
+        { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "locator": "resumo", "paraphrase": "Apenas 6% dos slogans testados atingiram Ouro." },
+        { "id": "src-jkr-be-distinctive-microsite-2023", "locator": "/slogans", "paraphrase": "Linhas usadas com consistência entram na cultura; linhas fracas nunca conectam." },
+        { "id": "src-murrell-age-of-average", "locator": "taglines 'Find your X'", "paraphrase": "27 marcas usando a mesma estrutura de slogan." },
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "tipos de ativo", "paraphrase": "Taglines só contam como ativo se testadas." }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Universal."
+    },
+    {
+      "id": "movement-brand-adaptable-opt-in",
+      "title": "Em marcas de comunidade, desenhe para adoção gradual e opcional",
+      "statement": "Quando a marca pertence a uma comunidade ou rede (movimento, open source, franquias de voluntários, criadores), crie critérios com a comunidade e um sistema que possa ser adotado aos poucos e localizado.",
+      "why": "A Wikimedia definiu com a comunidade critérios como reduzir confusão, proteger reputação, mitigar riscos legais e permitir adoção gradual e personalizada; a proposta de a fundação se chamar 'Wikipedia' foi rejeitada pela comunidade e o renaming foi pausado em 2021. A COLLINS criou para a Twitch uma camada para integrar conteúdo de criadores sem perder coerência.",
+      "how": [
+        "Definir critérios de sucesso da marca junto com representantes da comunidade.",
+        "Separar o que é obrigatório do que é opcional e localizável.",
+        "Oferecer kits e apoio para quem adere, em vez de impor de uma vez."
+      ],
+      "tests": [
+        "A comunidade participou da definição dos critérios?",
+        "O sistema permite adoção parcial e local?"
+      ],
+      "polarity": "prefira",
+      "domain": ["gestao-governanca", "arquitetura", "cultura-interna"],
+      "stage": ["arquitetura", "ativacao"],
+      "school": "pratica",
+      "evidence": "caso",
+      "strength": 2,
+      "sources": [
+        { "id": "src-wikimedia-movement-brand-project", "locator": "Movement Branding Criteria e resolução de 2021", "paraphrase": "Seis critérios mais um sétimo da comunidade; renaming pausado após rejeição." },
+        { "id": "src-collins-twitch-2019", "locator": "augment de comunidade", "paraphrase": "Integra criadores e conteúdo de usuários equilibrando coerência e diversidade." }
+      ],
+      "conflictsWith": [],
+      "cases": ["case-wikimedia-rename-paused-2021", "case-twitch-2019-collins"],
+      "contexts": "ONGs, open source, cooperativas, plataformas de criadores, franquias. Pouco aplicável a marcas com controle central."
+    },
+    {
+      "id": "ecosystem-brand-rules-for-partners",
+      "title": "Defina como a marca aparece dentro de produtos de terceiros",
+      "statement": "Publique regras simples e verificáveis de atribuição, posição e não-associação para parceiros que exibem sua marca ou conteúdo.",
+      "why": "O guia do Spotify para desenvolvedores mostra uma governança de ecossistema: logo completo obrigatório, arte nunca alterada, prateleira inteira dedicada, nada ao lado de concorrentes e textos de chamada padronizados. Discord e NASA limitam uso que sugira endosso. Sem isso, a marca aparece degradada em milhares de interfaces fora do seu controle.",
+      "how": [
+        "Listar onde terceiros exibem a marca (integrações, revendas, patrocínios, imprensa).",
+        "Definir versões permitidas do logo, espaço, textos de chamada e o que é proibido (endosso, edição, associação a concorrentes).",
+        "Disponibilizar kit de download e contato para exceções."
+      ],
+      "tests": [
+        "Existe uma página pública com regras e arquivos para parceiros?"
+      ],
+      "polarity": "prefira",
+      "domain": ["gestao-governanca", "identidade-visual"],
+      "stage": ["ativacao"],
+      "school": "identidade-design",
+      "evidence": "guia-oficial",
+      "strength": 2,
+      "sources": [
+        { "id": "src-spotify-developer-design-guidelines", "locator": "seções de logo, arte e conteúdo", "paraphrase": "Atribuição com logo, arte intocada, prateleira dedicada e nada ao lado de serviços similares." },
+        { "id": "src-discord-branding", "locator": "termos", "paraphrase": "Uso permitido não pode sugerir que você é o Discord ou é patrocinado por ele." },
+        { "id": "src-nasa-graphics-standards-manual-1976", "locator": "NASA Brand Center (contexto)", "paraphrase": "Insígnia e logotipo não podem ser usados para sugerir endosso nem como recurso de marca de terceiros." }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Plataformas, marcas licenciadas, empresas com rede de revendedores ou franqueados."
+    }
+  ],
+  "frameworks": [
+    {
+      "id": "romaniuk-distinctive-asset-grid",
+      "name": "Grade de ativos distintivos Fama × Unicidade",
+      "author": "Jenni Romaniuk (Ehrenberg-Bass Institute)",
+      "purpose": "Decidir quais elementos sensoriais da marca proteger, construir, afiar ou aposentar, com base em medição de reconhecimento sem marca.",
+      "components": [
+        { "name": "Fama", "description": "Percentual de compradores da categoria que ligam o ativo à marca quando o nome não aparece." },
+        { "name": "Unicidade", "description": "Quanto das atribuições do ativo vão para a marca, e não para concorrentes." },
+        { "name": "Alto/alto (núcleo)", "description": "Proteger e escalar; obrigatório em mídia de alcance e pontos de escolha." },
+        { "name": "Fama alta/unicidade baixa (código de categoria)", "description": "Afiar ou parear com elemento único para não ajudar concorrentes." },
+        { "name": "Fama baixa/unicidade alta (emergente)", "description": "Investir em exposição ao lado dos ativos fortes." },
+        { "name": "Baixo/baixo (não-ativo)", "description": "Aposentar ou redesenhar." }
+      ],
+      "steps": [
+        "Inventariar ativos atuais e candidatos (cor, forma, embalagem, tipo, personagem, som, slogan, motion) e os dos concorrentes.",
+        "Criar estímulos isolados e sem marca; aplicar a amostra representativa de compradores da categoria.",
+        "Calcular Fama e Unicidade de cada ativo e plotar na grade.",
+        "Definir 3 a 5 ativos centrais e seus papéis; codificar regras de uso.",
+        "Ligar ativos a pontos de entrada da categoria (6 a 10 ocasiões/necessidades).",
+        "Definir ativos compartilhados pela marca-mãe e exclusivos das submarcas.",
+        "Implementar em alto alcance e pontos de escolha; acompanhar reconhecimento.",
+        "Retestar anualmente; promover emergentes e aposentar não-ativos."
+      ],
+      "inputs": ["lista de concorrentes", "ativos atuais e candidatos", "acesso a compradores da categoria", "pontos de entrada da categoria"],
+      "outputs": ["mapa de ativos por quadrante", "lista priorizada de ativos centrais", "regras de codificação", "plano de construção de emergentes"],
+      "pitfalls": [
+        "Usar estímulos com marca ou perguntas indutoras (falsos positivos).",
+        "Confundir estilo de campanha com ativo.",
+        "Tratar ativos como substitutos de posicionamento ou de produto.",
+        "Ter ativos demais ('asset sprawl').",
+        "Medir gosto pelo anúncio em vez de reconhecimento do ativo."
+      ],
+      "criticisms": [
+        "Escola de posicionamento/diferenciação: reconhecimento sem significado não dá razão de escolha; a marca precisa também de uma ideia relevante (ver debate differentiation-vs-distinctiveness).",
+        "Escola de identidade-design: ativos medidos podem levar à timidez criativa; o significado simbólico ajuda a alinhar a organização (ver debate asset-meaning-vs-pure-distinctiveness)."
+      ],
+      "domain": ["ativos-distintivos", "equity-medicao"],
+      "stage": ["diagnostico", "ativos"],
+      "school": "ehrenberg-bass",
+      "sources": [
+        { "id": "src-umbrex-distinctive-brand-assets-framework", "locator": "'How to Apply... Step-by-Step'", "paraphrase": "Passo a passo de inventário, teste sem marca, grade, priorização, CEPs, arquitetura e reteste." },
+        { "id": "src-ebi-brands-need-distinctive-assets-2018", "locator": "texto completo", "paraphrase": "Ativos como cardápio de opções, avaliados por unicidade e fama." }
+      ]
+    },
+    {
+      "id": "romaniuk-asset-meaning-lifecycle",
+      "name": "Ciclo de vida do ativo e o custo do significado prévio",
+      "author": "Jenni Romaniuk",
+      "purpose": "Avaliar um candidato a ativo em quatro fases para antecipar como significados que ele já carrega vão atrapalhar.",
+      "components": [
+        { "name": "Seleção", "description": "Significado desejável atrai concorrentes ao mesmo elemento e cega para desvantagens." },
+        { "name": "Construção", "description": "O ativo precisa ser pareado repetidamente com o nome; associações prévias competem pela atenção." },
+        { "name": "Uso", "description": "O valor cresce com o número de contextos possíveis; significado forte limita onde cabe." },
+        { "name": "Proteção", "description": "Elementos descritivos são difíceis de registrar e vulneráveis a imitação; o significado pode envelhecer." }
+      ],
+      "steps": [
+        "Para cada candidato, descrever o significado que ele já tem.",
+        "Verificar sobreposição com concorrentes.",
+        "Simular o uso em mensagens diferentes do significado original.",
+        "Checar viabilidade jurídica.",
+        "Preferir o candidato cuja associação principal será a própria marca."
+      ],
+      "inputs": ["candidatos a ativo", "ativos dos concorrentes", "assessoria de propriedade intelectual"],
+      "outputs": ["candidatos ranqueados por risco de significado"],
+      "pitfalls": ["Tratar a escolha como 'a resposta certa' em vez de um candidato a ser construído."],
+      "criticisms": ["Escola de identidade-design defende que significado ligado à ideia de marca acelera adesão interna e coerência."],
+      "domain": ["ativos-distintivos"],
+      "stage": ["ativos"],
+      "school": "ehrenberg-bass",
+      "sources": [
+        { "id": "src-mw-romaniuk-meaning-distinctive-assets-2025", "locator": "Figura 1 e texto", "paraphrase": "As quatro fases em que o significado prévio enfraquece o ativo." }
+      ]
+    },
+    {
+      "id": "ipsos-jkr-distinctiveness-tiers",
+      "name": "Níveis de distintividade Ouro, Prata e Bronze",
+      "author": "Ipsos × JKR",
+      "purpose": "Classificar ativos pela capacidade de evocar a marca sozinhos, para priorizar investimento.",
+      "components": [
+        { "name": "Ouro", "description": "Traz a marca à mente imediata e exclusivamente; pode ser usado isolado." },
+        { "name": "Prata", "description": "Acima da média; precisa de amplificação e uso consistente." },
+        { "name": "Bronze", "description": "Associação fraca; dificilmente sinaliza a marca sozinho." }
+      ],
+      "steps": [
+        "Testar cada ativo (logo, slogan, mascote, cor, produto) isolado com consumidores.",
+        "Classificar em Ouro, Prata ou Bronze.",
+        "Usar Ouro sozinho; amplificar Prata; repensar Bronze."
+      ],
+      "inputs": ["ativos isolados", "amostra de consumidores"],
+      "outputs": ["classificação por ativo"],
+      "pitfalls": ["Critérios exatos de corte não são públicos; replicar exige definir limiares próprios."],
+      "criticisms": ["Pesquisa feita para promover a tese de agência que vende distintividade."],
+      "domain": ["ativos-distintivos", "equity-medicao"],
+      "stage": ["diagnostico", "ativos"],
+      "school": "ehrenberg-bass",
+      "sources": [
+        { "id": "src-jkr-be-distinctive-microsite-2023", "locator": "home", "paraphrase": "Descrição dos três níveis de distintividade." },
+        { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "locator": "resumo", "paraphrase": "26 mil entrevistados; 15% Ouro." }
+      ]
+    },
+    {
+      "id": "ibm-productive-expressive-motion",
+      "name": "Movimento produtivo × expressivo",
+      "author": "IBM Design Language",
+      "purpose": "Dar um vocabulário comum para decidir quanto e como algo se move, conforme a função.",
+      "components": [
+        { "name": "Produtivo", "description": "Eficiente, discreto, a serviço da tarefa (UI, transições funcionais)." },
+        { "name": "Expressivo", "description": "Mais enérgico e marcante, para momentos importantes e narrativas." },
+        { "name": "Peso geral da peça", "description": "Cada peça pode ser inclinada para um dos tipos como um todo." }
+      ],
+      "steps": [
+        "Definir a mensagem e o escopo da animação.",
+        "Animar só o essencial.",
+        "Escolher o tipo de movimento de cada elemento e o peso da peça.",
+        "Buscar o contraste entre os dois tipos para dar personalidade."
+      ],
+      "inputs": ["objetivo da peça", "contexto (produto ou marketing)"],
+      "outputs": ["especificação de movimento por elemento"],
+      "pitfalls": ["Floreios sem razão; exagero decorativo."],
+      "criticisms": [],
+      "domain": ["sonoro-motion"],
+      "stage": ["ativos"],
+      "school": "identidade-design",
+      "sources": [
+        { "id": "src-ibm-design-language", "locator": "/animation/overview", "paraphrase": "Dois tipos essenciais de movimento, produtivo e expressivo, como base do vocabulário de animação." }
+      ]
+    },
+    {
+      "id": "m3-brand-theming-roles",
+      "name": "Mapeamento de marca em papéis de design system (Material 3)",
+      "author": "Google Material Design",
+      "purpose": "Levar cor, tipo, forma e movimento da marca para um design system mantendo acessibilidade e consistência.",
+      "components": [
+        { "name": "Cor por papéis", "description": "Acento (primária, secundária, terciária) para expressão; semânticas fixas (erro); superfícies para a maior parte da tela." },
+        { "name": "Tipo por papéis", "description": "Display com caráter; headline, title, label e body legíveis." },
+        { "name": "Forma", "description": "Família (arredondada ou cortada) e escala de 7 valores; varia por componente." },
+        { "name": "Movimento", "description": "Slots de easing e duração personalizados." },
+        { "name": "Tokens", "description": "Decisões nomeadas que substituem valores soltos e facilitam handoff." }
+      ],
+      "steps": [
+        "Inserir a cor primária da marca e gerar esquema acessível ('color match').",
+        "Ajustar secundária e terciária sem ofuscar a primária.",
+        "Escolher fonte de display expressiva e fonte de texto legível.",
+        "Escolher família e valores de forma coerentes com a personalidade.",
+        "Definir easing e duração.",
+        "Exportar tokens e documentar o que não é exportável."
+      ],
+      "inputs": ["cor primária", "moodboard", "personalidade da marca"],
+      "outputs": ["tema com tokens de cor, tipo, forma e motion"],
+      "pitfalls": ["Aplicar a cor de marca crua em UI sem contraste suficiente.", "Usar a primária em todos os componentes.", "Misturar papéis correspondentes."],
+      "criticisms": ["Escola de distintividade (Murrell): design systems compartilhados empurram marcas para a mesma aparência se só a cor muda."],
+      "domain": ["identidade-visual", "experiencia"],
+      "stage": ["ativos"],
+      "school": "identidade-design",
+      "sources": [
+        { "id": "src-android-m3-brand-theming-codelab", "locator": "seções 2 a 7", "paraphrase": "Roles, tokens e passos de tematização de cor, tipo, forma e motion." }
+      ]
+    },
+    {
+      "id": "sonic-identity-process-sixieme-son",
+      "name": "Processo de identidade sonora em quatro fases",
+      "author": "Sixième Son",
+      "purpose": "Criar uma identidade sonora como sistema, não um jingle isolado.",
+      "components": [
+        { "name": "Análise", "description": "Entender a marca, a estratégia e a paisagem sonora; briefing próprio para som." },
+        { "name": "Criação", "description": "Logo sonoro e vocabulário musical (texturas, instrumentos, estilo) derivados da identidade." },
+        { "name": "Implementação", "description": "Adaptações para cada ponto de contato (vídeo, UX/UI, espera, eventos)." },
+        { "name": "Amplificação", "description": "Evolução em campanhas e lançamentos; testes pré, durante e pós." }
+      ],
+      "steps": [
+        "Fazer briefing sonoro (diferente de briefing visual), de preferência em conversa.",
+        "Compor rotas e testar com metodologia psicoacústica ou de reconhecimento.",
+        "Produzir as adaptações e as licenças.",
+        "Acompanhar e evoluir ao longo dos anos."
+      ],
+      "inputs": ["plataforma de marca", "mapa de pontos de contato sonoros"],
+      "outputs": ["logo sonoro", "paleta/vocabulário sonoro", "biblioteca de adaptações", "guia sonoro"],
+      "pitfalls": ["Pular etapas e encomendar só um logo sonoro.", "Ignorar direitos e licenças por território e mídia."],
+      "criticisms": ["Material promocional de agência; prazos e eficácia autodeclarados."],
+      "domain": ["sonoro-motion"],
+      "stage": ["ativos"],
+      "school": "pratica",
+      "sources": [
+        { "id": "src-sixieme-son-faq", "locator": "FAQ (processo, briefing, logo isolado, direitos)", "paraphrase": "Análise, criação, implementação e amplificação, com prazos de 3 semanas a 3 meses." }
+      ]
+    },
+    {
+      "id": "amp-sonic-maturity-grades",
+      "name": "Notas de maturidade sonora (Best Audio Brands)",
+      "author": "amp sound branding",
+      "purpose": "Avaliar a maturidade do uso de som por uma marca em comparação a pares.",
+      "components": [
+        { "name": "Nota A", "description": "Som como ativo central; sem música de banco; cerca de 30% do áudio próprio; identidade reconhecível flexionada por campanha e mercado." },
+        { "name": "Notas B a D", "description": "Uso crescente de música de banco, trilhas desconectadas e baixa consistência." },
+        { "name": "Indicadores", "description": "Uso de logo sonoro, música de marca versus música customizada de campanha, coerência entre mercados." }
+      ],
+      "steps": [
+        "Levantar todo o áudio da marca num período (anúncios, social, app).",
+        "Classificar trechos em música de marca própria, customizada de campanha e de banco.",
+        "Avaliar presença e consistência do logo sonoro.",
+        "Atribuir nota e definir próximos passos."
+      ],
+      "inputs": ["inventário de áudio da marca"],
+      "outputs": ["nota de maturidade", "lacunas"],
+      "pitfalls": ["Confundir volume de música customizada com equity sonoro."],
+      "criticisms": ["Critérios completos estão no relatório fechado por cadastro; agência vende o serviço."],
+      "domain": ["sonoro-motion", "equity-medicao"],
+      "stage": ["diagnostico"],
+      "school": "pratica",
+      "sources": [
+        { "id": "src-amp-best-audio-brands-2026", "locator": "comunicado", "paraphrase": "Sistema de notas de A+ a D-, com critério de som próprio e ausência de música de banco." }
+      ]
+    },
+    {
+      "id": "brand-guidelines-cascade",
+      "name": "Cascata de diretrizes: estratégia → princípios → diretrizes → toolkits",
+      "author": "Simon Chong (BUCK), com Mitch Paone (DIA)",
+      "purpose": "Estruturar a entrega de uma identidade para que pessoas com níveis diferentes de experiência apliquem a marca com coerência.",
+      "components": [
+        { "name": "Estratégia", "description": "O que o design deve comunicar sempre." },
+        { "name": "Princípios de design", "description": "Regras de alto nível que informam todo o sistema (inclui motion e som)." },
+        { "name": "Diretrizes e exemplos", "description": "Especificações e boas práticas mostradas em casos." },
+        { "name": "Templates, toolkits e workshops", "description": "Ferramentas prontas e treinamento contínuo." }
+      ],
+      "steps": [
+        "Escrever a estratégia em linguagem que designers usem.",
+        "Derivar princípios (com o porquê) para cada elemento.",
+        "Documentar especificações e exemplos.",
+        "Criar templates para os usos mais frequentes e treinar as equipes."
+      ],
+      "inputs": ["plataforma de marca", "identidade desenhada"],
+      "outputs": ["portal/guia vivo em camadas"],
+      "pitfalls": ["Entregar só o PDF estático.", "Templates sem princípios (engessa) ou princípios sem templates (abre demais)."],
+      "criticisms": ["Webinar patrocinado por plataforma de brand portal."],
+      "domain": ["gestao-governanca"],
+      "stage": ["ativos", "ativacao"],
+      "school": "identidade-design",
+      "sources": [
+        { "id": "src-creativeboom-motion-first-dia-buck-2025", "locator": "seção sobre entrega", "paraphrase": "Sistema em cascata do topo estratégico aos templates, servindo de sêniores a iniciantes." }
+      ]
+    },
+    {
+      "id": "wikimedia-movement-branding-criteria",
+      "name": "Critérios de branding de movimento (Wikimedia)",
+      "author": "Comunidade Wikimedia e Wikimedia Foundation",
+      "purpose": "Avaliar propostas de marca para redes e movimentos com muitos atores.",
+      "components": [
+        { "name": "Reduzir confusão", "description": "Deixar claros os papéis de plataformas, voluntários, afiliados e fundação." },
+        { "name": "Proteger reputação", "description": "Aumentar a confiança no conteúdo e nos colaboradores." },
+        { "name": "Beneficiar todos os projetos", "description": "Usar a força da marca mais conhecida a favor das demais." },
+        { "name": "Mitigar riscos legais", "description": "Não expor voluntários em lugares hostis." },
+        { "name": "Crescer o movimento", "description": "Atrair usuários, colaboradores, doadores e parceiros." },
+        { "name": "Adoção gradual", "description": "Permitir adesão opcional, local e no próprio ritmo." },
+        { "name": "Respeitar limites da comunidade", "description": "A fundação não deve usar o nome Wikipedia para si." }
+      ],
+      "steps": ["Pesquisar a percepção dos nomes atuais.", "Definir critérios com a comunidade.", "Avaliar propostas contra os critérios.", "Pausar se a legitimidade não estiver garantida."],
+      "inputs": ["pesquisa de percepção", "consulta comunitária"],
+      "outputs": ["critérios de decisão", "proposta de sistema de nomes e design"],
+      "pitfalls": ["Decidir no topo e consultar depois."],
+      "criticisms": [],
+      "domain": ["gestao-governanca", "arquitetura", "naming"],
+      "stage": ["arquitetura", "naming"],
+      "school": "pratica",
+      "sources": [
+        { "id": "src-wikimedia-movement-brand-project", "locator": "'The qualities of good movement branding'", "paraphrase": "Seis critérios da revisão comunitária, mais um sétimo vindo de RfC." }
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "id": "differentiation-vs-distinctiveness",
+      "question": "A identidade precisa comunicar uma diferença significativa ou basta ser distinta e lembrada?",
+      "positions": [
+        { "school": "ehrenberg-bass", "claim": "Compradores pouco se importam se a marca é diferente; escolhem as que lembram e encontram. A identidade deve maximizar reconhecimento (fama e unicidade), não carregar mensagem.", "evidence": "Generalizações empíricas do How Brands Grow; Ritson endossa saliência acima de imagem, inclusive em B2B; pesquisa Ipsos sobre ativos.", "sources": [ { "id": "src-ebi-differentiation-versus-distinctiveness", "paraphrase": "Narra a virada pós-2010 e cita Ritson e Barker defendendo saliência e lembrança acima de diferença." }, { "id": "src-ebi-brands-need-distinctive-assets-2018", "paraphrase": "Branding por ativos distintivos como forma de romper a desordem mental." } ] },
+        { "school": "identidade-design", "claim": "A identidade deve expressar uma ideia de marca e uma história de valor; distintividade sem substância é estilo vazio.", "evidence": "Cases como Dropbox (de sincronizar arquivos a sincronizar equipes) e JKR definindo distintividade como 'substância estratégica com estilo assinado'.", "sources": [ { "id": "src-collins-dropbox-2017", "paraphrase": "A identidade materializa uma nova história de valor ligada ao roadmap do produto." }, { "id": "src-jkr-be-distinctive-microsite-2023", "paraphrase": "Distintividade vai além da diferença, mas é descrita como substância estratégica com estilo próprio." } ] }
+      ],
+      "synthesis": "As escolas concordam que reconhecimento rápido é condição necessária e que ativos não substituem produto nem posicionamento. Divergem sobre quanto a identidade deve 'dizer'.",
+      "systemStance": "Padrão: a identidade serve primeiro à distintividade (ativos medidos por fama e unicidade) e expressa a ideia de marca na escolha e no comportamento dos elementos, sem depender de o público decifrar símbolos. Dar mais peso à diferenciação quando a categoria é nova, quando a marca precisa reposicionar (rebrand por mudança de negócio) ou em B2B complexo onde a ideia orienta vendas.",
+      "stage": ["posicionamento", "ativos"],
+      "domain": ["posicionamento", "ativos-distintivos", "identidade-visual"]
+    },
+    {
+      "id": "asset-meaning-vs-pure-distinctiveness",
+      "question": "Ativos visuais e sonoros devem carregar o significado do posicionamento ou só precisam ser únicos e ligados à marca?",
+      "positions": [
+        { "school": "ehrenberg-bass", "claim": "Significado prévio atrapalha seleção, construção, uso e proteção do ativo; prefira elementos cuja associação principal será a própria marca.", "evidence": "Argumentação de Romaniuk (2025), sem dados próprios; grade Fama × Unicidade.", "sources": [ { "id": "src-mw-romaniuk-meaning-distinctive-assets-2025", "paraphrase": "Verde para sustentabilidade, rosa, ursos de desenho: significados que concorrentes também buscam." } ] },
+        { "school": "identidade-design", "claim": "Elementos derivados da ideia de marca dão coerência, alinham a organização e tornam o sistema gerável (cada nova peça sabe 'por que' é assim).", "evidence": "Cases e guias: logotipo da NASA evocando unidade e impulso; losangos do Dropbox como colaboração; movimento circular da Back Market; bandeira no gov.br; toque no som da Uber.", "sources": [ { "id": "src-nasa-graphics-standards-manual-1976", "paraphrase": "Letras simplificadas evocam unidade, precisão técnica e impulso vertical." }, { "id": "src-collins-dropbox-2017", "paraphrase": "Geometria do logo expressa que juntos o resultado é maior que a soma." }, { "id": "src-creativeboom-vucko-motion-identity-2025", "paraphrase": "Movimentos circulares refletem o valor de circularidade." } ] }
+      ],
+      "synthesis": "Significado que nasce da própria marca (gesto do produto, nome, história) é diferente de significado emprestado da categoria. O primeiro tende a ser único; o segundo tende a ser compartilhado com concorrentes.",
+      "systemStance": "Padrão: aceitar significado como motor criativo e de alinhamento interno se ele vier de algo próprio da marca; rejeitar significado genérico da categoria (verde=eco, azul=confiança, escudo=segurança) como base de ativo central, a menos que pareado com um elemento único. Sempre validar unicidade com teste sem marca.",
+      "stage": ["ativos"],
+      "domain": ["ativos-distintivos", "identidade-visual", "sonoro-motion"]
+    },
+    {
+      "id": "brand-is-not-logo",
+      "question": "O logo é o centro da identidade ou apenas um ativo entre vários?",
+      "positions": [
+        { "school": "identidade-design", "claim": "O logo é o elemento central e o ativo mais valioso; deve aparecer em toda comunicação oficial e ser protegido rigorosamente.", "evidence": "Guias oficiais de IBM, NASA, Ubuntu e gov.br.", "sources": [ { "id": "src-ibm-design-language", "paraphrase": "O logo é um dos ativos corporativos mais valiosos e deve aparecer em toda comunicação oficial." }, { "id": "src-ubuntu-brand", "paraphrase": "O logo é o traço mais reconhecível de qualquer identidade." }, { "id": "src-nasa-graphics-standards-manual-1976", "paraphrase": "O logotipo é o elemento central do sistema de comunicação visual." } ] },
+        { "school": "ehrenberg-bass", "claim": "A marca precisa de uma carteira de ativos; só 19% dos logos testados foram Ouro, e produto, mascote e som podem ser tão ou mais fortes.", "evidence": "Pesquisa Ipsos × JKR com 26 mil respondentes.", "sources": [ { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "paraphrase": "Logo 19% Ouro contra produto 31%." } ] },
+        { "school": "identidade-design", "claim": "Na prática de motion-first, a marca é comportamento: como se move e responde importa tanto quanto a forma.", "evidence": "Opinião de estúdios de motion (DIA, BUCK, Vucko).", "sources": [ { "id": "src-creativeboom-motion-first-dia-buck-2025", "paraphrase": "Identidade cinética, em que o movimento expressa comportamento sobre forma." } ] }
+      ],
+      "synthesis": "Todas concordam que o logo é necessário e precisa de proteção; a divergência é se ele basta. Marcas fortes combinam logo protegido com outros ativos e comportamento coerente.",
+      "systemStance": "Padrão: logo protegido + carteira de 3 a 5 ativos medidos + regras de comportamento (motion, som, voz). Nunca entregar 'identidade' que seja só logo e paleta.",
+      "stage": ["ativos"],
+      "domain": ["identidade-visual", "ativos-distintivos", "gestao-governanca"]
+    },
+    {
+      "id": "rebrand-vs-evolve",
+      "question": "Quando a identidade envelhece, é melhor evoluir os ativos existentes ou trocar por um sistema novo?",
+      "positions": [
+        { "school": "ehrenberg-bass", "claim": "Evolua, não substitua: auditar antes e preservar ativos alto/alto; trocas grandes destroem memória acumulada.", "evidence": "Framework de ativos e pitfall de rebrands.", "sources": [ { "id": "src-umbrex-distinctive-brand-assets-framework", "paraphrase": "Preservar ou evoluir ativos fortes e escalonar mudanças com pilotos." } ] },
+        { "school": "identidade-design", "claim": "Às vezes uma ruptura é necessária para sinalizar uma nova era, desde que tenha apoio total da organização.", "evidence": "NASA 1975 trocou a insígnia pelo 'worm' como programa que 'rompe com o costume'; depois restabeleceu a insígnia em 1992.", "sources": [ { "id": "src-nasa-graphics-standards-manual-1976", "paraphrase": "A carta reconhece que um programa que se afasta do costume exige apoio de todos." } ] },
+        { "school": "pratica", "claim": "Modernizações por simplificação (logos achatados) tendem a apagar distinção e fazer marcas convergirem.", "evidence": "Ondas de redesenho flat em montadoras, apontadas como blanding.", "sources": [ { "id": "src-murrell-age-of-average", "paraphrase": "Audi, VW, BMW, Toyota, Nissan e Vauxhall achataram logos em sequência." } ] }
+      ],
+      "synthesis": "Rupturas custam memória e exigem governança forte; evoluções preservam equity mas podem cair na mesma tendência que todos seguem.",
+      "systemStance": "Padrão: evoluir mantendo os ativos com fama, corrigindo problemas técnicos. Ruptura só com mudança real de negócio, reputação ruim ou ativos medidos como fracos, e com plano de construção de fama.",
+      "stage": ["diagnostico", "ativos"],
+      "domain": ["identidade-visual", "gestao-governanca"]
+    }
+  ],
+  "cases": [
+    {
+      "id": "case-dropbox-2017-collins",
+      "brand": "Dropbox",
+      "year": 2017,
+      "agency": "COLLINS",
+      "sector": "tecnologia",
+      "market": "global",
+      "type": "reposicionamento",
+      "challenge": "Posicionar a empresa para o IPO e ampliar para o público criativo sem perder a base atual.",
+      "insight": "A característica amada do produto (sincronizar arquivos) é uma necessidade maior de equipes criativas: sincronizar pessoas e processos.",
+      "strategy": "Expandir a história de valor de 'sincronizar arquivos' para 'sincronizar equipes'.",
+      "execution": "Sistema de colisões inesperadas de cor, tipografia, arte, ilustração e fotografia; logo de losangos idênticos formando um todo; assinatura de movimento própria; testes de pressão em todos os pontos de contato.",
+      "results": [
+        { "metric": "Alta no 1º dia do IPO", "value": "+35%", "independent": false, "source": "src-collins-dropbox-2017" },
+        { "metric": "Usuários", "value": "600 mi (2019) → 700 mi (2020)", "independent": false, "source": "src-collins-dropbox-2017" },
+        { "metric": "Receita anual", "value": "US$ 1,66 bi → 1,91 bi (2019–2020)", "independent": false, "source": "src-collins-dropbox-2017" }
+      ],
+      "lessons": [
+        "Derivar a ideia de marca de uma verdade do produto torna a identidade difícil de copiar.",
+        "Resultados de negócio citados pela agência não isolam o efeito da marca."
+      ],
+      "principles": ["strategy-to-visual-translation", "rebrand-test-before-launch"],
+      "sources": [ { "id": "src-collins-dropbox-2017", "paraphrase": "Case com desafio, estratégia, execução e bloco de impacto." }, { "id": "src-dropbox-brand-guidelines", "paraphrase": "Guia atual com framework e princípios de motion." } ]
+    },
+    {
+      "id": "case-uber-2018-rebrand",
+      "brand": "Uber",
+      "year": 2018,
+      "agency": "Uber Brand Experience (interno)",
+      "sector": "mobilidade",
+      "market": "global",
+      "type": "rebrand",
+      "challenge": "Identidade anterior confusa (o 'U' sumido) e sistema pouco unificado entre mercados.",
+      "insight": "O nome já era muito conhecido; movimento é a fonte de oportunidade que a marca oferece.",
+      "strategy": "Investir em wordmark, restaurar o U, abraçar o preto e criar sistema de nove elementos.",
+      "execution": "Wordmark ajustado; tipografia própria Uber Move inspirada em sinalização de transporte; paleta preto e branco (21:1) com azul de segurança pontual; grade derivada do logo; diretrizes de motion para vídeo (esquerda para direita) e, depois, identidade sonora com a amp.",
+      "results": [
+        { "metric": "Aceitação do preto em teste pré-lançamento", "value": "88%", "independent": false, "source": "src-uber-2018-brand-redesign" }
+      ],
+      "lessons": [
+        "Escuta extensa e teste de decisões-chave antes do lançamento reduzem risco.",
+        "Tipografia própria e regra de contraste fazem a identidade ser reconhecível e acessível.",
+        "Motion precisa de guia próprio; sem ele, cada equipe anima de um jeito."
+      ],
+      "principles": ["rebrand-keep-equity", "rebrand-test-before-launch", "identity-accessibility-built-in", "motion-principles-from-brand"],
+      "sources": [ { "id": "src-uber-2018-brand-redesign", "paraphrase": "Racional oficial do redesenho." }, { "id": "src-uber-motion-guidelines-behance", "paraphrase": "Guia de motion criado por inconsistência entre vídeos." } ]
+    },
+    {
+      "id": "case-uber-sonic-2024-amp",
+      "brand": "Uber",
+      "year": 2024,
+      "agency": "amp sound branding",
+      "sector": "mobilidade",
+      "market": "global",
+      "type": "lancamento",
+      "challenge": "Soar diferente numa categoria saturada de efeitos sonoros literais (portas, campainhas).",
+      "insight": "Toda viagem começa com um toque decidido do dedo no vidro.",
+      "strategy": "Transformar o gesto do toque num motivo sonoro proprietário, ligado ao movimento.",
+      "execution": "Motivo de três notas (intervalo, pausa de expectativa, resolução); estreia nas Olimpíadas de Paris 2024; guias sonoros e sons de UX/UI em desenvolvimento.",
+      "results": [],
+      "lessons": [
+        "O ativo sonoro mais forte nasce de um gesto próprio da marca, não do som da categoria.",
+        "Som deve ser pensado como sistema que vai do comercial à interface."
+      ],
+      "principles": ["sonic-identity-consistency", "multisensory-sync", "codes-of-category-break-or-follow", "strategy-to-visual-translation"],
+      "sources": [ { "id": "src-amp-sound-of-uber", "paraphrase": "Case da agência sobre a identidade sonora." } ]
+    },
+    {
+      "id": "case-slack-2019-pentagram",
+      "brand": "Slack",
+      "year": 2019,
+      "agency": "Pentagram (Michael Bierut)",
+      "sector": "tecnologia",
+      "market": "global",
+      "type": "rebrand",
+      "challenge": "Logo de hashtag com problemas de reprodução e paleta de 11 cores que funcionava mal fora do fundo branco.",
+      "insight": "O octothorpe já era um ativo reconhecido e conectado ao produto (canais).",
+      "strategy": "Reter o equity e retrabalhar o sistema para escala e consistência.",
+      "execution": "Octothorpe redesenhado em grade a partir de balão de fala e losango; formas extraídas viram ícones e ilustrações; paleta de 4 cores primárias mais o roxo berinjela como acento.",
+      "results": [],
+      "lessons": [
+        "Rebrand de marca com fama deve corrigir o técnico e manter a gestalt.",
+        "Reduzir a paleta aumenta consistência; manter a cor que contrasta no ambiente real (desktop) preserva reconhecimento."
+      ],
+      "principles": ["rebrand-keep-equity", "color-ownership-in-context", "branding-contrast-with-environment"],
+      "sources": [ { "id": "src-pentagram-slack-2019", "paraphrase": "Descrição do projeto pela Pentagram." } ]
+    },
+    {
+      "id": "case-twitch-2019-collins",
+      "brand": "Twitch",
+      "year": 2019,
+      "agency": "COLLINS",
+      "sector": "entretenimento",
+      "market": "global",
+      "type": "rebrand",
+      "challenge": "Crescer além dos games para música, esportes e criação sem perder a comunidade original.",
+      "insight": "A Twitch não é a heroína; é o suporte que fortalece cada criador.",
+      "strategy": "Sistema coeso e flexível que acolha comunidades diversas.",
+      "execution": "Roxo mantido como núcleo com paleta viva de apoio; wordmark com peculiaridades ampliadas; tipografia própria; linguagem de emotes e ícones; fotografia 'level up'; camada para conteúdo de criadores.",
+      "results": [
+        { "metric": "Audiência", "value": "2,5x", "independent": false, "source": "src-collins-twitch-2019" },
+        { "metric": "Receita anual 2022", "value": "US$ 2,8 bi", "independent": false, "source": "src-collins-twitch-2019" }
+      ],
+      "lessons": [
+        "Definir o papel da marca na vida do público ('suporte') orienta escolhas visuais.",
+        "Expandir a paleta ao redor de uma cor amada preserva equity e ganha flexibilidade."
+      ],
+      "principles": ["identity-system-fixed-fluid", "rebrand-keep-equity", "movement-brand-adaptable-opt-in"],
+      "sources": [ { "id": "src-collins-twitch-2019", "paraphrase": "Case da agência." } ]
+    },
+    {
+      "id": "case-nasa-1975-danne-blackburn",
+      "brand": "NASA",
+      "year": 1975,
+      "agency": "Danne & Blackburn",
+      "sector": "governo",
+      "market": "EUA",
+      "type": "rebrand",
+      "challenge": "Comunicação gráfica dispersa numa agência com muitos centros e aplicações (publicações, veículos, sinalização).",
+      "insight": "A agência queria expressar unidade, tecnologia e pioneirismo.",
+      "strategy": "Sistema completo de comunicação visual centrado num logotipo simplificado e documentado como política oficial.",
+      "execution": "Logotipo 'worm' de traço único sem travessões nos As; vermelho NASA; regras de usos incorretos; grade; identificação de centros; papelaria, formulários, publicações, sinalização e veículos padronizados.",
+      "results": [],
+      "lessons": [
+        "Um manual que cobre todos os pontos de contato e tem apoio da alta gestão transforma identidade em sistema.",
+        "Rupturas podem ser revertidas: a insígnia antiga foi restabelecida em 1992, sinal de que equity emocional antigo pesa."
+      ],
+      "principles": ["identity-governance-living-system", "consistency-over-time", "rebrand-keep-equity", "brand-architecture-visual-lockups"],
+      "sources": [ { "id": "src-nasa-graphics-standards-manual-1976", "paraphrase": "Manual NHB 1430.2 e contexto do NASA Brand Center." } ]
+    },
+    {
+      "id": "case-ibm-8-bar-rand",
+      "brand": "IBM",
+      "year": 1972,
+      "agency": "Paul Rand",
+      "sector": "tecnologia",
+      "market": "global",
+      "type": "rebrand",
+      "challenge": "Manter uma identidade reconhecível por décadas em contextos de mídia muito diferentes.",
+      "insight": "Um único ativo usado com rigor vira autenticação da empresa.",
+      "strategy": "Preservar o desenho do logo e ajustar só a execução técnica e o sistema ao redor.",
+      "execution": "Logo de 8 barras inalterado desde 1972, com ajustes ópticos entre versões positiva e negativa, regras de cor (só azuis e cinzas) e contraste (5 passos); design language atual construída em volta.",
+      "results": [],
+      "lessons": [
+        "Constância de décadas em um ativo central gera reconhecimento global.",
+        "O sistema pode evoluir (cor digital, tipografia Plex, motion) sem tocar no núcleo."
+      ],
+      "principles": ["consistency-over-time", "distinctive-assets-concentrate-core", "identity-accessibility-built-in"],
+      "sources": [ { "id": "src-ibm-design-language", "paraphrase": "Página do logo 8-bar e design language." } ]
+    },
+    {
+      "id": "case-govbr-2025-secom",
+      "brand": "Governo Federal do Brasil (gov.br)",
+      "year": 2025,
+      "agency": "Secom (interno)",
+      "sector": "governo",
+      "market": "Brasil",
+      "type": "arquitetura",
+      "challenge": "Uma marca única para assinar comunicação de dezenas de ministérios, estatais, órgãos e programas.",
+      "insight": "Hierarquia fixa e assinaturas prontas evitam disputa visual entre entidades.",
+      "strategy": "Marca nominativa inspirada na bandeira com assinatura 'do lado do povo brasileiro', regulada por instrução normativa.",
+      "execution": "Versões, grade, área de proteção, sete cores nomeadas, Rawline; regras de assinatura horizontal e vertical; limites de tamanho para órgãos e selos; usos proibidos; assinatura falada no áudio e vinheta na TV; marca d'água em vídeos.",
+      "results": [],
+      "lessons": [
+        "Arquitetura complexa se resolve com regras de ordem, posição e tamanho, mais arquivos prontos.",
+        "Identidade sonora pode começar simples (assinatura falada padronizada) e ainda ser consistente.",
+        "Instrumento normativo dá força à governança em organizações grandes."
+      ],
+      "principles": ["brand-architecture-visual-lockups", "identity-governance-living-system", "identity-accessibility-built-in", "sonic-identity-consistency"],
+      "sources": [ { "id": "src-secom-manual-marca-gov-br-2025", "paraphrase": "Manual v1.2 de setembro de 2025." } ]
+    },
+    {
+      "id": "case-instagram-motion-studio-dumbar",
+      "brand": "Instagram",
+      "year": 2023,
+      "agency": "Studio Dumbar/DEPT",
+      "sector": "tecnologia",
+      "market": "global",
+      "type": "rebrand",
+      "challenge": "Expandir uma identidade recém-renovada para um sistema de motion usado no marketing e no produto.",
+      "insight": "Os atributos nativos do app (gesto de rolar, câmera, imperfeição do conteúdo humano) já definem como a marca se move.",
+      "strategy": "Sistema de motion com física própria aplicada aos elementos centrais.",
+      "execution": "Técnicas de movimento que imitam câmera e swipe; física definida; diretrizes, templates e toolkits globais.",
+      "results": [],
+      "lessons": [
+        "Motion de marca forte nasce do comportamento do produto.",
+        "Toolkits são parte da identidade, não acessório."
+      ],
+      "principles": ["motion-principles-from-brand", "identity-governance-living-system", "distinctive-assets-portfolio-beyond-logo"],
+      "sources": [ { "id": "src-studio-dumbar-instagram-motion", "paraphrase": "Case do estúdio." } ]
+    },
+    {
+      "id": "case-squarespace-dia-2018",
+      "brand": "Squarespace",
+      "year": 2018,
+      "agency": "DIA (com François Rappo)",
+      "sector": "tecnologia",
+      "market": "global",
+      "type": "rebrand",
+      "challenge": "Criar uma identidade coerente do anúncio à interface.",
+      "insight": "Movimento, proporção e tipografia podem ser uma lógica única.",
+      "strategy": "Desenvolver motion, tipografia e estrutura ao mesmo tempo.",
+      "execution": "Tipografia Clarkson com princípios de movimento embutidos (aceleração, ritmo, relações espaciais) aplicados da publicidade à UI.",
+      "results": [ { "metric": "Longevidade do sistema", "value": "ainda em uso sete anos depois (segundo a DIA)", "independent": false, "source": "src-creativeboom-motion-first-dia-buck-2025" } ],
+      "lessons": ["Motion concebido junto com a tipografia gera sistema durável."],
+      "principles": ["motion-in-identity-from-start", "motion-principles-from-brand"],
+      "sources": [ { "id": "src-creativeboom-motion-first-dia-buck-2025", "paraphrase": "Relato de Mitch Paone sobre o projeto." } ]
+    },
+    {
+      "id": "case-mailchimp-pinterest-motion-retrofit",
+      "brand": "Mailchimp e Pinterest",
+      "year": 2018,
+      "agency": "DIA",
+      "sector": "tecnologia",
+      "market": "global",
+      "type": "fracasso",
+      "challenge": "Acrescentar motion a identidades visuais já redesenhadas.",
+      "insight": "Motion pensado depois do visual não se comporta bem, ainda que fique bonito.",
+      "strategy": "Retrofit de motion sobre sistema estático (abordagem que a própria DIA desaconselha).",
+      "execution": "Não detalhada na fonte.",
+      "results": [],
+      "lessons": ["Retrofit de motion gera inconsistência e concessões; a lógica de comportamento deve ser fundacional."],
+      "principles": ["motion-in-identity-from-start"],
+      "sources": [ { "id": "src-creativeboom-motion-first-dia-buck-2025", "paraphrase": "Paone cita os dois projetos como exemplo de inconsistência por retrofit." } ]
+    },
+    {
+      "id": "case-wikimedia-rename-paused-2021",
+      "brand": "Wikimedia",
+      "year": 2021,
+      "agency": "Wikimedia Foundation Brand Studio",
+      "sector": "terceiro-setor",
+      "market": "global",
+      "type": "fracasso",
+      "challenge": "O nome 'Wikimedia' é desconhecido e confuso; o movimento queria uma marca mais clara baseada em Wikipedia.",
+      "insight": "Em marcas de comunidade, legitimidade do processo pesa tanto quanto a qualidade da proposta.",
+      "strategy": "Proposta de convenção de nomes e design baseada na marca mais conhecida, com adoção opcional pelos afiliados.",
+      "execution": "Critérios definidos em consulta; RfC da comunidade rejeitou a fundação se chamar Wikipedia; conselho pausou o renaming e redirecionou o trabalho de marca.",
+      "results": [],
+      "lessons": [
+        "Mudanças de nome e marca em comunidades exigem co-criação desde o início.",
+        "Critérios explícitos ajudam a decidir e a pausar."
+      ],
+      "principles": ["movement-brand-adaptable-opt-in"],
+      "sources": [ { "id": "src-wikimedia-movement-brand-project", "paraphrase": "Página do projeto e resolução do conselho." } ]
+    },
+    {
+      "id": "case-back-market-vucko-motion",
+      "brand": "Back Market",
+      "year": 2024,
+      "agency": "Vucko",
+      "sector": "varejo",
+      "market": "global",
+      "type": "rebrand",
+      "challenge": "Comunicar sustentabilidade em todos os pontos de contato sem depender de texto.",
+      "insight": "O valor central da marca é circularidade.",
+      "strategy": "Usar o movimento para expressar o valor.",
+      "execution": "Movimentos circulares e transições fluidas em toda a identidade animada.",
+      "results": [],
+      "lessons": ["Um valor abstrato vira regra de movimento concreta e repetível."],
+      "principles": ["motion-principles-from-brand", "strategy-to-visual-translation"],
+      "sources": [ { "id": "src-creativeboom-vucko-motion-identity-2025", "paraphrase": "Exemplo citado por Andrew Vucko." } ]
+    }
+  ],
+  "antipatterns": [
+    {
+      "id": "blanding-generic-tech-identity",
+      "name": "Blanding: identidade de startup genérica",
+      "description": "Identidade montada pela fórmula do setor: nome inventado, sans-serif geométrica limpa, muito espaço em branco, ilustrações fofas, cores vivas (roxo e turquesa), tom de voz direto. Parece moderna e é indistinguível.",
+      "signals": [
+        "Logo é só o nome numa sans-serif geométrica sem nenhum desenho próprio.",
+        "Paleta roxo/azul/turquesa ou pastel com 'um toque vibrante'.",
+        "Ilustrações de pessoas sem rosto, em estilo de biblioteca de ícones.",
+        "Moodboard montado das mesmas fontes que todos usam (Dribbble, Behance)."
+      ],
+      "whyBad": "Elementos compartilhados com a categoria têm unicidade baixa: não constroem memória para a marca e ajudam concorrentes.",
+      "fix": "Mapear a paisagem visual, escolher pelo menos um eixo de ruptura (cor, forma, tipo, motion, som), derivar elementos de uma verdade da marca e testar unicidade sem logo.",
+      "domain": ["identidade-visual", "ativos-distintivos"],
+      "stage": ["paisagem", "ativos"],
+      "sources": [ { "id": "src-murrell-age-of-average", "paraphrase": "Descreve o blanding e a convergência das identidades em tech." }, { "id": "src-umbrex-distinctive-brand-assets-framework", "paraphrase": "Códigos comuns da categoria ajudam concorrentes." } ]
+    },
+    {
+      "id": "category-palette-default",
+      "name": "Paleta da categoria por padrão",
+      "description": "Escolher a cor porque 'é a cor do setor' ou porque significa algo desejável na categoria (azul confiança em banco, verde em sustentável, rosa em beleza).",
+      "signals": [
+        "Justificativa da cor é o significado genérico ('azul transmite confiança').",
+        "A cor principal é a mesma de 3 ou mais concorrentes diretos."
+      ],
+      "whyBad": "Só 4% das cores testadas pela Ipsos chegaram a Ouro; cor compartilhada fica com fama alta e unicidade baixa, e significado emprestado é difícil de proteger.",
+      "fix": "Escolher cor ou combinação pouco usada na categoria, definir proporção de dominância e, se precisar do código do setor, pareá-lo com elemento único.",
+      "domain": ["identidade-visual", "ativos-distintivos"],
+      "stage": ["paisagem", "ativos"],
+      "sources": [ { "id": "src-jkr-be-distinctive-microsite-2023", "paraphrase": "Ser adequado à categoria pode ser o oposto de distintivo." }, { "id": "src-mw-romaniuk-meaning-distinctive-assets-2025", "paraphrase": "Verde para sustentabilidade é escolhido por vários concorrentes ao mesmo tempo." }, { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "paraphrase": "Cor teve 4% de ativos Ouro." } ]
+    },
+    {
+      "id": "default-typography",
+      "name": "Tipografia default sem caráter",
+      "description": "Usar a fonte padrão do sistema ou a sans-serif da moda sem nenhum ajuste, tanto no logo quanto na comunicação.",
+      "signals": [
+        "Logotipo escrito numa fonte gratuita popular sem modificação.",
+        "Mesma família tipográfica dos principais concorrentes.",
+        "Nenhuma regra de hierarquia, peso ou espaçamento própria no guia."
+      ],
+      "whyBad": "Tipografia é um dos ativos possíveis (letras, ritmo, detalhes); quando é a de todos, desperdiça uma superfície de reconhecimento presente em toda peça. Fontes têm uso mais limitado como ativo, então precisam de traço próprio para contar.",
+      "fix": "Tipografia proprietária ou customizada quando houver orçamento (Uber Move, Plex, fonte da Twitch); senão, combinação distinta, detalhes no logotipo e regras de composição próprias.",
+      "domain": ["identidade-visual"],
+      "stage": ["ativos"],
+      "sources": [ { "id": "src-murrell-age-of-average", "paraphrase": "Fórmula do blanding inclui o nome inventado em sans-serif limpa." }, { "id": "src-uber-2018-brand-redesign", "paraphrase": "Tipografia própria criada para legibilidade, distintividade e reconhecimento." }, { "id": "src-collins-twitch-2019", "paraphrase": "Tipografia customizada como parte do sistema." } ]
+    },
+    {
+      "id": "abstract-symbol-without-owner",
+      "name": "Ícone abstrato sem dono",
+      "description": "Símbolo geométrico genérico (swoosh, círculos entrelaçados, folha, gota, seta, monograma em quadrado arredondado) que poderia pertencer a qualquer empresa.",
+      "signals": [
+        "O símbolo parece com ícones de bibliotecas de stock.",
+        "Ninguém de fora consegue dizer de que marca é sem o nome.",
+        "A explicação do símbolo depende de um texto ('representa conexão e crescimento')."
+      ],
+      "whyBad": "Fica no quadrante baixa fama e baixa unicidade; a explicação simbólica não chega ao público, que só aprende o ativo por exposição repetida.",
+      "fix": "Derivar a forma de algo próprio (letra do nome, gesto do produto, objeto da história) e testar unicidade contra concorrentes; se não houver forma forte, investir em wordmark com detalhe próprio.",
+      "domain": ["identidade-visual", "ativos-distintivos"],
+      "stage": ["ativos"],
+      "sources": [ { "id": "src-umbrex-distinctive-brand-assets-framework", "paraphrase": "Ativos baixo/baixo devem ser redesenhados ou aposentados." }, { "id": "src-mw-romaniuk-meaning-distinctive-assets-2025", "paraphrase": "Significados genéricos são compartilhados e difíceis de proteger." }, { "id": "src-murrell-age-of-average", "paraphrase": "Processos complexos ilustrados com ícones de biblioteca são marca do blanding." } ]
+    },
+    {
+      "id": "discarded-mascot",
+      "name": "Mascote ou ativo antigo descartado sem medir",
+      "description": "Aposentar personagem, jingle, forma de embalagem ou símbolo antigo por parecer 'datado' ou pouco sofisticado, sem medir quanto reconhecimento ele tinha.",
+      "signals": [
+        "Rebrand justificado por 'modernizar' sem pesquisa de reconhecimento.",
+        "Elementos com décadas de uso removidos na nova versão."
+      ],
+      "whyBad": "Mascotes chegaram a Ouro em 16% dos casos (perto de logos); jogar fora memória acumulada obriga a marca a recomeçar a construção de fama.",
+      "fix": "Medir antes; se tiver fama, refinar o desenho e redefinir papel e limites em vez de eliminar.",
+      "domain": ["ativos-distintivos", "gestao-governanca"],
+      "stage": ["diagnostico", "ativos"],
+      "sources": [ { "id": "src-jkr-be-distinctive-microsite-2023", "paraphrase": "Mascotes têm valor apesar do desejo do mercado por design 'sofisticado'." }, { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "paraphrase": "16% dos mascotes testados foram Ouro." }, { "id": "src-umbrex-distinctive-brand-assets-framework", "paraphrase": "Auditar antes de rebrands e preservar ativos fortes." } ]
+    },
+    {
+      "id": "flattened-logo-redesign",
+      "name": "Redesenho por achatamento",
+      "description": "Modernizar o logo removendo detalhes, volume e personalidade até ele ficar parecido com os redesenhos simultâneos de concorrentes.",
+      "signals": [
+        "Rebrand descrito como 'mais limpo, mais simples, mais flat' sem outro argumento.",
+        "Vários concorrentes fizeram o mesmo movimento nos últimos 2 anos."
+      ],
+      "whyBad": "Remove justamente os traços que davam unicidade e alinha a marca à tendência do setor.",
+      "fix": "Simplificar só o necessário para reprodução digital, preservando a gestalt e os traços singulares; testar reconhecimento antes e depois.",
+      "domain": ["identidade-visual"],
+      "stage": ["ativos"],
+      "sources": [ { "id": "src-murrell-age-of-average", "paraphrase": "Montadoras achataram seus logos em sequência entre 2018 e 2020." } ]
+    },
+    {
+      "id": "asset-sprawl",
+      "name": "Excesso de ativos",
+      "description": "Sistema com elementos 'especiais' demais (vários padrões, muitas cores, personagens, selos, efeitos), nenhum usado com frequência suficiente.",
+      "signals": [
+        "Paleta com mais de 8 a 10 cores sem hierarquia.",
+        "Padrões e grafismos que mudam por campanha ou estação.",
+        "Designers não sabem dizer o que é obrigatório."
+      ],
+      "whyBad": "Memória exige repetição; dispersar exposição faz nenhum elemento alcançar fama, e aumenta custo de produção.",
+      "fix": "Priorizar 3 a 5 ativos centrais; o resto vira apoio ou sai. A Slack, por exemplo, reduziu a paleta de 11 para 4 cores.",
+      "domain": ["ativos-distintivos", "gestao-governanca"],
+      "stage": ["ativos"],
+      "sources": [ { "id": "src-umbrex-distinctive-brand-assets-framework", "paraphrase": "Asset sprawl confunde criadores e compradores." }, { "id": "src-pentagram-slack-2019", "paraphrase": "Paleta reduzida de onze para quatro cores." } ]
+    },
+    {
+      "id": "style-mistaken-for-asset",
+      "name": "Confundir estilo de campanha com ativo",
+      "description": "Tratar um visual de campanha, tendência ou padrão sazonal como se fosse identidade, trocando-o com frequência.",
+      "signals": [
+        "Cada campanha tem paleta e tipografia diferentes.",
+        "O guia de marca não distingue elementos permanentes de temporários."
+      ],
+      "whyBad": "Estilos rotativos não acumulam fama; a marca recomeça do zero a cada ciclo.",
+      "fix": "Separar núcleo permanente de camada de campanha e exigir que toda campanha carregue os ativos centrais.",
+      "domain": ["ativos-distintivos", "ativacao-eficacia"],
+      "stage": ["ativos", "ativacao"],
+      "sources": [ { "id": "src-umbrex-distinctive-brand-assets-framework", "paraphrase": "Pitfall de confundir estilo com ativo; no exemplo, padrões sazonais rotativos foram aposentados." } ]
+    },
+    {
+      "id": "logo-only-identity",
+      "name": "Identidade que é só logo e paleta",
+      "description": "Entregar 'identidade' como logo, duas cores e uma fonte, sem motion, som, comportamento, regras de composição ou ativos não-logo.",
+      "signals": [
+        "O guia tem só páginas de logo, cor e tipografia.",
+        "Não há resposta para como a marca aparece em áudio, vídeo de 6 segundos ou notificação."
+      ],
+      "whyBad": "Muitos pontos de contato não mostram o logo de forma legível; a marca fica irreconhecível justamente onde a atenção é menor.",
+      "fix": "Incluir carteira de ativos não-logo, princípios de motion, identidade sonora mínima e regras de composição; aplicar o teste do logo coberto.",
+      "domain": ["identidade-visual", "sonoro-motion", "ativos-distintivos"],
+      "stage": ["ativos"],
+      "sources": [ { "id": "src-umbrex-distinctive-brand-assets-framework", "paraphrase": "Construir sinais que funcionem quando o logo não pode." }, { "id": "src-creativeboom-motion-first-dia-buck-2025", "paraphrase": "Motion é ingrediente tão essencial quanto cor e tipo." }, { "id": "src-sixieme-son-faq", "paraphrase": "Ninguém pularia direto para o logo numa identidade visual; o mesmo vale para o som." } ]
+    },
+    {
+      "id": "gratuitous-motion",
+      "name": "Motion gratuito ou acoplado depois",
+      "description": "Animação decorativa sem propósito, ou motion adicionado depois que o sistema visual ficou pronto, com movimentos que não têm relação com a estratégia.",
+      "signals": [
+        "Efeitos de entrada genéricos de software (bounce, fade, zoom) sem regra própria.",
+        "Animações diferentes entre app e campanhas.",
+        "'Isso vai ficar melhor animado' usado para resolver problema de design."
+      ],
+      "whyBad": "Distrai, cansa e não constrói reconhecimento; o retrofit gera inconsistência.",
+      "fix": "Definir 3 a 5 princípios de movimento derivados da ideia de marca, com números e porquê; animar só o essencial.",
+      "domain": ["sonoro-motion"],
+      "stage": ["ativos"],
+      "sources": [ { "id": "src-ibm-design-language", "paraphrase": "Floreios sem razão não têm lugar; animar só o vital." }, { "id": "src-dropbox-brand-guidelines", "paraphrase": "É fácil exagerar no motion; menos elementos com propósito." }, { "id": "src-creativeboom-motion-first-dia-buck-2025", "paraphrase": "Retrofit gera algo que fica bonito mas não se comporta bem." } ]
+    },
+    {
+      "id": "campaign-music-without-sonic-identity",
+      "name": "Trilha nova a cada campanha, sem identidade sonora",
+      "description": "Usar música de banco ou trilhas customizadas sem relação entre si, sem logo sonoro nem paleta sonora própria, ou usar sons genéricos da categoria.",
+      "signals": [
+        "Nenhum motivo musical se repete entre campanhas.",
+        "Uso de efeitos sonoros comuns (campainha, batimento, notificação padrão).",
+        "Sem logo sonoro no fim dos vídeos."
+      ],
+      "whyBad": "A amp mediu queda de 67% no uso de música de marca e alta de 140% em música customizada de campanha: impacto de curto prazo sem equity. Som genérico não é proprietário.",
+      "fix": "Criar logo sonoro e paleta sonora derivados da marca e rearranjá-los nas campanhas; mapear pontos de contato sonoros.",
+      "domain": ["sonoro-motion", "ativos-distintivos"],
+      "stage": ["ativos", "ativacao"],
+      "sources": [ { "id": "src-amp-best-audio-brands-2026", "paraphrase": "Queda do uso de música de marca e alta da música de campanha." }, { "id": "src-amp-best-audio-brands-2024", "paraphrase": "Evitar sons não proprietários como batimento ou campainha." } ]
+    },
+    {
+      "id": "branded-stimulus-asset-testing",
+      "name": "Testar ativos mostrando a marca",
+      "description": "Avaliar se um elemento é 'da marca' em pesquisa que mostra logo, nome ou contexto que entrega a resposta, ou medir gosto em vez de reconhecimento.",
+      "signals": [
+        "Pergunta do tipo 'você gosta desta cor da marca X?'.",
+        "Estímulo com logo visível.",
+        "Métrica de curtidas ou lembrança do anúncio no lugar de reconhecimento do ativo."
+      ],
+      "whyBad": "Gera falsos positivos e leva a investir em elementos que não funcionam sozinhos.",
+      "fix": "Estímulos isolados e sem marca; perguntar 'de qual marca é isto?'; calcular fama e unicidade.",
+      "domain": ["equity-medicao", "ativos-distintivos"],
+      "stage": ["diagnostico"],
+      "sources": [ { "id": "src-umbrex-distinctive-brand-assets-framework", "paraphrase": "Estímulos com marca e perguntas indutoras produzem falsos positivos." } ]
+    },
+    {
+      "id": "static-pdf-brand-book",
+      "name": "Brand book em PDF que ninguém consegue usar",
+      "description": "Guia estático, sem templates, sem princípios explicados e sem dono, que fica desatualizado e é ignorado.",
+      "signals": [
+        "Único entregável é um PDF de regras de logo.",
+        "Equipes e fornecedores recriam peças do zero.",
+        "Nenhum canal para dúvidas ou exceções."
+      ],
+      "whyBad": "A identidade se fragmenta na aplicação; regras sem porquê não orientam casos novos.",
+      "fix": "Sistema em cascata (estratégia, princípios, diretrizes, templates), portal vivo, dono e canal de suporte.",
+      "domain": ["gestao-governanca"],
+      "stage": ["ativacao"],
+      "sources": [ { "id": "src-creativeboom-motion-first-dia-buck-2025", "paraphrase": "A era do brand book em PDF deveria ter ficado para trás." }, { "id": "src-gitlab-brand-guidelines", "paraphrase": "Guia dentro do design system, com time e canal de dúvidas." } ]
+    },
+    {
+      "id": "formula-tagline",
+      "name": "Slogan de fórmula",
+      "description": "Tagline construída em estrutura que muitas marcas já usam ('Find your X', 'Encontre seu X', 'Viva o X').",
+      "signals": [
+        "Mesma estrutura sintática encontrada em 3 ou mais marcas.",
+        "Linha trocada a cada campanha."
+      ],
+      "whyBad": "Slogans já raramente viram ativo (6% Ouro); com fórmula comum, a unicidade é nula.",
+      "fix": "Linha específica da marca, testada contra concorrentes e mantida por anos.",
+      "domain": ["identidade-verbal", "ativos-distintivos"],
+      "stage": ["voz"],
+      "sources": [ { "id": "src-murrell-age-of-average", "paraphrase": "Lista de 27 marcas com slogans 'Find Your X'." }, { "id": "src-ipsos-jkr-be-distinctive-everywhere-2023", "paraphrase": "6% dos slogans foram Ouro." } ]
+    },
+    {
+      "id": "moodboard-trope-imagery",
+      "name": "Imagem de tropo de moodboard",
+      "description": "Direção fotográfica copiada de tropos virais (shelfie, produto flutuando sobre espelho com céu, gotas refratando, fundo pastel com mãos diversas).",
+      "signals": [
+        "A direção de arte se parece com a de várias marcas DTC.",
+        "Referências do moodboard vêm todas das mesmas plataformas."
+      ],
+      "whyBad": "Faz anúncios e marcas parecerem iguais; não constrói código próprio.",
+      "fix": "Definir um estilo fotográfico com regras ligadas à ideia de marca (luz, enquadramento, gesto) e checar contra a paisagem da categoria.",
+      "domain": ["identidade-visual"],
+      "stage": ["ativos"],
+      "sources": [ { "id": "src-murrell-age-of-average", "paraphrase": "Efeito moodboard: marcas DTC repetem os mesmos tropos visuais." } ]
+    }
+  ],
+  "lexicon": [
+    { "term": "find your", "lang": "en", "kind": "cliche", "category": "geral", "replacement": "uma linha específica que só a sua marca poderia assinar", "sources": ["src-murrell-age-of-average"] },
+    { "term": "encontre seu", "lang": "pt", "kind": "cliche", "category": "geral", "replacement": "diga o que a pessoa ganha, com algo concreto e próprio da marca", "sources": ["src-murrell-age-of-average"] },
+    { "term": "visual limpo e moderno", "lang": "pt", "kind": "adjetivo-vazio", "category": "identidade-visual", "replacement": "descreva a decisão formal: qual forma, qual cor dominante, qual tipografia e por quê", "sources": ["src-murrell-age-of-average"] },
+    { "term": "minimalista e clean", "lang": "pt", "kind": "adjetivo-vazio", "category": "identidade-visual", "replacement": "nomeie o traço que torna a marca reconhecível sem o logo", "sources": ["src-murrell-age-of-average", "src-ibm-design-language"] },
+    { "term": "azul transmite confiança", "lang": "pt", "kind": "categoria", "category": "banco", "replacement": "escolha a cor pela unicidade na categoria, não pelo significado genérico", "sources": ["src-mw-romaniuk-meaning-distinctive-assets-2025", "src-umbrex-distinctive-brand-assets-framework"] },
+    { "term": "verde que representa sustentabilidade", "lang": "pt", "kind": "categoria", "category": "sustentabilidade", "replacement": "use um elemento próprio da marca e prove a sustentabilidade em fatos", "sources": ["src-mw-romaniuk-meaning-distinctive-assets-2025"] },
+    { "term": "roxo e turquesa", "lang": "pt", "kind": "categoria", "category": "tech", "replacement": "mapeie as cores dos concorrentes e escolha uma combinação pouco usada", "sources": ["src-murrell-age-of-average"] },
+    { "term": "o símbolo representa conexão e crescimento", "lang": "pt", "kind": "cliche", "category": "identidade-visual", "replacement": "explique de que verdade da marca a forma nasce e mostre o teste de reconhecimento", "sources": ["src-mw-romaniuk-meaning-distinctive-assets-2025"] },
+    { "term": "logo mais flat e simplificado", "lang": "pt", "kind": "cliche", "category": "identidade-visual", "replacement": "diga que traços reconhecíveis foram preservados e que problema técnico foi resolvido", "sources": ["src-murrell-age-of-average"] },
+    { "term": "som de campainha", "lang": "pt", "kind": "categoria", "category": "sonoro", "replacement": "derive o som de um gesto ou ritual próprio da marca", "sources": ["src-amp-best-audio-brands-2024", "src-amp-sound-of-uber"] },
+    { "term": "vai ficar melhor animado", "lang": "pt", "kind": "cliche", "category": "motion", "replacement": "resolva o design no estático e defina por que e como a marca se move", "sources": ["src-creativeboom-motion-first-dia-buck-2025"] }
+  ]
+}

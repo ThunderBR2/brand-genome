@@ -1,0 +1,4202 @@
+{
+ "batch": "brasil",
+ "sources": [
+  {
+   "id": "src-kantar-brandz-brasil-2026",
+   "title": "Kantar BrandZ: as 50 marcas brasileiras mais valiosas 2026 (relatório em PT)",
+   "url": "https://static.poder360.com.br/uploads/2026/08/Kantar_BrandZ_Brazil_2026_Report_PT.pdf",
+   "author": "Kantar (autora Jo Bowman; Graham Staplehurst, Peter Aitken, Fernanda Bassanello, Yulia Kalner)",
+   "year": 2026,
+   "format": "pdf",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "misto",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Ranking das 50 marcas brasileiras mais valiosas (US$ 101,1 bi, +22% em 2 anos; Itaú, Nubank e Claro no topo) e explicação do modelo MDS: marcas crescem quando são Significativas, Diferentes e Salientes. Defende que Saliência Significativa gera demanda atual e Diferença Significativa gera poder de preço e demanda futura; traz o roteiro de 10 'Principais Objetivos de Marketing' e capítulos sobre consistência, confiança, marcas pequenas e criadores de conteúdo.",
+   "notes": "PDF de 39 páginas lido inteiro (texto). Metodologia proprietária da Kantar, que vende as ferramentas citadas: trate números como evidência de fornecedor. Gráficos de barras não foram extraídos como dados. Hospedado no Poder360; o relatório é distribuído gratuitamente pela Kantar."
+  },
+  {
+   "id": "src-bff-10-bedendo-2024",
+   "title": "Brands for Future #10: Marcos Bedendo, o branding contemporâneo (parte 1)",
+   "url": "https://brandsforfuture.substack.com/p/brands-for-future-10-marcos-bedendo",
+   "author": "Brands for Future (entrevista com Marcos Bedendo)",
+   "year": 2024,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Bedendo define marca como o resultado das experiências na cabeça das pessoas e branding como o ajuste entre o que a empresa é e o que sua comunidade precisa. Defende que stakeholders (fornecedores, investidores, colaboradores) entram na gestão de marca, que causas devem vir da comunidade da marca e não da pauta do momento, e que essência de marca simplifica decisões de negócio.",
+   "notes": "Texto integral aberto lido."
+  },
+  {
+   "id": "src-bff-11-bedendo-2024",
+   "title": "Brands for Future #11: Marcos Bedendo, o branding contemporâneo (parte 2)",
+   "url": "https://brandsforfuture.substack.com/p/brands-for-future-11-marcos-bedendo",
+   "author": "Brands for Future (entrevista com Marcos Bedendo)",
+   "year": 2024,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Segunda parte: senso crítico com dados (enquete não é pesquisa; amostra certa importa mais que volume), o debate branding x growth já resolvido por Aaker nos anos 80, diferenças entre branding de startup (mais interno, centrado no fundador) e de grandes empresas, e como o valor de marca aparece em preço relativo, frequência e custo de aquisição.",
+   "notes": "Texto integral aberto lido."
+  },
+  {
+   "id": "src-bedendo-exame-jaguar-2024",
+   "title": "Jaguar: um rebranding que ignorou a essência da marca",
+   "url": "https://exame.com/marketing/jaguar-um-rebranding-que-ignorou-a-essencia-da-marca/",
+   "author": "Marcos Bedendo (Exame)",
+   "year": 2024,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Usa o rebrand da Jaguar para separar identidade nuclear (inegociável) de identidade estendida (ajustável) e branding estético de branding estratégico; argumenta que trocar logo não é rebranding e que evoluir deve ser desdobramento do legado, não ruptura.",
+   "notes": "Ano inferido pelo evento (rebrand de nov/2024). Lido inteiro."
+  },
+  {
+   "id": "src-bedendo-exame-brahma-nike-2026",
+   "title": "A Brahma entendeu o Brasil que a Nike esqueceu",
+   "url": "https://exame.com/marketing/a-brahma-entendeu-o-brasil-que-a-nike-esqueceu/",
+   "author": "Marcos Bedendo (Exame)",
+   "year": 2026,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "cultural",
+   "evidence": "caso",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Compara o filme da Brahma para a Copa 2026 ('Tá liberado acreditar') com a campanha da Nike para a Seleção: a Brahma representou o Brasil cotidiano em que já tem legitimidade (boteco, rua, torcida); a Nike tentou impor uma estética global que soou como fantasia de Brasil.",
+   "notes": "Lido inteiro. Opinião do colunista sobre peças recentes, sem dados de resultado."
+  },
+  {
+   "id": "src-bedendo-exame-fim-propaganda-2026",
+   "title": "O fim das marcas construídas pela propaganda — e o que vem depois",
+   "url": "https://exame.com/marketing/o-fim-das-marcas-construidas-pela-propaganda-e-o-que-vem-depois/",
+   "author": "Marcos Bedendo (Exame)",
+   "year": 2026,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "cultural",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Argumenta, com McCracken, que significado de marca nasce na cultura e a propaganda só o organiza e amplifica. Casos como 'Não é assim uma Brastemp' e 'Bombril 1001 utilidades' viraram linguagem porque juntavam promessa clara, expectativa cultural prévia e repetição massiva numa mídia concentrada, condição que não existe mais.",
+   "notes": "Lido o trecho aberto (artigo longo; final parcialmente lido)."
+  },
+  {
+   "id": "src-bedendo-exame-aaker-performance-2026",
+   "title": "David Aaker e a 'droga chamada performance marketing'",
+   "url": "https://exame.com/marketing/david-aaker-e-a-droga-chamada-performance-marketing/",
+   "author": "Marcos Bedendo (Exame), entrevista com David Aaker",
+   "year": 2026,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Primeira parte da conversa com Aaker: marca é ativo que sustenta a estratégia futura; lealdade é mais que problema de comunicação; o curto-prazismo ganhou roupagem respeitável no performance marketing e pode destruir valor de longo prazo.",
+   "notes": "Lido o trecho aberto."
+  },
+  {
+   "id": "src-bedendo-exame-aaker-ia-2026",
+   "title": "A IA tornou mais fácil criar marcas e mais difícil fazê-las relevantes",
+   "url": "https://exame.com/marketing/a-ia-tornou-mais-facil-criar-marcas-e-mais-dificil-faze-las-relevantes/",
+   "author": "Marcos Bedendo (Exame), entrevista com David Aaker",
+   "year": 2026,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Segunda parte: a tecnologia barateou criar marca e multiplicou a disputa por atenção; histórias muito boas podem ser lembradas sem a marca, por isso são necessárias 'âncoras de memória'; fazer algo relevante convence mais que dizer.",
+   "notes": "Lido o trecho aberto."
+  },
+  {
+   "id": "src-bedendo-exame-aaker-proposito-2026",
+   "title": "Por que propósito não é filantropia, mas uma forma de construir valor",
+   "url": "https://exame.com/marketing/por-que-proposito-nao-e-filantropia-mas-uma-forma-de-construir-valor/",
+   "author": "Marcos Bedendo (Exame), entrevista com David Aaker",
+   "year": 2026,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Terceira parte: Aaker defende programas sociais que gerem ao mesmo tempo impacto e força de marca (caso Thrivent + Habitat for Humanity, com clientes participando) e rejeita a ideia de que ganho de marca torna a ação ilegítima.",
+   "notes": "Lido o trecho aberto."
+  },
+  {
+   "id": "src-bedendo-exame-ceo-2026",
+   "title": "A mordida do CEO não é só meme. Ela é crise de governança de marca",
+   "url": "https://exame.com/marketing/a-mordida-do-ceo-nao-e-so-meme-ele-e-crise-de-governanca-de-marca/",
+   "author": "Marcos Bedendo (Exame)",
+   "year": 2026,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "caso",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "A partir do vídeo do CEO do McDonald's provando o Big Arch, defende que o CEO é porta-voz que legitima estratégia para vários stakeholders e que credibilidade vem de coerência demonstrada, não de declarações; contrasta com o vídeo do CEO do Burger King e com Warren Buffett e Coca-Cola.",
+   "notes": "Lido o trecho aberto."
+  },
+  {
+   "id": "src-anacouto-agfeed-ondas",
+   "title": "Sem cultura de branding, agro sofre para fazer suas marcas saírem da casca",
+   "url": "https://agfeed.com.br/negocios/sem-cultura-de-branding-agro-sofre-para-fazer-suas-marcas-sairem-da-casca",
+   "author": "AgFeed (entrevista com Ana Couto)",
+   "year": null,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Apresenta as três 'ondas de valor' de Ana Couto (Produto, Pessoas, Propósito), a crítica ao foco excessivo no curto prazo e na publicidade, e casos da agência (Raízen, Happy Eggs/Mantiqueira). Traz dados da pesquisa Branding Brasil da agência (só 7% citam o agro como marca que representa o país).",
+   "notes": "Ano não informado na página (contemporâneo ao livro 'A (R)Evolução do Branding'). Dados da própria agência: não independentes. Valometry só foi lido no nível da página pública."
+  },
+  {
+   "id": "src-anacouto-ondas-branding-2021",
+   "title": "Ana Couto lança ferramenta para diagnosticar performance de branding",
+   "url": "https://grandesnomesdapropaganda.com.br/agencias/ana-couto-lanca-ferramenta-para-diagnosticar-performance-de-branding/",
+   "author": "Grandes Nomes da Propaganda",
+   "year": 2021,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "framework",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Notícia sobre a ferramenta 'Ondas de Branding', que avalia o papel de marca, negócio e comunicação em três níveis de performance (Produto, Pessoas e Propósito), a partir da percepção dos públicos interno e externo.",
+   "notes": "Texto de imprensa baseado em release."
+  },
+  {
+   "id": "src-anacouto-marca-brasil",
+   "title": "Ana Couto busca entender como marcas e pessoas podem construir mais valor para o Brasil",
+   "url": "https://marcaspelomundo.com.br/agencias/ana-couto-busca-entender-como-marcas-e-pessoas-podem-construir-mais-valor-para-o-brasil/",
+   "author": "Marcas pelo Mundo",
+   "year": null,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Estudo da agência Ana Couto sobre a 'marca Brasil' usando o Valometry: 5 comunidades online (150 pessoas), social listening (600 mil tweets) e quanti com 2.500 pessoas. Achados: a imagem da instituição Brasil é pior que a do brasileiro (71% acham que o brasileiro faz qualquer coisa quando se une), jovens mais desvinculados dos símbolos nacionais, e saudade de usar as cores do país.",
+   "notes": "Ano não informado; pesquisa da própria agência (não independente). Usado como contexto cultural, não como prova de eficácia."
+  },
+  {
+   "id": "src-mdm-anacouto-revolucao-2023",
+   "title": "É necessário revolucionar o branding para evoluir a criação de valor, afirma Ana Couto",
+   "url": "https://mundodomarketing.com.br/e-necessario-revolucionar-o-branding-para-evoluir-a-criacao-de-valor-afirma-ana-couto",
+   "author": "Mundo do Marketing",
+   "year": 2023,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Cobertura da palestra de 30 anos da agência: branding como geração de valor, não troca de identidade; marcas devem ter impacto positivo no ecossistema e fidelizar por proposta de valor, não por modismo.",
+   "notes": "Matéria curta, mais declaratória que metodológica. Ano inferido (30 anos da agência fundada em 1993)."
+  },
+  {
+   "id": "src-valometry-site",
+   "title": "Valometry (site da ferramenta)",
+   "url": "https://valometry.com.br/",
+   "author": "Agência Ana Couto",
+   "year": null,
+   "format": "guia-web",
+   "language": "pt",
+   "access": "cadastro",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "framework",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Página pública da plataforma de gestão de branding da Ana Couto: indicador Branding Value Score (BVS), desempenho nas Ondas de Valor, funil de conversão, importância de atributos e 'Disaster Check' para lançamentos.",
+   "notes": "Só a página pública; o método completo exige cadastro/contratação. Conteúdo comercial."
+  },
+  {
+   "id": "src-mm-troiano-marcas-de-valor-gente-2023",
+   "title": "Marcas de valor entendem de gente",
+   "url": "https://www.meioemensagem.com.br/patrocinado/troianobranding/marcas-de-valor-entendem-de-gente",
+   "author": "Meio & Mensagem (conteúdo patrocinado TroianoBranding)",
+   "year": 2023,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "opiniao-especialista",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Apresenta a premissa da TroianoBranding: branding começa em entender gente além do discurso (o consumidor diz o que pensa e faz o que sente), distingue missão (o que faz), valores (como faz) e propósito (razão de existir) e resume a metodologia Rota do So(u)l; cita os casos Cobasi e Assaí.",
+   "notes": "Post patrocinado: resultados e cases são autodeclarados."
+  },
+  {
+   "id": "src-mm-troiano-proposito-geracoes",
+   "title": "Por um propósito que permeie gerações",
+   "url": "https://www.meioemensagem.com.br/patrocinado/troianobranding/por-um-proposito-que-permeie-geracoes",
+   "author": "Meio & Mensagem (conteúdo patrocinado TroianoBranding)",
+   "year": null,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "caso",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Defende que empresas familiares brasileiras, por pensarem no longo prazo, têm na marca e no propósito um ativo central; cita casos de Ypê/Química Amparo e Caedu, cujo propósito virou frase e cartilha para comunicação e integração de colaboradores.",
+   "notes": "Post patrocinado; ano não informado."
+  },
+  {
+   "id": "src-dc-troiano-rota-do-soul-2019",
+   "title": "Propósito tem grande importância no universo dos negócios",
+   "url": "https://diariodocomercio.com.br/?p=213604",
+   "author": "Diário do Comércio (sobre o livro de Cecília e Jaime Troiano)",
+   "year": 2019,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "framework",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Resenha do livro 'Qual é o seu Propósito?', que descreve a Rota do Soul em três etapas: escavar origens e talentos e cruzar com necessidades da sociedade; sintetizar em uma frase e um manifesto; disseminar com ações, embaixadores internos e materiais.",
+   "notes": "Resenha jornalística, não o livro."
+  },
+  {
+   "id": "src-mm-brandpedia-troiano-2024",
+   "title": "Brandpedia: construindo marcas fortes (série de podcast)",
+   "url": "https://www.meioemensagem.com.br/patrocinado/troianobranding/brandpedia-construindo-marcas-fortes",
+   "author": "Meio & Mensagem Content Lab + TroianoBranding",
+   "year": 2024,
+   "format": "podcast",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "opiniao-especialista",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Página da série de três episódios (arquétipos, naming e ESG) com Jaime Troiano e Cecília Russo; anuncia que eles defendem os arquétipos contra críticos, discutem troca de nome de negócios estabelecidos e posicionam o branding como aliado da cultura ESG (capitalismo consciente).",
+   "notes": "Apenas a página descritiva foi lida; os áudios não foram transcritos. Patrocinado."
+  },
+  {
+   "id": "src-troianobranding-blog",
+   "title": "Blog e artigos da TroianoBranding",
+   "url": "https://www.troianobranding.com/",
+   "author": "TroianoBranding",
+   "year": null,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "proposito",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": false,
+   "summary": "Não dissecado.",
+   "notes": "O relatório de fontes registra que o site bloqueia leitores automáticos (robots); a checagem a partir deste ambiente não retornou o arquivo. Respeitado: não contornado. Leitura manual recomendada."
+  },
+  {
+   "id": "src-pob-narrativas-lemas-2024",
+   "title": "Praticando o Branding #48: Narrativas e lemas de marca na prática",
+   "url": "https://praticandoobranding.substack.com/p/narrativas-e-lemas-de-marca-na-pratica",
+   "author": "Paulo Lima (Praticando o Branding)",
+   "year": 2024,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "verbal",
+   "evidence": "framework",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Separa estratégia de marca (DNA, personalidade, arquétipo, posicionamento, propósito; dura 5 anos ou mais) de expressão (visual, verbal, sensorial; flexível). Narrativas são recortes da essência; cada narrativa ganha lemas específicos por uso (comunicação, propostas comerciais, aulas).",
+   "notes": "Inclui divulgação de workshop do autor."
+  },
+  {
+   "id": "src-pob-awareness-cascata-2024",
+   "title": "Praticando o Branding #49: O efeito cascata de campanhas de brand awareness",
+   "url": "https://praticandoobranding.substack.com/p/o-efeito-cascata-de-campanhas-de",
+   "author": "Paulo Lima (Praticando o Branding)",
+   "year": 2024,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Questiona a divisão 'awareness é marca, conversão é performance': campanhas de conhecimento com conteúdo que junta dores do consumidor e atributos da marca podem melhorar todas as métricas do funil. Distingue lembrança espontânea de reconhecimento.",
+   "notes": "Sem dados próprios; argumento de praticante."
+  },
+  {
+   "id": "src-pob-arquetipos-manifestacoes-2023",
+   "title": "Praticando o Branding #45: Além dos 12, como os arquétipos nos inspiram a múltiplas narrativas",
+   "url": "https://praticandoobranding.substack.com/p/alem-dos-12-como-os-arquetipos-nos",
+   "author": "Paulo Lima (Praticando o Branding)",
+   "year": 2023,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "verbal",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Propõe usar arquétipos como pontes para manifestações culturais (ex.: Inocente como pureza, nostalgia, idealismo, natureza) e não como rótulo de personalidade; critica a multiplicação de 'novos arquétipos'.",
+   "notes": ""
+  },
+  {
+   "id": "src-pob-pos-ano-do-branding-2024",
+   "title": "Praticando o Branding #47: O que vem depois do ano do branding",
+   "url": "https://praticandoobranding.substack.com/p/o-que-vem-depois-do-ano-do-branding",
+   "author": "Paulo Lima (Praticando o Branding)",
+   "year": 2024,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Prevê a passagem de projetos de construção para projetos de implementação acompanhada, mais foco em métricas que conectem branding a resultados, IA como ferramenta de método e autenticidade como fonte de criatividade.",
+   "notes": ""
+  },
+  {
+   "id": "src-pob-indice-64",
+   "title": "Praticando o Branding: índice das 64 edições",
+   "url": "https://praticandoobranding.substack.com/p/newsletters-anteriores",
+   "author": "Paulo Lima (Praticando o Branding)",
+   "year": 2025,
+   "format": "guia-web",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": false,
+   "summary": "Índice com os títulos das 64 edições (identidade verbal, espectro de tom de voz, plataforma de marca, manifesto, entregáveis, 15 perguntas de brand equity, diferenciação x distintividade etc.).",
+   "notes": "Só 8 edições estão hospedadas no Substack; as demais aparecem apenas como título sem link no índice (a newsletter migrou de plataforma e voltou). Edições #50, #53, #57, #58, #59, #60 e #62 NÃO foram lidas; nada delas foi usado além dos títulos."
+  },
+  {
+   "id": "src-internext-2023-crise-identidade",
+   "title": "Middle-age brand identity crisis (Crise de meia-idade da identidade de marca)",
+   "url": "https://internext.espm.br/internext/article/view/719",
+   "author": "Antonio Pedro Cruz Costa Alves, Fabiano Rodrigues, Vivian Iara Strehlau (ESPM), Internext v.18 n.2",
+   "year": 2023,
+   "format": "paper",
+   "language": "en",
+   "access": "livre",
+   "license": "CC BY 4.0",
+   "school": "academica",
+   "evidence": "meta-analise",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Revisão sistemática de 67 artigos (1990-2021, 24 periódicos de topo) que identifica 5 correntes e conclui que não há consenso sobre o que é identidade de marca. Propõe núcleo (essência) + identidade estendida (personalidade, relacionamento/comunidade, elementos/simbologia, cultura/mitos/narrativas), uma estrutura em camadas (organização, identidade, posicionamento, resultados) e uma taxonomia 2x3 (complexidade x tangibilidade).",
+   "notes": "PDF integral (inglês) lido."
+  },
+  {
+   "id": "src-rae-2000-louro",
+   "title": "Modelos de avaliação de marca",
+   "url": "https://www.redalyc.org/pdf/1551/155118191003.pdf",
+   "author": "Maria João Soares Louro (RAE/FGV v.40 n.2)",
+   "year": 2000,
+   "format": "paper",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "academica",
+   "evidence": "framework",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Sintetiza conceitos de brand equity (Aaker, Srivastava & Shocker, Feldwick) e organiza medidas em indiretas de input, diretas (notoriedade, associação/diferenciação, qualidade percebida, lealdade) e indiretas de output (mercado). Aponta o preço-prêmio como talvez a melhor medida isolada e alerta que participação de mercado é sensível a promoções.",
+   "notes": "Lidas as páginas principais (até medidas de mercado); seção final sobre BAV/EquiTrend/Interbrand lida parcialmente."
+  },
+  {
+   "id": "src-rac-2007-leao-lov",
+   "title": "Compreendendo os valores das marcas: aplicação da Lista de Valores em diferentes indústrias",
+   "url": "https://www.redalyc.org/pdf/840/84011203.pdf",
+   "author": "André Leão, Arcanjo de Souza Neto, Sérgio Mello (RAC v.11 n.2)",
+   "year": 2007,
+   "format": "paper",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "academica",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Aplica a Lista de Valores (LOV) a 6 marcas brasileiras de moda, aviação (TAM, Gol) e supermercados (Pão de Açúcar, Bompreço), com 296 respondentes no Recife. Em cada setor um mesmo valor lidera para todas as marcas (ex.: segurança/ser respeitado na aviação) e os valores se agrupam em dois fatores (orientados ao superego e ao id).",
+   "notes": "Amostra local e de conveniência; dados de 2004."
+  },
+  {
+   "id": "src-read-2011-oliveira-luce",
+   "title": "O valor da marca: conceitos, abordagens e estudos no Brasil",
+   "url": "https://www.scielo.br/j/read/a/nbW89bpnytsVRVYFGj69gHd/",
+   "author": "Marta Olivia Rovedder de Oliveira e Fernando Bins Luce (REAd v.17 n.2)",
+   "year": 2011,
+   "format": "paper",
+   "language": "pt",
+   "access": "livre",
+   "license": "CC BY",
+   "school": "academica",
+   "evidence": "meta-analise",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Revisa conceitos de valor da marca (perspectivas do consumidor e da firma/financeira) e levanta a produção brasileira: pesquisa incipiente, majoritariamente teórica, sem estudos que combinem visão do consumidor e dados financeiros.",
+   "notes": "Lido via SciELO (o link SEER UFRGS não respondeu)."
+  },
+  {
+   "id": "src-vozza-ufsc-2026",
+   "title": "Vozza: sistematização da identidade verbal em projetos de marcas (tese)",
+   "url": "https://repositorio.ufsc.br/handle/123456789/276608",
+   "author": "Elcio Ribeiro da Silva (PPGDesign UFSC; orient. Giselle Merino)",
+   "year": 2026,
+   "format": "paper",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "verbal",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Tese que organiza 17 elementos verbais (propósito, missão, visão, valores, princípios, conceito, personas, arquétipos, posicionamento, DNA, tom de voz, naming, tagline, manifesto, narrativa, storytelling, storydoing) em níveis estratégico/tático/operacional, foco interno/externo e tangibilidade, testado com empreendedores de Joinville. Tom de voz e posicionamento foram os mais fáceis; manifesto, storydoing, DNA e arquétipos os mais difíceis.",
+   "notes": "Lidos resumo, quadro de classificação e resultados da avaliação. Pesquisa-ação qualitativa com amostra pequena."
+  },
+  {
+   "id": "src-cmc-rocha-retorica-capital",
+   "title": "A nova retórica do grande capital: a publicidade brasileira entre o neoliberalismo e a democratização",
+   "url": "https://revistacmc.espm.br/revistacmc/article/download/13/13/13",
+   "author": "Maria Eduarda da Mota Rocha (Comunicação, Mídia e Consumo / ESPM)",
+   "year": null,
+   "format": "paper",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "academica",
+   "evidence": "caso",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Analisa anúncios brasileiros das décadas de 1980 a 2000 e mostra a troca dos 'conceitos' de status e tecnologia por 'qualidade de vida' e 'responsabilidade social', sobretudo em bancos e automóveis (Itaú, Bradesco, Banco Real). Explica a origem histórica de vários clichês de humanização ainda em uso.",
+   "notes": "Ano exato não confirmado (artigo dos anos 2000; entrevistas citadas de 2002). Lidos introdução e seção sobre bancos."
+  },
+  {
+   "id": "src-decreto-9756-2019",
+   "title": "Decreto nº 9.756/2019: institui o portal único gov.br",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d9756.htm",
+   "author": "Presidência da República",
+   "year": 2019,
+   "format": "guia-web",
+   "language": "pt",
+   "access": "livre",
+   "license": "dominio-publico",
+   "school": "identidade-design",
+   "evidence": "guia-oficial",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Unifica portais e apps do Executivo federal sob o domínio raiz gov.br, veda novos domínios e apps sem autorização prévia e determina que a comunicação de utilidade pública faça referência exclusiva ao portal único.",
+   "notes": "Texto legal integral lido."
+  },
+  {
+   "id": "src-govbr-kit-unificacao",
+   "title": "Kit de boas-vindas: Projeto de Unificação de Canais Digitais (gov.br)",
+   "url": "https://www.gov.br/inpi/pt-br/governanca/ouvidoria/arquivos/documentos/apresentacao-kit-govbr-inpi-canaidigitais.pdf",
+   "author": "Secretaria de Governo Digital (Ministério da Economia)",
+   "year": 2019,
+   "format": "pdf",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "identidade-design",
+   "evidence": "guia-oficial",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Apresentação do projeto que padroniza a forma como o cidadão consome serviços em sites e apps do governo: objetivo de 'experiência única', design system com princípios, grids, cores, tipografia, componentes e guia editorial, divisão de papéis (SGD, SECOM, SERPRO) e cronograma do decreto.",
+   "notes": "86 lâminas, lidas em texto. Ano aproximado pelo cronograma do decreto."
+  },
+  {
+   "id": "src-cade-guia-portal-2023",
+   "title": "Guia de gestão de conteúdo do portal do Cade 1.0",
+   "url": "https://cdn.cade.gov.br/ascom/2023/Guia%20para%20o%20portal%20do%20Cade.pdf",
+   "author": "Ascom/Cade",
+   "year": 2023,
+   "format": "pdf",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "identidade-design",
+   "evidence": "guia-oficial",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Mostra como um órgão aplica a lógica do gov.br: 'o governo é um só', serviços com mesmos padrões estruturais e visuais para dar confiança e reduzir curva de aprendizado; lista os manuais de diretrizes, publicação, SEO, uso da marca e acessibilidade (eMag).",
+   "notes": ""
+  },
+  {
+   "id": "src-govbr-ds",
+   "title": "Padrão Digital de Governo (Design System gov.br)",
+   "url": "https://www.gov.br/ds/",
+   "author": "SERPRO / Governo federal",
+   "year": null,
+   "format": "guia-web",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "identidade-design",
+   "evidence": "guia-oficial",
+   "sponsored": false,
+   "dissected": false,
+   "summary": "Não dissecado (só metadados).",
+   "notes": "Página renderizada por JavaScript; nem curl nem WebFetch retornaram o corpo. Conteúdo coberto indiretamente pelo kit de unificação e pelo guia do Cade."
+  },
+  {
+   "id": "src-mec-miv",
+   "title": "Manual de identidade visual do MEC",
+   "url": "https://www.gov.br/mec/pt-br/centrais-de-conteudo/marcas/manual-identidade-visual.pdf",
+   "author": "Ministério da Educação",
+   "year": null,
+   "format": "pdf",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "identidade-design",
+   "evidence": "guia-oficial",
+   "sponsored": false,
+   "dissected": false,
+   "summary": "Não dissecado.",
+   "notes": "O servidor devolveu a página 'Acesso temporariamente interrompido'."
+  },
+  {
+   "id": "src-sebrae-gestao-marca-2026",
+   "title": "Documento de Referência: Processo Nacional Gestão da Marca (Sebrae, DRF 2027)",
+   "url": "https://datasebrae.com.br/wp-content/uploads/2026/08/DRF-2027_Processo-Nacional-Gestao-da-Marca_20.08.26.pdf-manifesto.pdf",
+   "author": "Sebrae, Unidade de Comunicação",
+   "year": 2026,
+   "format": "pdf",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "identidade-design",
+   "evidence": "guia-oficial",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Mostra como uma rede federativa (27 Sebraes estaduais) governa a marca: um mesmo repertório verbal e visual em todo o sistema, brandbook como referência inclusive em parcerias, meta obrigatória no Índice de Imagem junto à Sociedade, relatório anual vinculando ações a pilares e atributos e suspensão de quem não presta contas.",
+   "notes": "Documento interno publicado no DataSebrae; 9 páginas lidas."
+  },
+  {
+   "id": "src-mdm-bicudo-picos-2026",
+   "title": "Marcas fortes não solucionam todas as dores, elas constroem fortes picos de emoção",
+   "url": "https://mundodomarketing.com.br/marcas-fortes-nao-solucionam-todas-as-dores-elas-constroem-fortes-picos-de-emocao",
+   "author": "Marcelo Bicudo (Design Bridge / WPP), Mundo do Marketing",
+   "year": 2026,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "comportamental",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Critica a obsessão por remover fricção: jornadas iguais reduzem diferenciação. Usa a regra pico-fim de Kahneman para defender que a marca escolha onde criar picos memoráveis e não só conforto.",
+   "notes": "Opinião de executivo de agência; dados citados (Disney+) de terceiros."
+  },
+  {
+   "id": "src-mdm-petra-2026",
+   "title": "Petra reposiciona marca e leva brasilidade ao segmento premium de cervejas",
+   "url": "https://mundodomarketing.com.br/petra-reposiciona-marca-e-leva-brasilidade-ao-segmento-premium-de-cervejas",
+   "author": "Mundo do Marketing",
+   "year": 2026,
+   "format": "case",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "identidade-design",
+   "evidence": "caso",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Reposicionamento da Petra (Grupo Petrópolis, agência anacouto) com o conceito 'premium à brasileira', contra a convenção de que premium em cerveja é europeu; preserva o sol histórico e aplica o sistema a embalagem, PDV e uniformes.",
+   "notes": "Baseado em release; sem resultados."
+  },
+  {
+   "id": "src-mm-edelman-2026-marcas",
+   "title": "O que faz uma marca ser escolhida pelos consumidores? (Edelman Trust Barometer 2026, relatório especial)",
+   "url": "https://www.meioemensagem.com.br/marketing/o-que-faz-uma-marca-ser-escolhida-pelos-consumidores",
+   "author": "Meio & Mensagem sobre Edelman",
+   "year": 2026,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "misto",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Dados do Brasil (1.200 entrevistas): 91% dizem que confiar na marca é importante ou decisivo; 86% querem marcas que combinem com quem são; 75% valorizam sede no Brasil (+15 p.p. vs 2023); entre os de 'mentalidade insular', 53% confiam mais no que terceiros não pagos dizem e 22% no que a marca diz; 44% dos que seguem criadores experimentaram marca nova por indicação deles.",
+   "notes": "Cobertura jornalística; relatório original da Edelman não lido. Pesquisa declarativa online."
+  },
+  {
+   "id": "src-mm-edelman-2025-confianca",
+   "title": "Brasileiros se ressentem com a mídia e governo, mas confiam nas empresas (Edelman 2025)",
+   "url": "https://www.meioemensagem.com.br/marketing/brasileiros-se-ressentem-com-a-midia-e-governo-mas-confiam-nas-empresas",
+   "author": "Meio & Mensagem sobre Edelman",
+   "year": 2025,
+   "format": "artigo",
+   "language": "pt",
+   "access": "livre",
+   "license": "copyright",
+   "school": "misto",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "No Brasil, empresas são a única instituição vista como confiável (governo 39%, mídia 46%); desconfiança em líderes governamentais chega a 76%; confiança no empregador caiu de 82% para 77%.",
+   "notes": "Cobertura jornalística do estudo."
+  }
+ ],
+ "principles": [
+  {
+   "id": "pricing-power-brand",
+   "title": "Diferença significativa é o que sustenta preço",
+   "statement": "Construa um diferencial que as pessoas valorizem, porque é ele (e não só ser lembrada) que permite cobrar mais e crescer no futuro.",
+   "why": "No modelo Kantar, Saliência Significativa explica a demanda atual e Diferença Significativa explica o poder de preço e a demanda futura; o estudo com a Saïd Business School (Oxford) apontou a Diferença como a dimensão que mais contribuiu para retornos acima do esperado. No Top 50 Brasil 2026 a Diferença é a alavanca mais fraca (índice médio 106). Na academia brasileira, o preço-prêmio é apontado como talvez a melhor medida isolada de equity, e Bedendo propõe medir marca pelo preço relativo e pelo custo de conquistar cliente.",
+   "how": [
+    "Liste o que a marca oferece que a categoria não oferece (produto, serviço, modelo, garantia, rede) e teste se o público valoriza cada item.",
+    "Verifique se a diferença é compreendida, não só existente: comunique-a com ativos reconhecíveis.",
+    "Acompanhe preço relativo à concorrência e frequência de promoção como termômetro da diferença percebida."
+   ],
+   "tests": [
+    "A marca consegue dizer em uma frase o que oferece que os concorrentes diretos não oferecem?",
+    "A marca precisa de desconto recorrente para vender (sinal de diferença fraca)?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "posicionamento",
+    "equity-medicao"
+   ],
+   "stage": [
+    "posicionamento",
+    "diagnostico"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "pp. 10-11, 26-29 'Hora de ser Diferente'",
+     "paraphrase": "Diferença Significativa sustenta preço e demanda futura; é a alavanca mais fraca do Top 50 brasileiro.",
+     "quote": "O diferencial desafia uma simples comparação de preços."
+    },
+    {
+     "id": "src-rae-2000-louro",
+     "locator": "seção 'Medidas de lealdade'",
+     "paraphrase": "O preço-prêmio capta lealdade e pode ser a melhor medida individual de brand equity."
+    },
+    {
+     "id": "src-bff-11-bedendo-2024",
+     "locator": "pergunta sobre valor das marcas",
+     "paraphrase": "Valor de marca aparece no preço cobrado em relação aos concorrentes e no custo de conquistar cliente."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness"
+   ],
+   "cases": [
+    "case-nubank-brasil-2026",
+    "case-localiza-preco-premium"
+   ],
+   "contexts": "Vale em categorias saturadas e sensíveis a preço (bancos, telecom, varejo). A evidência principal é de fornecedor (Kantar) e é correlacional."
+  },
+  {
+   "id": "brand-salience",
+   "title": "Saliência sozinha não basta: precisa vir acompanhada de significado",
+   "statement": "Trabalhe para a marca vir à mente nas situações de compra, mas com associações relevantes e não apenas com nome conhecido.",
+   "why": "A Kantar mede Saliência como vir à mente rapidamente quando a pessoa pensa na categoria ou tem a necessidade, e afirma que disponibilidade mental vai além de conhecimento de nome: depende da relevância, força e equilíbrio das associações. Marcas com 'equity extra' (percepção acima do tamanho) crescem mais rápido. Praticantes brasileiros lembram que lembrança espontânea e reconhecimento são coisas diferentes.",
+   "how": [
+    "Mapeie as situações (categoria, necessidade, ocasião) em que a marca deveria ser lembrada.",
+    "Meça lembrança espontânea por situação e reconhecimento por ativo, separadamente.",
+    "Garanta que cada exposição deposite uma associação útil, não só o nome."
+   ],
+   "tests": [
+    "A marca sabe em quais situações de uso quer ser lembrada?",
+    "As métricas separam lembrança espontânea de reconhecimento?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ciencia-crescimento",
+    "equity-medicao"
+   ],
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "p. 11 e perspectiva 07",
+     "paraphrase": "Saliência é vir à mente na situação de escolha; disponibilidade mental exige associações fortes, não só reconhecimento do nome."
+    },
+    {
+     "id": "src-pob-awareness-cascata-2024",
+     "locator": "seção 'O que é brand awareness?'",
+     "paraphrase": "Distingue lembrança espontânea (por categoria, necessidade ou situação) de reconhecimento de elementos da marca."
+    },
+    {
+     "id": "src-rae-2000-louro",
+     "locator": "seção 'Medidas de notoriedade'",
+     "paraphrase": "Notoriedade se mede em memorização espontânea e reconhecimento assistido, com níveis diferentes por categoria."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-brahma-copa-2026"
+   ],
+   "contexts": "Geral. Em marcas pequenas a Kantar sugere começar pela diferença e deixar a saliência crescer com distribuição e mídia."
+  },
+  {
+   "id": "consistency-over-time",
+   "title": "Consistência paga na maior parte do tempo",
+   "statement": "Mantenha a mesma essência, promessa e códigos por anos; inove nos produtos e na expressão, não no que a marca representa.",
+   "why": "A Kantar relata vantagem de crescimento de 111% para marcas com percepções mais consistentes no tempo e entre mercados, e que as marcas globais sobreviventes de 2006 a 2025 tinham atributos estáveis; ideias coerentes e multicanal pesam 2,5 vezes mais no sucesso de campanha que há uma década (base LIFT+). Bedendo mostra que 'Não é assim uma Brastemp' e 'Bombril 1001 utilidades' viraram linguagem por décadas de repetição consistente.",
+   "how": [
+    "Escreva o que não muda (essência, promessa, ativos) e o que pode mudar (produtos, campanhas, tom por contexto).",
+    "Reveja toda campanha nova contra esse núcleo antes de aprovar.",
+    "Use dados de mercado para detectar rupturas reais, que são as únicas que justificam mudar o núcleo."
+   ],
+   "tests": [
+    "Existe um documento que separa o que é fixo do que é flexível na marca?",
+    "A promessa central da marca é a mesma de três anos atrás?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "gestao-governanca",
+    "ativos-distintivos"
+   ],
+   "stage": [
+    "plataforma",
+    "ativacao"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "pp. 30-31 e perspectiva 10",
+     "paraphrase": "Percepções consistentes no tempo e entre mercados dão vantagem de crescimento de 111%; consistência é recompensada salvo disrupção."
+    },
+    {
+     "id": "src-bedendo-exame-fim-propaganda-2026",
+     "locator": "casos Brastemp e Bombril",
+     "paraphrase": "Slogans viraram repertório cultural por promessa clara, expectativa prévia e repetição consistente por décadas."
+    },
+    {
+     "id": "src-pob-narrativas-lemas-2024",
+     "locator": "seção sobre iceberg",
+     "paraphrase": "Estratégia dura anos; expressão e narrativas podem ganhar versões sem mudar a estratégia."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-brahma-copa-2026",
+    "case-boticario-consistencia"
+   ],
+   "contexts": "Geral. Exceção: disrupção da categoria (ver objetivo 'Ganhar Tração' da Kantar)."
+  },
+  {
+   "id": "rebrand-keep-equity",
+   "title": "Rebrand evolui o legado, não troca de alma",
+   "statement": "Num rebrand, preserve a identidade nuclear e os ativos com memória; mude a identidade estendida para atualizar a marca.",
+   "why": "Bedendo usa a Jaguar como contraexemplo: abandonar o design marcante dos carros e o DNA aristocrático em favor de uma estética genérica alienou a base sem conquistar o novo público. Casos brasileiros bem avaliados preservam códigos históricos (o sol da Petra). A Kantar recomenda acrescentar ao legado de forma coerente quando a marca satura.",
+   "how": [
+    "Inventarie ativos com reconhecimento e associações positivas antes de propor mudança.",
+    "Classifique cada elemento como núcleo (manter) ou estendido (atualizar).",
+    "Teste a nova expressão com a base atual, não só com o público que se quer conquistar."
+   ],
+   "tests": [
+    "O projeto de rebrand lista quais ativos atuais serão preservados e por quê?",
+    "A mudança proposta é só de logo (re-logo) ou mexe em produto, experiência e posicionamento?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "identidade-visual",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativos"
+   ],
+   "school": "pratica",
+   "evidence": "caso",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-bedendo-exame-jaguar-2024",
+     "locator": "seção 'Identidade nuclear e identidade estendida'",
+     "paraphrase": "Rebrand que ignora a identidade nuclear compromete a essência e afasta quem fez a marca.",
+     "quote": "‘re-logo’ não é ‘rebranding’"
+    },
+    {
+     "id": "src-mdm-petra-2026",
+     "locator": "descrição da identidade",
+     "paraphrase": "O sol histórico foi preservado enquanto tipografia, paleta e embalagens foram reorganizadas."
+    },
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "p. 35 'Ganhar Tração'",
+     "paraphrase": "Ao saturar, renove acrescentando algo coerente com o legado."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-jaguar-2024",
+    "case-petra-2026"
+   ],
+   "contexts": "Vale para marcas com base e memória construídas; marcas sem equity têm menos a preservar."
+  },
+  {
+   "id": "brand-promise-delivery",
+   "title": "Confiança se constrói cumprindo o básico, toda vez",
+   "statement": "Trate a promessa da marca como contrato: produto, atendimento e resolução de problemas precisam entregá-la em todo contato.",
+   "why": "Kantar: empresas com alta confiança cresceram 115% mais na última década; em bancos, perceber que a marca se importa explica cerca de 25% da predisposição. Edelman 2026: 91% dos brasileiros dizem que confiar na marca é importante ou decisivo, perto de qualidade (92%) e atendimento (94%); a experiência direta é a principal forma de avaliar uma marca.",
+   "how": [
+    "Mapeie as falhas mais frequentes de entrega (atraso, atendimento, cobrança) e trate-as como problema de marca.",
+    "Não prometa na comunicação o que a operação não entrega hoje.",
+    "Inclua métricas de confiança e atendimento no painel de marca."
+   ],
+   "tests": [
+    "A promessa da marca é verificável na experiência de um cliente comum?",
+    "Atendimento e pós-venda estão sob a mesma diretriz de marca que a publicidade?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "experiencia",
+    "equity-medicao"
+   ],
+   "stage": [
+    "plataforma",
+    "ativacao"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "pp. 54-57 'Conquistando e mantendo a confiança'",
+     "paraphrase": "Confiança alta associada a 115% mais crescimento; nasce de cumprir promessas de forma consistente."
+    },
+    {
+     "id": "src-mm-edelman-2026-marcas",
+     "locator": "seção 'Identidade, confiança e origem'",
+     "paraphrase": "91% dos brasileiros consideram a confiança importante ou decisiva na compra; experiência direta é o principal critério."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-nubank-brasil-2026",
+    "case-localiza-preco-premium"
+   ],
+   "contexts": "Crítico em serviços (bancos, telecom, saúde, educação)."
+  },
+  {
+   "id": "brand-as-behaviour",
+   "title": "Marca é o que a empresa faz, não só o que comunica",
+   "statement": "Coloque a marca dentro das decisões de produto, preço, canal e experiência; se ela entra só na comunicação, chega tarde demais.",
+   "why": "Bedendo define marca como o resultado do conjunto de experiências na cabeça das pessoas e mostra (Natura) que coerência entre fornecedor, colaborador, produto e comunicação é o que separa marca de greenwashing. Com Aaker, argumenta que lealdade é problema de produto e experiência e que branding restrito à comunicação apenas maquia decisões já tomadas. Troiano: branding é verbo.",
+   "how": [
+    "Leve a essência de marca como critério para decisões de portfólio, patrocínio, parceiros e atendimento.",
+    "Para cada promessa, aponte qual prática operacional a comprova.",
+    "Dê ao gestor de marca mandato de negócio, não só de aplicação visual."
+   ],
+   "tests": [
+    "A marca participa da decisão de lançar ou cortar produtos?",
+    "Cada valor declarado tem um comportamento observável que o prova?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "estrategia",
+    "cultura-interna",
+    "experiencia"
+   ],
+   "stage": [
+    "plataforma",
+    "ativacao"
+   ],
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-bff-10-bedendo-2024",
+     "locator": "pergunta 3 (branding holístico)",
+     "paraphrase": "Marca é o conjunto de experiências na cabeça das pessoas; o caso Natura mostra coerência entre cadeia, colaboradores e comunicação."
+    },
+    {
+     "id": "src-bedendo-exame-aaker-performance-2026",
+     "locator": "seção sobre lealdade",
+     "paraphrase": "Quando branding fica restrito à comunicação, só tenta dar coerência a escolhas feitas sem considerar a marca."
+    },
+    {
+     "id": "src-mm-troiano-marcas-de-valor-gente-2023",
+     "locator": "citação de Cecília Troiano",
+     "paraphrase": "Branding começa em entender pessoas e precisa de ações, não só de discurso."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-natura-holistico"
+   ],
+   "contexts": "Geral; mais difícil em empresas onde 'branding' é um cargo de aplicação de logo."
+  },
+  {
+   "id": "purpose-must-be-operational",
+   "title": "Causa nasce da comunidade da marca e precisa de prática",
+   "statement": "Escolha causas que já existem na comunidade em que a marca vive e que o negócio consegue sustentar com recursos e comportamento, nunca a pauta do momento.",
+   "why": "Bedendo aponta como erro principal das empresas adotar a causa da moda em vez da causa da própria comunidade. Aaker (via Bedendo) defende programas sociais que gerem impacto e força de marca ao mesmo tempo, com clientes participando (Thrivent e Habitat for Humanity). A Rota do Soul (Troiano) cruza talentos da empresa com necessidades da sociedade e termina em ações e embaixadores internos.",
+   "how": [
+    "Liste as causas que clientes, colaboradores e fornecedores da marca já defendem.",
+    "Cruze com o que o negócio sabe fazer (talentos, cadeia, recursos).",
+    "Defina ação contínua com participação de clientes ou colaboradores e métrica de impacto além de 'quanto doamos'."
+   ],
+   "tests": [
+    "A causa escolhida tem relação com a cadeia, o produto ou a comunidade da marca?",
+    "Existe ação contínua (não só campanha) que comprova o propósito?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "narrativa-proposito",
+    "cultura-interna"
+   ],
+   "stage": [
+    "plataforma",
+    "narrativa"
+   ],
+   "school": "proposito",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-bff-10-bedendo-2024",
+     "locator": "resposta sobre causas",
+     "paraphrase": "Causas vêm da comunidade; o erro é pegar a pauta do momento.",
+     "quote": "Em muitos casos, a marca participa da comunidade, ela não é a comunidade."
+    },
+    {
+     "id": "src-bedendo-exame-aaker-proposito-2026",
+     "locator": "caso Thrivent",
+     "paraphrase": "Bom programa social produz impacto e impulso de marca ao mesmo tempo."
+    },
+    {
+     "id": "src-dc-troiano-rota-do-soul-2019",
+     "locator": "descrição das três etapas",
+     "paraphrase": "Propósito na interseção entre talentos da empresa e necessidades da sociedade, disseminado por ações e embaixadores."
+    }
+   ],
+   "conflictsWith": [
+    "purpose-value"
+   ],
+   "cases": [
+    "case-natura-holistico",
+    "case-dengo-diferencial"
+   ],
+   "contexts": "Mais forte em categorias funcionais em que o produto sozinho gera pouco envolvimento (Aaker)."
+  },
+  {
+   "id": "cultural-legitimacy-territory",
+   "title": "Marca interpreta cultura onde já tem legitimidade",
+   "statement": "Ao usar símbolos culturais (futebol, festa, brasilidade), represente a cultura como as pessoas a vivem e só nos territórios em que a marca já tem história.",
+   "why": "Bedendo, apoiado em McCracken, argumenta que significado nasce na cultura e a propaganda só o organiza; por isso a Brahma, com décadas no território do bar e da torcida, acertou o tom na Copa 2026, enquanto a Nike tentou impor uma leitura estética que soou artificial. A Kantar atribui à associação longa da Brahma com futebol e Carnaval sua diferenciação. Na Jaguar, forçar entrada em espaço cultural alheio afastou a base.",
+   "how": [
+    "Mapeie os territórios culturais em que a marca tem histórico comprovado.",
+    "Pesquise como o público vive aquele símbolo no cotidiano (não a versão de agência).",
+    "Descarte territórios em que a marca precisaria explicar por que está ali."
+   ],
+   "tests": [
+    "A marca precisaria justificar sua presença nesse território cultural?",
+    "A representação do Brasil na peça seria reconhecida por quem vive aquilo, ou parece fantasia?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "narrativa-proposito",
+    "posicionamento"
+   ],
+   "stage": [
+    "paisagem",
+    "narrativa"
+   ],
+   "school": "cultural",
+   "evidence": "caso",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-bedendo-exame-brahma-nike-2026",
+     "locator": "texto inteiro",
+     "paraphrase": "A Brahma representou o Brasil que já existe e tem legitimidade nesse território; a Nike tentou construir um Brasil que não existe."
+    },
+    {
+     "id": "src-bedendo-exame-fim-propaganda-2026",
+     "locator": "seção sobre McCracken",
+     "paraphrase": "A marca não origina a cultura: no máximo é intérprete competente dela."
+    },
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "p. 31 e perspectiva 07",
+     "paraphrase": "Associação longa da Brahma com futebol e celebração sustenta diferença e significado."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-brahma-copa-2026",
+    "case-nike-selecao-2026"
+   ],
+   "contexts": "Essencial no Brasil para futebol, Carnaval, festas regionais e símbolos nacionais."
+  },
+  {
+   "id": "brasilidade-sem-caricatura",
+   "title": "Brasilidade como diferencial, sem caricatura",
+   "statement": "Origem e cultura brasileiras podem ser diferencial (inclusive premium), desde que traduzidas em códigos específicos e reais, não em clichês de verde-amarelo.",
+   "why": "Edelman 2026: 75% dos brasileiros consideram importante ou decisivo que a marca tenha sede no Brasil (+15 p.p. desde 2023). A Kantar destaca a Farm Rio, que assume o 'Made in Brazil' com estética própria, e a Petra reposiciona o premium contra a convenção europeia usando referências concretas (Serra de Petrópolis, botequim, mureta da Urca). Estudo da Ana Couto indica que a instituição Brasil é vista pior que o brasileiro e que há saudade de usar os símbolos nacionais.",
+   "how": [
+    "Troque 'brasilidade' genérica por lugares, hábitos e falas específicos da origem da marca.",
+    "Verifique se o código escolhido atravessa gerações e regiões ou se é estereótipo de turista.",
+    "Use a origem como prova (ingrediente, território, gente), não como decoração."
+   ],
+   "tests": [
+    "A peça usa um código brasileiro específico (lugar, hábito, expressão) ou só cores e samba genérico?",
+    "A origem nacional sustenta um benefício real do produto?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "posicionamento",
+    "identidade-visual",
+    "identidade-verbal"
+   ],
+   "stage": [
+    "posicionamento",
+    "ativos"
+   ],
+   "school": "cultural",
+   "evidence": "caso",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-mm-edelman-2026-marcas",
+     "locator": "seção 'Identidade, confiança e origem nacional'",
+     "paraphrase": "75% valorizam marca com sede no Brasil, alta de 15 pontos desde 2023."
+    },
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "p. 28 (Farm Rio)",
+     "paraphrase": "Farm se diferencia com estética maximalista e orgulho do 'Made in Brazil'."
+    },
+    {
+     "id": "src-mdm-petra-2026",
+     "locator": "texto inteiro",
+     "paraphrase": "Petra propõe 'premium à brasileira' com referências territoriais concretas."
+    },
+    {
+     "id": "src-anacouto-marca-brasil",
+     "locator": "resultados",
+     "paraphrase": "Brasileiro é melhor avaliado que a instituição Brasil; símbolos nacionais preservados, mas pouco usados no dia a dia."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-petra-2026",
+    "case-brahma-copa-2026"
+   ],
+   "contexts": "Mercado brasileiro; cuidado com polarização no uso de bandeira e camisa da Seleção."
+  },
+  {
+   "id": "branded-memory-anchors",
+   "title": "Toda história precisa de âncora que leve à marca",
+   "statement": "Antes de buscar atenção, defina o que deve ficar na memória e amarre a história a ativos da marca; viral sem marca não constrói nada.",
+   "why": "Aaker (via Bedendo) alerta que histórias boas demais são lembradas sem a mensagem e propõe 'âncoras de memória' (assinaturas visuais ou sonoras). A Kantar mede que só 27% do conteúdo de criadores está fortemente vinculado à marca, enquanto conteúdo bem integrado supera em quase cinco vezes as referências de distinção.",
+   "how": [
+    "Defina a associação que cada peça deve deixar e o ativo que a carrega.",
+    "Inclua o ativo da marca no momento de pico da história, não só na assinatura final.",
+    "Em parcerias com criadores, combine limites claros e o ativo obrigatório, deixando a forma livre."
+   ],
+   "tests": [
+    "Se o logo fosse removido, alguém saberia de que marca é a peça?",
+    "A métrica de sucesso inclui lembrança de marca, não só visualizações?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "ativos-distintivos",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativos",
+    "ativacao"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-bedendo-exame-aaker-ia-2026",
+     "locator": "seção sobre memory anchors",
+     "paraphrase": "Campanha pode gerar milhões de visualizações sem deixar ativo útil; é preciso âncora de memória."
+    },
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "pp. 66-69 (criadores)",
+     "paraphrase": "Apenas 27% do conteúdo de criadores é fortemente vinculado à marca."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-brahma-copa-2026"
+   ],
+   "contexts": "Geral; crítico em conteúdo de criadores e campanhas de humor."
+  },
+  {
+   "id": "points-of-parity-difference",
+   "title": "O valor-chave da categoria é paridade, não diferencial",
+   "statement": "Identifique o valor que todas as marcas do setor já carregam (segurança na aviação, confiança no banco) e trate-o como mínimo; diferencie-se em outra dimensão.",
+   "why": "Leão, Souza Neto e Mello (RAC, 2007) mostraram, com 296 respondentes, que em cada setor um mesmo valor foi o mais importante para todas as marcas medidas (ex.: aviação), ou seja, o valor dominante da categoria não separa marcas. Diferenças apareceram nos valores secundários (o Bompreço somava valores de pertencimento ausentes no Pão de Açúcar).",
+   "how": [
+    "Pesquise qual valor o público atribui igualmente a todas as marcas da categoria.",
+    "Garanta paridade nesse valor e procure o diferencial nos valores secundários ou de relacionamento.",
+    "Evite construir o posicionamento só sobre o valor da categoria."
+   ],
+   "tests": [
+    "O posicionamento proposto poderia ser assinado por qualquer concorrente do setor?",
+    "A marca identificou qual valor é obrigatório (paridade) na sua categoria?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "posicionamento",
+    "publico"
+   ],
+   "stage": [
+    "paisagem",
+    "posicionamento"
+   ],
+   "school": "academica",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-rac-2007-leao-lov",
+     "locator": "resultados e implicações gerenciais",
+     "paraphrase": "Um mesmo valor lidera para todas as marcas de cada setor; as diferenças estão em valores secundários."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Amostra local (Recife, 2004); use como heurística para categorias maduras."
+  },
+  {
+   "id": "core-vs-extended-identity",
+   "title": "Separe núcleo de marca de expressão",
+   "statement": "Defina um núcleo estável (essência) e uma camada estendida mutável (personalidade, relacionamento, símbolos, narrativas) e decida mudanças sabendo em qual camada mexem.",
+   "why": "A revisão sistemática da ESPM (67 artigos) mostra que falta consenso sobre identidade de marca e propõe núcleo + identidade estendida. Bedendo usa a mesma distinção para criticar a Jaguar. Paulo Lima separa estratégia (dura 5 anos ou mais) de expressão (visual, verbal, sensorial, narrativas), e a tese Vozza organiza elementos verbais em níveis estratégico, tático e operacional.",
+   "how": [
+    "Escreva a essência em uma frase e liste o que é estendido.",
+    "Defina quem pode alterar cada camada e com que frequência.",
+    "Ao revisar a expressão, confira se ela ainda traduz o núcleo."
+   ],
+   "tests": [
+    "A plataforma de marca diferencia o que é núcleo do que é expressão?",
+    "Quem pode mudar o tom de voz pode também mudar a essência? (deveria ser não)"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "estrategia",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "plataforma"
+   ],
+   "school": "academica",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-internext-2023-crise-identidade",
+     "locator": "Figura 4, Tabela 6, Conclusão",
+     "paraphrase": "Identidade de marca tem núcleo (essência) e camada estendida (personalidade, relacionamento, simbologia, cultura e narrativas)."
+    },
+    {
+     "id": "src-bedendo-exame-jaguar-2024",
+     "locator": "seção sobre identidade nuclear",
+     "paraphrase": "Identidade nuclear é inegociável; a estendida se atualiza."
+    },
+    {
+     "id": "src-pob-narrativas-lemas-2024",
+     "locator": "exemplo do iceberg",
+     "paraphrase": "Estratégia sob a água e duradoura; expressão na ponta e flexível."
+    },
+    {
+     "id": "src-vozza-ufsc-2026",
+     "locator": "quadro de classificação",
+     "paraphrase": "Elementos verbais divididos em estratégico, tático e operacional."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-jaguar-2024"
+   ],
+   "contexts": "Geral."
+  },
+  {
+   "id": "research-right-people-not-volume",
+   "title": "Pesquisa é falar com as pessoas certas, não com muitas",
+   "statement": "Antes de usar um dado para decidir marca, confira quem respondeu, como foi coletado e quem coletou; enquete de site ou rede não representa o mercado.",
+   "why": "Bedendo explica que pesquisa eleitoral acerta com 2 mil entrevistas porque escolhe o público certo, enquanto enquetes com 300 mil votos erram por autosseleção; visitantes do site representam só visitantes do site. Prefere decidir sem dado a decidir com dado errado. A Troiano lembra que o consumidor diz o que pensa e faz o que sente.",
+   "how": [
+    "Exija descrição de amostra, método e perguntas de todo dado usado em plataforma de marca.",
+    "Combine o que as pessoas dizem com o que fazem (dados de comportamento, etnografia).",
+    "Desconfie de 'X% dos gestores dizem que...' sem amostra conhecida."
+   ],
+   "tests": [
+    "O diagnóstico de marca cita amostra e método de cada pesquisa usada?",
+    "Algum insight central vem de enquete em rede social ou formulário no site?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "publico",
+    "equity-medicao"
+   ],
+   "stage": [
+    "diagnostico",
+    "publico"
+   ],
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-bff-11-bedendo-2024",
+     "locator": "resposta sobre senso crítico",
+     "paraphrase": "Amostra certa importa mais que volume; enquete não é pesquisa.",
+     "quote": "enquete é que nem rifa, só compra quem é seu amigo"
+    },
+    {
+     "id": "src-mm-troiano-marcas-de-valor-gente-2023",
+     "locator": "seção 'Foco no sentimento do consumidor'",
+     "paraphrase": "É preciso imersão além do discurso; o consumidor diz o que pensa e faz o que sente."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Geral; especialmente startups que decidem com dados de próprio funil."
+  },
+  {
+   "id": "ceo-as-brand-signal",
+   "title": "Porta-voz convence pelo comportamento, não pela declaração",
+   "statement": "Quando o CEO ou fundador fala pela marca, ele deve demonstrar envolvimento real com o produto; declarar amor sem mostrar destrói credibilidade.",
+   "why": "Bedendo analisa o vídeo do CEO do McDonald's (mordida hesitante, corporativês, 'eu amo este produto') contra o do CEO do Burger King comendo com naturalidade e contra Warren Buffett bebendo Coca-Cola: o público não analisa o que não parece verdadeiro, rejeita. O CEO legitima estratégia para acionistas, colaboradores e fornecedores.",
+   "how": [
+    "Use o CEO só em produtos e temas em que o envolvimento dele é real e visível.",
+    "Grave em contexto de uso (loja, fábrica, cliente), não em sala corporativa.",
+    "Troque adjetivos de amor e paixão por demonstração."
+   ],
+   "tests": [
+    "O porta-voz usa o produto de verdade no dia a dia?",
+    "O roteiro diz 'nós amamos' em vez de mostrar?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "identidade-verbal",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "voz",
+    "ativacao"
+   ],
+   "school": "pratica",
+   "evidence": "caso",
+   "strength": 1,
+   "sources": [
+    {
+     "id": "src-bedendo-exame-ceo-2026",
+     "locator": "texto inteiro",
+     "paraphrase": "Legitimidade do CEO é capital simbólico; coerência pessoa-marca convence mais que performance."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-mcdonalds-ceo-big-arch"
+   ],
+   "contexts": "Marcas com fundador visível, comuns em startups e varejo brasileiro."
+  },
+  {
+   "id": "brand-governance-federated-system",
+   "title": "Sistemas com muitas unidades precisam de um repertório e de prestação de contas",
+   "statement": "Em redes, franquias, governos e grupos, defina um repertório verbal e visual único, um dono central, indicador de imagem obrigatório e consequência para quem não segue.",
+   "why": "O Sebrae amarra seu processo nacional de gestão de marca a um mesmo repertório verbal e visual em todo o sistema, brandbook como referência inclusive em parcerias, meta obrigatória no Índice de Imagem junto à Sociedade e suspensão de quem não presta contas. O gov.br unificou centenas de portais sob um domínio, um design system e papéis definidos (SGD, SECOM, SERPRO), com a lógica de que o governo é um só e o cidadão não deve reaprender cada site.",
+   "how": [
+    "Defina dono central da marca e papéis de cada unidade (quem publica, quem aprova).",
+    "Publique um repertório único (design system, guia editorial) com componentes prontos.",
+    "Vincule recursos de comunicação das unidades a um indicador de marca e a relatório de uso."
+   ],
+   "tests": [
+    "Existe um indicador de marca que todas as unidades precisam reportar?",
+    "Parcerias e co-brandings seguem o mesmo guia de marca?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "gestao-governanca",
+    "arquitetura"
+   ],
+   "stage": [
+    "arquitetura",
+    "ativacao"
+   ],
+   "school": "identidade-design",
+   "evidence": "guia-oficial",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-sebrae-gestao-marca-2026",
+     "locator": "itens 3, 9 e 11",
+     "paraphrase": "Mesmo repertório em todo o sistema, meta de imagem obrigatória e relatório anual vinculado a pilares e atributos."
+    },
+    {
+     "id": "src-decreto-9756-2019",
+     "locator": "arts. 1º a 6º",
+     "paraphrase": "Portal único, domínio raiz obrigatório e comunicação referindo-se só ao gov.br."
+    },
+    {
+     "id": "src-govbr-kit-unificacao",
+     "locator": "lâminas 'Projeto UX' e 'Estrutura Analítica'",
+     "paraphrase": "Experiência única para o cidadão via padronização, design system e papéis definidos."
+    },
+    {
+     "id": "src-cade-guia-portal-2023",
+     "locator": "seção 'O governo é um só'",
+     "paraphrase": "Serviços seguem os mesmos padrões estruturais e visuais para gerar confiança e reduzir curva de aprendizado."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-govbr-unificacao"
+   ],
+   "contexts": "Franquias, cooperativas, redes de clínicas e escolas, órgãos públicos, holdings."
+  },
+  {
+   "id": "peak-moments-over-frictionless",
+   "title": "Sem atrito é o mínimo; marca forte projeta picos",
+   "statement": "Depois de remover fricções básicas, escolha poucos momentos da jornada para criar picos memoráveis, inclusive no final.",
+   "why": "Bicudo argumenta que a busca por jornadas sem atrito tornou marcas iguais e reduziu diferenciação; pela regra pico-fim de Kahneman, a memória da experiência é feita do pico e do final, e é essa memória que decide recompra e recomendação.",
+   "how": [
+    "Mapeie pontos de contato e marque quais já são diferenciais.",
+    "Escolha 1 a 3 momentos para investir intensidade emocional e cuide do momento final.",
+    "Mantenha o resto fluido e padrão."
+   ],
+   "tests": [
+    "A jornada tem algum momento que o cliente contaria a um amigo?",
+    "O último contato da jornada foi projetado?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "experiencia"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "comportamental",
+   "evidence": "opiniao-especialista",
+   "strength": 1,
+   "sources": [
+    {
+     "id": "src-mdm-bicudo-picos-2026",
+     "locator": "texto inteiro",
+     "paraphrase": "Quando tudo é fluido, ninguém se diferencia; marcas fortes trabalham o pico e o fim."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Serviços digitais (bancos, apps, streaming); o próprio autor é de agência de design."
+  },
+  {
+   "id": "trust-earned-via-others-brazil",
+   "title": "No Brasil, a confiança vem do que os outros dizem",
+   "statement": "Planeje a marca para ser recomendada por clientes, criadores e conhecidos; o que a marca diz de si pesa bem menos.",
+   "why": "Edelman 2026 (Brasil): entre os de mentalidade insular (72%), 53% dizem que o que pessoas não pagas falam sobre a marca é o que mais influencia sua confiança, contra 22% para o que a marca diz; 44% dos que seguem criadores experimentaram marca nova por indicação. Empresas são a única instituição vista como confiável no país (Edelman 2025), o que aumenta a cobrança. A Kantar cita a Salon Line, que construiu liderança com rede de microcriadores.",
+   "how": [
+    "Crie motivos concretos para o cliente falar (experiência, resultado, ritual).",
+    "Trate criadores como parceiros de longo prazo com plataforma criativa estável, não ações pontuais.",
+    "Monitore o que se fala da marca em comunidades e reclamações, não só o alcance."
+   ],
+   "tests": [
+    "A marca tem um programa de longo prazo com criadores ou só ações isoladas?",
+    "Existe métrica de recomendação ou boca a boca?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "publico"
+   ],
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-mm-edelman-2026-marcas",
+     "locator": "seção 'Um terço das marcas...'",
+     "paraphrase": "53% confiam mais no que terceiros não pagos dizem; 22% no que a marca diz."
+    },
+    {
+     "id": "src-mm-edelman-2025-confianca",
+     "locator": "dados Brasil",
+     "paraphrase": "Empresas são a única instituição confiável no Brasil; governo e mídia estão em desconfiança."
+    },
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "pp. 66-69",
+     "paraphrase": "Parcerias com criadores devem virar plataformas de longo prazo; caso Salon Line."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-salon-line-criadores"
+   ],
+   "contexts": "Brasil; dados declarativos e de cobertura jornalística."
+  },
+  {
+   "id": "awareness-feeds-full-funnel",
+   "title": "Campanha de marca também vende",
+   "statement": "Não separe 'campanha de marca' de 'campanha de conversão': conteúdo que expressa a marca e resolve uma dor do público alimenta todas as etapas do funil.",
+   "why": "Paulo Lima defende que mídia em conteúdo de marca, sem exigir cadastro, pode converter melhor que levar usuário frio a uma landing page. Aaker (via Bedendo) chama o performance marketing de forma respeitável de curto-prazismo e lembra que o debate branding x growth foi resolvido nos anos 80. Ana Couto critica o foco excessivo no agora.",
+   "how": [
+    "Monte conteúdo cruzando dores do consumidor com valores e atributos da marca.",
+    "Meça o efeito de campanhas de marca em métricas de busca, consideração e conversão.",
+    "Evite pedir ação no primeiro contato com quem não conhece a marca."
+   ],
+   "tests": [
+    "O plano de mídia tem verba para construção de marca ou só para conversão?",
+    "O primeiro contato da marca constrói vínculo ou só pede o dado?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-pob-awareness-cascata-2024",
+     "locator": "seções 'Campanha de awareness' e 'Conteúdo de marca'",
+     "paraphrase": "Awareness pode gerar efeito cascata até a compra."
+    },
+    {
+     "id": "src-bff-11-bedendo-2024",
+     "locator": "resposta sobre branding x growth",
+     "paraphrase": "O debate está pacificado desde Aaker (1988): só ações transacionais não bastam."
+    },
+    {
+     "id": "src-anacouto-agfeed-ondas",
+     "locator": "fala de Ana Couto",
+     "paraphrase": "Há muito foco no agora; marca forte se constrói com método, disciplina e métricas."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Pequenas e médias empresas e startups que só investem em mídia de performance."
+  },
+  {
+   "id": "startup-branding-founder-centric",
+   "title": "Na startup, a marca nasce do fundador; na grande empresa, do ajuste entre stakeholders",
+   "statement": "Em negócio pequeno, comece articulando a visão, os valores e a essência do fundador; em empresa grande, comece alinhando visões internas divergentes com as expectativas externas.",
+   "why": "Bedendo afirma que verba não muda o processo de branding (ele é planejamento), mas o ponto de partida muda: na startup a empresa é o fundador e o trabalho é mais interno; a dificuldade aparece ao crescer (estender linha, região). Na grande empresa, o consultor diagnostica stakeholders internos desalinhados e consolida a essência.",
+   "how": [
+    "Startup: entreviste o fundador sobre por que, como e para quem; transforme em critérios de decisão.",
+    "Grande empresa: ouça áreas internas e públicos externos e mapeie alinhamentos e conflitos.",
+    "Revise a plataforma quando o negócio for estender linha ou região."
+   ],
+   "tests": [
+    "A plataforma de uma startup reflete o que o fundador decide na prática?",
+    "Em empresa grande, as áreas internas descrevem a marca da mesma forma?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "estrategia"
+   ],
+   "stage": [
+    "diagnostico",
+    "plataforma"
+   ],
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "strength": 1,
+   "sources": [
+    {
+     "id": "src-bff-11-bedendo-2024",
+     "locator": "resposta sobre pequenos negócios",
+     "paraphrase": "Na startup o branding é mais interno e centrado no fundador; na grande empresa, consolidação e ajustes."
+    },
+    {
+     "id": "src-bff-10-bedendo-2024",
+     "locator": "resposta sobre consultor externo",
+     "paraphrase": "O consultor alinha visões internas divergentes e expectativas externas até a essência."
+    },
+    {
+     "id": "src-mm-troiano-proposito-geracoes",
+     "locator": "seção sobre empresas familiares",
+     "paraphrase": "Em empresas familiares, a essência vem da família fundadora e o propósito escavado vira cartilha para comunicação e integração."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Startups, empresas familiares (ver Troiano sobre famílias), grandes corporações."
+  }
+ ],
+ "frameworks": [
+  {
+   "id": "kantar-mds",
+   "name": "Meaningful, Different, Salient (MDS)",
+   "author": "Kantar BrandZ",
+   "purpose": "Diagnosticar a força de uma marca e prever demanda atual, poder de preço e demanda futura.",
+   "components": [
+    {
+     "name": "Significativa",
+     "description": "A marca atende necessidades (práticas ou emocionais) e gera afinidade."
+    },
+    {
+     "name": "Diferente",
+     "description": "Destaca-se dos concorrentes ou lança tendências na categoria, por produto, serviço ou comunicação."
+    },
+    {
+     "name": "Saliente",
+     "description": "Vem à mente rapidamente quando a pessoa pensa na categoria ou tem a necessidade."
+    },
+    {
+     "name": "Demand Power / Pricing Power / Future Power",
+     "description": "Saídas: demanda atual (puxada por saliência significativa), preço premium e demanda futura (puxados por diferença significativa)."
+    }
+   ],
+   "steps": [
+    "Meça as três dimensões contra a média da categoria.",
+    "Identifique a mais fraca e o tipo de poder que ela limita.",
+    "Escolha o objetivo de marketing correspondente (ver kantar-cmo-objectives)."
+   ],
+   "inputs": [
+    "Pesquisa de equity com amostra da categoria",
+    "Concorrentes de referência"
+   ],
+   "outputs": [
+    "Índices por dimensão",
+    "Prioridade de investimento"
+   ],
+   "pitfalls": [
+    "Tratar Saliência como só conhecimento de nome.",
+    "Confundir 'Diferente' com aparência diferente: a Kantar exige diferença relevante para o consumidor."
+   ],
+   "criticisms": [
+    "Ehrenberg-Bass questiona que diferenciação percebida explique crescimento (ver debate differentiation-vs-distinctiveness).",
+    "Modelo proprietário; evidências publicadas pelo próprio fornecedor."
+   ],
+   "domain": [
+    "equity-medicao",
+    "posicionamento"
+   ],
+   "stage": [
+    "diagnostico",
+    "posicionamento"
+   ],
+   "school": "misto",
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "pp. 10-11, 26-27",
+     "paraphrase": "Define as três qualidades e como se convertem em poderes de demanda, preço e futuro."
+    }
+   ]
+  },
+  {
+   "id": "kantar-cmo-objectives",
+   "name": "Principais Objetivos de Marketing (CMOs) do Blueprint for Brand Growth",
+   "author": "Kantar",
+   "purpose": "Escolher a prioridade de marketing conforme o estágio e a barreira principal da marca.",
+   "components": [
+    {
+     "name": "Começar pelo Diferencial",
+     "description": "Marcas sem senso claro de diferença."
+    },
+    {
+     "name": "Ampliar o Diferencial",
+     "description": "Reforçar e comunicar a diferença em todos os canais."
+    },
+    {
+     "name": "Desenvolver Significado",
+     "description": "Tornar a diferença relevante para mais gente."
+    },
+    {
+     "name": "Sustentar o Preço",
+     "description": "Justificar preço pela percepção de valor."
+    },
+    {
+     "name": "Construir Saliência / Estar Mais Presente / Predispor Mais Pessoas",
+     "description": "Disponibilidade mental e física."
+    },
+    {
+     "name": "Ganhar Tração",
+     "description": "Renovar uma marca saturada acrescentando algo coerente com o legado."
+    },
+    {
+     "name": "Desafiar os Líderes",
+     "description": "Marcas menores atacando a liderança."
+    },
+    {
+     "name": "Encontrar Novos Espaços",
+     "description": "Novas ocasiões, usos, geografias ou serviços."
+    }
+   ],
+   "steps": [
+    "Diagnostique a barreira principal (sem diferença, sem significado, sem saliência, saturação).",
+    "Escolha um único objetivo principal.",
+    "Reavalie a cada ciclo: a Claro passou de Ampliar Diferença a Ganhar Tração (2019) e a Encontrar Novos Espaços (2026)."
+   ],
+   "inputs": [
+    "Diagnóstico MDS",
+    "Histórico da marca"
+   ],
+   "outputs": [
+    "Objetivo principal de marketing do ciclo"
+   ],
+   "pitfalls": [
+    "Querer perseguir todos os objetivos ao mesmo tempo."
+   ],
+   "criticisms": [
+    "Lista completa dos 10 objetivos só aparece no material pago; o relatório mostra o mapa."
+   ],
+   "domain": [
+    "estrategia",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativacao"
+   ],
+   "school": "misto",
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "pp. 32-37",
+     "paraphrase": "Marcas que atingem seus objetivos têm 1,6 vez mais chance de crescer em penetração; casos Consul e Claro."
+    }
+   ]
+  },
+  {
+   "id": "anacouto-ondas-de-valor",
+   "name": "Ondas de Valor (Produto, Pessoas, Propósito)",
+   "author": "Ana Couto / Agência anacouto",
+   "purpose": "Organizar a construção de valor da marca em três camadas e diagnosticar onde a marca está fraca em marca, negócio e comunicação.",
+   "components": [
+    {
+     "name": "Produto",
+     "description": "Diferenciais e custo-benefício da oferta."
+    },
+    {
+     "name": "Pessoas",
+     "description": "Identificação, fidelização e conexão emocional."
+    },
+    {
+     "name": "Propósito",
+     "description": "Visão de mundo compartilhada que mobiliza e gera impacto positivo."
+    },
+    {
+     "name": "Eixos marca, negócio e comunicação",
+     "description": "Cada onda é avaliada nesses três papéis."
+    }
+   ],
+   "steps": [
+    "Avalie a percepção interna e externa em cada onda.",
+    "Alinhe as três ondas ('para surfar, tudo deve estar alinhado').",
+    "Acompanhe com indicador contínuo (Branding Value Score no Valometry)."
+   ],
+   "inputs": [
+    "Pesquisa com públicos interno e externo"
+   ],
+   "outputs": [
+    "Diagnóstico por onda",
+    "Plano de ação priorizado"
+   ],
+   "pitfalls": [
+    "Pular a onda de Produto e ir direto ao Propósito."
+   ],
+   "criticisms": [
+    "Método proprietário; detalhes e pesos não são públicos.",
+    "Escola de propósito: céticos de propósito (ver debate purpose-value) contestam o papel da terceira onda."
+   ],
+   "domain": [
+    "estrategia",
+    "equity-medicao",
+    "narrativa-proposito"
+   ],
+   "stage": [
+    "diagnostico",
+    "plataforma"
+   ],
+   "school": "proposito",
+   "sources": [
+    {
+     "id": "src-anacouto-agfeed-ondas",
+     "locator": "descrição das três ondas",
+     "paraphrase": "Produto, pessoas e propósito precisam estar alinhados."
+    },
+    {
+     "id": "src-anacouto-ondas-branding-2021",
+     "locator": "texto",
+     "paraphrase": "Avalia marca, negócio e comunicação em três níveis de performance."
+    },
+    {
+     "id": "src-valometry-site",
+     "locator": "página pública",
+     "paraphrase": "BVS, desempenho nas Ondas de Valor, funil e importância de atributos."
+    }
+   ]
+  },
+  {
+   "id": "troiano-rota-do-soul",
+   "name": "Rota do So(u)l",
+   "author": "Cecília Russo Troiano e Jaime Troiano (TroianoBranding)",
+   "purpose": "Descobrir, sintetizar e ativar o propósito de uma organização.",
+   "components": [
+    {
+     "name": "Escavação",
+     "description": "Origens da empresa e dos fundadores, talentos e vocações que a tornam singular."
+    },
+    {
+     "name": "Cruzamento",
+     "description": "Talentos cruzados com necessidades da sociedade, com workshops e especialistas."
+    },
+    {
+     "name": "Síntese",
+     "description": "Uma frase de propósito e um manifesto."
+    },
+    {
+     "name": "Disseminação",
+     "description": "Ações com stakeholders, embaixadores internos, materiais e vídeo-conceito."
+    }
+   ],
+   "steps": [
+    "Diagnóstico e escavação histórica.",
+    "Identificar necessidades da sociedade atendíveis pelos talentos.",
+    "Escrever frase e manifesto.",
+    "Ativar dentro e fora da empresa."
+   ],
+   "inputs": [
+    "História da empresa",
+    "Entrevistas com fundadores e colaboradores",
+    "Pesquisa de imersão"
+   ],
+   "outputs": [
+    "Frase de propósito",
+    "Manifesto",
+    "Plano de ativação"
+   ],
+   "pitfalls": [
+    "Parar no manifesto sem ativação.",
+    "Confundir missão (o que faz), valores (como faz) e propósito (razão de existir)."
+   ],
+   "criticisms": [
+    "Céticos de propósito questionam o efeito em vendas (ver purpose-value)."
+   ],
+   "domain": [
+    "narrativa-proposito",
+    "cultura-interna"
+   ],
+   "stage": [
+    "plataforma",
+    "narrativa"
+   ],
+   "school": "proposito",
+   "sources": [
+    {
+     "id": "src-dc-troiano-rota-do-soul-2019",
+     "locator": "descrição das etapas",
+     "paraphrase": "Três etapas da escavação à disseminação."
+    },
+    {
+     "id": "src-mm-troiano-marcas-de-valor-gente-2023",
+     "locator": "seção 'Propósito que guia branding'",
+     "paraphrase": "Distinção missão, valores e propósito; propósito se alimenta do passado e inspira o futuro."
+    }
+   ]
+  },
+  {
+   "id": "vozza-17-elementos-verbais",
+   "name": "Vozza: 17 elementos da identidade verbal",
+   "author": "Elcio Ribeiro da Silva (UFSC)",
+   "purpose": "Sistematizar e ensinar os elementos verbais de uma marca e suas relações.",
+   "components": [
+    {
+     "name": "Estratégicos internos",
+     "description": "Missão, visão, valores, princípios, propósito, conceito."
+    },
+    {
+     "name": "Estratégicos externos",
+     "description": "Personas, DNA de marca."
+    },
+    {
+     "name": "Táticos",
+     "description": "Posicionamento, arquétipos, tom de voz."
+    },
+    {
+     "name": "Operacionais externos",
+     "description": "Naming, tagline, manifesto, narrativa, storytelling, storydoing."
+    },
+    {
+     "name": "Dimensões",
+     "description": "Nível de gestão (estratégico, tático, operacional), foco (interno, externo), tangibilidade (tangível, intangível, híbrido), em círculos concêntricos do núcleo aos pontos de contato."
+    }
+   ],
+   "steps": [
+    "Comece por qualquer elemento (múltiplas entradas), mas verifique as relações com as camadas internas.",
+    "Use os cartões para preencher cada elemento.",
+    "Revise elementos de maior dificuldade (manifesto, storydoing, DNA, arquétipos) com apoio."
+   ],
+   "inputs": [
+    "Definições estratégicas da empresa"
+   ],
+   "outputs": [
+    "Mapa verbal da marca"
+   ],
+   "pitfalls": [
+    "Empreendedores acham fácil tom de voz e posicionamento, mas têm dificuldade com manifesto, storydoing, DNA e arquétipos."
+   ],
+   "criticisms": [
+    "Validação qualitativa com poucos empreendedores de um ecossistema (Joinville)."
+   ],
+   "domain": [
+    "identidade-verbal"
+   ],
+   "stage": [
+    "plataforma",
+    "voz"
+   ],
+   "school": "verbal",
+   "sources": [
+    {
+     "id": "src-vozza-ufsc-2026",
+     "locator": "quadro de classificação e Gráfico 8",
+     "paraphrase": "Organiza 17 elementos em níveis e mede a dificuldade percebida."
+    }
+   ]
+  },
+  {
+   "id": "brand-identity-layered-structure",
+   "name": "Estrutura em camadas e taxonomia de identidade de marca (ESPM)",
+   "author": "Alves, Rodrigues e Strehlau (Internext, 2023)",
+   "purpose": "Situar a identidade de marca entre organização, posicionamento e resultados e classificar o tipo de identidade.",
+   "components": [
+    {
+     "name": "Organização",
+     "description": "Cultura, reputação, herança, estratégia, missão e visão."
+    },
+    {
+     "name": "Identidade",
+     "description": "Núcleo (essência) e estendida (personalidade, relacionamento e comunidade, elementos e simbologia, cultura, mitos e narrativas)."
+    },
+    {
+     "name": "Posicionamento",
+     "description": "Quadro de referência, público, proposta única, razões para acreditar."
+    },
+    {
+     "name": "Resultados",
+     "description": "Equity, conhecimento, valoração e imagem."
+    },
+    {
+     "name": "Taxonomia 2x3",
+     "description": "Complexidade baixa/alta x significado tangível/misto/intangível: funcional, performance, relacional, experiencial, simbólica, cultural-mítica."
+    }
+   ],
+   "steps": [
+    "Localize a marca na taxonomia hoje e onde deveria estar.",
+    "Faça o mesmo com concorrentes.",
+    "Separe núcleo e estendida para decidir o que flexibilizar."
+   ],
+   "inputs": [
+    "Dados de mercado (concorrência, canais, barreiras)"
+   ],
+   "outputs": [
+    "Tipo de identidade atual e alvo"
+   ],
+   "pitfalls": [
+    "Medir complexidade é difícil; a taxonomia indica tendência, não certeza."
+   ],
+   "criticisms": [
+    "Proposta conceitual, ainda sem validação empírica."
+   ],
+   "domain": [
+    "estrategia",
+    "posicionamento"
+   ],
+   "stage": [
+    "diagnostico",
+    "plataforma"
+   ],
+   "school": "academica",
+   "sources": [
+    {
+     "id": "src-internext-2023-crise-identidade",
+     "locator": "Figuras 4 e 5, Tabela 7",
+     "paraphrase": "Estrutura em camadas e taxonomia de seis tipos de identidade."
+    }
+   ]
+  },
+  {
+   "id": "brand-equity-measures-typology",
+   "name": "Tipologia de medidas de valor da marca",
+   "author": "Maria João Soares Louro (RAE, 2000), a partir de Aaker, Ambler & Styles e Feldwick",
+   "purpose": "Escolher métricas de marca cobrindo insumos, mente do consumidor e mercado.",
+   "components": [
+    {
+     "name": "Medidas indiretas de input",
+     "description": "Share of voice, gasto de marketing sobre vendas."
+    },
+    {
+     "name": "Medidas diretas",
+     "description": "Notoriedade (top of mind, espontânea, assistida), associações e diferenciação, personalidade, qualidade percebida e liderança, lealdade."
+    },
+    {
+     "name": "Medidas indiretas de output",
+     "description": "Preço relativo e prêmio, elasticidade, lealdade comportamental, participação, distribuição, lucro."
+    },
+    {
+     "name": "Três sentidos de equity (Feldwick)",
+     "description": "Valoração financeira, força da marca e descrição da marca, com relação fraca entre si."
+    }
+   ],
+   "steps": [
+    "Escolha pelo menos uma medida de cada grupo.",
+    "Prefira medidas sensíveis à mudança e preditivas.",
+    "Ao ler participação de mercado, desconte promoções e ganho de distribuição."
+   ],
+   "inputs": [
+    "Dados de pesquisa e de vendas"
+   ],
+   "outputs": [
+    "Painel de equity"
+   ],
+   "pitfalls": [
+    "Usar só participação de mercado, que é inflada por promoção.",
+    "Medir preço-prêmio sem segmentar leais, irregulares e não clientes."
+   ],
+   "criticisms": [
+    "Artigo de 2000, anterior a métricas digitais e aos modelos de saliência."
+   ],
+   "domain": [
+    "equity-medicao"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "school": "academica",
+   "sources": [
+    {
+     "id": "src-rae-2000-louro",
+     "locator": "Quadro 2 e seções a-e",
+     "paraphrase": "Organiza medidas e discute limites de cada uma."
+    },
+    {
+     "id": "src-read-2011-oliveira-luce",
+     "locator": "revisão de conceitos",
+     "paraphrase": "Equity pela perspectiva do consumidor e da firma; poucos estudos brasileiros combinam as duas."
+    }
+   ]
+  },
+  {
+   "id": "estrategia-expressao-narrativas-lemas",
+   "name": "Estratégia, expressão, narrativas e lemas",
+   "author": "Paulo Lima (Praticando o Branding)",
+   "purpose": "Levar a plataforma de marca até frases prontas para cada ponto de contato.",
+   "components": [
+    {
+     "name": "Estratégia",
+     "description": "DNA, personalidade, arquétipo, posicionamento e propósito; durável."
+    },
+    {
+     "name": "Expressão",
+     "description": "Universo visual, verbal e sensorial; flexível."
+    },
+    {
+     "name": "Narrativas",
+     "description": "Recortes da essência que viram pilares de comunicação; pode haver várias."
+    },
+    {
+     "name": "Lemas",
+     "description": "Frases derivadas de cada narrativa para usos específicos (comunicação, propostas, aulas)."
+    }
+   ],
+   "steps": [
+    "Defina 2 polos do DNA.",
+    "Escreva uma narrativa por polo.",
+    "Crie lemas por uso, testando-os em pontos de contato reais."
+   ],
+   "inputs": [
+    "Plataforma de marca"
+   ],
+   "outputs": [
+    "Narrativas e lemas por canal"
+   ],
+   "pitfalls": [
+    "Querer que a plataforma seja criativa: ela deve ser verdadeira; a expressão é que precisa envolver."
+   ],
+   "criticisms": [
+    "Método de praticante, sem teste formal."
+   ],
+   "domain": [
+    "identidade-verbal",
+    "narrativa-proposito"
+   ],
+   "stage": [
+    "voz",
+    "narrativa"
+   ],
+   "school": "verbal",
+   "sources": [
+    {
+     "id": "src-pob-narrativas-lemas-2024",
+     "locator": "texto inteiro",
+     "paraphrase": "Narrativas como expressão flexível ancorada na estratégia e lemas por uso."
+    }
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "id": "differentiation-vs-distinctiveness",
+   "question": "A marca precisa ser percebida como diferente ou basta ser distinta e lembrada?",
+   "positions": [
+    {
+     "school": "misto",
+     "claim": "Kantar: diferença significativa é o principal motor de valor futuro e de preço; ativos distintos que trocam significado por brilho não bastam.",
+     "evidence": "Estudos BrandZ e Saïd Business School citados no relatório (dados de fornecedor).",
+     "sources": [
+      {
+       "id": "src-kantar-brandz-brasil-2026",
+       "locator": "pp. 10, 27 e perspectiva 07",
+       "paraphrase": "Diferença foi a dimensão que mais contribuiu para retornos; não substitua significado por recursos distintivos."
+      }
+     ]
+    },
+    {
+     "school": "pratica",
+     "claim": "Praticantes brasileiros tratam distintividade como meio de tornar a diferença reconhecível: a própria Kantar, ao falar de marcas pequenas, recomenda ativos distintivos para tornar o diferencial fácil de lembrar.",
+     "evidence": "Recomendação prática no mesmo relatório.",
+     "sources": [
+      {
+       "id": "src-kantar-brandz-brasil-2026",
+       "locator": "p. 62 'Transformando insights em ação'",
+       "paraphrase": "Use ativos distintivos para tornar seu Diferencial fácil de reconhecer."
+      }
+     ]
+    }
+   ],
+   "synthesis": "No material brasileiro lido, diferença e distintividade aparecem como complementares: a diferença dá o motivo, os ativos tornam a diferença lembrável.",
+   "systemStance": "Padrão do sistema: buscar diferença relevante e expressá-la com ativos distintivos. Em categorias de paridade funcional (commodities), pese mais a distintividade.",
+   "stage": [
+    "posicionamento",
+    "ativos"
+   ],
+   "domain": [
+    "posicionamento",
+    "ativos-distintivos"
+   ]
+  },
+  {
+   "id": "purpose-value",
+   "question": "Propósito gera valor de marca ou é discurso?",
+   "positions": [
+    {
+     "school": "proposito",
+     "claim": "Ana Couto e TroianoBranding: propósito é a terceira onda de valor / razão de ser que guia todas as ações.",
+     "evidence": "Métodos proprietários e cases autodeclarados.",
+     "sources": [
+      {
+       "id": "src-anacouto-agfeed-ondas",
+       "locator": "ondas",
+       "paraphrase": "Propósito como terceira onda."
+      },
+      {
+       "id": "src-mm-troiano-marcas-de-valor-gente-2023",
+       "locator": "propósito",
+       "paraphrase": "Propósito é o início de qualquer processo de branding."
+      }
+     ]
+    },
+    {
+     "school": "posicionamento-diferenciacao",
+     "claim": "Aaker (via Bedendo): programa social vale quando gera impacto e impulso de marca ao mesmo tempo; não é filantropia.",
+     "evidence": "Casos (Thrivent).",
+     "sources": [
+      {
+       "id": "src-bedendo-exame-aaker-proposito-2026",
+       "locator": "texto",
+       "paraphrase": "Ganha-ganha entre sociedade e marca."
+      }
+     ]
+    },
+    {
+     "school": "academica",
+     "claim": "Rocha mostra que 'qualidade de vida' e 'responsabilidade social' viraram retórica dominante de bancos e montadoras desde os anos 1990 como estratégia de legitimação, o que explica o desgaste desses termos.",
+     "evidence": "Análise de anúncios.",
+     "sources": [
+      {
+       "id": "src-cmc-rocha-retorica-capital",
+       "locator": "seção sobre bancos",
+       "paraphrase": "Humanização via qualidade de vida e responsabilidade social como nova retórica do capital."
+      }
+     ]
+    },
+    {
+     "school": "misto",
+     "claim": "Kantar: sustentabilidade é preocupação pequena mas crescente do consumidor na escolha; serve para mitigar risco e pode virar plataforma se integrada à estratégia.",
+     "evidence": "Dados BrandZ de 20 anos.",
+     "sources": [
+      {
+       "id": "src-kantar-brandz-brasil-2026",
+       "locator": "perspectiva 06",
+       "paraphrase": "Sustentabilidade pesa pouco, mas cresce."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Todas as posições concordam que propósito sem prática operacional vira retórica; divergem sobre quanto ele explica crescimento.",
+   "systemStance": "Padrão: propósito só entra se for operacional (ver purpose-must-be-operational) e nunca substitui diferença de produto. Em categorias funcionais de baixo envolvimento, um programa social coerente pode ser a fonte de vínculo.",
+   "stage": [
+    "plataforma",
+    "narrativa"
+   ],
+   "domain": [
+    "narrativa-proposito"
+   ]
+  },
+  {
+   "id": "archetypes-value",
+   "question": "Arquétipos ajudam a construir marca ou são clichê?",
+   "positions": [
+    {
+     "school": "proposito",
+     "claim": "TroianoBranding defende o uso de arquétipos junguianos e rebate quem pede o fim da ferramenta.",
+     "evidence": "Opinião em podcast patrocinado (não transcrito).",
+     "sources": [
+      {
+       "id": "src-mm-brandpedia-troiano-2024",
+       "locator": "episódio 1",
+       "paraphrase": "Defendem arquétipos e orientam como evitar armadilhas."
+      }
+     ]
+    },
+    {
+     "school": "verbal",
+     "claim": "Paulo Lima: arquétipo não é rótulo de personalidade; vale como ponte para manifestações culturais vivas (ex.: Inocente como pureza, nostalgia, idealismo).",
+     "evidence": "Opinião de praticante.",
+     "sources": [
+      {
+       "id": "src-pob-arquetipos-manifestacoes-2023",
+       "locator": "texto",
+       "paraphrase": "Ir além do clichê usando manifestações culturais."
+      }
+     ]
+    },
+    {
+     "school": "academica",
+     "claim": "Tese Vozza: arquétipos estão entre os elementos verbais que empreendedores mais têm dificuldade de entender e aplicar.",
+     "evidence": "Avaliação com empreendedores.",
+     "sources": [
+      {
+       "id": "src-vozza-ufsc-2026",
+       "locator": "Gráfico 8",
+       "paraphrase": "Arquétipos com proporção alta de média e alta dificuldade."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Concordam que o uso raso (escolher 1 dos 12 e colar adjetivos) é inútil.",
+   "systemStance": "Padrão: arquétipo é opcional e só entra traduzido em comportamento, manifestação cultural e regras de voz verificáveis; nunca como substituto de posicionamento.",
+   "stage": [
+    "plataforma",
+    "voz"
+   ],
+   "domain": [
+    "identidade-verbal",
+    "narrativa-proposito"
+   ]
+  },
+  {
+   "id": "long-vs-short-term",
+   "question": "Investir em marca ou em performance?",
+   "positions": [
+    {
+     "school": "posicionamento-diferenciacao",
+     "claim": "Aaker e Bedendo: curto-prazismo vestido de performance marketing destrói ativos; o debate foi resolvido nos anos 80.",
+     "evidence": "Opinião e histórico de bens de consumo.",
+     "sources": [
+      {
+       "id": "src-bedendo-exame-aaker-performance-2026",
+       "locator": "texto",
+       "paraphrase": "Performance marketing como forma respeitável de curto-prazismo."
+      },
+      {
+       "id": "src-bff-11-bedendo-2024",
+       "locator": "branding x growth",
+       "paraphrase": "Startups redescobrem growth porque ainda não têm clientes fiéis."
+      }
+     ]
+    },
+    {
+     "school": "pratica",
+     "claim": "Paulo Lima: a divisão é falsa; awareness bem feita melhora métricas de conversão.",
+     "evidence": "Argumento de praticante.",
+     "sources": [
+      {
+       "id": "src-pob-awareness-cascata-2024",
+       "locator": "texto",
+       "paraphrase": "Efeito cascata do awareness no funil."
+      }
+     ]
+    },
+    {
+     "school": "misto",
+     "claim": "Kantar: invista a maior parte do orçamento em construção de marca de longo prazo, equilibrando com pressões de curto prazo.",
+     "evidence": "Base BrandZ.",
+     "sources": [
+      {
+       "id": "src-kantar-brandz-brasil-2026",
+       "locator": "perspectiva 07",
+       "paraphrase": "A estratégia sensata é investir a maior parte em marca de longo prazo."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Ninguém nas fontes defende só performance; a questão é proporção e medição.",
+   "systemStance": "Padrão: marca e ativação no mesmo plano, com métricas de marca obrigatórias. Startups sem base de clientes podem pesar mais ativação no início.",
+   "stage": [
+    "ativacao"
+   ],
+   "domain": [
+    "ativacao-eficacia",
+    "ciencia-crescimento"
+   ]
+  },
+  {
+   "id": "brand-is-not-logo",
+   "question": "Marca é identidade visual?",
+   "positions": [
+    {
+     "school": "pratica",
+     "claim": "Bedendo: branding não é aplicação de logo nem storytelling; é gestão do ativo que participa das decisões de negócio. Re-logo não é rebranding.",
+     "evidence": "Opinião e casos.",
+     "sources": [
+      {
+       "id": "src-bedendo-exame-jaguar-2024",
+       "locator": "abertura",
+       "paraphrase": "Logotipo é parte pequena das expressões de uma marca."
+      },
+      {
+       "id": "src-bff-10-bedendo-2024",
+       "locator": "pergunta 2",
+       "paraphrase": "Empresas chamam de branding o cargo de aplicar o logo."
+      }
+     ]
+    },
+    {
+     "school": "proposito",
+     "claim": "Ana Couto: quando trouxe o branding ao Brasil, as empresas o viam como troca de marca ou identidade; hoje é geração de valor.",
+     "evidence": "Declaração em palestra.",
+     "sources": [
+      {
+       "id": "src-mdm-anacouto-revolucao-2023",
+       "locator": "abertura",
+       "paraphrase": "Branding é geração de valor, não só mudança de identidade."
+      }
+     ]
+    },
+    {
+     "school": "identidade-design",
+     "claim": "Guias oficiais (gov.br, Sebrae) mostram que a identidade visual importa como sistema operacional de consistência, sob uma estratégia.",
+     "evidence": "Guias oficiais.",
+     "sources": [
+      {
+       "id": "src-sebrae-gestao-marca-2026",
+       "locator": "item 3",
+       "paraphrase": "Gestão da marca vai da estratégia à aplicação em toda a comunicação."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Identidade visual é expressão e sistema de consistência; a marca é maior que ela.",
+   "systemStance": "Padrão do sistema: nunca começar por logo; identidade visual vem depois de posicionamento e plataforma.",
+   "stage": [
+    "diagnostico",
+    "ativos"
+   ],
+   "domain": [
+    "identidade-visual",
+    "estrategia"
+   ]
+  },
+  {
+   "id": "rebrand-vs-evolve",
+   "question": "Quando romper e quando evoluir a marca?",
+   "positions": [
+    {
+     "school": "pratica",
+     "claim": "Bedendo: evoluir é desdobrar o legado; ruptura que trata legado como peso destrói a base (Jaguar).",
+     "evidence": "Caso.",
+     "sources": [
+      {
+       "id": "src-bedendo-exame-jaguar-2024",
+       "locator": "final",
+       "paraphrase": "Inovação deve ser desdobramento do que a marca já representa."
+      }
+     ]
+    },
+    {
+     "school": "misto",
+     "claim": "Kantar: consistência é recompensada na maioria das vezes, mas marcas que se reinventaram ou revolucionaram a categoria geraram a maior parte do valor incremental em 20 anos.",
+     "evidence": "Base BrandZ.",
+     "sources": [
+      {
+       "id": "src-kantar-brandz-brasil-2026",
+       "locator": "perspectivas 02 e 10",
+       "paraphrase": "Disrupção gera mais valor; consistência vale salvo disrupção do mercado."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Reinventar o negócio e a oferta é diferente de descartar os códigos da marca.",
+   "systemStance": "Padrão: evoluir mantendo núcleo e ativos; romper só com evidência de que o núcleo perdeu relevância.",
+   "stage": [
+    "diagnostico",
+    "ativos"
+   ],
+   "domain": [
+    "gestao-governanca"
+   ]
+  }
+ ],
+ "cases": [
+  {
+   "id": "case-nubank-brasil-2026",
+   "brand": "Nubank",
+   "year": 2026,
+   "agency": null,
+   "sector": "banco/fintech",
+   "market": "Brasil",
+   "type": "lancamento",
+   "challenge": "Entrar num mercado bancário concentrado, com consumidores desconfiados de bancos e muitas opções.",
+   "insight": "Uma diferença clara e simples (cartão sem anuidade, tudo no app) num setor visto como burocrático.",
+   "strategy": "Começar com um produto diferente e expandir para serviços simples dentro do setor e para México e Colômbia, mantendo a diferença.",
+   "execution": "Produto e experiência digital, comunicação com propriedades culturais com fandom no Brasil (Game of Thrones, Friends).",
+   "results": [
+    {
+     "metric": "Valor de marca BrandZ 2026",
+     "value": "US$ 12,024 bi (+162% desde 2024), 2ª marca mais valiosa do Brasil",
+     "independent": false,
+     "source": "src-kantar-brandz-brasil-2026"
+    },
+    {
+     "metric": "Índices de equity",
+     "value": "Demand Power 257; Future Power 147",
+     "independent": false,
+     "source": "src-kantar-brandz-brasil-2026"
+    }
+   ],
+   "lessons": [
+    "Uma diferença de produto fácil de explicar pode bastar para entrar numa categoria saturada.",
+    "A Kantar nota que a diferença dos bancos digitais começa a perder força quando os tradicionais reagem: diferença precisa ser renovada."
+   ],
+   "principles": [
+    "pricing-power-brand",
+    "brand-promise-delivery"
+   ],
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "p. 29 e pp. 38-41",
+     "paraphrase": "Caso de Diferença Significativa e confiança construída rapidamente."
+    }
+   ]
+  },
+  {
+   "id": "case-brahma-copa-2026",
+   "brand": "Brahma",
+   "year": 2026,
+   "agency": null,
+   "sector": "bebidas/cerveja",
+   "market": "Brasil",
+   "type": "reposicionamento",
+   "challenge": "Manter relevância nacional numa categoria em que muitos preferem cerveja local ou regional, durante uma Copa com torcida descrente.",
+   "insight": "Transformar ceticismo em celebração, usando o futebol do cotidiano (rua, boteco, ônibus) que a marca já ocupa há décadas.",
+   "strategy": "Ocupar o território de torcida e celebração de forma consistente; campanha 'Tá liberado acreditar' com Ancelotti.",
+   "execution": "Filme com cenas do Brasil comum e lances do imaginário coletivo; antes, a ação 'cabelo cremoso' quando cerveja foi proibida nos uniformes.",
+   "results": [
+    {
+     "metric": "Valor de marca BrandZ 2026",
+     "value": "US$ 6,635 bi, 4ª posição",
+     "independent": false,
+     "source": "src-kantar-brandz-brasil-2026"
+    }
+   ],
+   "lessons": [
+    "Território cultural ocupado por décadas dá legitimidade para falar de Brasil sem caricatura.",
+    "Consistência de território permite variar a criação sem perder a marca."
+   ],
+   "principles": [
+    "cultural-legitimacy-territory",
+    "consistency-over-time",
+    "branded-memory-anchors"
+   ],
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "p. 31",
+     "paraphrase": "Brahma se destaca nacionalmente por criatividade e consistência."
+    },
+    {
+     "id": "src-bedendo-exame-brahma-nike-2026",
+     "locator": "texto",
+     "paraphrase": "Leitura afinada da brasilidade, com legitimidade no território."
+    }
+   ]
+  },
+  {
+   "id": "case-nike-selecao-2026",
+   "brand": "Nike (camisa da Seleção Brasileira)",
+   "year": 2026,
+   "agency": null,
+   "sector": "esporte/vestuário",
+   "market": "Brasil",
+   "type": "fracasso",
+   "challenge": "Atualizar a camisa e a narrativa da Seleção para a Copa 2026.",
+   "insight": "Tentativa de reinterpretar o futebol brasileiro como força competitiva com estética streetwear ('Alegria que Apavora', 'Vai, Brasa', Jumpman).",
+   "strategy": "Impor um novo código estético global a um símbolo de memória afetiva nacional.",
+   "execution": "Filme, ativação e versão com o logo Jordan.",
+   "results": [],
+   "lessons": [
+    "Símbolos nacionais pertencem à memória das pessoas; a marca não pode redefini-los por briefing.",
+    "Segundo Bedendo, a comunidade recusou o enquadramento e a peça soou como artificialidade publicitária."
+   ],
+   "principles": [
+    "cultural-legitimacy-territory"
+   ],
+   "sources": [
+    {
+     "id": "src-bedendo-exame-fim-propaganda-2026",
+     "locator": "seção sobre Nike",
+     "paraphrase": "Leitura cultural insuficiente de símbolos nacionais."
+    },
+    {
+     "id": "src-bedendo-exame-brahma-nike-2026",
+     "locator": "comparação",
+     "paraphrase": "A Nike tentou construir um Brasil que não existe."
+    }
+   ]
+  },
+  {
+   "id": "case-jaguar-2024",
+   "brand": "Jaguar",
+   "year": 2024,
+   "agency": null,
+   "sector": "automotivo",
+   "market": "global",
+   "type": "rebrand",
+   "challenge": "Rejuvenescer uma marca de luxo e preparar a transição elétrica.",
+   "insight": "Busca de modernidade ('modernismo exuberante', 'copy nothing').",
+   "strategy": "Ruptura de identidade e de público-alvo.",
+   "execution": "Novo logo e comunicação de moda, sem os códigos ingleses e aristocráticos; carros já tinham perdido o design marcante.",
+   "results": [],
+   "lessons": [
+    "Re-logo não é rebranding; para uma montadora o desenho do carro pesa mais que o logo.",
+    "Tratar legado como peso aliena a base sem garantir aceitação no novo público."
+   ],
+   "principles": [
+    "rebrand-keep-equity",
+    "core-vs-extended-identity"
+   ],
+   "sources": [
+    {
+     "id": "src-bedendo-exame-jaguar-2024",
+     "locator": "texto inteiro",
+     "paraphrase": "Rebranding que ignorou a identidade nuclear."
+    }
+   ]
+  },
+  {
+   "id": "case-petra-2026",
+   "brand": "Petra (Grupo Petrópolis)",
+   "year": 2026,
+   "agency": "anacouto",
+   "sector": "bebidas/cerveja",
+   "market": "Brasil",
+   "type": "reposicionamento",
+   "challenge": "Ocupar o segmento premium de cerveja, dominado pela convenção de origem europeia.",
+   "insight": "Premium pode ser construído a partir de identidade brasileira concreta.",
+   "strategy": "Conceito 'Viver o prazer à brasileira' / 'premium à brasileira', ancorado na origem na Serra de Petrópolis.",
+   "execution": "Logo redesenhado preservando o sol histórico com a silhueta da Serra; paleta cobre, azul escuro e off-white; vocabulário sensorial; PDV, mobiliário e uniformes.",
+   "results": [],
+   "lessons": [
+    "Quebrar um código de categoria funciona quando a alternativa tem prova concreta (território, ingrediente).",
+    "Preservar o ativo histórico dá continuidade à mudança."
+   ],
+   "principles": [
+    "brasilidade-sem-caricatura",
+    "rebrand-keep-equity"
+   ],
+   "sources": [
+    {
+     "id": "src-mdm-petra-2026",
+     "locator": "texto inteiro",
+     "paraphrase": "Rebranding com brasilidade no premium."
+    }
+   ]
+  },
+  {
+   "id": "case-localiza-preco-premium",
+   "brand": "Localiza",
+   "year": 2026,
+   "agency": null,
+   "sector": "aluguel de carros",
+   "market": "Brasil",
+   "type": "reposicionamento",
+   "challenge": "Categoria orientada por preço.",
+   "insight": "Tranquilidade e serviço valem mais que o preço mais baixo.",
+   "strategy": "Oferta baseada em confiabilidade, conveniência e atendimento.",
+   "execution": "Operação e serviço.",
+   "results": [
+    {
+     "metric": "Valor de marca BrandZ 2026",
+     "value": "US$ 3,214 bi, 9ª posição",
+     "independent": false,
+     "source": "src-kantar-brandz-brasil-2026"
+    }
+   ],
+   "lessons": [
+    "Em categoria commoditizada, serviço confiável sustenta preço acima da média."
+   ],
+   "principles": [
+    "pricing-power-brand",
+    "brand-promise-delivery"
+   ],
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "perspectiva 09",
+     "paraphrase": "Clientes aceitam pagar mais porque serviço e tranquilidade compensam."
+    }
+   ]
+  },
+  {
+   "id": "case-boticario-consistencia",
+   "brand": "O Boticário",
+   "year": 2026,
+   "agency": null,
+   "sector": "beleza",
+   "market": "Brasil",
+   "type": "reposicionamento",
+   "challenge": "Crescer por quase 50 anos mudando produtos e serviços.",
+   "insight": "Mudar a oferta sem mudar o que a marca representa.",
+   "strategy": "Consistência de significado com renovação de portfólio.",
+   "execution": "Não detalhado na fonte.",
+   "results": [],
+   "lessons": [
+    "Consistência de significado permite inovar em produto."
+   ],
+   "principles": [
+    "consistency-over-time"
+   ],
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "perspectiva 01",
+     "paraphrase": "Exemplo brasileiro de consistência impulsionando crescimento."
+    }
+   ]
+  },
+  {
+   "id": "case-natura-holistico",
+   "brand": "Natura",
+   "year": null,
+   "agency": null,
+   "sector": "beleza",
+   "market": "Brasil",
+   "type": "arquitetura",
+   "challenge": "Sustentar a promessa 'Bem Estar Bem' para todos os stakeholders.",
+   "insight": "A promessa só é crível se valer da cadeia (andiroba, comunidades extrativistas, fair trade) aos colaboradores (creche no escritório) e investidores.",
+   "strategy": "Branding holístico: mesma essência em produto, fornecedor, cultura interna e comunicação.",
+   "execution": "Práticas de cadeia, ambiente de trabalho, produto e comunicação integrados.",
+   "results": [
+    {
+     "metric": "Valor de marca BrandZ 2026",
+     "value": "US$ 1,252 bi (-28% em 2 anos)",
+     "independent": false,
+     "source": "src-kantar-brandz-brasil-2026"
+    }
+   ],
+   "lessons": [
+    "Comunicação sem prática na cadeia é greenwashing.",
+    "Coerência interna e externa não garante crescimento de valor: a Natura caiu 28% no ranking 2026, por razões não explicadas na fonte."
+   ],
+   "principles": [
+    "brand-as-behaviour",
+    "purpose-must-be-operational"
+   ],
+   "sources": [
+    {
+     "id": "src-bff-10-bedendo-2024",
+     "locator": "pergunta 3",
+     "paraphrase": "Natura como exemplo de branding holístico."
+    },
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "tabela do ranking",
+     "paraphrase": "Natura em 21º com queda de 28%."
+    }
+   ]
+  },
+  {
+   "id": "case-dengo-diferencial",
+   "brand": "Dengo",
+   "year": 2026,
+   "agency": null,
+   "sector": "alimentação/chocolate",
+   "market": "Brasil",
+   "type": "lancamento",
+   "challenge": "Crescer como marca pequena em chocolate.",
+   "insight": "Demanda por chocolate de ingredientes de qualidade e origem local.",
+   "strategy": "Colocar tratamento justo e remuneração adequada dos produtores no centro do negócio.",
+   "execution": "Modelo de cadeia e produto.",
+   "results": [],
+   "lessons": [
+    "Propósito operacional na cadeia pode ser a própria diferença significativa."
+   ],
+   "principles": [
+    "purpose-must-be-operational",
+    "pricing-power-brand"
+   ],
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "pp. 60-61",
+     "paraphrase": "Dengo criou diferencial significativo com remuneração justa dos fornecedores."
+    }
+   ]
+  },
+  {
+   "id": "case-salon-line-criadores",
+   "brand": "Salon Line",
+   "year": 2026,
+   "agency": null,
+   "sector": "beleza/cabelo",
+   "market": "Brasil",
+   "type": "reposicionamento",
+   "challenge": "Ganhar liderança em cabelos.",
+   "insight": "Comunidade que celebra todos os tipos de cabelo.",
+   "strategy": "Rede diversificada de microcriadores como parceiros contínuos.",
+   "execution": "Parcerias com criadores.",
+   "results": [],
+   "lessons": [
+    "Microcriadores constroem comunidade e confiança quando há estratégia de longo prazo."
+   ],
+   "principles": [
+    "trust-earned-via-others-brazil"
+   ],
+   "sources": [
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "p. 69",
+     "paraphrase": "Caso Salon Line: engajamento, comunidade e liderança via criadores."
+    }
+   ]
+  },
+  {
+   "id": "case-govbr-unificacao",
+   "brand": "gov.br",
+   "year": 2019,
+   "agency": "SGD, SECOM e SERPRO",
+   "sector": "governo",
+   "market": "Brasil",
+   "type": "arquitetura",
+   "challenge": "Centenas de portais, domínios e apps federais com identidades e navegação diferentes.",
+   "insight": "Para o cidadão, o governo é um só: padrões iguais geram confiança e reduzem a curva de aprendizado.",
+   "strategy": "Portal e domínio únicos, design system obrigatório, guia editorial e manuais de marca, papéis definidos por órgão.",
+   "execution": "Decreto 9.756/2019, migração de conteúdos até 2020, Padrão Digital de Governo, CMS Plone comum.",
+   "results": [],
+   "lessons": [
+    "Arquitetura monolítica com regra legal e componentes prontos é o que garante adesão em sistemas grandes."
+   ],
+   "principles": [
+    "brand-governance-federated-system"
+   ],
+   "sources": [
+    {
+     "id": "src-decreto-9756-2019",
+     "locator": "arts. 1º-6º",
+     "paraphrase": "Regras de unificação."
+    },
+    {
+     "id": "src-govbr-kit-unificacao",
+     "locator": "kit",
+     "paraphrase": "Estrutura do projeto."
+    },
+    {
+     "id": "src-cade-guia-portal-2023",
+     "locator": "apresentação",
+     "paraphrase": "Aplicação por um órgão."
+    }
+   ]
+  },
+  {
+   "id": "case-mcdonalds-ceo-big-arch",
+   "brand": "McDonald's vs Burger King",
+   "year": 2026,
+   "agency": null,
+   "sector": "alimentação/fast food",
+   "market": "global",
+   "type": "fracasso",
+   "challenge": "Lançar o Big Arch com o CEO como porta-voz.",
+   "insight": "Credibilidade vem de envolvimento demonstrado.",
+   "strategy": "Vídeo do CEO provando o produto em sala corporativa.",
+   "execution": "Mordida hesitante e corporativês; o Burger King respondeu com o CEO comendo com naturalidade em loja.",
+   "results": [],
+   "lessons": [
+    "Declarar amor pelo produto sem demonstrar vira chacota no digital."
+   ],
+   "principles": [
+    "ceo-as-brand-signal"
+   ],
+   "sources": [
+    {
+     "id": "src-bedendo-exame-ceo-2026",
+     "locator": "texto",
+     "paraphrase": "Análise do episódio."
+    }
+   ]
+  }
+ ],
+ "antipatterns": [
+  {
+   "id": "empty-adjective-values",
+   "name": "Valores de adjetivos vazios",
+   "description": "Valores e atributos que qualquer empresa assinaria (excelência, inovação, paixão, compromisso, ética) sem comportamento associado.",
+   "signals": [
+    "Lista de valores com palavras soltas como 'excelência', 'inovação', 'paixão', 'respeito'.",
+    "Nenhum valor descreve uma escolha que a empresa faz e o concorrente não faz.",
+    "Valores iguais aos de outras empresas do setor."
+   ],
+   "whyBad": "Não orientam decisão nem diferenciam; o valor-chave de uma categoria tende a ser atribuído igualmente a todas as marcas dela.",
+   "fix": "Transforme cada valor em comportamento observável e em uma renúncia ('preferimos X mesmo que custe Y').",
+   "domain": [
+    "identidade-verbal",
+    "cultura-interna"
+   ],
+   "stage": [
+    "plataforma",
+    "voz"
+   ],
+   "sources": [
+    {
+     "id": "src-rac-2007-leao-lov",
+     "locator": "resultados",
+     "paraphrase": "O mesmo valor lidera para todas as marcas do setor."
+    },
+    {
+     "id": "src-bff-10-bedendo-2024",
+     "locator": "pergunta 3",
+     "paraphrase": "Essência só vale quando vira ação e cultura."
+    }
+   ]
+  },
+  {
+   "id": "humanizacao-generica",
+   "name": "Humanização genérica (pôr do sol, família, 'faz parte da sua vida')",
+   "description": "Comunicação que tenta humanizar a marca com cenas de qualidade de vida e frases de proximidade que servem a qualquer banco, seguradora ou montadora.",
+   "signals": [
+    "Imagens de casais ao pôr do sol, famílias no parque, gente pulando de píer.",
+    "Frases como 'mais que um banco', 'perto de você', 'faz parte da sua vida', 'o banco da sua vida'.",
+    "Produto ou serviço relegado ao canto da peça."
+   ],
+   "whyBad": "Virou a retórica padrão de grandes anunciantes brasileiros desde os anos 1990; não diferencia e soa como legitimação.",
+   "fix": "Mostre um comportamento específico da marca (o que ela faz diferente no atendimento, no produto) em vez do estado de felicidade genérico.",
+   "domain": [
+    "identidade-verbal",
+    "narrativa-proposito"
+   ],
+   "stage": [
+    "voz",
+    "narrativa"
+   ],
+   "sources": [
+    {
+     "id": "src-cmc-rocha-retorica-capital",
+     "locator": "seção sobre bancos",
+     "paraphrase": "Qualidade de vida e responsabilidade social viraram a nova retórica do grande capital."
+    }
+   ]
+  },
+  {
+   "id": "cause-of-the-moment",
+   "name": "Causa da moda",
+   "description": "Adotar a causa em alta nas redes sem vínculo com a comunidade, a cadeia ou o negócio da marca.",
+   "signals": [
+    "Posts em datas comemorativas sem ação contínua.",
+    "Causa diferente a cada ano.",
+    "Nenhum investimento, prática ou meta associada."
+   ],
+   "whyBad": "O público percebe a desconexão; sem prática integrada, vira greenwashing ou purpose-washing.",
+   "fix": "Partir das causas que a comunidade da marca já tem e do que o negócio pode sustentar (ver purpose-must-be-operational).",
+   "domain": [
+    "narrativa-proposito"
+   ],
+   "stage": [
+    "plataforma",
+    "narrativa"
+   ],
+   "sources": [
+    {
+     "id": "src-bff-10-bedendo-2024",
+     "locator": "resposta sobre causas",
+     "paraphrase": "O grande erro é pegar a pauta do momento."
+    },
+    {
+     "id": "src-mdm-anacouto-revolucao-2023",
+     "locator": "fala de Ana Couto",
+     "paraphrase": "Não basta surfar modinhas."
+    }
+   ]
+  },
+  {
+   "id": "re-logo-as-rebrand",
+   "name": "Re-logo vendido como rebranding",
+   "description": "Trocar logotipo e paleta e chamar de rebranding, sem mudar posicionamento, produto ou experiência, ou descartando ativos com memória.",
+   "signals": [
+    "Projeto começa pelo logo.",
+    "Nenhum diagnóstico de equity dos ativos atuais.",
+    "Justificativa é 'modernizar' sem dizer para quem e por quê."
+   ],
+   "whyBad": "Gasta equity acumulado e confunde a base, como no caso Jaguar.",
+   "fix": "Começar por diagnóstico e posicionamento; preservar ativos com reconhecimento.",
+   "domain": [
+    "identidade-visual",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativos"
+   ],
+   "sources": [
+    {
+     "id": "src-bedendo-exame-jaguar-2024",
+     "locator": "abertura",
+     "paraphrase": "Re-logo não é rebranding."
+    }
+   ]
+  },
+  {
+   "id": "caricatura-de-brasilidade",
+   "name": "Fantasia de Brasil",
+   "description": "Representar o Brasil com estereótipos (verde-amarelo, samba genérico, futurismo 'tropical') que o público não reconhece como seu.",
+   "signals": [
+    "Cores da bandeira como único código.",
+    "Cenários que ninguém vive.",
+    "Gírias forçadas para parecer jovem."
+   ],
+   "whyBad": "Soa artificial e pode provocar rejeição, como a campanha da Nike para a Seleção.",
+   "fix": "Use códigos específicos do cotidiano e só em territórios onde a marca tem legitimidade.",
+   "domain": [
+    "narrativa-proposito",
+    "identidade-visual"
+   ],
+   "stage": [
+    "narrativa",
+    "ativos"
+   ],
+   "sources": [
+    {
+     "id": "src-bedendo-exame-brahma-nike-2026",
+     "locator": "texto",
+     "paraphrase": "Brasileiro sem parecer fantasia de brasileiro."
+    },
+    {
+     "id": "src-bedendo-exame-fim-propaganda-2026",
+     "locator": "caso Nike",
+     "paraphrase": "Comunidade recusou o enquadramento."
+    }
+   ]
+  },
+  {
+   "id": "viral-sem-marca",
+   "name": "Viral sem marca",
+   "description": "Conteúdo que gera visualizações e comentários mas não deixa associação nem ativo ligado à marca.",
+   "signals": [
+    "Sucesso medido só em views e likes.",
+    "A marca aparece só na assinatura final.",
+    "Criadores sem diretriz de marca."
+   ],
+   "whyBad": "Pode ser lembrado sem a marca; a Kantar mede que só 27% do conteúdo de criadores é fortemente vinculado à marca.",
+   "fix": "Âncoras de memória no centro da história e métricas de lembrança de marca.",
+   "domain": [
+    "ativacao-eficacia",
+    "ativos-distintivos"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-bedendo-exame-aaker-ia-2026",
+     "locator": "memory anchors",
+     "paraphrase": "É possível viralizar e construir muito pouco."
+    },
+    {
+     "id": "src-kantar-brandz-brasil-2026",
+     "locator": "p. 66",
+     "paraphrase": "27% do conteúdo de criadores fortemente vinculado."
+    }
+   ]
+  },
+  {
+   "id": "branding-as-logo-job",
+   "name": "Branding como cargo de aplicar logo",
+   "description": "A empresa chama de 'branding' a função de aplicar identidade visual em materiais, sem mandato sobre decisões de negócio.",
+   "signals": [
+    "Gestor de marca não participa de decisões de produto, preço ou canal.",
+    "Branding chamado só depois de tudo decidido."
+   ],
+   "whyBad": "A marca chega tarde e só maquia escolhas feitas sem ela.",
+   "fix": "Dar mandato de negócio e critérios de marca para decisões (ver brand-as-behaviour).",
+   "domain": [
+    "gestao-governanca"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "sources": [
+    {
+     "id": "src-bff-10-bedendo-2024",
+     "locator": "pergunta 2",
+     "paraphrase": "Empresas chamam de branding o cargo de aplicador de identidade visual."
+    },
+    {
+     "id": "src-bedendo-exame-aaker-performance-2026",
+     "locator": "seção lealdade",
+     "paraphrase": "Branding restrito à comunicação chega tarde demais."
+    }
+   ]
+  },
+  {
+   "id": "plataforma-que-morre-no-ppt",
+   "name": "Plataforma que morre no PPT",
+   "description": "Projeto de marca entregue como apresentação bonita, sem plano de implementação, lemas por ponto de contato ou acompanhamento.",
+   "signals": [
+    "Entregável final é só o book.",
+    "Nenhum dono interno nem cronograma de implementação.",
+    "Equipe não sabe usar o tom de voz no dia a dia."
+   ],
+   "whyBad": "A estratégia não chega aos pontos de contato; o mercado brasileiro de branding historicamente parou na construção.",
+   "fix": "Incluir implementação acompanhada, narrativas e lemas por canal, embaixadores internos e métricas.",
+   "domain": [
+    "gestao-governanca",
+    "cultura-interna"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-pob-pos-ano-do-branding-2024",
+     "locator": "seção 'De projetos de construção para implementação'",
+     "paraphrase": "Empresas têm dificuldade em colocar o projeto de branding na prática."
+    },
+    {
+     "id": "src-dc-troiano-rota-do-soul-2019",
+     "locator": "etapa de disseminação",
+     "paraphrase": "Propósito precisa de ações, embaixadores e materiais internos."
+    }
+   ]
+  },
+  {
+   "id": "enquete-como-pesquisa",
+   "name": "Enquete tratada como pesquisa",
+   "description": "Decidir posicionamento com base em formulário no site, enquete em rede ou painel enviesado.",
+   "signals": [
+    "Insight central vem de 'fizemos uma enquete no Instagram'.",
+    "Amostra desconhecida ou autosselecionada."
+   ],
+   "whyBad": "Representa só quem respondeu; leva a decisões erradas com aparência de dado.",
+   "fix": "Amostra definida, método descrito e combinação de declarado com comportamento.",
+   "domain": [
+    "publico",
+    "equity-medicao"
+   ],
+   "stage": [
+    "diagnostico",
+    "publico"
+   ],
+   "sources": [
+    {
+     "id": "src-bff-11-bedendo-2024",
+     "locator": "senso crítico",
+     "paraphrase": "Enquete não é pesquisa; amostra certa importa mais que volume."
+    }
+   ]
+  },
+  {
+   "id": "ceo-declarando-amor",
+   "name": "Porta-voz que declara em vez de demonstrar",
+   "description": "Executivo dizendo 'eu amo este produto', 'somos apaixonados por...' em corporativês, sem uso real visível.",
+   "signals": [
+    "Gravação em sala de reunião.",
+    "Produto chamado de 'produto' ou 'solução'.",
+    "Adjetivos de amor e paixão no roteiro."
+   ],
+   "whyBad": "O público rejeita o que não parece verdadeiro; no digital, vira meme.",
+   "fix": "Mostrar uso real, em contexto, com linguagem do consumidor.",
+   "domain": [
+    "identidade-verbal"
+   ],
+   "stage": [
+    "voz",
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-bedendo-exame-ceo-2026",
+     "locator": "texto",
+     "paraphrase": "Declaração desnecessária quando o comportamento demonstraria."
+    }
+   ]
+  },
+  {
+   "id": "arquetipo-rotulo",
+   "name": "Arquétipo como rótulo",
+   "description": "Escolher um dos 12 arquétipos e listar adjetivos dele como se fosse a personalidade da marca.",
+   "signals": [
+    "'Nossa marca é o Herói' sem comportamento, cultura ou regra de voz derivada.",
+    "Mesmo arquétipo dos concorrentes."
+   ],
+   "whyBad": "Vira clichê e não diferencia; empreendedores têm dificuldade de aplicar arquétipos.",
+   "fix": "Usar manifestações culturais específicas e traduzir em regras verificáveis.",
+   "domain": [
+    "identidade-verbal",
+    "narrativa-proposito"
+   ],
+   "stage": [
+    "plataforma",
+    "voz"
+   ],
+   "sources": [
+    {
+     "id": "src-pob-arquetipos-manifestacoes-2023",
+     "locator": "texto",
+     "paraphrase": "Arquétipo não é sobre personalidade; é preciso ir além do clichê."
+    },
+    {
+     "id": "src-vozza-ufsc-2026",
+     "locator": "Gráfico 8",
+     "paraphrase": "Arquétipos entre os elementos mais difíceis."
+    }
+   ]
+  },
+  {
+   "id": "frictionless-sameness",
+   "name": "Jornada sem atrito e igual a todas",
+   "description": "Copiar padrões de conveniência dos líderes digitais até todas as jornadas da categoria ficarem idênticas.",
+   "signals": [
+    "Benchmark só com concorrentes e líderes digitais.",
+    "Nenhum momento da jornada é memorável."
+   ],
+   "whyBad": "Reduz diferenciação; a memória da experiência depende de picos e do final.",
+   "fix": "Garantir o básico fluido e projetar poucos picos proprietários.",
+   "domain": [
+    "experiencia"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-mdm-bicudo-picos-2026",
+     "locator": "texto",
+     "paraphrase": "Quando tudo é fluido, ninguém se diferencia."
+    }
+   ]
+  },
+  {
+   "id": "premium-so-europeu",
+   "name": "Premium = importado",
+   "description": "Convenção de categoria de que premium precisa evocar origem europeia, nomes estrangeiros e exclusividade.",
+   "signals": [
+    "Nome ou claim em inglês, italiano ou alemão sem motivo.",
+    "Estética de 'cervejaria belga' ou 'perfumaria francesa' por padrão."
+   ],
+   "whyBad": "Todas as marcas premium ficam iguais e desperdiçam a preferência crescente por marcas brasileiras.",
+   "fix": "Construir sofisticação com origem concreta brasileira, quando houver prova.",
+   "domain": [
+    "posicionamento",
+    "naming"
+   ],
+   "stage": [
+    "posicionamento",
+    "naming"
+   ],
+   "sources": [
+    {
+     "id": "src-mdm-petra-2026",
+     "locator": "texto",
+     "paraphrase": "Petra se distancia da ideia de que premium precisa ser europeu."
+    },
+    {
+     "id": "src-mm-edelman-2026-marcas",
+     "locator": "dados",
+     "paraphrase": "75% valorizam sede no Brasil."
+    }
+   ]
+  }
+ ],
+ "lexicon": [
+  {
+   "term": "entregar valor",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga qual valor, para quem e medido como (ex.: 'reduzimos o prazo de 10 para 3 dias')",
+   "sources": []
+  },
+  {
+   "term": "gerar valor",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "nomeie o ganho concreto do cliente ou do negócio",
+   "sources": []
+  },
+  {
+   "term": "agregar valor",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "descreva o que o cliente ganha a mais, com número",
+   "sources": []
+  },
+  {
+   "term": "jornada do cliente",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "descreva a etapa específica e o que muda nela para o cliente",
+   "sources": []
+  },
+  {
+   "term": "jornada de transformação",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga o que muda, em quanto tempo e como se percebe",
+   "sources": []
+  },
+  {
+   "term": "transformar vidas",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "mostre uma mudança verificável na vida de um cliente real",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "fazer a diferença",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "diga qual diferença, comparada a quê",
+   "sources": []
+  },
+  {
+   "term": "excelência",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "troque por um padrão mensurável (prazo, taxa de erro, nota)",
+   "sources": [
+    "src-rac-2007-leao-lov"
+   ]
+  },
+  {
+   "term": "excelência no atendimento",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "diga o tempo de resposta ou como se resolve um problema",
+   "sources": []
+  },
+  {
+   "term": "paixão por",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "mostre o comportamento que prova o cuidado em vez de declará-lo",
+   "sources": [
+    "src-bedendo-exame-ceo-2026"
+   ]
+  },
+  {
+   "term": "apaixonados pelo que fazem",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "mostre um detalhe de trabalho que só quem se importa faria",
+   "sources": [
+    "src-bedendo-exame-ceo-2026"
+   ]
+  },
+  {
+   "term": "soluções inovadoras",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "diga o que a coisa faz, com um número ou exemplo",
+   "sources": []
+  },
+  {
+   "term": "inovação",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "nomeie a novidade concreta e para quem ela serve",
+   "sources": []
+  },
+  {
+   "term": "soluções completas",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "liste o que está incluso e o que não está",
+   "sources": []
+  },
+  {
+   "term": "soluções sob medida",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "explique como a oferta é adaptada e até onde",
+   "sources": []
+  },
+  {
+   "term": "foco no cliente",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "mostre uma política que privilegia o cliente mesmo com custo para a empresa",
+   "sources": []
+  },
+  {
+   "term": "cliente no centro",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga qual decisão recente foi tomada a partir do cliente",
+   "sources": []
+  },
+  {
+   "term": "compromisso com a qualidade",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "cite o controle ou garantia que comprova a qualidade",
+   "sources": []
+  },
+  {
+   "term": "ética e transparência",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "mostre a prática (o que é publicado, o que é auditado)",
+   "sources": [
+    "src-rac-2007-leao-lov"
+   ]
+  },
+  {
+   "term": "respeito",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "descreva a regra de conduta concreta",
+   "sources": [
+    "src-rac-2007-leao-lov"
+   ]
+  },
+  {
+   "term": "comprometimento",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "troque por uma promessa com prazo e consequência",
+   "sources": []
+  },
+  {
+   "term": "sinergia",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga quais duas coisas se combinam e qual o ganho",
+   "sources": []
+  },
+  {
+   "term": "alavancar",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "use o verbo exato: aumentar, vender, reduzir",
+   "sources": []
+  },
+  {
+   "term": "empoderar",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga o que a pessoa passa a conseguir fazer",
+   "sources": []
+  },
+  {
+   "term": "ressignificar",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga qual era o significado antigo e qual é o novo",
+   "sources": []
+  },
+  {
+   "term": "protagonismo",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "mostre quem decide o quê",
+   "sources": []
+  },
+  {
+   "term": "disruptivo",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "diga qual regra da categoria a oferta quebra e qual prova existe",
+   "sources": []
+  },
+  {
+   "term": "referência no mercado",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "cite o ranking, prêmio ou número que prova",
+   "sources": []
+  },
+  {
+   "term": "líder de mercado",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "diga em quê, onde e segundo qual fonte",
+   "sources": []
+  },
+  {
+   "term": "mais de x anos de tradição",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "conte o que a história ensinou e mudou no produto",
+   "sources": []
+  },
+  {
+   "term": "qualidade de vida",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "diga qual tempo ou esforço o cliente economiza",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "responsabilidade social",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "descreva o programa, a verba e o resultado",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "gente que faz",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "mostre uma pessoa e o que ela fez",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "nossa gente",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "apresente pessoas reais com nome e função",
+   "sources": []
+  },
+  {
+   "term": "uma grande família",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "descreva benefícios ou práticas concretas com colaboradores",
+   "sources": []
+  },
+  {
+   "term": "mais que uma empresa",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "diga o que a empresa faz além do produto, com prova",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "perto de você",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "diga onde, quando e por quais canais",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "faz parte da sua vida",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "mostre o momento específico de uso",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "inspirar pessoas",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "diga o que as pessoas passam a fazer",
+   "sources": []
+  },
+  {
+   "term": "construir um mundo melhor",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "nomeie o problema, a ação e a meta",
+   "sources": []
+  },
+  {
+   "term": "impacto positivo",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "quantifique o impacto e diga em quem",
+   "sources": []
+  },
+  {
+   "term": "sustentabilidade",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "cite a prática (insumo, emissão, embalagem) e a meta",
+   "sources": [
+    "src-kantar-brandz-brasil-2026"
+   ]
+  },
+  {
+   "term": "cuidar das pessoas",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "descreva a política concreta de cuidado",
+   "sources": []
+  },
+  {
+   "term": "sonhos",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "diga qual objetivo concreto a marca ajuda a realizar",
+   "sources": []
+  },
+  {
+   "term": "conectar pessoas",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "diga quem se conecta com quem e para quê",
+   "sources": []
+  },
+  {
+   "term": "experiência única",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "descreva o momento que só esta marca oferece",
+   "sources": [
+    "src-mdm-bicudo-picos-2026"
+   ]
+  },
+  {
+   "term": "experiência completa",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "liste o que compõe a experiência",
+   "sources": []
+  },
+  {
+   "term": "produto",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "chame a coisa pelo nome que o cliente usa (hambúrguer, conta, aula)",
+   "sources": [
+    "src-bedendo-exame-ceo-2026"
+   ]
+  },
+  {
+   "term": "dna da marca",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga as duas ou três escolhas que a marca nunca abre mão",
+   "sources": [
+    "src-bedendo-exame-jaguar-2024"
+   ]
+  },
+  {
+   "term": "somos o herói da nossa história",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "traduza o arquétipo em comportamento e manifestação cultural",
+   "sources": [
+    "src-pob-arquetipos-manifestacoes-2023"
+   ]
+  },
+  {
+   "term": "descomplicar",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "diga qual passo some e quanto tempo economiza",
+   "sources": []
+  },
+  {
+   "term": "sem burocracia",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "liste o que não é exigido e o prazo real",
+   "sources": []
+  },
+  {
+   "term": "seu dinheiro rendendo mais",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "informe a taxa e a comparação",
+   "sources": []
+  },
+  {
+   "term": "liberdade financeira",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "diga o que o produto faz concretamente pelo orçamento",
+   "sources": []
+  },
+  {
+   "term": "o banco que cabe no seu bolso",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "diga a tarifa e o que está incluso",
+   "sources": []
+  },
+  {
+   "term": "o banco da sua vida",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "mostre um serviço que acompanha uma fase específica da vida",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "mais que um banco",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "diga o serviço não bancário e para quem é",
+   "sources": [
+    "src-cmc-rocha-retorica-capital"
+   ]
+  },
+  {
+   "term": "tudo pelo app",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "diga o que é possível no app que concorrentes não oferecem",
+   "sources": [
+    "src-kantar-brandz-brasil-2026"
+   ]
+  },
+  {
+   "term": "sem tarifas escondidas",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "publique a tabela de tarifas",
+   "sources": []
+  },
+  {
+   "term": "seguro e confiável",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "banco",
+   "replacement": "segurança é paridade da categoria: diferencie em outra dimensão",
+   "sources": [
+    "src-rac-2007-leao-lov",
+    "src-kantar-brandz-brasil-2026"
+   ]
+  },
+  {
+   "term": "realce sua beleza natural",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "beleza",
+   "replacement": "diga o efeito específico no cabelo ou na pele e em quanto tempo",
+   "sources": []
+  },
+  {
+   "term": "autoestima",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "beleza",
+   "replacement": "mostre a pessoa real e o resultado",
+   "sources": []
+  },
+  {
+   "term": "seja você mesma",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "beleza",
+   "replacement": "descreva a variedade real de tipos atendidos",
+   "sources": [
+    "src-kantar-brandz-brasil-2026"
+   ]
+  },
+  {
+   "term": "cuidado que você merece",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "beleza",
+   "replacement": "diga o ingrediente ou ritual e o benefício",
+   "sources": []
+  },
+  {
+   "term": "poder da natureza",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "beleza",
+   "replacement": "nomeie o ativo, a origem e a prova",
+   "sources": []
+  },
+  {
+   "term": "beleza real",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "beleza",
+   "replacement": "mostre diversidade concreta, não a frase",
+   "sources": []
+  },
+  {
+   "term": "feito com amor",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "alimentacao",
+   "replacement": "diga o que é feito à mão, como e por quem",
+   "sources": []
+  },
+  {
+   "term": "sabor de casa",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "alimentacao",
+   "replacement": "cite a receita, o ingrediente ou o processo",
+   "sources": []
+  },
+  {
+   "term": "ingredientes selecionados",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "alimentacao",
+   "replacement": "diga quais ingredientes, de onde e por que",
+   "sources": []
+  },
+  {
+   "term": "qualidade que você conhece",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "alimentacao",
+   "replacement": "dê a prova de qualidade",
+   "sources": []
+  },
+  {
+   "term": "momentos especiais",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "alimentacao",
+   "replacement": "nomeie a ocasião específica de consumo",
+   "sources": []
+  },
+  {
+   "term": "tradição de família",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "alimentacao",
+   "replacement": "conte a história concreta e o que ela mudou no produto",
+   "sources": []
+  },
+  {
+   "term": "sabor inigualável",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "alimentacao",
+   "replacement": "descreva o sabor com palavras sensoriais específicas",
+   "sources": [
+    "src-mdm-petra-2026"
+   ]
+  },
+  {
+   "term": "artesanal",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "alimentacao",
+   "replacement": "explique o processo e o volume real",
+   "sources": []
+  },
+  {
+   "term": "os melhores preços",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "varejo",
+   "replacement": "dê o preço ou a comparação verificável",
+   "sources": []
+  },
+  {
+   "term": "tudo o que você precisa",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "varejo",
+   "replacement": "diga o sortimento ou o serviço que diferencia",
+   "sources": []
+  },
+  {
+   "term": "compre sem sair de casa",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "varejo",
+   "replacement": "diga o prazo de entrega e a área",
+   "sources": []
+  },
+  {
+   "term": "satisfação garantida",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "varejo",
+   "replacement": "explique a política de troca e devolução",
+   "sources": []
+  },
+  {
+   "term": "o melhor para sua família",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "varejo",
+   "replacement": "diga qual necessidade da família é atendida e como",
+   "sources": []
+  },
+  {
+   "term": "aqui tem",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "varejo",
+   "replacement": "diga o que tem que os outros não têm",
+   "sources": []
+  },
+  {
+   "term": "plataforma completa",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "tech",
+   "replacement": "liste os módulos e o problema resolvido",
+   "sources": []
+  },
+  {
+   "term": "tecnologia de ponta",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "tech",
+   "replacement": "diga qual tecnologia e o ganho para o usuário",
+   "sources": []
+  },
+  {
+   "term": "simples e intuitivo",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "tech",
+   "replacement": "diga quantos passos ou minutos leva a tarefa principal",
+   "sources": []
+  },
+  {
+   "term": "escalável",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "tech",
+   "replacement": "diga o limite real e o caso de uso",
+   "sources": []
+  },
+  {
+   "term": "revolucionar o mercado",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "tech",
+   "replacement": "diga qual prática da categoria muda e para quem",
+   "sources": []
+  },
+  {
+   "term": "potencializado por ia",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "tech",
+   "replacement": "diga o que a IA faz e o resultado medido",
+   "sources": []
+  },
+  {
+   "term": "ecossistema",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "tech",
+   "replacement": "liste as partes e como se conectam",
+   "sources": []
+  },
+  {
+   "term": "o futuro é agora",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "tech",
+   "replacement": "diga o que está disponível hoje",
+   "sources": []
+  },
+  {
+   "term": "cuidando de você",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "saude",
+   "replacement": "diga o serviço, o prazo e o acesso",
+   "sources": []
+  },
+  {
+   "term": "humanizado",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "saude",
+   "replacement": "descreva a prática (tempo de consulta, acompanhante, explicação)",
+   "sources": []
+  },
+  {
+   "term": "saúde em primeiro lugar",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "saude",
+   "replacement": "mostre a política que privilegia o paciente",
+   "sources": []
+  },
+  {
+   "term": "excelência médica",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "saude",
+   "replacement": "cite certificação, desfecho ou indicador",
+   "sources": []
+  },
+  {
+   "term": "tecnologia a serviço da vida",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "saude",
+   "replacement": "diga o exame ou procedimento e o ganho",
+   "sources": []
+  },
+  {
+   "term": "bem-estar",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "saude",
+   "replacement": "diga qual hábito ou sintoma muda",
+   "sources": []
+  },
+  {
+   "term": "educação de qualidade",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "educacao",
+   "replacement": "cite resultado (aprovação, empregabilidade, nota)",
+   "sources": []
+  },
+  {
+   "term": "formando líderes",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "educacao",
+   "replacement": "mostre ex-alunos e o que fazem",
+   "sources": []
+  },
+  {
+   "term": "transformar o futuro",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "educacao",
+   "replacement": "diga o que o aluno consegue fazer ao terminar",
+   "sources": []
+  },
+  {
+   "term": "ensino inovador",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "educacao",
+   "replacement": "descreva o método e o que muda na aula",
+   "sources": []
+  },
+  {
+   "term": "o seu futuro começa aqui",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "educacao",
+   "replacement": "diga a próxima etapa concreta do aluno",
+   "sources": []
+  },
+  {
+   "term": "preparado para o mercado",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "educacao",
+   "replacement": "cite parceiros, estágio e taxa de colocação",
+   "sources": []
+  },
+  {
+   "term": "o lar dos seus sonhos",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "imobiliario",
+   "replacement": "descreva a planta, a luz, a localização",
+   "sources": []
+  },
+  {
+   "term": "viver bem",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "imobiliario",
+   "replacement": "diga o que fica perto e a quantos minutos",
+   "sources": []
+  },
+  {
+   "term": "alto padrão",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "imobiliario",
+   "replacement": "descreva acabamentos e especificações",
+   "sources": []
+  },
+  {
+   "term": "lazer completo",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "imobiliario",
+   "replacement": "liste os itens de lazer e para quem servem",
+   "sources": []
+  },
+  {
+   "term": "localização privilegiada",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "imobiliario",
+   "replacement": "dê distâncias e tempos para pontos de interesse",
+   "sources": []
+  },
+  {
+   "term": "exclusividade",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "imobiliario",
+   "replacement": "diga quantas unidades e o que só elas têm",
+   "sources": []
+  },
+  {
+   "term": "more onde você sempre sonhou",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "imobiliario",
+   "replacement": "mostre a vida concreta no bairro",
+   "sources": []
+  },
+  {
+   "term": "alimentando o mundo",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "agro",
+   "replacement": "diga o que a empresa produz, onde e em que volume",
+   "sources": [
+    "src-anacouto-agfeed-ondas"
+   ]
+  },
+  {
+   "term": "agro é tech, agro é pop, agro é tudo",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "agro",
+   "replacement": "mostre a tecnologia ou prática específica no campo",
+   "sources": []
+  },
+  {
+   "term": "do campo para sua mesa",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "agro",
+   "replacement": "rastreie o caminho real do produto",
+   "sources": []
+  },
+  {
+   "term": "parceiro do produtor",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "agro",
+   "replacement": "diga o serviço concreto ao produtor (crédito, assistência, prazo)",
+   "sources": []
+  },
+  {
+   "term": "produtividade sustentável",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "agro",
+   "replacement": "dê o ganho por hectare e a prática ambiental",
+   "sources": []
+  },
+  {
+   "term": "força do campo",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "agro",
+   "replacement": "nomeie pessoas, regiões e resultados",
+   "sources": [
+    "src-anacouto-agfeed-ondas"
+   ]
+  },
+  {
+   "term": "orgulho de ser brasileiro",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "geral",
+   "replacement": "use um código brasileiro específico em vez de declarar orgulho",
+   "sources": [
+    "src-bedendo-exame-brahma-nike-2026"
+   ]
+  },
+  {
+   "term": "a cara do brasil",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "mostre o hábito, o lugar ou a gente específica",
+   "sources": [
+    "src-bedendo-exame-brahma-nike-2026"
+   ]
+  },
+  {
+   "term": "premium",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "diga o que justifica o preço maior (origem, processo, serviço)",
+   "sources": [
+    "src-mdm-petra-2026",
+    "src-kantar-brandz-brasil-2026"
+   ]
+  }
+ ]
+}

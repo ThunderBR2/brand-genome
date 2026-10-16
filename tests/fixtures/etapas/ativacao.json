@@ -1,0 +1,16 @@
+{
+ "lancamento": [
+  { "acao": "Trocar o topo do site para 'Café com data' com o próximo dia de torra ao vivo", "canal": "site", "quando": "semana 1" },
+  { "acao": "Selo 'Torrado em' em todos os pacotes", "canal": "embalagem", "quando": "semana 2" },
+  { "acao": "Série 'dia de torra' às terças e quintas", "canal": "Instagram e e-mail", "quando": "a partir da semana 2", "publico": "clientes e seguidores" },
+  { "acao": "Kit para as 14 cafeterias com o selo e a data na vitrine", "canal": "cafeterias parceiras", "quando": "mês 2" }
+ ],
+ "regrasDeConsistencia": ["O selo 'Torrado em' nunca muda de formato nem de lugar no pacote", "Toda peça mostra pelo menos uma data, um número ou um nome", "Vermelho-tijolo é a cor principal em todas as peças", "Nenhum texto sai sem passar no brand_verify com nota 70 ou mais"],
+ "medicao": [
+  { "metrica": "Clientes recorrentes no site", "metodo": "dados de pedidos", "cadencia": "mensal", "horizonte": "curto" },
+  { "metrica": "Lembrança espontânea de marca de café fresco na região", "metodo": "pesquisa com 200 compradores de café especial", "cadencia": "semestral", "horizonte": "longo" },
+  { "metrica": "Reconhecimento do selo 'Torrado em' sem o nome", "metodo": "teste de ativo distintivo com 50 pessoas", "cadencia": "anual", "horizonte": "longo" }
+ ],
+ "governanca": { "dono": "Marina Couto", "aprovacoes": "Marina aprova toda peça nova; textos passam pelo brand_verify antes", "checklist": ["Rodar brand_verify em todo texto", "Rodar genome_verify em peças visuais", "Conferir se a data e o nome do produtor estão certos"] },
+ "primeiros90dias": ["Selo em 100% dos pacotes", "Preço por saca publicado no site", "Primeira pesquisa de lembrança como base"]
+}

@@ -1,0 +1,3643 @@
+{
+  "batch": "naming-arquitetura",
+  "sources": [
+    {
+      "id": "src-catchword-naming-guide-3ed",
+      "title": "Creating the Perfect Name — Catchword Naming Guide (3ª edição)",
+      "url": "https://catchwordbranding.com/wp-content/uploads/2022/08/CW_NamingGuide_100914.pdf",
+      "author": "Catchword Branding",
+      "year": 2014,
+      "format": "pdf",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Guia completo de uma agência de naming americana: tipos e construções de nome, brief criativo com perguntas obrigatórias, geração em volume (cerca de 2.000 nomes por projeto), shortlist de 10%, 10 diretrizes de escolha, 10 critérios de avaliação, triagem de marca (classes de Nice, risco de confusão, força da marca), checagem linguística com nativos, uso cauteloso de pesquisa com consumidor, domínios e checklist de lançamento. Base: experiência da agência desde 1998.",
+      "notes": "PDF lido integralmente (35 p.). Ano inferido do nome do arquivo (100914); a página sobre domínios cita gTLDs de 2012. Agência vende serviço de naming e é dona de um site de venda de domínios (declara isso), então o conselho tem interesse comercial."
+    },
+    {
+      "id": "src-igor-naming-guide-2022",
+      "title": "Igor Naming Guide 2022A — Building the Perfect Beast",
+      "url": "https://igorinternational.com/process/i/Igor%20Naming%20Guide%202022A.pdf",
+      "author": "Igor International (Steve Manning / Karen Hochman nos metadados)",
+      "year": 2022,
+      "format": "pdf",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Defende nomes evocativos que expressam o posicionamento, não a função. Classifica nomes em funcionais/descritivos, inventados, experienciais e evocativos, com prós e contras; propõe 'descrição de cargo' do nome, mapas taxonômicos da concorrência com nota de -2 a 5, nove categorias de avaliação, o teste A.S.S. (associações + slogans) e denuncia o 'Happy Idiot': nomes inventados com justificativa morfêmica, palavras estrangeiras que o público não entende e compostos de palavras batidas.",
+      "notes": "PDF lido inteiro (26 p.). Tom polêmico e autopromocional; os exemplos de 'Happy Idiot' atacam uma agência concorrente não nomeada. Tratar como opinião forte de uma escola de naming, não como evidência."
+    },
+    {
+      "id": "src-labbrand-naming-methodology",
+      "title": "A Snapshot of Labbrand's Brand Naming Methodology",
+      "url": "https://www.labbrand.com/insights/article/a-snapshot-of-labbrands-brand-naming-methodology.html",
+      "author": "Labbrand",
+      "year": 2016,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Descreve o método da Labbrand para nomes na China e globais: cinco dimensões de um bom nome, software próprio de geração (base de 6.000 caracteres chineses), triagem de risco de marca em CTMO, WIPO, EUIPO e USPTO, e checagem linguística com nativos via The Brand Checker em cerca de 20 idiomas e 5 dialetos chineses. Alerta para o 'período cego' de 3 a 6 meses das bases e recomenda depositar ao menos dois candidatos.",
+      "notes": "Ano inferido do dado 'junho de 2016' citado no texto. Cases (Haribo, booking.com, VW Lamando) são da própria agência."
+    },
+    {
+      "id": "src-watkins-verisign-smile-scratch-2018",
+      "title": "How Strong is Your Startup Name?",
+      "url": "https://blog.verisign.com/domain-names/how-strong-is-your-startup-name/",
+      "author": "Alexandra Watkins (Eat My Words), post convidado no blog da Verisign",
+      "year": 2018,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "framework",
+      "sponsored": true,
+      "dissected": true,
+      "summary": "Apresenta o teste SMILE & SCRATCH: cinco qualidades de um nome forte (Sugestivo, com Significado, Imagem, 'Pernas' para virar tema, Emocional) e sete motivos de descarte (difícil de soletrar, cópia, restritivo, irritante/forçado, sem graça, maldição do conhecimento, difícil de pronunciar). Defende que nome e domínio não precisam coincidir: use modificador ou frase.",
+      "notes": "Post patrocinado pela Verisign (registradora do .com), que tem interesse em domínios. O livro 'Hello, My Name Is Awesome' é pago e não foi lido; usado só o resumo gratuito do teste."
+    },
+    {
+      "id": "src-eatmywords-entrepreneur-2008",
+      "title": "All in the Name (Entrepreneur StartUps, reproduzido em eatmywords.com)",
+      "url": "https://eatmywords.com/?p=874",
+      "author": "Entrepreneur StartUps / perfil de Alexandra Watkins",
+      "year": 2008,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Perfil curto de Watkins: nomes brincalhões criam vínculo emocional (Spoon Me, Neato), copiar tendência de categoria (efeito Pinkberry) funciona pior que surpreender, não se deve decidir perguntando a amigos e família, e nomes únicos mas confusos (Flickr, Xobni) atrapalham a lembrança.",
+      "notes": "Texto curto e antigo, reproduzido no site da própria agência. Autor da matéria não indicado."
+    },
+    {
+      "id": "src-meyerson-on-branding-ep14",
+      "title": "On Branding Podcast ep. 14 — Brand Naming Process (com Rob Meyerson)",
+      "url": "https://ebaqdesign.com/podcast/brand-naming-process",
+      "author": "Arek Dvornechuck (Ebaq Design) entrevista Rob Meyerson (Heirloom)",
+      "year": null,
+      "format": "podcast",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Meyerson descreve um processo em 7 etapas que diz ter observado em agências e equipes internas: brief aprovado pelos decisores, geração individual antes da coletiva, shortlist com 2 a 3 pessoas, pré-triagem de marca e linguística, apresentação cuidadosa, busca jurídica completa e decisão final ponderando risco. Insiste em volume (as primeiras ~200 ideias costumam ser as óbvias) e desaconselha sufixos de moda como -ly e -ify.",
+      "notes": "Transcrição da página lida; tem erros de transcrição automática. Data do episódio não informada. O livro 'Brand Naming' (2021) é pago e não foi lido."
+    },
+    {
+      "id": "src-meyerson-westergaard-2022",
+      "title": "Brand Naming Best Practices with Rob Meyerson",
+      "url": "https://www.nickwestergaard.com/brand-naming-best-practices-with-rob-meyerson/",
+      "author": "Nick Westergaard (On Brand) entrevista Rob Meyerson",
+      "year": 2022,
+      "format": "podcast",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Resumo de episódio: naming começa por um brief; nomes vão de descritivos a abstratos e compostos; Swiffer é elogiado como cunhado que soa como palavra real; TRONC (Tribune) é citado como nome ruim e lançamento mal conduzido; naming é menos respeitado que design de logo porque 'qualquer um faz'.",
+      "notes": "Só a página-resumo foi lida, não o áudio."
+    },
+    {
+      "id": "src-miller-types-brand-names-2017",
+      "title": "Types of Brand Names: The Anatomy of a Name",
+      "url": "https://www.goodreads.com/author_blog_posts/15502505-types-of-brand-names-the-anatomy-of-a-name",
+      "author": "Jeremy Miller (Sticky Branding)",
+      "year": 2017,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Tipologia em três arquétipos (descritivo, sugestivo, 'empty vessel') e um segundo eixo de construção: sobrenome do fundador, sigla, figura histórica ou inventada, mito, palavra real, composta, construída, truncada, inventada por raízes greco-latinas, inventada fonética, grafia errada, sufixo e trocadilho.",
+      "notes": "Blog no Goodreads. Não discute prós e contras de cada construção."
+    },
+    {
+      "id": "src-wipo-gbd-faq",
+      "title": "Global Brand Database — FAQs",
+      "url": "https://www.wipo.int/en/web/global-brand-database/faqs_branddb",
+      "author": "WIPO (Organização Mundial da Propriedade Intelectual)",
+      "year": 2025,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "A base global de marcas da WIPO é gratuita, junta a coleção de Madri (atualizada diariamente) com coleções nacionais (atualizadas quando cada escritório envia), tem busca por imagem de logo, filtros e buscas salvas, e exporta no máximo 180 registros por relatório. Os termos de uso proíbem consulta automatizada e download em massa, e a WIPO recomenda conferir também a base do escritório nacional.",
+      "notes": "Ano aproximado (página viva)."
+    },
+    {
+      "id": "src-inpi-etapas-registro-marca",
+      "title": "Etapas para pedido de registro de marca",
+      "url": "https://www.gov.br/inpi/pt-br/plataforma-integrada-de-atendimento/arquivos/documentos/etapas-para-pedido-de-registro-de-marca.pdf",
+      "author": "INPI (Instituto Nacional da Propriedade Industrial)",
+      "year": 2025,
+      "format": "pdf",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Passo a passo oficial do INPI: busca prévia no BuscaWeb por radical (núcleo do sinal), olhando classes e semelhança sonora; cadastro; GRU; depósito no e-Marcas escolhendo natureza e apresentação; exame formal (~60 dias, publicação na RPI e prazo de oposição); exame de mérito médio de 12 a 13 meses; concessão por 10 anos renováveis.",
+      "notes": "Sem data no documento; prazos de exame mudam com o tempo. Valores das taxas não constam."
+    },
+    {
+      "id": "src-inpi-tmview-2021",
+      "title": "TMview — ferramenta online de busca de marcas",
+      "url": "https://www.gov.br/inpi/pt-br/projetos-estrategicos/inpi-negocios/tmview/tmview-online-trade-mark-search-tool",
+      "author": "INPI",
+      "year": 2021,
+      "format": "guia-web",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "O TMview, mantido pelo EUIPO, reúne dados de mais de 70 escritórios de PI (o INPI participa por acordo bilateral), é gratuito, tem interface em 36 idiomas, inclusive português, e permite exportar resultados.",
+      "notes": "Página institucional curta; não descreve limitações nem frequência de atualização por escritório."
+    },
+    {
+      "id": "src-uspto-federal-trademark-searching",
+      "title": "Federal trademark searching: Getting started",
+      "url": "https://www.uspto.gov/sites/default/files/documents/TM-FederalTrademarkSearching-GettingStarted-handout.pdf",
+      "author": "USPTO",
+      "year": 2024,
+      "format": "pdf",
+      "language": "en",
+      "access": "livre",
+      "license": "dominio-publico",
+      "school": "pratica",
+      "evidence": "guia-oficial",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Guia do sistema de busca do USPTO (tmsearch.uspto.gov): busca de liberação para evitar risco de confusão, modos básico e especialista, busca por wordmark (cada palavra vira termo separado, não frase), por código de design de seis dígitos (não há busca reversa por imagem), por titular, filtros de vivas/mortas e por classe.",
+      "notes": "Ano aproximado (sistema lançado em 2023/2024). Obra do governo dos EUA."
+    },
+    {
+      "id": "src-yorkston-menon-2004-sound-symbolism",
+      "title": "A Sound Idea: Phonetic Effects of Brand Names on Consumer Judgments",
+      "url": "https://linguist62n.stanford.edu/yorkston.pdf",
+      "author": "Eric Yorkston e Geeta Menon (Journal of Consumer Research, v. 31)",
+      "year": 2004,
+      "format": "paper",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "academica",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Experimentos com nomes fictícios de sorvete (Frosh vs. Frish, que diferem só na vogal) mostram que o som do nome muda a percepção de atributos e a avaliação da marca: Frosh foi visto como mais cremoso e suave. O efeito é automático, fora da consciência e persiste mesmo quando se diz que o nome é só de teste. Revisa Klink (2000): vogais anteriores sugerem pequeno, leve, rápido, frio; posteriores sugerem grande, pesado, encorpado.",
+      "notes": "PDF hospedado em página de curso de Stanford (cópia acadêmica do artigo). Lidas a introdução, o arcabouço e os resultados do estudo 1; amostras de estudantes, categoria única."
+    },
+    {
+      "id": "src-placek-lexicon-cnn-2019",
+      "title": "Swiffer. BlackBerry. Dasani. Meet the man who named your favorite products",
+      "url": "https://wtop.com/business-finance/2019/09/swiffer-blackberry-dasani-meet-the-man-who-named-your-favorite-products/",
+      "author": "CNN Business (republicado por WTOP)",
+      "year": 2019,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Perfil da Lexicon Branding (David Placek): projetos de cerca de 8 semanas com 10 a 12 pessoas, rede de ~90 linguistas, sequência de definição do papel do nome, pré-triagem de marca, revisão linguística e análise de simbolismo sonoro. Conta as origens de BlackBerry (pesquisa sugeriu nome calmante, não estressante) e Swiffer (tornar o ato de esfregar o chão mais leve via sons como 'swipe' e 'swish').",
+      "notes": "Matéria jornalística baseada em relatos da agência; histórias de origem não verificadas de forma independente."
+    },
+    {
+      "id": "src-placek-lennys-podcast-2025",
+      "title": "Lenny's Podcast — Naming expert David Placek (resumo Podcast Insider)",
+      "url": "https://podcast-insider.on-forge.com/blog/lennys-podcast-product-career-growth/naming-expert-shares-the-process-behind-creating-billion-dollar-brand-names-like-azure-vercel-windsurf-sonos-blackberry-and-impossible-burger-david-placek-lexicon-branding",
+      "author": "Resumo de episódio do Lenny's Podcast com David Placek",
+      "year": 2025,
+      "format": "podcast",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Placek resume o processo em identificação, invenção e implementação; defende brainstorm sem julgamento precoce, ousadia, e lê reações polarizadas como sinal de força. Sonos foi rejeitado internamente no início.",
+      "notes": "Fonte secundária (resumo de terceiros, não transcrição); usar só para corroborar."
+    },
+    {
+      "id": "src-aaker-joachimsthaler-2000-cmr",
+      "title": "The Brand Relationship Spectrum: The Key to the Brand Architecture Challenge",
+      "url": "https://cmr-mig.berkeley.edu/2000/08/42-4-the-brand-relationship-spectrum-the-key-to-the-brand-architecture-challenge",
+      "author": "David Aaker e Erich Joachimsthaler (California Management Review 42/4)",
+      "year": 2000,
+      "format": "paper",
+      "language": "en",
+      "access": "pago",
+      "license": "copyright",
+      "school": "posicionamento-diferenciacao",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": false,
+      "summary": "Artigo que cria o espectro de relacionamento de marcas (branded house, submarcas, marcas endossadas, house of brands) como ferramenta para organizar portfólios e definir o papel de cada marca. Só o resumo foi lido.",
+      "notes": "Não dissecado: a cópia em PDF no Moodle da Nova SBE devolve página de erro e o texto integral é pago (SAGE). O conteúdo do modelo entra via fontes secundárias gratuitas (BSI, Umbrex, Ritson)."
+    },
+    {
+      "id": "src-umbrex-brand-relationship-spectrum",
+      "title": "Brand Relationship Spectrum (Branded House to House of Brands)",
+      "url": "https://umbrex.com/?p=241666",
+      "author": "Umbrex",
+      "year": null,
+      "format": "guia-web",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "posicionamento-diferenciacao",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Explica o espectro de Aaker & Joachimsthaler com sub-opções (master brand como motor ou co-motor; endosso simbólico, nome ligado ou endosso forte), critérios de decisão (papel de motor de compra, fluxo de equity e risco, eficiência vs. relevância), usos (fusões, racionalização, extensão, escada de preço) e armadilhas comuns.",
+      "notes": "Site de consultoria; o exemplo 'Novara/Volt' é hipotético e os resultados citados nele são ilustrativos, não dados."
+    },
+    {
+      "id": "src-bsi-white-brand-architecture-2024",
+      "title": "Brand Architecture For Competitive Advantage",
+      "url": "https://brandingstrategyinsider.com/brand-architecture-for-competitive-advantage/",
+      "author": "Dan White (Branding Strategy Insider)",
+      "year": 2024,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "posicionamento-diferenciacao",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Apresenta os quatro modelos do espectro com exemplos (Grupo VW, Calvin Klein, Sony PlayStation, Dove), afirma que Aaker & Joachimsthaler recomendam o branded house como ponto de partida e lista quatro perguntas para justificar outra opção. Mostra que empresas misturam modelos (Apple) e que o halo da master brand é maior entre linhas parecidas e com estética consistente.",
+      "notes": "O dado sobre halo da Dove é atribuído à Unilever sem número."
+    },
+    {
+      "id": "src-ritson-coke-one-brand-2015",
+      "title": "Coke's 'one brand' strategy highlights one of the great marketing themes of our lifetime",
+      "url": "https://www.marketingweek.com/cokes-one-brand-strategy-highlights-one-of-the-great-marketing-themes-of-our-lifetime/",
+      "author": "Mark Ritson (Marketing Week)",
+      "year": 2015,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "posicionamento-diferenciacao",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Ritson lê a estratégia 'one brand' da Coca-Cola (Zero, Diet e Life viram variantes sob Coca-Cola) como parte de um movimento amplo do house of brands para o branded house ou endossado (Unilever 2004, P&G, Tesco cortando centenas de marcas). Motivos: economia, convergência de mercados, RSC, digital e poder do varejo.",
+      "notes": "Opinião com exemplos, sem números de vendas ou custos."
+    },
+    {
+      "id": "src-warc-liddell-2020",
+      "title": "The brand strategy toolkit: Branded House and House of Brands",
+      "url": "https://www.warc.com/content/article/warc-exclusive/the-brand-strategy-toolkit-branded-house-and-house-of-brands/en-gb/135102",
+      "author": "Nick Liddell (WARC)",
+      "year": 2020,
+      "format": "artigo",
+      "language": "en",
+      "access": "pago",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": false,
+      "summary": "Segundo nota de pesquisa anterior, Liddell argumenta que o espectro, criado para decisões finas sobre submarcas e endossos, foi reduzido a um binário entre disciplina rígida e liberdade caótica.",
+      "notes": "Não dissecado: o robots.txt da WARC bloqueia ClaudeBot/anthropic-ai e o conteúdo é pago. A posição de Liddell entra pela matéria da Creative Review sobre o livro dele (src-creativereview-liddell-2025) e pela nota de pesquisa."
+    },
+    {
+      "id": "src-creativereview-liddell-2025",
+      "title": "Meet the brand playbook your brand actually needs",
+      "url": "https://www.creativereview.co.uk/the-brand-architecture-book-nick-liddell-nb-studio/",
+      "author": "Adam Woodward (Creative Review) sobre o livro de Nick Liddell",
+      "year": 2025,
+      "format": "livro-resumo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Resenha do livro de Nick Liddell sobre arquitetura de marca: ele rejeita o binário branded house vs. house of brands como simplista e propõe ver marcas como sistemas organizáveis, unidos por lógica visual e verbal compartilhada, propósito claro e hierarquia estratégica definida, num playbook em seis capítulos que começa pelas realidades comerciais e termina em teste de estresse do sistema.",
+      "notes": "Resenha, não o livro."
+    },
+    {
+      "id": "src-vivaldi-architecture-2026",
+      "title": "House of Brands vs Branded House: Which Architecture Model Is Right for Your Portfolio?",
+      "url": "https://vivaldigroup.com/house-of-brands-vs-branded-house-which-architecture-model-is-right-for-your-portfolio/",
+      "author": "Vivaldi Group",
+      "year": 2026,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Lista critérios para escolher o modelo (força relativa das marcas, sobreposição de público, parentesco de capacidades, ritmo de aquisições, tolerância a risco, descoberta por algoritmos, regulação e geografia), riscos de cada extremo (contágio no branded house, custo duplicado no house of brands) e defende que grandes portfólios caminham para modelos híbridos com governança.",
+      "notes": "Conteúdo de agência (marketing de conteúdo). Cita 'pesquisa' sobre parentesco de capacidades sem referência."
+    },
+    {
+      "id": "src-investnews-natura-desglobalizacao-2025",
+      "title": "Natura desiste de ambição global e volta às raízes para superar crise da Avon",
+      "url": "https://investnews.com.br/negocios/natura-desiste-de-ambicao-global-e-volta-as-raizes-para-superar-crise-da-avon/amp/",
+      "author": "Sérgio Tauhata (InvestNews)",
+      "year": 2025,
+      "format": "artigo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "misto",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Cronologia da Natura &Co (Aesop 2013, The Body Shop 2017, Avon 2019; venda da Aesop em 2023 por ~US$ 2,5 bi; The Body Shop vendida em 2023 por US$ 254 mi), prejuízo de R$ 8,9 bi em 2024 e a 'desglobalização': foco na marca Natura e na América Latina, com a holding incorporada pela Natura Cosméticos.",
+      "notes": "Análises de mercado; a empresa não comentou antes da assembleia."
+    },
+    {
+      "id": "src-euqueroinvestir-natura-incorporacao-2025",
+      "title": "Natura (NTCO3) incorpora holding e promove mudanças na governança",
+      "url": "https://euqueroinvestir.com/acoes/natura-ntco3-incorpora-holding-e-promove-mudancas-na-governanca/",
+      "author": "Matheus Gagliano (EuQueroInvestir)",
+      "year": 2025,
+      "format": "artigo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "misto",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Fato relevante de março de 2025: incorporação da holding pela Natura Cosméticos para seguir a simplificação iniciada em 2022, alinhar governança ao foco na América Latina e no crescimento da marca Natura, e ganhar eficiência.",
+      "notes": "Notícia de mercado."
+    },
+    {
+      "id": "src-gironews-natura-avon-international-2026",
+      "title": "Natura conclui venda da Avon International",
+      "url": "https://gironews.com/farma-cosmeticos/natura-conclui-venda-da-avon-international/",
+      "author": "GiroNews",
+      "year": 2026,
+      "format": "artigo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "misto",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "A Natura concluiu em 31/12/2025 a venda da Avon International ao fundo Regent, mantendo direitos econômicos, propriedade intelectual e uso da marca Avon na região, para concentrar-se no negócio principal na América Latina.",
+      "notes": "Valor da transação não divulgado."
+    },
+    {
+      "id": "src-investnews-natura-avon-renew-2025",
+      "title": "Do Renew à maquiagem: o desafio da Natura para rejuvenescer a Avon",
+      "url": "https://investnews.com.br/negocios/do-renew-a-maquiagem-o-desafio-da-natura-para-rejuvenescer-a-avon/amp/",
+      "author": "Raquel Brandão (InvestNews)",
+      "year": 2025,
+      "format": "artigo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "misto",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Mostra o dilema de arquitetura entre Natura e Avon na América Latina: Avon como porta de entrada (7 em 10 lares com Avon também compram Natura), marca envelhecida por falta de inovação, canibalização em que a Natura ganhou fatia da Avon, e a hipótese de tratar a Avon como submarca robusta com mais espaço para Renew.",
+      "notes": "Detalhes de preço e público por marca não divulgados pela empresa."
+    },
+    {
+      "id": "src-naming-for-everyone-felipe-valerio",
+      "title": "Big Names in Naming: Felipe Valério — Brazil is not for beginners",
+      "url": "https://namingforeveryone.substack.com/p/big-names-in-naming-the-felipe-valerio",
+      "author": "Naming for Everyone (podcast) com Felipe Valério (Fragma, ex-Interbrand Brasil)",
+      "year": null,
+      "format": "podcast",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": false,
+      "summary": "Episódio com o namer brasileiro Felipe Valério sobre as particularidades de naming no Brasil. A página só traz a descrição do episódio.",
+      "notes": "Não dissecado: a página não tem transcrição e o áudio não foi transcrito neste lote. Vale transcrever depois para cobrir naming em PT-BR."
+    }
+  ],
+  "principles": [
+    {
+      "id": "naming-brief-first",
+      "title": "Escreva e aprove o brief de naming antes de gerar qualquer nome",
+      "statement": "Antes de criar nomes, registre num brief aprovado pelos decisores o que está sendo nomeado, como o nome será usado, contra quem compete, o que deve comunicar, o tom, os mercados e as restrições legais e linguísticas.",
+      "why": "O brief dá critérios objetivos para julgar nomes depois e evita que um decisor ausente derrube o trabalho no fim. Catchword chama a etapa de inegociável; Meyerson aponta a ausência dos decisores no brief como erro comum; Igor propõe uma 'descrição de cargo' do nome (qualificações e responsabilidades).",
+      "how": [
+        "Defina o que se nomeia: empresa, produto novo, extensão de linha, marca ingrediente, futura família de produtos.",
+        "Liste contextos de uso (site, embalagem, ligação de venda, pedido verbal) e palavras que acompanham o nome.",
+        "Mapeie a arena competitiva e os nomes dos concorrentes.",
+        "Escreva o que o nome deve sugerir (1 a 3 territórios), o tom desejado e se aceita palavras de outros idiomas.",
+        "Registre países-alvo, restrições legais do setor e convenções de nome já existentes no portfólio.",
+        "Colha a assinatura de todos que têm poder de veto, inclusive o CEO.",
+        "Dê ao projeto um codinome propositalmente inadequado para ninguém se apegar a ele."
+      ],
+      "tests": [
+        "Existe um brief de naming escrito que todos os decisores aprovaram antes da geração?",
+        "O brief define o objeto nomeado, a concorrência, o que o nome deve comunicar e os mercados-alvo?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 7-10 'The roadmap'",
+          "paraphrase": "O brief é a base tática do naming e não deve ser pulado; traz uma lista de perguntas obrigatórias."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 2 'Step One'",
+          "paraphrase": "O nome deve ter uma descrição de cargo com qualificações (personalidade, comunicação, aparência) e responsabilidades."
+        },
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "locator": "etapa 1 'Naming brief'",
+          "paraphrase": "O brief, aprovado pelos decisores, cria critérios objetivos para avaliar nomes depois."
+        },
+        {
+          "id": "src-meyerson-westergaard-2022",
+          "paraphrase": "Naming começa por um documento que define o nome pretendido e a concorrência."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Vale para qualquer porte. Para pequena empresa o brief pode ser uma página ou alguns e-mails; em corporação, documento formal assinado."
+    },
+    {
+      "id": "naming-generate-volume",
+      "title": "Gere centenas ou milhares de nomes, porque a triagem elimina a maioria",
+      "statement": "Produza um volume grande de candidatos (centenas, idealmente mais de mil) a partir de um vocabulário do projeto e de territórios laterais, porque a triagem jurídica, linguística e de domínio vai derrubar a maior parte.",
+      "why": "Catchword gera cerca de 2.000 nomes por projeto e faz shortlist de cerca de 10%; Labbrand gerou mais de 1.000 para Quiksilver na China; Meyerson diz que as primeiras ~200 ideias costumam ser as óbvias. Com pouco volume, a triagem deixa o projeto sem finalistas.",
+      "how": [
+        "Monte um vocabulário do projeto com sinônimos de cada território de mensagem do brief.",
+        "Combine, trunque, traduza para outros idiomas, aplique prefixos e sufixos.",
+        "Depois do óbvio, explore território livre: metáforas, palavras arbitrárias com o som certo, interesses do fundador, referências culturais.",
+        "Gere individualmente antes de discutir em grupo e espalhe a geração por vários dias.",
+        "Mantenha tudo numa lista única e faça shortlist de ~10%, revisando de novo dias depois."
+      ],
+      "tests": [
+        "A lista bruta tem pelo menos algumas centenas de candidatos antes da shortlist?",
+        "A geração foi além dos sinônimos diretos da categoria?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 11-13",
+          "paraphrase": "Cerca de 2.000 nomes por projeto, partindo do vocabulário do projeto e depois do 'blue sky'; shortlist de 10%."
+        },
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "locator": "Name Generation",
+          "paraphrase": "É preciso muito mais nomes do que se imagina; as primeiras ~200 ideias costumam ser as erradas."
+        },
+        {
+          "id": "src-labbrand-naming-methodology",
+          "paraphrase": "Software próprio gerou mais de 1.000 nomes chineses na fase de criação do projeto Quiksilver."
+        },
+        {
+          "id": "src-placek-lennys-podcast-2025",
+          "paraphrase": "Brainstorm deve produzir muitas opções sem julgamento precoce."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Para um agente de IA o volume é barato; o gargalo passa a ser a curadoria e a triagem, não a geração."
+    },
+    {
+      "id": "naming-competitive-name-audit",
+      "title": "Mapeie os nomes da concorrência e fuja do padrão da categoria",
+      "statement": "Antes de escolher, classifique os nomes dos concorrentes por tipo e tom e procure o espaço vazio: nomes que repetem o tema da categoria não diferenciam.",
+      "why": "Igor mostra mapas em que dezenas de SUVs repetem o tema 'robusto/aventureiro' (Explorer, Navigator, Expedition...) e quase todas as ferramentas de gestão de projetos usam 'Project/Work/Pro'; nomes assim se anulam. Catchword recomenda listar nomes concorrentes para achar oportunidades de diferenciação e antecipar conflitos de marca. Watkins trata 'Copycat' como motivo de descarte.",
+      "how": [
+        "Liste os nomes de 20 a 50 concorrentes e substitutos.",
+        "Classifique cada um em funcional/descritivo, experiencial, inventado ou evocativo e anote o tema que evocam.",
+        "Dê nota de força (ex.: -2 a 5) pela capacidade de diferenciar, não pelo gosto.",
+        "Identifique o tema e as construções dominantes e defina deliberadamente se o nome vai seguir ou romper o código."
+      ],
+      "tests": [
+        "Existe um mapa dos nomes concorrentes com tipo e tema?",
+        "O nome escolhido evita o tema, as palavras e os sufixos mais comuns da categoria?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "naming",
+        "posicionamento"
+      ],
+      "stage": [
+        "paisagem",
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 7-12 'Competitive Analysis' e taxonomias",
+          "paraphrase": "Mapas taxonômicos de aéreas, ferramentas de projeto e SUVs mostram categorias cheias de nomes iguais no tema."
+        },
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 8",
+          "paraphrase": "Listar os nomes dos concorrentes revela padrões e abre oportunidades de diferenciação."
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Nome parecido com o da concorrência ('Copycat') é motivo de descarte."
+        },
+        {
+          "id": "src-eatmywords-entrepreneur-2008",
+          "paraphrase": "Copiar a moda de uma categoria funciona pior do que fazer o inesperado."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Relaciona-se com codes-of-category-break-or-follow. Em categoria nova, um nome mais descritivo pode ser aceitável para educar; em categoria madura, seguir o código costuma apagar a marca."
+    },
+    {
+      "id": "naming-criteria-scoring",
+      "title": "Avalie nomes contra critérios explícitos, não contra o gosto",
+      "statement": "Pontue cada finalista numa rubrica explícita (por exemplo os 10 critérios da Catchword ou SMILE/SCRATCH) e no brief, aceitando que nenhum nome vence em tudo.",
+      "why": "Reações pessoais ('lembra meu ex') distorcem a escolha. As três escolas de naming lidas convergem em rubricas: Catchword (magnetismo, distintividade, aderência, acessibilidade, longevidade, concisão, eufonia, adequação, consistência, protegibilidade), Watkins (5 qualidades e 7 descartes) e Igor (aparência, distintividade, profundidade, energia, humanidade, posicionamento, som, '33'). Meyerson manda comparar finalistas com o brief.",
+      "how": [
+        "Escolha uma rubrica e pese os critérios conforme o brief (ex.: protegibilidade pesa mais em empresa global).",
+        "Aplique SCRATCH como filtro eliminatório rápido e SMILE ou os 10 critérios como nota.",
+        "Registre a justificativa de cada nota para que a discussão seja sobre critérios.",
+        "Priorize a lista de desejos: aceite o nome que cumpre os critérios mais importantes, não todos."
+      ],
+      "tests": [
+        "Cada finalista tem nota por critério com justificativa escrita?",
+        "A decisão final cita critérios do brief em vez de preferência pessoal?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 16 '10 criteria' e p. 15 'Avoid perfectionism'",
+          "paraphrase": "Dez critérios mantêm a objetividade; quase nenhum nome pontua bem em todos e há sempre trocas."
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Um nome forte tem as cinco qualidades SMILE e nenhum dos sete problemas SCRATCH."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 15-17 'Name Evaluation'",
+          "paraphrase": "Nove categorias tornam objetivo por que um nome funciona ou não."
+        },
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "paraphrase": "Compare os finalistas com o brief original, não com favoritos pessoais."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Universal. Rubricas diferem em ênfase: Igor premia energia e evocação; Catchword equilibra com protegibilidade e consistência de portfólio."
+    },
+    {
+      "id": "naming-trademark-screening",
+      "title": "Faça pré-triagem de marca cedo e leve vários finalistas ao advogado",
+      "statement": "Pré-tríe os candidatos nas bases de marcas (INPI, WIPO Global Brand Database, TMview/EUIPO, USPTO) e em busca na web, sempre levando vários finalistas, e trate a pré-triagem como filtro, nunca como parecer jurídico.",
+      "why": "A maioria dos favoritos cai na triagem ('Lei da Catchword': quanto mais você gosta, menor a chance de estar livre). A Labbrand alerta para o período cego de 3 a 6 meses em que pedidos recentes não aparecem e recomenda depositar pelo menos dois nomes (caso Haribo). Meyerson relata uma pré-triagem que liberou 12 de 45 nomes. Todas as fontes exigem advogado de marcas; risco é grau, não sim/não.",
+      "how": [
+        "Defina as classes de Nice relevantes hoje e as de extensões prováveis.",
+        "Busque no INPI (BuscaWeb) por radical, olhando classes e semelhança sonora, não só grafia.",
+        "Busque no TMview e na WIPO Global Brand Database para os mercados externos, manualmente (a WIPO proíbe automação), e confira a base nacional de cada país.",
+        "Nos EUA, use tmsearch.uspto.gov: wordmark termo a termo e códigos de design para logos.",
+        "Faça busca na web por usos não registrados (direito de uso anterior).",
+        "Classifique o risco por semelhança de aparência, som e sentido, setor, canal, cliente e preço.",
+        "Leve pelo menos 3 a 5 finalistas ao advogado e deposite pelo menos 2."
+      ],
+      "tests": [
+        "Os finalistas foram pré-triados em INPI e nas bases dos mercados-alvo, por radical e por som?",
+        "Há pelo menos dois candidatos viáveis para depósito, e um advogado revisou o risco?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "guia-oficial",
+      "strength": 3,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 17-19",
+          "paraphrase": "Classes de Nice, risco de confusão por aparência, som, associação, canal, cliente e preço; advogado sempre."
+        },
+        {
+          "id": "src-labbrand-naming-methodology",
+          "paraphrase": "Período cego de 3 a 6 meses nas bases; recomenda registrar ao menos dois candidatos."
+        },
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "locator": "etapas 4 e 6",
+          "paraphrase": "Pré-triagem antes de apresentar e busca jurídica completa antes de investir; o jurídico dá grau de risco."
+        },
+        {
+          "id": "src-inpi-etapas-registro-marca",
+          "locator": "1. Busca prévia",
+          "paraphrase": "Fazer o maior número de buscas, por radical, no núcleo do sinal, olhando classes e semelhança sonora."
+        },
+        {
+          "id": "src-wipo-gbd-faq",
+          "paraphrase": "A base global é gratuita, mas recomenda checar também a base do escritório nacional; coleções nacionais podem ter atraso."
+        },
+        {
+          "id": "src-uspto-federal-trademark-searching",
+          "paraphrase": "A busca de liberação serve para evitar risco de confusão; wordmark busca termo a termo e logos por código de design."
+        },
+        {
+          "id": "src-inpi-tmview-2021",
+          "paraphrase": "O TMview reúne mais de 70 escritórios, inclusive o INPI, de graça e em português."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-haribo-china-labbrand",
+        "case-seven-igor"
+      ],
+      "contexts": "Indispensável para qualquer nome de empresa ou produto que vai receber investimento. Um agente de IA só faz pré-triagem e deve dizer isso no entregável."
+    },
+    {
+      "id": "naming-respect-database-terms",
+      "title": "Não automatize consultas em bases de marcas que proíbem robôs",
+      "statement": "Nunca faça scraping ou consulta automatizada na WIPO Global Brand Database; gere as consultas e links para a pessoa rodar manualmente ou use APIs oficiais quando existirem.",
+      "why": "Os termos de uso da WIPO proíbem consulta automatizada, busca automática e download em massa, e os acordos com escritórios nacionais vetam redistribuição dos dados. A exportação é limitada a 180 registros por relatório.",
+      "how": [
+        "Para cada finalista, produza a lista de termos (radical, variações fonéticas, grafias) e as classes a buscar.",
+        "Entregue links diretos de busca do INPI, TMview, WIPO e USPTO para a pessoa executar.",
+        "Peça que a pessoa exporte ou cole os resultados para o agente analisar o risco."
+      ],
+      "tests": [
+        "O fluxo de triagem do agente evita consultas automatizadas à WIPO?"
+      ],
+      "polarity": "nunca",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "pratica",
+      "evidence": "guia-oficial",
+      "strength": 3,
+      "sources": [
+        {
+          "id": "src-wipo-gbd-faq",
+          "paraphrase": "Os termos proíbem download em massa, consulta automatizada e busca automática; máximo de 180 registros por relatório."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Regra operacional do sistema. Verifique termos equivalentes de outras bases antes de automatizar."
+    },
+    {
+      "id": "naming-linguistic-check",
+      "title": "Cheque cada finalista com nativos de cada idioma e dialeto do público",
+      "statement": "Submeta os finalistas a falantes nativos que vivem no país-alvo, mais de um por idioma, avaliando pronúncia, grafia intuitiva, significados, gírias, aderência e marcas parecidas.",
+      "why": "Nomes aparentemente neutros carregam gírias e duplos sentidos: COZM soa como 'vomitar' em alemão, REEGO lembra 'ele fez besteira' no espanhol mexicano, KIZMO lembra 'gadget defeituoso' em japonês (Catchword); candidatos chineses de booking.com soavam como 'aborto' em cantonês ou como marca de anticoncepcional em xangainês (Labbrand). Meyerson alerta que um amigo bilíngue não basta, pois dialeto e gíria variam dentro do mesmo idioma.",
+      "how": [
+        "Liste todos os idiomas e variantes do público (para o Brasil: PT-BR com gírias regionais; para América Latina: espanhol de cada país; inglês se houver ambição global).",
+        "Recrute pelo menos 2 nativos por idioma, que morem no país e façam parte do público.",
+        "Pergunte: como você pronuncia? como escreveria ouvindo? o que lembra? há gíria, palavrão ou marca parecida?",
+        "Insista quando a resposta for vaga ('não soa popular') até entender.",
+        "Separe padrões (dois ou mais apontam o mesmo problema) de reações idiossincráticas.",
+        "Em projeto com orçamento, contrate serviço profissional de checagem linguística."
+      ],
+      "tests": [
+        "Cada finalista passou por pelo menos dois nativos de cada idioma/variante do público?",
+        "Foram checadas gírias e duplos sentidos regionais em PT-BR, EN e ES quando aplicável?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "caso",
+      "strength": 3,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 20-21 'Taking your name global'",
+          "paraphrase": "Use só nativos que vivem no país, do público-alvo, sempre mais de um; exemplos COZM, REEGO, KIZMO."
+        },
+        {
+          "id": "src-labbrand-naming-methodology",
+          "paraphrase": "Checagem com nativos selecionados em cerca de 20 idiomas e 5 dialetos chineses; casos booking.com e VW Lamando."
+        },
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "paraphrase": "Não confie em um único amigo bilíngue; dialetos e gírias variam muito."
+        },
+        {
+          "id": "src-placek-lexicon-cnn-2019",
+          "paraphrase": "A Lexicon usa rede de cerca de 90 linguistas para revisar associações negativas."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-booking-china-labbrand"
+      ],
+      "contexts": "Crítico para marcas que cruzam fronteira ou usam palavras estrangeiras. No Brasil, gírias regionais e duplos sentidos de cunho sexual são o risco mais comum; não há base pública brasileira, então use pessoas de várias regiões."
+    },
+    {
+      "id": "naming-research-data-not-decision",
+      "title": "Use pesquisa com consumidor como dado, nunca como votação de nome favorito",
+      "statement": "Teste só finalistas já liberados, apresentados da mesma forma, para detectar associações e mensagens; não pergunte qual nome a pessoa prefere.",
+      "why": "Fora de contexto, consumidores escolhem o nome mais literal e familiar (escolheriam 'Coffee Connection' em vez de Starbucks). Pesquisa serve para achar gírias, provar ao CEO que o nome é aceitável e ver que mensagem passa. Watkins também desaconselha decidir pela opinião de amigos e família.",
+      "how": [
+        "Teste apenas finalistas que passaram na triagem jurídica.",
+        "Apresente todos com a mesma tipografia, sem logo ou tratamento próprio.",
+        "Pergunte o que o nome sugere, que tipo de empresa imagina, se há associação negativa; não pergunte 'de qual gosta mais'.",
+        "Separe respostas relevantes de idiossincráticas antes de concluir."
+      ],
+      "tests": [
+        "A pesquisa evitou a pergunta de preferência e testou só finalistas liberados?",
+        "Os nomes foram mostrados de forma idêntica, sem design?"
+      ],
+      "polarity": "evite",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 22-23",
+          "paraphrase": "Consumidores preferem nomes literais; teste poucos finalistas liberados, apresentados igual, e nunca pergunte o favorito.",
+          "quote": "Naming research is a data point, not a decision point."
+        },
+        {
+          "id": "src-eatmywords-entrepreneur-2008",
+          "paraphrase": "Pedir opinião a parentes e amigos dilui o nome."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 18",
+          "paraphrase": "Ironiza testes longos e grupos focais como forma pouco confiável de desempatar nomes."
+        }
+      ],
+      "conflictsWith": [
+        "naming-consumer-testing-value"
+      ],
+      "cases": [],
+      "contexts": "Em B2C com grande verba de lançamento, pesquisa quantitativa pode reduzir risco de associação negativa; para pequena empresa, a checagem com nativos do público costuma bastar."
+    },
+    {
+      "id": "naming-name-not-whole-story",
+      "title": "Não exija que o nome conte a história toda",
+      "statement": "O nome sempre aparece com contexto (site, embalagem, fala, logo, slogan), então não force o nome a descrever a oferta; deixe-o fazer trabalho de distinção e emoção.",
+      "why": "Igor argumenta que não existe situação em que um nome de empresa apareça sem contexto explicativo, logo descrever o negócio desperdiça o nome. Catchword lista 'não espere que o nome conte a história toda' entre as 10 diretrizes, porque isso deixa o nome longo e sem graça.",
+      "how": [
+        "Defina no brief quais mensagens ficam com o nome e quais ficam com descritor, slogan e copy.",
+        "Teste o nome em contextos reais (cartão, fachada, cabeçalho do site, fala ao telefone) com o descritor ao lado.",
+        "Corte candidatos que só funcionam porque explicam tudo."
+      ],
+      "tests": [
+        "O nome depende de ser literal para ser entendido, mesmo havendo descritor e copy ao lado?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 3-4",
+          "paraphrase": "Nomes de empresa nunca existem sem contexto, então estão livres para tarefas mais produtivas que descrever."
+        },
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 14, diretriz 4",
+          "paraphrase": "Sempre haverá contexto para contar a história; esperar isso do nome o deixa estranho e sem graça."
+        }
+      ],
+      "conflictsWith": [
+        "naming-descriptive-vs-evocative"
+      ],
+      "cases": [],
+      "contexts": "Exceção reconhecida pela Catchword: produtos sob master brand forte, B2B que só quer saber o que a coisa faz, produtos de vida curta e verba pequena."
+    },
+    {
+      "id": "naming-distinctiveness-equals-protectability",
+      "title": "Quanto mais distintivo o nome, mais forte e protegível a marca",
+      "statement": "Prefira nomes arbitrários, cunhados ou com combinação criativa, porque nomes descritivos usam palavras comuns, são difíceis de registrar e se confundem com a concorrência.",
+      "why": "Catchword lista o que os tribunais consideram distintivo: nome cunhado (Google), combinação criativa, sentido duplo, identidade visual incomum, nome arbitrário para a categoria (Apple em tecnologia); nomes 'empty vessel' são os mais fáceis de registrar. Igor mostra como nomes descritivos de agências de branding se fundem numa lista indistinguível.",
+      "how": [
+        "Na rubrica, dê peso alto a distintividade e protegibilidade quando a marca vai receber investimento.",
+        "Evite palavras genéricas da categoria como núcleo do nome.",
+        "Se usar palavra real, prefira a arbitrária para a categoria."
+      ],
+      "tests": [
+        "O núcleo do nome é uma palavra genérica do setor?",
+        "Um examinador de marcas consideraria o nome descritivo da atividade?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 3,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 4-5 e 18-19",
+          "paraphrase": "Descritivos são difíceis de registrar; empty vessels são os mais fáceis; quanto mais distintivo, mais forte a marca."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 3",
+          "paraphrase": "Nomes descritivos saem de um pequeno pool de palavras-chave e se misturam aos concorrentes."
+        },
+        {
+          "id": "src-miller-types-brand-names-2017",
+          "paraphrase": "Empty vessels são infinitamente flexíveis, mas exigem mais tempo e verba para ganhar sentido."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Trade-off: nome abstrato exige mais verba para ganhar significado. Para pequeno negócio local com pouca mídia, um sugestivo é o meio-termo mais seguro."
+    },
+    {
+      "id": "naming-sound-symbolism",
+      "title": "Escolha os sons do nome de acordo com os atributos desejados",
+      "statement": "Use o simbolismo sonoro de forma deliberada: vogais anteriores (i, e) sugerem pequeno, leve, rápido e frio; vogais posteriores (a, o, u) sugerem grande, encorpado, suave e potente.",
+      "why": "Em experimento com nomes de sorvete idênticos exceto pela vogal, Frosh foi avaliado como mais cremoso e suave que Frish, e o efeito é automático, inconsciente e persiste mesmo quando a pessoa sabe que o nome é de teste (Yorkston & Menon 2004, revisando Klink 2000). A Lexicon aplica análise de simbolismo sonoro em seus projetos (Swiffer veio de sons como 'swipe' e 'swish').",
+      "how": [
+        "Traduza os atributos do brief em qualidades sonoras (leveza, potência, maciez, velocidade).",
+        "Na geração, crie variantes do mesmo radical trocando vogais e consoantes.",
+        "Na avaliação, confira se os sons do finalista apontam para os atributos desejados e não para os opostos.",
+        "Teste a pronúncia em PT-BR, onde vogais nasais e abertas/fechadas mudam a sensação."
+      ],
+      "tests": [
+        "Os sons dominantes do nome combinam com os atributos que a marca quer sugerir?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "academica",
+      "evidence": "empirica",
+      "strength": 3,
+      "sources": [
+        {
+          "id": "src-yorkston-menon-2004-sound-symbolism",
+          "locator": "Conceptual Framework e Study 1",
+          "paraphrase": "A vogal do nome muda a percepção de atributos e a avaliação, de forma automática (Frosh vs. Frish)."
+        },
+        {
+          "id": "src-placek-lexicon-cnn-2019",
+          "paraphrase": "A Lexicon faz análise de como letras e sons afetam sentimentos; Swiffer saiu de sons como swipe e swish."
+        },
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 8",
+          "paraphrase": "Nomes comunicam também por tonalidade, construção e ritmo (Reddit enérgico, Hulu brincalhão)."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-swiffer-1997-lexicon"
+      ],
+      "contexts": "Efeito robusto em vários idiomas, mas estudado sobretudo em inglês e com nomes desconhecidos; para marcas já famosas, o significado aprendido domina o som."
+    },
+    {
+      "id": "naming-decision-process-veto-holders",
+      "title": "Decida com poucos, mas com todos que têm veto desde o início",
+      "statement": "Restrinja a decisão a quem tem poder de veto, envolva essas pessoas desde o brief e não busque um nome que ninguém rejeite.",
+      "why": "Nome bom costuma incomodar alguém; buscar consenso total leva ao menor denominador comum. Catchword relata projetos derrubados no fim por um superior que não participou e proíbe opiniões de cônjuges, amigos e assistentes. Meyerson trata o naming como exercício de psicologia: as pessoas valorizam ideias de que participaram. Igor chama de 'Happy Idiot' a agência que lixa o nome até agradar o cliente.",
+      "how": [
+        "Nomeie o time de naming = todos que assinam a decisão, e só eles.",
+        "Leve esse grupo a todas as reuniões, inclusive do brief.",
+        "Ensine o grupo a avaliar nomes pelos critérios antes de apresentar.",
+        "Abra a discussão pelos pontos positivos de cada nome antes das críticas."
+      ],
+      "tests": [
+        "Todos com poder de veto participaram do brief e das apresentações?",
+        "Pessoas de fora do time foram mantidas fora da decisão?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming",
+        "gestao-governanca"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 14 diretriz 3 e p. 32-33 mandamentos I, II e IX",
+          "paraphrase": "Não decida por comitê; só quem tem veto participa, e desde cedo; nada de opiniões de fora do time."
+        },
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "paraphrase": "Deixar decisores fora do brief e abrir a reunião pelas críticas estão entre os erros comuns."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 21-22",
+          "paraphrase": "Agências que buscam só consenso entregam nomes baunilha."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Em empresa de fundador único, o fundador é o time; o risco ali é decidir pelo gosto pessoal, o que a rubrica ajuda a conter."
+    },
+    {
+      "id": "naming-embrace-discomfort",
+      "title": "Não descarte o nome só porque causa estranhamento no início",
+      "statement": "Estranhamento e reações divididas são esperados em nomes fortes; descarte por critério, não pelo desconforto inicial.",
+      "why": "Catchword lembra que Häagen-Dazs, Wii e Virgin geraram objeções e que um nome nunca parece perfeito no começo; recomenda abraçar o incomum. Placek lê reações polarizadas como sinal de força e conta que Sonos foi rejeitado internamente. Igor mostra como comitês leem Slack, Oracle, Virgin e Hotwire de forma literal e negativa, enquanto o público não.",
+      "how": [
+        "Quando surgir objeção, pergunte se ela é do público ou do comitê e se fere algum critério.",
+        "Avalie nomes evocativos pelo posicionamento que expressam, não pelo sentido de dicionário.",
+        "Mantenha na shortlist pelo menos um nome ousado ao lado dos seguros."
+      ],
+      "tests": [
+        "Algum finalista foi cortado só por 'não gostei' ou por uma leitura literal improvável do público?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 15 diretrizes 6, 9 e 10",
+          "paraphrase": "Confie na inteligência do público, abrace o incomum, evite perfeccionismo."
+        },
+        {
+          "id": "src-placek-lennys-podcast-2025",
+          "paraphrase": "Reações polarizadas sinalizam força; Sonos foi rejeitado internamente no começo."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 13-15 'Evocative Name Filters'",
+          "paraphrase": "Comitês leem nomes evocativos de forma literal; avalie-os pelo posicionamento."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Não vale para associações negativas reais detectadas na checagem linguística com o público."
+    },
+    {
+      "id": "naming-meaning-for-audience",
+      "title": "O sentido do nome precisa existir para o público, não só na justificativa",
+      "statement": "Um nome tem que funcionar pelo que o público ouve, vê e associa; justificativas morfêmicas ou significados em idiomas que o público não fala não contam.",
+      "why": "Igor chama de golpe vender nome inventado com explicação de morfemas em vários idiomas (Mirvie) ou palavra estrangeira desconhecida do público (Ikena): ter um significado não torna o nome significativo. Watkins elimina nomes com sentido forçado ou escondido ('Annoying') e nomes que só iniciados entendem ('Curse of Knowledge').",
+      "how": [
+        "Para cada finalista, escreva o que um membro do público entende sem explicação.",
+        "Descarte justificativas que dependem de etimologia ou idioma estrangeiro desconhecido do público.",
+        "Se usar palavra estrangeira, avalie pelo som, aparência e personalidade, não pela tradução."
+      ],
+      "tests": [
+        "A justificativa do nome depende de explicar etimologia ou tradução ao público?",
+        "Um cliente típico consegue associar algo relevante ao nome sem ajuda?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 22-24 'The Happy Idiot'",
+          "paraphrase": "Racional morfêmico e idioma desconhecido pelo público são vendas vazias.",
+          "quote": "having a meaning doesn't make a name meaningful"
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Sentido forçado ou escondido e jargão de iniciado são motivos de descarte."
+        },
+        {
+          "id": "src-eatmywords-entrepreneur-2008",
+          "paraphrase": "Evite nomes estrangeiros ou que escondem o sentido.",
+          "quote": "a name should make you smile instead of scratch your head"
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Nomes estrangeiros conhecidos do público (Prego, Absolut) funcionam; o problema é o sentido que só a agência conhece."
+    },
+    {
+      "id": "naming-associative-depth",
+      "title": "Prefira nomes com profundidade associativa que rendam campanhas",
+      "statement": "Entre finalistas equivalentes, escolha o que gera mais associações culturais e mais ideias de comunicação (o 'teste A.S.S.' de associações e slogans, ou as 'pernas' de Watkins).",
+      "why": "Igor compara Apple (dezenas de associações: Newton, Branca de Neve, Big Apple, expressões) com Strawberry (poucas) e conta que escolheu 'Seven' para um B2B pela quantidade de grandes ideias ligadas ao número. Watkins inclui 'Legs' (rende tema estendido ao longo do tempo) e 'Imagery' no SMILE.",
+      "how": [
+        "Para cada finalista, liste em 10 minutos associações culturais, expressões e referências.",
+        "Liste ideias de campanha, nomes de produto derivados e brincadeiras que o nome permite.",
+        "Use a contagem como desempate, não como critério único."
+      ],
+      "tests": [
+        "O nome escolhido gera pelo menos uma dezena de associações e ideias de comunicação?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "naming",
+        "identidade-verbal"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 1,
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 17-20 'Do an A.S.S Count'",
+          "paraphrase": "Contar associações e slogans revela a conexão emocional e a munição de comunicação de cada nome."
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Imagem e 'pernas' para virar tema estão entre as qualidades de um nome forte."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-seven-igor"
+      ],
+      "contexts": "Mais útil para nomes de empresa e de marca principal; menos para nomes de produto sob master brand."
+    },
+    {
+      "id": "naming-domain-modifier-over-mediocre-name",
+      "title": "Não troque um nome forte por um medíocre só porque o .com exato está ocupado",
+      "statement": "Se o domínio ou @handle exato estiver ocupado, use um modificador intuitivo (nomehome.com, @nome.oficial, nomebrasil) em vez de escolher um nome pior que tem domínio livre.",
+      "why": "Praticamente toda palavra de dicionário já está registrada como .com (Catchword triou mais de 200 nomes quando o domínio exato era obrigatório). Exemplos de modificador: methodhome.com, catchwordbranding.com, BlissWorld.com, GoGoAir.com. Domínio exato só é crítico para quem vende sobretudo online. Registro de domínio não dá direito de marca, e vice-versa.",
+      "how": [
+        "Cheque disponibilidade de .com, .com.br e @handles nas redes principais para cada finalista.",
+        "Se ocupado, veja se está à venda (Sedo, Afternic, GoDaddy) e use escrow na compra.",
+        "Se caro ou indisponível, defina um modificador consistente para domínio e redes.",
+        "Registre variações e erros de digitação comuns e redirecione; deixe renovação automática ligada."
+      ],
+      "tests": [
+        "Algum nome melhor foi descartado só por indisponibilidade do domínio exato?",
+        "O modificador de domínio e @handle é intuitivo e consistente entre canais?"
+      ],
+      "polarity": "evite",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 14 diretriz 5 e p. 24-26",
+          "paraphrase": "Não deixe o rabo abanar o cachorro: é melhor modificar um nome memorável do que aceitar um medíocre com domínio livre."
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Nome e domínio não precisam coincidir; use palavra modificadora ou uma frase memorável."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "E-commerce puro e apps dependentes de busca direta podem justificar pagar pelo domínio exato. Ambas as fontes têm interesse comercial em domínios."
+    },
+    {
+      "id": "naming-avoid-trend-constructions",
+      "title": "Evite construções da moda que datam e se confundem",
+      "statement": "Evite sufixos e grafias da moda (-ly, -ify, vogal cortada, letra trocada) e palavras-tendência da categoria; eles envelhecem rápido e tornam o nome uma cópia.",
+      "why": "Meyerson desaconselha -ly e -ify salvo achado excepcional; Watkins elimina nomes com problema de grafia e cópias; Flickr e Xobni são citados como únicos porém confusos; Catchword lista longevidade como critério e cita o risco de soar datado (Napster).",
+      "how": [
+        "Liste os sufixos e padrões em alta na categoria e marque-os como evitáveis.",
+        "Teste a grafia ditando o nome a 5 pessoas e veja quantas acertam.",
+        "Pergunte se o nome soaria antigo em 10 anos."
+      ],
+      "tests": [
+        "O nome usa sufixo de moda (-ly, -ify, -io, -fy) ou grafia sem vogal?",
+        "Pessoas escrevem o nome certo ao ouvi-lo?"
+      ],
+      "polarity": "evite",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "paraphrase": "Sufixos de moda como -ly e -ify devem ser evitados, salvo se algo realmente interessante surgir."
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Nomes difíceis de soletrar ou parecidos com concorrentes são descartados."
+        },
+        {
+          "id": "src-eatmywords-entrepreneur-2008",
+          "paraphrase": "Flickr e Xobni são únicos mas confusos e difíceis de pronunciar."
+        },
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 16 critério 5",
+          "paraphrase": "Longevidade: o nome não deve soar datado quando as modas mudarem."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Grafias alteradas às vezes viram ativo (Flickr ficou famoso), mas o custo de explicação recai sobre marcas sem verba."
+    },
+    {
+      "id": "naming-present-names-in-context",
+      "title": "Apresente nomes em contexto realista, mas sem design que enviese",
+      "statement": "Mostre os finalistas em situações reais de uso (cartão, fachada, frase de conversa) com a mesma tipografia neutra, sem logos próprios, e prepare o público para avaliar pelos critérios.",
+      "why": "Design pesado muda a reação ao nome por motivos que não têm a ver com ele; Catchword exige apresentação idêntica em pesquisa e Meyerson aponta o design enviesado como erro comum, recomendando contexto realista e priming dos decisores.",
+      "how": [
+        "Relembre o brief e os critérios antes de mostrar qualquer nome.",
+        "Mostre cada nome em 2 ou 3 mockups neutros iguais para todos.",
+        "Peça primeiro o que funciona em cada nome, depois as ressalvas."
+      ],
+      "tests": [
+        "Todos os nomes foram apresentados no mesmo formato visual neutro?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "locator": "etapa 5",
+          "paraphrase": "Prepare o público, mostre os nomes de forma consistente e em contexto, e convide feedback positivo primeiro."
+        },
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 23 dica 3",
+          "paraphrase": "Apresente cada nome exatamente do mesmo jeito, sem logo ou elementos gráficos próprios."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Vale para apresentação a clientes e para testes com consumidor."
+    },
+    {
+      "id": "naming-follows-architecture",
+      "title": "Decida a arquitetura antes de nomear produtos",
+      "statement": "Antes de nomear um produto, decida se ele precisa de nome proprietário ou descritivo, se compartilha elemento com a família e se segue as convenções do portfólio.",
+      "why": "Catchword define arquitetura de naming como a forma de organizar os nomes do portfólio para que façam sentido entre si, e inclui consistência com as convenções como critério (não se espera um Apple Neptune ou um Toyota LT88). Nome descritivo é melhor quando não se quer roubar a cena da master brand ou a verba é pequena. Igor diz que descritivos funcionam para produtos quando a estratégia concentra equity no nome da empresa (BMW).",
+      "how": [
+        "Pergunte: o produto é categoria nova ou extensão? Ganha marca própria ou descritor?",
+        "Defina elemento comum da família (estrutura alfanumérica, sufixo, tema).",
+        "Registre as convenções num guia de naming do portfólio."
+      ],
+      "tests": [
+        "O nome do produto segue a convenção de nomes do portfólio?",
+        "Existe decisão explícita sobre nome proprietário vs. descritivo?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "naming",
+        "arquitetura"
+      ],
+      "stage": [
+        "arquitetura",
+        "naming"
+      ],
+      "school": "naming",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 9-10 e critério 9",
+          "paraphrase": "Arquitetura de naming organiza os nomes do portfólio; produto pode precisar só de nome descritivo; siga as convenções."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 3",
+          "paraphrase": "Descritivos funcionam para produtos quando a equity vai para o nome da empresa."
+        },
+        {
+          "id": "src-bsi-white-brand-architecture-2024",
+          "paraphrase": "Uma vez definida, a arquitetura deve guiar naming, mídia e mensagens."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Liga o agente de naming ao de arquitetura."
+    },
+    {
+      "id": "brand-architecture-spectrum",
+      "title": "Use o espectro completo de arquitetura, não o binário",
+      "statement": "Posicione cada marca do portfólio num espectro de quatro estratégias (branded house, submarcas, endossadas, house of brands) com suas nuances internas, em vez de escolher entre 'uma marca' e 'várias marcas'.",
+      "why": "Aaker & Joachimsthaler (2000) criaram o espectro para decisões finas sobre submarcas e endossos; segundo Liddell, a prática o reduziu a um binário entre disciplina rígida e liberdade caótica. As fontes mostram que empresas misturam modelos (Apple: Beats separada, iPhone com nome ligado, Apple Watch como branded house) e que o meio do espectro (endosso forte, co-motor) resolve casos que o binário não resolve.",
+      "how": [
+        "Liste todas as marcas, submarcas e produtos com público, preço, canal e equity de cada um.",
+        "Para cada um, escolha a posição: master brand com descritor; submarca (master motor ou co-motor); endosso (simbólico, nome ligado ou forte); marca independente.",
+        "Documente a lógica de exceções para não misturar modelos sem regra."
+      ],
+      "tests": [
+        "Cada marca do portfólio tem uma posição explícita no espectro com justificativa?",
+        "As exceções ao modelo dominante estão documentadas?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "arquitetura"
+      ],
+      "stage": [
+        "arquitetura"
+      ],
+      "school": "posicionamento-diferenciacao",
+      "evidence": "framework",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-umbrex-brand-relationship-spectrum",
+          "paraphrase": "O espectro vai do branded house ao house of brands, com sub-opções de submarca e endosso."
+        },
+        {
+          "id": "src-bsi-white-brand-architecture-2024",
+          "paraphrase": "Empresas usam um modelo ou uma mistura e mudam a estratégia de nomes ao longo do tempo; Apple mistura os quatro."
+        },
+        {
+          "id": "src-creativereview-liddell-2025",
+          "paraphrase": "Liddell rejeita o binário branded house vs. house of brands como simplista e propõe ver marcas como sistemas."
+        },
+        {
+          "id": "src-ritson-coke-one-brand-2015",
+          "paraphrase": "O espectro de Aaker & Joachimsthaler virou o modelo padrão para decisões de arquitetura."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-natura-co-2019-2025",
+        "case-coca-cola-one-brand-2015",
+        "case-vw-group-architecture"
+      ],
+      "contexts": "Só faz sentido com mais de uma oferta. Para startup de um produto, a decisão é apenas preparar o nome para crescer (longevidade)."
+    },
+    {
+      "id": "architecture-branded-house-default",
+      "title": "Parta do branded house e exija justificativa para cada marca separada",
+      "statement": "Comece pela master brand e só crie submarca, endosso ou marca independente quando a master não agrega, seria prejudicada, há necessidade forte de marca separada e o negócio sustenta outra marca.",
+      "why": "Cada marca nova precisa construir equity do zero e duplica pesquisa, criação e mídia. O BSI relata que Aaker & Joachimsthaler recomendam o branded house como ponto de partida, com quatro perguntas para justificar desvios; o halo da master brand é maior entre linhas parecidas e com estética consistente (Dove/Unilever).",
+      "how": [
+        "A master brand contribui para a nova oferta (credibilidade, associações)?",
+        "A master brand se fortalece ou se arrisca com a nova oferta?",
+        "Há razão forte para marca separada (público oposto, preço oposto, conflito de canal, risco)?",
+        "O negócio tem verba e escala para sustentar outra marca?",
+        "Só avance para a direita do espectro se as respostas exigirem."
+      ],
+      "tests": [
+        "Cada marca separada do portfólio passou pelas quatro perguntas com resposta escrita?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "arquitetura"
+      ],
+      "stage": [
+        "arquitetura"
+      ],
+      "school": "posicionamento-diferenciacao",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-bsi-white-brand-architecture-2024",
+          "paraphrase": "Branded house é o ponto de partida recomendado; quatro perguntas justificam alternativas."
+        },
+        {
+          "id": "src-vivaldi-architecture-2026",
+          "paraphrase": "No house of brands, custos de marketing crescem a cada marca e cada uma constrói equity do zero."
+        },
+        {
+          "id": "src-ritson-coke-one-brand-2015",
+          "paraphrase": "Grandes empresas migram para o lado corporativo do espectro por economia, digital e poder do varejo."
+        }
+      ],
+      "conflictsWith": [
+        "brand-architecture-binary-vs-spectrum"
+      ],
+      "cases": [
+        "case-coca-cola-one-brand-2015",
+        "case-natura-co-2019-2025"
+      ],
+      "contexts": "Pequenas e médias empresas quase sempre devem ficar no branded house. Aquisições com equity forte e categorias de risco reputacional são as exceções mais comuns."
+    },
+    {
+      "id": "architecture-driver-roles",
+      "title": "Defina qual marca é o motor da compra em cada oferta",
+      "statement": "Para cada oferta, determine qual nome motiva a compra e a experiência (master, submarca ou ambos) e derive daí a hierarquia de nome, design e investimento.",
+      "why": "O papel de motor é o critério central do espectro: submarca quando o sentido da master é central mas o produto precisa de especificidade; endosso quando o produto precisa de posição própria e só se beneficia da garantia da master. Escolher lock-ups pela estética, sem análise de motor, é armadilha comum.",
+      "how": [
+        "Pesquise ou estime qual nome o cliente usa para pedir e lembrar o produto.",
+        "Atribua papéis: motor, co-motor, endossante, descritor.",
+        "Traduza em regras de lock-up: tamanho relativo dos nomes, posição, cor.",
+        "Revise periodicamente: o equilíbrio muda (PlayStation ganhou força própria sobre Sony)."
+      ],
+      "tests": [
+        "Cada oferta tem um motor de compra identificado e refletido no lock-up?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "arquitetura"
+      ],
+      "stage": [
+        "arquitetura"
+      ],
+      "school": "posicionamento-diferenciacao",
+      "evidence": "framework",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-umbrex-brand-relationship-spectrum",
+          "paraphrase": "O papel de motor decide nome, hierarquia visual e investimento; teste quem deve dirigir a compra."
+        },
+        {
+          "id": "src-bsi-white-brand-architecture-2024",
+          "paraphrase": "O equilíbrio entre master e submarca muda com o tempo (Sony PlayStation)."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Útil em portfólios com mais de uma camada de marca."
+    },
+    {
+      "id": "architecture-efficiency-vs-risk",
+      "title": "Pese eficiência e halo contra isolamento de risco e relevância",
+      "statement": "Quanto mais à esquerda do espectro, mais eficiência e transferência de equity e mais risco de contágio; quanto mais à direita, mais relevância por segmento e isolamento de risco, com custo duplicado.",
+      "why": "Branded house acelera equity mas espalha crises (Samsung Galaxy Note 7 citado como contágio de portfólio); house of brands isola risco e serve faixas de preço, canais e públicos opostos, mas duplica custos. Critérios práticos: força relativa das marcas, sobreposição de público, parentesco de capacidades, ritmo de aquisições, risco da categoria, regulação e geografia.",
+      "how": [
+        "Avalie sobreposição de público: mesmo cliente compra várias ofertas? Favorece master brand.",
+        "Avalie conflito de preço/prestígio: ligar luxo e popular costuma prejudicar (Grupo VW).",
+        "Avalie risco reputacional da categoria (saúde, segurança, privacidade): favorece separação.",
+        "Avalie se aquisições trazem equity que seria destruída se absorvida."
+      ],
+      "tests": [
+        "A escolha de arquitetura considera explicitamente risco de contágio e custo de manter marcas?"
+      ],
+      "polarity": "fato",
+      "domain": [
+        "arquitetura"
+      ],
+      "stage": [
+        "arquitetura"
+      ],
+      "school": "posicionamento-diferenciacao",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-umbrex-brand-relationship-spectrum",
+          "paraphrase": "Branded house acelera equity e aumenta risco de contágio; house of brands isola risco e abre mão de escala."
+        },
+        {
+          "id": "src-vivaldi-architecture-2026",
+          "paraphrase": "Critérios: força das marcas, sobreposição de público, parentesco, M&A, risco, algoritmos, regulação."
+        },
+        {
+          "id": "src-bsi-white-brand-architecture-2024",
+          "paraphrase": "VW não liga Bentley e Porsche a Škoda e SEAT; ligou Škoda ao nome VW quando a qualidade subiu."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-vw-group-architecture"
+      ],
+      "contexts": "Grandes grupos e empresas que crescem por aquisição."
+    },
+    {
+      "id": "architecture-as-system",
+      "title": "Trate a arquitetura como sistema governado, não como organograma de logos",
+      "statement": "Dê ao portfólio uma lógica visual e verbal compartilhada, hierarquia definida e regras de governança e migração, e aplique-a a naming, mídia e mensagem.",
+      "why": "Liddell propõe ver marcas como sistemas que podem ser organizados de forma mais eficiente, começando pelas realidades comerciais e terminando em teste de estresse. Armadilhas recorrentes: misturar modelos sem lógica, endossos fracos demais para transferir equity, migração sem plano nem verba, marcas legadas que ficam e dividem a verba.",
+      "how": [
+        "Comece pelas prioridades comerciais e pelo mapa atual de marcas.",
+        "Defina regras de nome, lock-up, cor e tom por nível da hierarquia.",
+        "Crie plano de migração com prazo e verba, inclusive para embalagens antigas.",
+        "Teste o sistema em casos reais: lançamento novo, aquisição, busca online, ponto de venda."
+      ],
+      "tests": [
+        "Existe um guia de arquitetura com regras de nome e lock-up por nível?",
+        "Há plano de migração e de aposentadoria de marcas legadas?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "arquitetura",
+        "gestao-governanca"
+      ],
+      "stage": [
+        "arquitetura"
+      ],
+      "school": "pratica",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-creativereview-liddell-2025",
+          "paraphrase": "Marcas como sistemas; lógica visual e verbal compartilhada, propósito e hierarquia; teste de estresse."
+        },
+        {
+          "id": "src-umbrex-brand-relationship-spectrum",
+          "paraphrase": "Armadilhas: endossos fracos, mistura sem lógica, falta de plano de migração, marcas legadas."
+        },
+        {
+          "id": "src-vivaldi-architecture-2026",
+          "paraphrase": "A arquitetura precisa de governança que decida quando a master lidera e quando a submarca lidera."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Portfólios com 3 ou mais marcas ou após fusões."
+    }
+  ],
+  "frameworks": [
+    {
+      "id": "name-types-spectrum",
+      "name": "Espectro de tipos de nome e eixos de construção",
+      "author": "Síntese de Catchword, Igor e Jeremy Miller",
+      "purpose": "Classificar candidatos e concorrentes pelo grau de literalidade e pela forma de construção, para decidir o tipo certo para o brief.",
+      "components": [
+        {
+          "name": "Descritivo / funcional",
+          "description": "Diz o que é (Hotels.com, The Weather Channel). Claro, porém difícil de registrar e se mistura aos concorrentes. Serve para produtos sob master brand forte, B2B que só quer saber a função, vida curta e verba pequena."
+        },
+        {
+          "name": "Sugestivo",
+          "description": "Alude a benefício ou característica por metáfora ou associação (Fitbit, OpenTable, Mountain Dew). Meio-termo mais popular: mais memorável que o descritivo e mais comunicativo que o abstrato."
+        },
+        {
+          "name": "Experiencial",
+          "description": "Liga-se a uma experiência humana direta (Explorer, Navigator, Safari). Fácil de aprovar, mas muito usado e difícil de registrar; perde força para quem chega depois (Igor)."
+        },
+        {
+          "name": "Evocativo / metáfora",
+          "description": "Evoca o posicionamento, não a função (Virgin, Apple, Uber). Raro e diferenciador; o mais difícil de aprovar e um desastre se fora de sincronia com o posicionamento (Igor)."
+        },
+        {
+          "name": "Arbitrário (palavra real sem relação)",
+          "description": "Palavra real desconectada da categoria (Apple, Orange). Alta proteção, exige verba para criar sentido."
+        },
+        {
+          "name": "Inventado / cunhado",
+          "description": "Palavra nova: por raízes greco-latinas (Agilent, Accenture), considerada fria por Igor, ou poética/fonética (Kodak, Oreo, Google), fácil de registrar e gostosa de dizer."
+        },
+        {
+          "name": "Composto / mistura",
+          "description": "Duas palavras ou partes unidas (Facebook, DreamWorks, Microsoft). Útil, mas o composto de palavras batidas vira 'wallflower' (Igor)."
+        },
+        {
+          "name": "Fundador / sobrenome / figura",
+          "description": "Nome de pessoa real ou histórica (Ford, Heinz, Tesla, Dr. Pepper). Pessoal e autêntico; liga a marca a uma pessoa."
+        },
+        {
+          "name": "Sigla e acrônimo",
+          "description": "Iniciais (IBM, KFC) ou sigla pronunciável (NASA, MADD). Catchword em geral desaconselha: forçado, confuso, o público usa só as letras."
+        },
+        {
+          "name": "Outro idioma",
+          "description": "Palavra estrangeira (Absolut, Prego). Dá tom; funciona pelo som e personalidade, não pela tradução; exige checagem linguística."
+        },
+        {
+          "name": "Construções de forma",
+          "description": "Truncada (FedEx, Cisco), alfanumérica (3M, 7-Eleven), grafia alterada (Flickr), sufixo (Spotify), trocadilho (Wok This Way)."
+        }
+      ],
+      "steps": [
+        "No brief, decida quanto o nome deve explicar versus diferenciar e proteger.",
+        "Classifique os nomes concorrentes nesses tipos para achar o espaço vazio.",
+        "Gere candidatos em vários tipos, não só no mais confortável.",
+        "Na shortlist, confira o trade-off: quanto mais à direita (abstrato), mais protegível e flexível, e mais verba para dar sentido."
+      ],
+      "inputs": [
+        "brief de naming",
+        "lista de nomes da concorrência",
+        "verba de lançamento",
+        "arquitetura do portfólio"
+      ],
+      "outputs": [
+        "tipo de nome recomendado",
+        "candidatos classificados por tipo"
+      ],
+      "pitfalls": [
+        "Escolher descritivo para nome de empresa só porque 'explica' (Igor).",
+        "Escolher inventado greco-latino porque passa fácil no comitê, mas fica frio.",
+        "Usar sigla por comodidade."
+      ],
+      "criticisms": [
+        "Igor rejeita o descritivo para empresas, enquanto Catchword o aceita em contextos específicos (ver debate naming-descriptive-vs-evocative)."
+      ],
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 4-6",
+          "paraphrase": "Tipos descritivo, sugestivo, empty vessel, outro idioma e siglas; construções real, truncada, alfanumérica, cunhada e composta."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 3-7",
+          "paraphrase": "Quatro categorias com prós e contras: funcional, inventado, experiencial, evocativo."
+        },
+        {
+          "id": "src-miller-types-brand-names-2017",
+          "paraphrase": "Três arquétipos e treze formas de construção, incluindo sobrenome, sigla, mito e trocadilho."
+        }
+      ]
+    },
+    {
+      "id": "catchword-naming-process",
+      "name": "Processo de naming da Catchword com 10 critérios",
+      "author": "Catchword Branding",
+      "purpose": "Conduzir um projeto de naming do brief ao lançamento com seleção objetiva.",
+      "components": [
+        {
+          "name": "Brief criativo",
+          "description": "Perguntas: o que se nomeia, como será usado, arena, concorrentes e seus nomes, clientes, diferença relevante, o que comunicar, tom e construção, outros idiomas, países, restrições, nome proprietário ou não, elemento comum de família, convenções, domínio."
+        },
+        {
+          "name": "Exploração criativa",
+          "description": "Vocabulário do projeto, 'due diligence creative' e depois 'blue sky'; cerca de 2.000 nomes, várias pessoas."
+        },
+        {
+          "name": "Shortlist",
+          "description": "Cerca de 10% do total, revisada com olhos descansados, guiada pelas 10 diretrizes e 10 critérios."
+        },
+        {
+          "name": "10 critérios",
+          "description": "Magnetismo, distintividade, aderência à marca, acessibilidade, longevidade, concisão, eufonia, adequação (sem sentido negativo grave), consistência com convenções, protegibilidade."
+        },
+        {
+          "name": "Vetting",
+          "description": "Pré-triagem de marca + busca de uso na web, advogado, checagem linguística com nativos, domínio."
+        },
+        {
+          "name": "Lançamento",
+          "description": "Checklist jurídico, identidade, comunicação interna antes da externa, tecnologia (domínios, redirecionamentos, e-mails)."
+        }
+      ],
+      "steps": [
+        "Escrever o brief e aprovar com quem tem veto.",
+        "Gerar cerca de 2.000 nomes em fases.",
+        "Fazer shortlist de ~10% e revisar após 1 a 2 dias.",
+        "Selecionar vários candidatos para triagem jurídica, linguística e de domínio.",
+        "Opcional: pesquisa com consumidor só com finalistas liberados.",
+        "Escolher e lançar com o checklist."
+      ],
+      "inputs": [
+        "posicionamento",
+        "lista de concorrentes",
+        "mercados-alvo",
+        "convenções de portfólio"
+      ],
+      "outputs": [
+        "nome escolhido e liberado",
+        "domínio",
+        "plano de lançamento"
+      ],
+      "pitfalls": [
+        "Apaixonar-se por um único nome antes da triagem.",
+        "Rejeitar nomes por associação pessoal idiossincrática.",
+        "Projeto com menos de 4 a 6 semanas (sem contar jurídico)."
+      ],
+      "criticisms": [
+        "Igor critica nomes inventados morfemicamente e compostos genéricos, que esse tipo de processo de volume pode produzir se a curadoria for fraca."
+      ],
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 7-29",
+          "paraphrase": "Roteiro completo do brief ao lançamento, com 10 diretrizes e 10 critérios."
+        }
+      ]
+    },
+    {
+      "id": "watkins-smile-scratch",
+      "name": "Teste SMILE & SCRATCH",
+      "author": "Alexandra Watkins (Eat My Words)",
+      "purpose": "Rubrica rápida para avaliar e eliminar nomes: o nome deve fazer sorrir, não coçar a cabeça.",
+      "components": [
+        {
+          "name": "S — Sugestivo",
+          "description": "Sugere algo positivo da experiência com a marca."
+        },
+        {
+          "name": "M — Com significado",
+          "description": "O cliente entende o que quer dizer."
+        },
+        {
+          "name": "I — Imagem",
+          "description": "Cria uma imagem visual que ajuda a lembrar."
+        },
+        {
+          "name": "L — Pernas",
+          "description": "Pode virar um tema estendido ao longo do tempo."
+        },
+        {
+          "name": "E — Emocional",
+          "description": "Conecta com sentimentos do público."
+        },
+        {
+          "name": "S — Difícil de soletrar",
+          "description": "Parece erro de digitação ou é difícil de escrever."
+        },
+        {
+          "name": "C — Cópia",
+          "description": "Parecido demais com concorrentes."
+        },
+        {
+          "name": "R — Restritivo",
+          "description": "Limita crescimento futuro."
+        },
+        {
+          "name": "A — Irritante",
+          "description": "Sentido forçado ou escondido."
+        },
+        {
+          "name": "T — Sem graça",
+          "description": "Plano, sem inspiração."
+        },
+        {
+          "name": "C — Maldição do conhecimento",
+          "description": "Só iniciados entendem."
+        },
+        {
+          "name": "H — Difícil de pronunciar",
+          "description": "Pronúncia não é óbvia."
+        }
+      ],
+      "steps": [
+        "Passe cada candidato pelos 7 itens SCRATCH; qualquer um elimina.",
+        "Pontue os sobreviventes nos 5 itens SMILE.",
+        "Se o domínio exato estiver ocupado, use modificador ou frase em vez de trocar de nome."
+      ],
+      "inputs": [
+        "lista de candidatos",
+        "nomes da concorrência"
+      ],
+      "outputs": [
+        "candidatos eliminados com motivo",
+        "nota SMILE dos sobreviventes"
+      ],
+      "pitfalls": [
+        "Aplicar 'Meaningful' de forma literal e acabar premiando nomes descritivos.",
+        "Usar 'Hard-to-pronounce' com a pronúncia de um idioma só, ignorando o público real."
+      ],
+      "criticisms": [
+        "Catchword aceita nomes estranhos no início (Häagen-Dazs, Wii) que poderiam reprovar em 'Spelling' e 'Hard-to-pronounce'."
+      ],
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "sources": [
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Cinco qualidades SMILE e sete descartes SCRATCH, com conselho de domínio."
+        },
+        {
+          "id": "src-eatmywords-entrepreneur-2008",
+          "paraphrase": "O teste parte da ideia de que o nome deve fazer sorrir, não coçar a cabeça."
+        }
+      ]
+    },
+    {
+      "id": "igor-name-evaluation",
+      "name": "Taxonomia competitiva e avaliação de nomes do Igor",
+      "author": "Igor International",
+      "purpose": "Mapear nomes da concorrência, avaliar candidatos com objetividade e desempatar finalistas.",
+      "components": [
+        {
+          "name": "Descrição de cargo do nome",
+          "description": "Qualificações (personalidade, habilidade de comunicação, aparência) e responsabilidades (redefinir a categoria, propagar-se sozinho, separar dos concorrentes, render imagens, sair da commodity, ser inesquecível)."
+        },
+        {
+          "name": "Mapa taxonômico",
+          "description": "Concorrentes distribuídos em funcional, inventado, experiencial e evocativo, com nota de -2 a 5 pela força diferenciadora."
+        },
+        {
+          "name": "Nove categorias",
+          "description": "Aparência, distintividade, profundidade, energia, humanidade, posicionamento, som e '33' (o mistério que faz falar da marca)."
+        },
+        {
+          "name": "Filtro evocativo",
+          "description": "Avaliar nomes evocativos pelo posicionamento que expressam, não pela leitura literal do comitê."
+        },
+        {
+          "name": "Teste A.S.S.",
+          "description": "Contar associações culturais e slogans que o nome inspira para desempatar finalistas."
+        }
+      ],
+      "steps": [
+        "Escreva a descrição de cargo do nome.",
+        "Monte o mapa taxonômico dos concorrentes com notas.",
+        "Defina o posicionamento do nome (pode diferir do tom do resto da marca).",
+        "Gere e avalie candidatos nas nove categorias.",
+        "Desempate com associações e slogans."
+      ],
+      "inputs": [
+        "posicionamento",
+        "lista de concorrentes"
+      ],
+      "outputs": [
+        "mapa competitivo",
+        "notas por categoria",
+        "finalista com justificativa"
+      ],
+      "pitfalls": [
+        "Notas do mapa são subjetivas da agência.",
+        "Evocativo fora de sincronia com o posicionamento vira confusão."
+      ],
+      "criticisms": [
+        "Escola de naming polêmica e autopromocional; tende a descartar descritivos e inventados de forma categórica, posição contestada pela Catchword."
+      ],
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "paisagem",
+        "naming"
+      ],
+      "school": "naming",
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 2-21",
+          "paraphrase": "Descrição de cargo, taxonomias com notas, nove categorias e teste A.S.S."
+        }
+      ]
+    },
+    {
+      "id": "meyerson-seven-step-naming",
+      "name": "Processo de naming em 7 etapas (Meyerson)",
+      "author": "Rob Meyerson",
+      "purpose": "Roteiro padrão observado em agências e equipes internas para criar um nome do brief à decisão.",
+      "components": [
+        {
+          "name": "1. Brief",
+          "description": "Documento aprovado pelos decisores com o que o nome deve transmitir, limites e concorrência."
+        },
+        {
+          "name": "2. Geração",
+          "description": "Lista mestre única, geração individual antes da coletiva, várias sessões em dias diferentes; técnicas de sinônimos, metáforas, compostos, grafias, idiomas, rimas, cultura pop, 'ofuscar o brief'."
+        },
+        {
+          "name": "3. Shortlist",
+          "description": "Com 2 ou 3 pessoas; pode usar fichas físicas removidas por consenso."
+        },
+        {
+          "name": "4. Pré-triagem",
+          "description": "Bases de marcas e checagem linguística preliminar."
+        },
+        {
+          "name": "5. Apresentação",
+          "description": "Priming, formato consistente, contexto realista sem design pesado, positivos antes das críticas."
+        },
+        {
+          "name": "6. Triagem jurídica completa",
+          "description": "Advogado de marcas; custo de centenas de dólares por nome e dias a semanas."
+        },
+        {
+          "name": "7. Escolha final",
+          "description": "Decisores pesam risco jurídico contra as forças do nome."
+        }
+      ],
+      "steps": [
+        "Seguir as sete etapas na ordem, iniciando a conversa com o advogado já no começo para prever custo e prazo."
+      ],
+      "inputs": [
+        "decisores identificados",
+        "concorrência",
+        "orçamento jurídico"
+      ],
+      "outputs": [
+        "nome escolhido com grau de risco conhecido"
+      ],
+      "pitfalls": [
+        "Gerar poucos nomes.",
+        "Confiar demais em checagem jurídica ou linguística amadora.",
+        "Deixar o jurídico para o fim."
+      ],
+      "criticisms": [],
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "sources": [
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "paraphrase": "Sete etapas, técnicas de geração e erros comuns."
+        }
+      ]
+    },
+    {
+      "id": "labbrand-naming-methodology",
+      "name": "Método Labbrand: cinco dimensões e três ferramentas",
+      "author": "Labbrand",
+      "purpose": "Criar e validar nomes para China e mercados globais combinando geração em escala, risco de marca e checagem linguística.",
+      "components": [
+        {
+          "name": "Cinco dimensões",
+          "description": "Atributos gerais (legibilidade, memorabilidade), estratégia de marca, regras de negócio e de marca registrada, checagem linguística, insight de consumidor."
+        },
+        {
+          "name": "Geração por software",
+          "description": "Base de 6.000 caracteres chineses marcados por frequência, som e sentido."
+        },
+        {
+          "name": "Triagem de risco de marca",
+          "description": "Regras do escritório chinês com apoio de escritório de advocacia; WIPO, EUIPO e USPTO para outros mercados; nível de risco por nome."
+        },
+        {
+          "name": "Checagem linguística",
+          "description": "Nativos selecionados; cerca de 20 idiomas e 5 dialetos chineses; som, conotação, associação com o setor."
+        }
+      ],
+      "steps": [
+        "Gerar centenas de candidatos.",
+        "Afunilar de centenas para dezenas com triagem de marca e linguística em paralelo.",
+        "Recomendar finalistas e depositar pelo menos dois."
+      ],
+      "inputs": [
+        "estratégia de marca",
+        "mercados e dialetos",
+        "classes de produto"
+      ],
+      "outputs": [
+        "nomes recomendados com nível de risco e parecer linguístico"
+      ],
+      "pitfalls": [
+        "Ignorar o período cego de 3 a 6 meses das bases de marcas."
+      ],
+      "criticisms": [],
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "sources": [
+        {
+          "id": "src-labbrand-naming-methodology",
+          "paraphrase": "Cinco dimensões, três ferramentas, período cego e recomendação de dois depósitos."
+        }
+      ]
+    },
+    {
+      "id": "trademark-prescreening-workflow",
+      "name": "Fluxo de pré-triagem de marca (Brasil + global), feito por pessoa",
+      "author": "Síntese de INPI, WIPO, USPTO, Catchword e Labbrand",
+      "purpose": "Roteiro para um agente preparar e uma pessoa executar a busca prévia de anterioridade antes do advogado.",
+      "components": [
+        {
+          "name": "INPI BuscaWeb (busca.inpi.gov.br)",
+          "description": "Busca por radical, no núcleo do sinal, sem limitar à atividade; depois filtrar classes; avaliar semelhança sonora. A RPI é o meio oficial de acompanhamento."
+        },
+        {
+          "name": "TMview (EUIPO)",
+          "description": "Mais de 70 escritórios, inclusive o INPI, gratuito, interface em português, exporta resultados."
+        },
+        {
+          "name": "WIPO Global Brand Database",
+          "description": "Gratuita; coleção de Madri diária e coleções nacionais com atraso; busca por imagem de logo; até 180 registros por relatório; proíbe automação; recomenda checar a base nacional."
+        },
+        {
+          "name": "USPTO (tmsearch.uspto.gov)",
+          "description": "Wordmark trata cada palavra como termo separado; use field tags para multipalavras; logos por código de design de seis dígitos; filtros de vivas/mortas e classe no modo especialista."
+        },
+        {
+          "name": "Web e redes",
+          "description": "Busca de uso não registrado (direito de precedência), domínios e @handles."
+        }
+      ],
+      "steps": [
+        "Agente: definir classes de Nice atuais e futuras e a lista de termos por finalista (radical, variações fonéticas e de grafia).",
+        "Agente: gerar links/consultas para INPI, TMview, WIPO e USPTO conforme os mercados.",
+        "Pessoa: rodar as buscas manualmente e exportar resultados.",
+        "Agente: classificar conflitos por aparência, som, sentido, classe, canal, cliente e preço; marcar risco alto, médio, baixo.",
+        "Lembrar do período cego de 3 a 6 meses e de usos não registrados.",
+        "Levar 3 a 5 finalistas ao advogado; depositar pelo menos 2."
+      ],
+      "inputs": [
+        "finalistas",
+        "classes de produtos/serviços",
+        "países-alvo"
+      ],
+      "outputs": [
+        "matriz de risco preliminar por finalista",
+        "pacote para o advogado"
+      ],
+      "pitfalls": [
+        "Buscar só a grafia exata, ignorando radical e som.",
+        "Tratar ausência de resultado como liberação (período cego e atrasos).",
+        "Automatizar consultas na WIPO."
+      ],
+      "criticisms": [],
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "pratica",
+      "sources": [
+        {
+          "id": "src-inpi-etapas-registro-marca",
+          "paraphrase": "Busca por radical, classes e semelhança sonora; prazos de exame."
+        },
+        {
+          "id": "src-inpi-tmview-2021",
+          "paraphrase": "TMview com mais de 70 escritórios, gratuito e em português."
+        },
+        {
+          "id": "src-wipo-gbd-faq",
+          "paraphrase": "Gratuita, limite de 180 registros, proíbe automação, checar base nacional."
+        },
+        {
+          "id": "src-uspto-federal-trademark-searching",
+          "paraphrase": "Modos de busca, wordmark termo a termo, códigos de design."
+        },
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "paraphrase": "Fatores de risco de confusão e busca de uso não registrado."
+        },
+        {
+          "id": "src-labbrand-naming-methodology",
+          "paraphrase": "Período cego e dois depósitos."
+        }
+      ]
+    },
+    {
+      "id": "lexicon-identify-invent-implement",
+      "name": "Identificação, invenção e implementação (Lexicon)",
+      "author": "David Placek / Lexicon Branding",
+      "purpose": "Processo de naming baseado em linguística e simbolismo sonoro.",
+      "components": [
+        {
+          "name": "Identificação",
+          "description": "Definir o papel do nome e a presença que a marca quer no mercado; pesquisa de contexto (ex.: BlackBerry deveria acalmar, não estressar)."
+        },
+        {
+          "name": "Invenção",
+          "description": "Times pequenos geram muitas opções sem julgamento precoce, guiados por simbolismo sonoro."
+        },
+        {
+          "name": "Implementação",
+          "description": "Pré-triagem de marca, revisão linguística por rede de ~90 linguistas, teste com clientes e protótipos para conquistar o time interno."
+        }
+      ],
+      "steps": [
+        "Definir papel e comportamento da marca.",
+        "Gerar em times pequenos.",
+        "Triar marca e linguística, analisar sons, prototipar e testar."
+      ],
+      "inputs": [
+        "papel do nome",
+        "insight do usuário"
+      ],
+      "outputs": [
+        "nome com análise sonora e linguística"
+      ],
+      "pitfalls": [
+        "Prioridade ao conforto interno em vez de ao potencial do nome."
+      ],
+      "criticisms": [],
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "school": "naming",
+      "sources": [
+        {
+          "id": "src-placek-lexicon-cnn-2019",
+          "paraphrase": "Projetos de 8 semanas, 10 a 12 pessoas, linguistas e simbolismo sonoro."
+        },
+        {
+          "id": "src-placek-lennys-podcast-2025",
+          "paraphrase": "Três estágios: identificação, invenção, implementação."
+        }
+      ]
+    },
+    {
+      "id": "brand-relationship-spectrum",
+      "name": "Espectro de relacionamento de marcas (Brand Relationship Spectrum)",
+      "author": "David Aaker e Erich Joachimsthaler (2000)",
+      "purpose": "Definir o papel de cada marca num portfólio e o grau de ligação entre elas.",
+      "components": [
+        {
+          "name": "Branded house",
+          "description": "Uma master brand cobre tudo, com descritores (FedEx, Google, Virgin). Eficiência máxima e maior risco de contágio."
+        },
+        {
+          "name": "Submarcas",
+          "description": "Master + submarca (Gillette Mach3, Sony PlayStation). Master como motor ou co-motor."
+        },
+        {
+          "name": "Marcas endossadas",
+          "description": "Marca própria com ligação visível ao pai (Courtyard by Marriott, Obsession by Calvin Klein). Endosso simbólico, nome ligado ou endosso forte."
+        },
+        {
+          "name": "House of brands",
+          "description": "Marcas independentes com pouca ligação corporativa visível (P&G, marcas da Unilever). Posições afiadas, risco isolado, custo duplicado."
+        }
+      ],
+      "steps": [
+        "Inventariar marcas e ofertas com público, preço, canal e equity.",
+        "Partir do branded house e aplicar as quatro perguntas (a master contribui? se fortalece? há necessidade forte de separação? o negócio sustenta outra marca?).",
+        "Definir papel de motor de cada marca.",
+        "Escolher a posição no espectro e o tipo de endosso.",
+        "Traduzir em regras de nome e lock-up e plano de migração."
+      ],
+      "inputs": [
+        "inventário de marcas",
+        "dados de equity e de motor de compra",
+        "estratégia de crescimento e M&A"
+      ],
+      "outputs": [
+        "mapa de arquitetura",
+        "regras de naming e lock-up",
+        "plano de migração"
+      ],
+      "pitfalls": [
+        "Reduzir a escolha ao binário uma marca vs. várias.",
+        "Endossos pequenos demais para transferir equity.",
+        "Misturar modelos sem lógica documentada.",
+        "Assumir halo da master sem testar."
+      ],
+      "criticisms": [
+        "Liddell (prática) diz que o uso corrente virou binário simplista e propõe tratar marcas como sistemas.",
+        "Ritson (posicionamento) observa uma tendência histórica de migração para o lado corporativo, o que torna o 'meio' do espectro mais comum do que os extremos."
+      ],
+      "domain": [
+        "arquitetura"
+      ],
+      "stage": [
+        "arquitetura"
+      ],
+      "school": "posicionamento-diferenciacao",
+      "sources": [
+        {
+          "id": "src-umbrex-brand-relationship-spectrum",
+          "paraphrase": "Quatro estratégias com sub-opções, critérios e armadilhas."
+        },
+        {
+          "id": "src-bsi-white-brand-architecture-2024",
+          "paraphrase": "Quatro modelos com exemplos e as quatro perguntas."
+        },
+        {
+          "id": "src-aaker-joachimsthaler-2000-cmr",
+          "paraphrase": "Artigo original que introduz o espectro (só resumo lido)."
+        }
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "id": "naming-descriptive-vs-evocative",
+      "question": "Nome de empresa deve explicar o que ela faz ou evocar o posicionamento?",
+      "positions": [
+        {
+          "school": "naming",
+          "claim": "Igor: nome descritivo para empresa é escolha desnecessária e contraproducente; ele se mistura aos concorrentes e gasta verba. O ideal é o evocativo, ligado ao posicionamento.",
+          "evidence": "opiniao-especialista com exemplos de categorias saturadas",
+          "sources": [
+            {
+              "id": "src-igor-naming-guide-2022",
+              "paraphrase": "Descritivos de empresa causam 'brand fade out'; evocativos dominam quando em sincronia com o posicionamento."
+            }
+          ]
+        },
+        {
+          "school": "naming",
+          "claim": "Catchword: descritivos têm usos legítimos (reforçar master brand, B2B que só quer saber a função, produtos de vida curta e verba pequena); o sugestivo é o meio-termo mais popular; o abstrato exige verba para ganhar sentido.",
+          "evidence": "opiniao-especialista",
+          "sources": [
+            {
+              "id": "src-catchword-naming-guide-3ed",
+              "paraphrase": "Descritivos funcionam em contextos específicos; sugestivos são o meio-termo mais usado."
+            }
+          ]
+        },
+        {
+          "school": "naming",
+          "claim": "Watkins: o nome deve ser entendido pelo cliente ('Meaningful') e sugerir a experiência, sem ser sem graça ('Tame'); privilegia o sugestivo com imagem.",
+          "evidence": "framework",
+          "sources": [
+            {
+              "id": "src-watkins-verisign-smile-scratch-2018",
+              "paraphrase": "SMILE premia sugestivo, significativo e com imagem."
+            }
+          ]
+        }
+      ],
+      "synthesis": "Todas concordam que o descritivo é fraco em distintividade e proteção e que o nome sempre terá contexto ao redor. Divergem sobre o quanto se pode exigir de verba para dar sentido a um nome abstrato.",
+      "systemStance": "Padrão do sistema: sugestivo ou evocativo para nome de empresa e marca principal. Aceitar descritivo para produtos sob master brand forte, itens de vida curta ou B2B técnico com verba mínima. Abstrato/inventado só quando houver verba e ambição de proteção global.",
+      "stage": [
+        "naming"
+      ],
+      "domain": [
+        "naming"
+      ]
+    },
+    {
+      "id": "naming-consumer-testing-value",
+      "question": "Vale testar nomes com consumidores?",
+      "positions": [
+        {
+          "school": "naming",
+          "claim": "Catchword: pesquisa é um dado entre outros; consumidores escolhem o literal; só teste finalistas liberados, sem perguntar preferência.",
+          "evidence": "opiniao-especialista",
+          "sources": [
+            {
+              "id": "src-catchword-naming-guide-3ed",
+              "paraphrase": "Pesquisa é dado, não decisão; nunca pergunte qual nome a pessoa prefere."
+            }
+          ]
+        },
+        {
+          "school": "naming",
+          "claim": "Lexicon: testar com potenciais clientes e prototipar ajuda a validar e a conquistar o time interno; pesquisa de contexto inspirou BlackBerry.",
+          "evidence": "caso",
+          "sources": [
+            {
+              "id": "src-placek-lexicon-cnn-2019",
+              "paraphrase": "Testa nomes com consumidores buscando respostas emocionais."
+            },
+            {
+              "id": "src-placek-lennys-podcast-2025",
+              "paraphrase": "Implementação inclui teste com clientes e protótipos."
+            }
+          ]
+        },
+        {
+          "school": "naming",
+          "claim": "Igor e Watkins: grupos focais e enquetes com amigos são pouco confiáveis para desempatar e diluem nomes ousados.",
+          "evidence": "opiniao-especialista",
+          "sources": [
+            {
+              "id": "src-igor-naming-guide-2022",
+              "paraphrase": "Ironiza testes longos e grupos focais."
+            },
+            {
+              "id": "src-eatmywords-entrepreneur-2008",
+              "paraphrase": "Não pergunte a amigos e família."
+            }
+          ]
+        }
+      ],
+      "synthesis": "Consenso: não usar pesquisa como votação de favorito. Pesquisa serve para detectar associações negativas, entender que mensagem passa e reduzir resistência interna.",
+      "systemStance": "Padrão: pesquisa qualitativa de associações com finalistas liberados, apresentados de forma idêntica, sem pergunta de preferência. Pesquisa quantitativa só em lançamento grande de B2C.",
+      "stage": [
+        "naming"
+      ],
+      "domain": [
+        "naming"
+      ]
+    },
+    {
+      "id": "naming-invented-names-value",
+      "question": "Nomes inventados são uma boa escolha?",
+      "positions": [
+        {
+          "school": "naming",
+          "claim": "Catchword: nomes fantasia são os mais fortes juridicamente e mais fáceis de registrar, mas pedem marketing para ganhar sentido.",
+          "evidence": "opiniao-especialista",
+          "sources": [
+            {
+              "id": "src-catchword-naming-guide-3ed",
+              "paraphrase": "Empty vessels são os mais fáceis de registrar e exigem marketing sério."
+            }
+          ]
+        },
+        {
+          "school": "naming",
+          "claim": "Igor: inventados greco-latinos são frios e vazios; inventados poéticos (Oreo, Google) funcionam; justificativa morfêmica é golpe.",
+          "evidence": "opiniao-especialista",
+          "sources": [
+            {
+              "id": "src-igor-naming-guide-2022",
+              "paraphrase": "Distingue inventados por raízes (frios) de poéticos (memoráveis) e condena o racional morfêmico."
+            }
+          ]
+        },
+        {
+          "school": "naming",
+          "claim": "Meyerson/Lexicon: o bom cunhado soa como palavra real e nasce de sons ligados à experiência (Swiffer).",
+          "evidence": "caso",
+          "sources": [
+            {
+              "id": "src-meyerson-westergaard-2022",
+              "paraphrase": "Swiffer é cunhado que parece palavra real."
+            },
+            {
+              "id": "src-placek-lexicon-cnn-2019",
+              "paraphrase": "Swiffer veio de sons como swipe e swish."
+            }
+          ]
+        }
+      ],
+      "synthesis": "Inventado funciona quando é gostoso de dizer e soa familiar pelo som; falha quando depende de explicação etimológica.",
+      "systemStance": "Aceitar inventados que passem no teste de som e de sentido sem explicação; rejeitar inventados cuja defesa seja só morfêmica.",
+      "stage": [
+        "naming"
+      ],
+      "domain": [
+        "naming"
+      ]
+    },
+    {
+      "id": "brand-architecture-binary-vs-spectrum",
+      "question": "A arquitetura deve ser escolhida entre branded house e house of brands, ou desenhada como sistema no espectro?",
+      "positions": [
+        {
+          "school": "posicionamento-diferenciacao",
+          "claim": "Aaker & Joachimsthaler (via BSI): espectro de quatro estratégias, com branded house como ponto de partida e desvios justificados por quatro perguntas.",
+          "evidence": "framework",
+          "sources": [
+            {
+              "id": "src-bsi-white-brand-architecture-2024",
+              "paraphrase": "Branded house como padrão; quatro perguntas para alternativas."
+            }
+          ]
+        },
+        {
+          "school": "posicionamento-diferenciacao",
+          "claim": "Ritson: há uma tendência histórica de migrar do house of brands para o branded house ou endossado, por economia, digital e poder do varejo.",
+          "evidence": "opiniao-especialista",
+          "sources": [
+            {
+              "id": "src-ritson-coke-one-brand-2015",
+              "paraphrase": "Coca-Cola, Unilever, P&G e Tesco movem-se para o lado corporativo."
+            }
+          ]
+        },
+        {
+          "school": "pratica",
+          "claim": "Liddell: o binário é simplista; marcas devem ser vistas como sistemas organizados por lógica visual e verbal comum, propósito e hierarquia.",
+          "evidence": "opiniao-especialista",
+          "sources": [
+            {
+              "id": "src-creativereview-liddell-2025",
+              "paraphrase": "Rejeita o binário e propõe um playbook de sistemas."
+            }
+          ]
+        },
+        {
+          "school": "pratica",
+          "claim": "Vivaldi: grandes portfólios caminham para híbridos governados, escolhidos por critérios como sobreposição de público, M&A e risco.",
+          "evidence": "opiniao-especialista",
+          "sources": [
+            {
+              "id": "src-vivaldi-architecture-2026",
+              "paraphrase": "Híbridos com governança para portfólios mistos."
+            }
+          ]
+        }
+      ],
+      "synthesis": "Todos aceitam o espectro e o uso misto; a crítica é ao uso binário e sem governança. Há convergência em começar pela master brand.",
+      "systemStance": "Padrão: branded house para empresas pequenas e médias; espectro completo com regras documentadas para portfólios; house of brands só com justificativa de público, preço ou risco.",
+      "stage": [
+        "arquitetura"
+      ],
+      "domain": [
+        "arquitetura"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "case-natura-co-2019-2025",
+      "brand": "Natura &Co",
+      "year": 2025,
+      "agency": null,
+      "sector": "beleza",
+      "market": "Brasil / global",
+      "type": "arquitetura",
+      "challenge": "Depois de comprar Aesop (2013), The Body Shop (2017) e Avon (2019), o grupo virou um house of brands global em mais de 100 países, com estrutura cara, Avon International deficitária e prejuízo de R$ 8,9 bi em 2024.",
+      "insight": "A complexidade de manter marcas independentes em muitas geografias consumia recursos sem crescimento, e afastava a empresa de sua origem e de seu mercado central.",
+      "strategy": "Desglobalizar: vender Aesop (2023, ~US$ 2,5 bi), The Body Shop (2023, US$ 254 mi) e Avon International (concluída em 31/12/2025), incorporar a holding na Natura Cosméticos e concentrar em Natura e Avon na América Latina, mantendo a propriedade intelectual da Avon na região.",
+      "execution": "Revisão do portfólio na América Latina em 2025-2026; hipótese de tratar a Avon como submarca robusta com espaço para Renew; integração operacional por ondas; a Avon funciona como porta de entrada (7 em 10 lares com Avon também compram Natura), mas houve canibalização em favor da Natura.",
+      "results": [
+        {
+          "metric": "Venda da Aesop",
+          "value": "cerca de US$ 2,5 bi (~R$ 15 bi)",
+          "independent": true,
+          "source": "src-investnews-natura-desglobalizacao-2025"
+        },
+        {
+          "metric": "Resultado líquido 2024",
+          "value": "prejuízo de R$ 8,929 bi",
+          "independent": true,
+          "source": "src-investnews-natura-desglobalizacao-2025"
+        },
+        {
+          "metric": "Receita Avon Brasil 1T25",
+          "value": "queda de 12%",
+          "independent": true,
+          "source": "src-investnews-natura-avon-renew-2025"
+        }
+      ],
+      "lessons": [
+        "Um house of brands montado por aquisições exige escala e capacidade de gestão em cada marca; sem isso, o custo duplicado vira risco financeiro.",
+        "Reduzir o portfólio pode ser estratégia de marca, não só financeira: devolve foco à marca de origem.",
+        "Duas marcas que dividem canal e consumidora precisam de papéis claros, ou uma canibaliza a outra (Natura ganhou fatia da Avon)."
+      ],
+      "principles": [
+        "architecture-efficiency-vs-risk",
+        "architecture-branded-house-default",
+        "brand-architecture-spectrum",
+        "architecture-driver-roles"
+      ],
+      "sources": [
+        {
+          "id": "src-investnews-natura-desglobalizacao-2025",
+          "paraphrase": "Cronologia, números e a lógica de desglobalização."
+        },
+        {
+          "id": "src-euqueroinvestir-natura-incorporacao-2025",
+          "paraphrase": "Incorporação da holding para simplificar e focar na América Latina e na marca Natura."
+        },
+        {
+          "id": "src-gironews-natura-avon-international-2026",
+          "paraphrase": "Venda da Avon International concluída em 31/12/2025, com IP da Avon mantido na região."
+        },
+        {
+          "id": "src-investnews-natura-avon-renew-2025",
+          "paraphrase": "Dilema Natura vs. Avon: porta de entrada, canibalização, hipótese de submarca."
+        }
+      ]
+    },
+    {
+      "id": "case-coca-cola-one-brand-2015",
+      "brand": "Coca-Cola",
+      "year": 2015,
+      "agency": null,
+      "sector": "bebidas",
+      "market": "Reino Unido e noroeste da Europa",
+      "type": "arquitetura",
+      "challenge": "Coca-Cola, Diet Coke, Coke Zero e Coca-Cola Life eram comunicadas como submarcas com posicionamentos e campanhas próprias.",
+      "insight": "Unir as variantes sob uma marca deixaria a gama mais clara e concentraria o investimento.",
+      "strategy": "Estratégia 'one brand': Coca-Cola como foco de toda a comunicação, com as versões sem açúcar ou com menos açúcar tratadas como escolhas de produto.",
+      "execution": "Identidade única, ex-submarcas rebaixadas a variantes.",
+      "results": [],
+      "lessons": [
+        "Mover submarcas para variantes é um caminho para o lado corporativo do espectro quando todas compartilham o mesmo consumidor e a mesma promessa central."
+      ],
+      "principles": [
+        "architecture-branded-house-default",
+        "brand-architecture-spectrum"
+      ],
+      "sources": [
+        {
+          "id": "src-ritson-coke-one-brand-2015",
+          "paraphrase": "Ritson lê o caso como parte da migração geral para o branded house."
+        }
+      ]
+    },
+    {
+      "id": "case-vw-group-architecture",
+      "brand": "Grupo Volkswagen",
+      "year": 2000,
+      "agency": null,
+      "sector": "automotivo",
+      "market": "global",
+      "type": "arquitetura",
+      "challenge": "Grupo com marcas de prestígio e populares (Bentley, Porsche, VW, Škoda, SEAT) que compartilham tecnologia.",
+      "insight": "Ligar prestígio a preço baixo prejudicaria as marcas de topo; já uma marca em ascensão pode ganhar com a garantia da marca-mãe.",
+      "strategy": "House of brands para separar faixas de preço, com exceção: por volta de 2000, quando a Škoda melhorou a qualidade, o grupo ligou a marca ao nome VW para emprestar percepção de qualidade.",
+      "execution": "Marcas separadas na comunicação; endosso seletivo.",
+      "results": [],
+      "lessons": [
+        "O endosso é uma ferramenta tática: use quando a garantia da marca-mãe ajuda e não arrisca a imagem dela."
+      ],
+      "principles": [
+        "architecture-efficiency-vs-risk",
+        "architecture-driver-roles"
+      ],
+      "sources": [
+        {
+          "id": "src-bsi-white-brand-architecture-2024",
+          "paraphrase": "VW não divulga a ligação de Bentley e Porsche com Škoda e SEAT, mas ligou a Škoda à VW quando a qualidade melhorou."
+        }
+      ]
+    },
+    {
+      "id": "case-blackberry-1998-lexicon",
+      "brand": "BlackBerry",
+      "year": 1998,
+      "agency": "Lexicon Branding",
+      "sector": "tecnologia",
+      "market": "global",
+      "type": "naming",
+      "challenge": "A Research In Motion passou semanas sem achar nome para seu aparelho de e-mail.",
+      "insight": "Conversas com usuários de e-mail indicaram que o nome deveria transmitir calma, não estresse de trabalho.",
+      "strategy": "Buscar um nome caloroso e surpreendente para um aparelho corporativo, em vez de um nome técnico.",
+      "execution": "BlackBerry surgiu num brainstorm; executivos duvidaram no início.",
+      "results": [],
+      "lessons": [
+        "Um insight emocional do uso pode orientar o território do nome melhor que a descrição técnica.",
+        "Um nome inesperado para a categoria (fruta para tecnologia) diferencia e gera dúvida interna no começo."
+      ],
+      "principles": [
+        "naming-embrace-discomfort",
+        "naming-name-not-whole-story",
+        "naming-distinctiveness-equals-protectability"
+      ],
+      "sources": [
+        {
+          "id": "src-placek-lexicon-cnn-2019",
+          "paraphrase": "Pesquisa sugeriu nome calmante; executivos duvidaram de BlackBerry."
+        }
+      ]
+    },
+    {
+      "id": "case-swiffer-1997-lexicon",
+      "brand": "Swiffer",
+      "year": 1997,
+      "agency": "Lexicon Branding",
+      "sector": "limpeza / bens de consumo",
+      "market": "EUA / global",
+      "type": "naming",
+      "challenge": "A P&G tinha um esfregão melhorado para uma tarefa que as pessoas detestam.",
+      "insight": "O nome precisava trazer leveza e um pouco de prazer ao ato de limpar.",
+      "strategy": "Usar simbolismo sonoro de movimento rápido e leve.",
+      "execution": "Sons como 'swipe' e 'swish' levaram ao cunhado Swiffer, lançado em 1997.",
+      "results": [],
+      "lessons": [
+        "Um nome cunhado funciona quando soa como palavra real e carrega a sensação desejada pelo som."
+      ],
+      "principles": [
+        "naming-sound-symbolism",
+        "naming-meaning-for-audience"
+      ],
+      "sources": [
+        {
+          "id": "src-placek-lexicon-cnn-2019",
+          "paraphrase": "Swiffer nasceu de sons ligados a varrer rápido para tornar a tarefa mais agradável."
+        },
+        {
+          "id": "src-meyerson-westergaard-2022",
+          "paraphrase": "Meyerson elogia Swiffer como cunhado que soa real."
+        }
+      ]
+    },
+    {
+      "id": "case-haribo-china-labbrand",
+      "brand": "Haribo (China)",
+      "year": null,
+      "agency": "Labbrand",
+      "sector": "alimentos",
+      "market": "China",
+      "type": "naming",
+      "challenge": "Registrar nome chinês para um produto num mercado com mais de 11 milhões de marcas registradas (2016).",
+      "insight": "As bases ficam de 3 a 6 meses sem mostrar pedidos recentes, então um nome 'livre' pode já estar tomado.",
+      "strategy": "Depositar dois candidatos para o mesmo produto.",
+      "execution": "O nome preferido colidiu com marca semelhante aprovada no período cego; o reserva passou no exame.",
+      "results": [],
+      "lessons": [
+        "Sempre deposite pelo menos dois candidatos; a pré-triagem nunca vê tudo."
+      ],
+      "principles": [
+        "naming-trademark-screening"
+      ],
+      "sources": [
+        {
+          "id": "src-labbrand-naming-methodology",
+          "paraphrase": "Caso Haribo com dois candidatos registrados; o reserva salvou o projeto."
+        }
+      ]
+    },
+    {
+      "id": "case-booking-china-labbrand",
+      "brand": "booking.com (China)",
+      "year": null,
+      "agency": "Labbrand",
+      "sector": "turismo / tecnologia",
+      "market": "China",
+      "type": "naming",
+      "challenge": "Criar nome chinês que funcionasse em vários dialetos.",
+      "insight": "Um nome bom em mandarim pode soar ofensivo em outro dialeto.",
+      "strategy": "Checagem linguística com nativos em cinco dialetos.",
+      "execution": "Um candidato soava como 'aborto' em cantonês; outro lembrava uma marca de anticoncepcional em xangainês; ambos foram sinalizados.",
+      "results": [],
+      "lessons": [
+        "Cheque cada variante regional do idioma do público, não só a norma padrão."
+      ],
+      "principles": [
+        "naming-linguistic-check"
+      ],
+      "sources": [
+        {
+          "id": "src-labbrand-naming-methodology",
+          "paraphrase": "Candidatos sinalizados por associações em cantonês e xangainês."
+        }
+      ]
+    },
+    {
+      "id": "case-seven-igor",
+      "brand": "Seven (startup B2B de software)",
+      "year": null,
+      "agency": "Igor",
+      "sector": "software B2B",
+      "market": "global",
+      "type": "naming",
+      "challenge": "Achar um nome icônico de grande ideia para um B2B num mercado com mais de 700 mil marcas de software registradas.",
+      "insight": "O número sete carrega dezenas de associações culturais (sete mares, sete maravilhas, sete notas).",
+      "strategy": "Escolher o nome com mais conexões culturais e montar uma estratégia jurídica para registrá-lo.",
+      "execution": "A agência afirma que conseguiu registrar Seven no mundo todo.",
+      "results": [
+        {
+          "metric": "Registro de marca",
+          "value": "registrado mundialmente, segundo a agência",
+          "independent": false,
+          "source": "src-igor-naming-guide-2022"
+        }
+      ],
+      "lessons": [
+        "Palavras comuns podem ser registráveis com estratégia jurídica, mas naming é achar o melhor nome que se pode usar legalmente."
+      ],
+      "principles": [
+        "naming-associative-depth",
+        "naming-trademark-screening"
+      ],
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 19-20",
+          "paraphrase": "Seven venceu pelo número de associações e foi registrado mundialmente."
+        }
+      ]
+    }
+  ],
+  "antipatterns": [
+    {
+      "id": "descriptive-company-name-fade",
+      "name": "Nome de empresa descritivo que some na categoria",
+      "description": "Nome que só explica a atividade com palavras-chave do setor, igual a dezenas de concorrentes (Brand Doctors, Brand Evolution, Name Lab, Name Quest...).",
+      "signals": [
+        "núcleo do nome é a palavra da categoria (brand, name, tech, solutions, soluções, digital, marketing)",
+        "muitos concorrentes com o mesmo radical",
+        "nome inviável de registrar sem elemento extra"
+      ],
+      "whyBad": "Não diferencia, é difícil de proteger e obriga a gastar mais em mídia para ser lembrado.",
+      "fix": "Deixe o descritor para a linha de apoio e use núcleo sugestivo, evocativo ou arbitrário.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "paraphrase": "Listas de agências 'Brand-' e 'Name-' mostram o apagamento dos descritivos."
+        },
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "paraphrase": "Descritivos puros são difíceis de registrar."
+        }
+      ]
+    },
+    {
+      "id": "compound-wallflower",
+      "name": "Composto de palavras batidas ('wallflower')",
+      "description": "Nome formado por duas palavras genéricas de marca (Bridge, Edge, Core, Flex, Hub, Pro, Wave, Sky...), fácil de registrar e de aprovar, mas esquecível.",
+      "signals": [
+        "combina duas palavras de uma lista de termos comuns de branding",
+        "existem várias empresas com combinações parecidas (Bridgescape, Bridgespan, Everbridge)",
+        "nenhuma objeção do cliente porque não significa nada forte"
+      ],
+      "whyBad": "Funciona como ruído branco: cada parte tem um atributo positivo leve e o conjunto não fica na memória.",
+      "fix": "Troque um dos elementos por palavra inesperada ou específica do território da marca; teste se o nome gera associações próprias.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "locator": "p. 24-25",
+          "paraphrase": "Lista as palavras mais comuns de marca e mostra seis clientes de uma mesma agência com nomes 'Bridge'."
+        }
+      ]
+    },
+    {
+      "id": "morphemic-rationale-name",
+      "name": "Nome inventado vendido por justificativa morfêmica",
+      "description": "Palavra inventada defendida com significados de raízes em vários idiomas que nem o cliente nem o público falam.",
+      "signals": [
+        "a apresentação do nome explica pedaços em latim, italiano, francês",
+        "ninguém do público associa nada ao nome sem explicação"
+      ],
+      "whyBad": "O sentido só existe na apresentação; para o público o nome é vazio e precisa de muita verba para ganhar significado.",
+      "fix": "Avalie o inventado pelo som, ritmo e sensação imediata; se precisa de explicação, descarte.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "paraphrase": "Racional morfêmico (Mirvie) é chamado de golpe."
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Sentido escondido ou forçado é motivo de descarte."
+        }
+      ]
+    },
+    {
+      "id": "foreign-word-unknown-to-audience",
+      "name": "Palavra estrangeira escolhida pelo significado que o público não conhece",
+      "description": "Nome em idioma que o público não fala, justificado pela tradução (ex.: palavra havaiana para 'perspectiva').",
+      "signals": [
+        "a defesa do nome começa com 'em [idioma] significa'",
+        "o público-alvo não fala esse idioma"
+      ],
+      "whyBad": "Ter significado não torna o nome significativo; e pode carregar sentido ruim em outros idiomas.",
+      "fix": "Julgue a palavra estrangeira pelo som e personalidade; faça checagem linguística no idioma de origem e nos do público.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "paraphrase": "'Happy Idiot with a Passport' (Ikena)."
+        },
+        {
+          "id": "src-eatmywords-entrepreneur-2008",
+          "paraphrase": "Evite nomes estrangeiros que escondem o sentido."
+        }
+      ]
+    },
+    {
+      "id": "category-theme-sameness-names",
+      "name": "Todos os nomes da categoria no mesmo tema",
+      "description": "Escolher nome dentro do tema que toda a categoria já usa (SUVs 'aventureiros', navegadores 'exploradores').",
+      "signals": [
+        "o nome poderia ser de qualquer concorrente",
+        "o mapa competitivo mostra o mesmo campo semântico em quase todos"
+      ],
+      "whyBad": "Nomes no mesmo tema dizem a mesma coisa da mesma forma às mesmas pessoas e não puxam peso de diferenciação.",
+      "fix": "Faça o mapa taxonômico e escolha conscientemente um território fora do tema dominante.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "paisagem",
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-igor-naming-guide-2022",
+          "paraphrase": "Taxonomia de SUVs e portais web mostra nomes que não diferenciam."
+        }
+      ]
+    },
+    {
+      "id": "trend-suffix-name",
+      "name": "Nome com sufixo ou grafia da moda",
+      "description": "Nomes com -ly, -ify, -io, -fy, vogal cortada (Flickr, Tumblr) ou letra trocada para parecer startup.",
+      "signals": [
+        "termina em -ly, -ify, -fy, -io, -r sem vogal",
+        "precisa ser soletrado ao telefone"
+      ],
+      "whyBad": "Envelhece com a moda, confunde a grafia e parece cópia de outras startups.",
+      "fix": "Busque distinção no sentido e no som, não na ortografia; teste ditado com 5 pessoas.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "paraphrase": "Desaconselha -ly e -ify."
+        },
+        {
+          "id": "src-eatmywords-entrepreneur-2008",
+          "paraphrase": "Flickr e Xobni confundem."
+        },
+        {
+          "id": "src-miller-types-brand-names-2017",
+          "paraphrase": "Grafia alterada e sufixo aparecem como construções comuns (Flickr, Tumblr, Spotify)."
+        }
+      ]
+    },
+    {
+      "id": "acronym-company-name",
+      "name": "Sigla como nome",
+      "description": "Usar as iniciais do nome jurídico ou de uma frase como marca.",
+      "signals": [
+        "nome de 2 a 4 letras maiúsculas sem pronúncia natural",
+        "precisa de expansão para ser entendido"
+      ],
+      "whyBad": "Costuma ser forçado e confuso, e o público usa só as letras, sem significado.",
+      "fix": "Use sigla só quando a forma curta e a longa funcionam juntas (MADD, CORA); senão crie um nome pronunciável.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "locator": "p. 5-6",
+          "paraphrase": "Em geral desaconselha siglas e iniciais, com exceções como CORA e MADD."
+        }
+      ]
+    },
+    {
+      "id": "restrictive-name",
+      "name": "Nome que prende a marca a um produto ou lugar",
+      "description": "Nome que só faz sentido para a oferta atual (Book World em vez de Amazon).",
+      "signals": [
+        "nome contém o produto atual ou uma cidade",
+        "o plano de negócio prevê expansão de categoria ou região"
+      ],
+      "whyBad": "Quando a empresa cresce, o nome vira obstáculo e força um renaming caro.",
+      "fix": "Teste longevidade: o nome ainda serve se a empresa dobrar de categorias ou mudar de país?",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "paraphrase": "Critério de longevidade: Amazon sim, Book World não."
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "'Restrictive' é motivo de descarte."
+        }
+      ]
+    },
+    {
+      "id": "naming-by-committee",
+      "name": "Nome decidido por consenso amplo",
+      "description": "Buscar o nome que ninguém rejeita, ouvindo pessoas de fora do time de decisão.",
+      "signals": [
+        "votação aberta na empresa",
+        "nome escolhido porque 'ninguém odiou'",
+        "decisor apareceu só na apresentação final"
+      ],
+      "whyBad": "Gera o nome do menor denominador comum; nomes fortes sempre incomodam alguém.",
+      "fix": "Restrinja a decisão a quem tem veto, envolva-os desde o brief e avalie por critérios.",
+      "domain": [
+        "naming",
+        "gestao-governanca"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "paraphrase": "Não decida por comitê; só quem tem veto participa."
+        },
+        {
+          "id": "src-igor-naming-guide-2022",
+          "paraphrase": "Agências que só buscam consenso entregam nomes baunilha."
+        }
+      ]
+    },
+    {
+      "id": "favorite-name-poll",
+      "name": "Pesquisa 'de qual nome você gosta mais?'",
+      "description": "Escolher o nome por votação de preferência de consumidores, amigos ou família.",
+      "signals": [
+        "enquete de nome nas redes",
+        "pergunta de preferência em grupo focal",
+        "nomes apresentados com logos diferentes"
+      ],
+      "whyBad": "Fora de contexto, as pessoas escolhem o mais literal e familiar, que é o menos distintivo.",
+      "fix": "Pesquise associações e mensagens de finalistas liberados, apresentados de forma idêntica.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "paraphrase": "Consumidores escolheriam 'Coffee Connection' em vez de Starbucks."
+        },
+        {
+          "id": "src-eatmywords-entrepreneur-2008",
+          "paraphrase": "Opinião de amigos e família dilui o nome."
+        }
+      ]
+    },
+    {
+      "id": "single-bilingual-friend-check",
+      "name": "Checagem linguística com um amigo bilíngue",
+      "description": "Validar o nome em outro idioma perguntando a uma única pessoa, que às vezes nem mora no país.",
+      "signals": [
+        "'perguntei a um amigo que fala espanhol'",
+        "nenhum nativo residente no país-alvo consultado"
+      ],
+      "whyBad": "Gírias e dialetos variam dentro do mesmo idioma; uma pessoa só traz preferências pessoais e pontos cegos.",
+      "fix": "Pelo menos dois nativos residentes por idioma/variante, do público-alvo, ou serviço profissional.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-meyerson-on-branding-ep14",
+          "paraphrase": "Não confie em um único amigo bilíngue."
+        },
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "paraphrase": "Sempre mais de um nativo, residente e do público-alvo."
+        }
+      ]
+    },
+    {
+      "id": "exact-domain-drives-name",
+      "name": "Escolher o nome pelo domínio .com livre",
+      "description": "Descartar nomes fortes porque o .com exato está ocupado e aceitar um nome fraco que tem domínio disponível.",
+      "signals": [
+        "critério eliminatório 'tem .com?' aplicado antes dos critérios de marca",
+        "nome final esquisito escolhido por disponibilidade"
+      ],
+      "whyBad": "Desperdiça uma das maiores oportunidades de marca por um detalhe que se resolve com modificador.",
+      "fix": "Use modificador intuitivo no domínio e nos @handles; só pague pelo exato se o negócio depende de tráfego direto.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "paraphrase": "Não deixe o domínio decidir o nome."
+        },
+        {
+          "id": "src-watkins-verisign-smile-scratch-2018",
+          "paraphrase": "Nome e domínio não precisam coincidir."
+        }
+      ]
+    },
+    {
+      "id": "single-candidate-to-legal",
+      "name": "Levar um único nome para a triagem jurídica",
+      "description": "Apaixonar-se por um nome e só depois descobrir que está ocupado.",
+      "signals": [
+        "só um finalista",
+        "triagem de marca feita depois de logo e site prontos"
+      ],
+      "whyBad": "A maioria dos favoritos cai na triagem; o projeto volta à estaca zero e há período cego nas bases.",
+      "fix": "Leve vários finalistas à triagem juntos e deposite pelo menos dois.",
+      "domain": [
+        "naming"
+      ],
+      "stage": [
+        "naming"
+      ],
+      "sources": [
+        {
+          "id": "src-catchword-naming-guide-3ed",
+          "paraphrase": "Selecione outros nomes com que possa viver e triem todos juntos."
+        },
+        {
+          "id": "src-labbrand-naming-methodology",
+          "paraphrase": "Recomenda registrar ao menos dois candidatos."
+        }
+      ]
+    },
+    {
+      "id": "half-strength-endorsement",
+      "name": "Endosso fraco demais para transferir confiança",
+      "description": "Marca endossada em que a assinatura da marca-mãe é tão pequena ou inconsistente que ninguém a percebe.",
+      "signals": [
+        "'by [marca-mãe]' minúsculo ou só no verso",
+        "endosso aparece em uns pontos de contato e não em outros"
+      ],
+      "whyBad": "Paga o custo de ligar as marcas sem ganhar a credibilidade do endosso.",
+      "fix": "Defina regra de lock-up com tamanho e posição mínimos do endosso e aplique em todos os pontos de contato.",
+      "domain": [
+        "arquitetura"
+      ],
+      "stage": [
+        "arquitetura"
+      ],
+      "sources": [
+        {
+          "id": "src-umbrex-brand-relationship-spectrum",
+          "paraphrase": "Endossos de meia força não transferem equity."
+        }
+      ]
+    },
+    {
+      "id": "unmanaged-architecture-mix",
+      "name": "Mistura de modelos de arquitetura sem regra",
+      "description": "Portfólio em que cada lançamento recebe uma lógica diferente (ora submarca, ora marca nova, ora descritor) e marcas legadas nunca são aposentadas.",
+      "signals": [
+        "não existe guia de arquitetura",
+        "produtos parecidos com estruturas de nome diferentes",
+        "marcas antigas ainda recebem verba sem papel claro"
+      ],
+      "whyBad": "Confunde o cliente, cria competição interna e espalha a verba.",
+      "fix": "Documente o modelo dominante, as exceções permitidas, as regras de nome e o plano de migração e aposentadoria.",
+      "domain": [
+        "arquitetura",
+        "gestao-governanca"
+      ],
+      "stage": [
+        "arquitetura"
+      ],
+      "sources": [
+        {
+          "id": "src-umbrex-brand-relationship-spectrum",
+          "paraphrase": "Misturar modelos sem lógica e manter marcas legadas são armadilhas comuns."
+        },
+        {
+          "id": "src-vivaldi-architecture-2026",
+          "paraphrase": "Arquitetura ruim confunde, cria competição interna e desperdiça recursos."
+        }
+      ]
+    }
+  ],
+  "lexicon": [
+    {
+      "term": "-ify",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "busque distinção no sentido ou no som, não num sufixo de startup",
+      "sources": [
+        "src-meyerson-on-branding-ep14",
+        "src-miller-types-brand-names-2017"
+      ]
+    },
+    {
+      "term": "-ly",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "evite sufixo da moda; teste se o radical sozinho tem força",
+      "sources": [
+        "src-meyerson-on-branding-ep14"
+      ]
+    },
+    {
+      "term": "-fy",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "evite sufixo da moda; prefira palavra com sentido ou som próprio",
+      "sources": []
+    },
+    {
+      "term": "-io",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "não use terminação de domínio de startup como recurso de nome",
+      "sources": []
+    },
+    {
+      "term": "-r sem vogal (flickr, tumblr)",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "grafia normal; se o .com está ocupado, use modificador no domínio",
+      "sources": [
+        "src-eatmywords-entrepreneur-2008",
+        "src-miller-types-brand-names-2017"
+      ]
+    },
+    {
+      "term": "-ster",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "evite terminação datada da era Napster",
+      "sources": []
+    },
+    {
+      "term": "hub",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "diga que tipo de lugar ou encontro é, com uma imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "pro",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "prove a competência no produto; no nome, use algo distintivo",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "smart",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "mostre o que o produto faz de inteligente em vez de dizer que é",
+      "sources": []
+    },
+    {
+      "term": "tech",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "o setor vai no descritor, não no núcleo do nome",
+      "sources": []
+    },
+    {
+      "term": "solutions",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "diga qual problema resolve no descritor; nome sem a palavra",
+      "sources": []
+    },
+    {
+      "term": "edge",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; troque por imagem específica do território",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "core",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; troque por imagem específica do território",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "bridge",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "metáfora gasta de conexão; procure uma imagem menos óbvia",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "flex",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; troque por imagem específica",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "fusion",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; troque por imagem específica",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "next",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "dizer que é o próximo não diferencia; mostre o que muda",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "future",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "evite promessa genérica de futuro no nome",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "plus",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "evite 'plus' como diferencial; use nome próprio",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "power",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; mostre a força com som ou imagem",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "pulse",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; procure imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "shift",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; procure imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "wave",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; procure imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "sky",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; procure imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "key",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; procure imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "clear",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; procure imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "path",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "metáfora gasta de jornada; procure imagem menos óbvia",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "star",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; procure imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "vista",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "palavra batida de marca; procure imagem própria",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "go",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "prefixo batido; só use se o movimento for o centro da marca e houver algo mais",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "-ent / -ant (agilent, alliant)",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "inventado greco-latino soa frio; prefira inventado com som e ritmo que dê vontade de falar",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "brand / name + palavra (brand doctors, name lab)",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "não use a palavra da categoria como núcleo do nome",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "global",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "tamanho se prova, não se nomeia; corte do nome",
+      "sources": []
+    },
+    {
+      "term": "group",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "só faz sentido como descritor jurídico, não como parte da marca",
+      "sources": []
+    },
+    {
+      "term": "labs",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "evite o sufixo de startup; use nome próprio e descritor se precisar",
+      "sources": []
+    },
+    {
+      "term": "360",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "promessa de 'tudo' não diferencia; diga em que é melhor",
+      "sources": []
+    },
+    {
+      "term": "soluções",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "tire do nome; diga qual problema resolve no descritor ou slogan",
+      "sources": []
+    },
+    {
+      "term": "tech / tec",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "o setor vai no descritor, não no núcleo do nome",
+      "sources": []
+    },
+    {
+      "term": "smart",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "estrangeirismo batido; mostre a inteligência no produto",
+      "sources": []
+    },
+    {
+      "term": "hub",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "estrangeirismo batido; use imagem própria do tipo de encontro",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "pro",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "prove a competência; no nome, use algo distintivo",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "digital",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "é canal, não diferencial; corte do nome",
+      "sources": []
+    },
+    {
+      "term": "inova / inovare / inovação",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "afirmar inovação no nome é promessa vazia; mostre com produto",
+      "sources": []
+    },
+    {
+      "term": "mais / +",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "'mais' sem objeto não diz nada; use nome próprio",
+      "sources": []
+    },
+    {
+      "term": "max / mega / top",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "superlativo genérico; diferencie por sentido ou som",
+      "sources": []
+    },
+    {
+      "term": "express",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "rapidez se prova com prazo; no nome, use imagem própria",
+      "sources": []
+    },
+    {
+      "term": "prime / premium",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "posição de preço se mostra na experiência, não no rótulo",
+      "sources": []
+    },
+    {
+      "term": "master",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "autoproclamação de excelência; corte",
+      "sources": []
+    },
+    {
+      "term": "brasil / br no nome",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "restringe expansão; use como modificador de domínio ou @handle se precisar",
+      "sources": [
+        "src-catchword-naming-guide-3ed"
+      ]
+    },
+    {
+      "term": "grupo",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "é descritor societário; não faz parte da marca",
+      "sources": []
+    },
+    {
+      "term": "consultoria / assessoria + sobrenome",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "o tipo de serviço vai no descritor; o núcleo precisa ser distintivo",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "sigla do nome dos sócios",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "crie nome pronunciável; sigla só se a forma curta funcionar sozinha",
+      "sources": [
+        "src-catchword-naming-guide-3ed"
+      ]
+    },
+    {
+      "term": "-ia / -ya inventado para soar elegante",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "teste se o nome tem sentido para o público sem explicação",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "palavra estrangeira com 'significa' na justificativa",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "julgue pelo som e personalidade; se depende da tradução, descarte",
+      "sources": [
+        "src-igor-naming-guide-2022"
+      ]
+    },
+    {
+      "term": "soluciones",
+      "lang": "es",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "quite del nombre; diga qué problema resuelve en el descriptor",
+      "sources": []
+    },
+    {
+      "term": "integral",
+      "lang": "es",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "promessa de abrangência não diferencia; corte do nome",
+      "sources": []
+    },
+    {
+      "term": "global",
+      "lang": "es",
+      "kind": "cliche",
+      "category": "naming",
+      "replacement": "tamanho se prova, não se nomeia",
+      "sources": []
+    }
+  ]
+}

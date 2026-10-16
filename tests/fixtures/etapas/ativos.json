@@ -1,0 +1,14 @@
+{
+ "ativos": [
+  { "tipo": "frase", "descricao": "O selo 'Torrado em' com a data grande, carimbado no pacote", "papel": "prova de frescor e reconhecimento na prateleira de casa", "exclusividade": "nenhum concorrente mostra a data; vira assinatura da marca", "usoNaCategoria": "nenhum concorrente medido usa", "estrategiaDeFama": "em todo pacote, no topo do site, em todo post de terça e quinta, sem mudar o formato por pelo menos 5 anos" },
+  { "tipo": "ritual", "descricao": "Terça e quinta são 'dia de torra', anunciado sempre do mesmo jeito", "papel": "frequência de presença e prova viva de frescor", "exclusividade": "nasce de um fato do processo que só a Grão Alto tem", "usoNaCategoria": "nenhum concorrente medido usa", "estrategiaDeFama": "post e e-mail fixos às terças e quintas, mesma foto da torradeira" },
+  { "tipo": "cor", "descricao": "Vermelho-tijolo da torradeira como cor principal, com creme", "papel": "identificação no feed e na embalagem", "exclusividade": "a categoria usa marrom, preto e verde", "usoNaCategoria": "nenhum concorrente usa vermelho-tijolo", "estrategiaDeFama": "toda embalagem e todo post com a mesma cor por anos" },
+  { "tipo": "personagem", "descricao": "Os produtores reais, sempre com nome e sítio, fotografados do mesmo jeito", "papel": "rosto da origem e da transparência", "exclusividade": "são pessoas reais ligadas só à Grão Alto", "usoNaCategoria": "concorrentes falam de produtores sem nome", "estrategiaDeFama": "um produtor por mês no site e nas redes, retrato com fundo creme" }
+ ],
+ "direcaoVisual": {
+  "traducoes": [ { "traco": "Mostra o número", "traducaoVisual": "datas e números grandes, tipografia de carimbo, como etiqueta de lote" }, { "traco": "Calma do interior", "traducaoVisual": "fotos com luz de manhã, muito espaço vazio, nada de efeitos" }, { "traco": "Fala de mesa de cozinha", "traducaoVisual": "objetos reais de cozinha, coador de pano, nada de ambiente de cafeteria" } ],
+  "evitar": ["grãos de café voando", "xícara com fumaça em fundo escuro", "marrom e dourado de 'premium'", "ilustração de montanha genérica"],
+  "referencias": ["etiquetas de lote de feira", "carimbo de data de laticínio"]
+ },
+ "mantidos": ["Nome Grão Alto", "Data da torra impressa no pacote"]
+}

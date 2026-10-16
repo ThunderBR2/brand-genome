@@ -1,0 +1,22 @@
+{
+ "primario": {
+  "quem": "Pessoas de 28 a 50 anos do interior de SP que já trocaram o café de mercado por café especial ou estão pensando nisso",
+  "contexto": "Preparam café coado em casa todas as manhãs e compram pela internet",
+  "tarefas": ["Tomar um café bom de manhã sem complicação", "Saber que estão pagando por algo fresco de verdade"],
+  "tensoes": ["Quer café especial, mas tem vergonha de não entender as notas sensoriais", "Paga mais caro, mas desconfia que o café chega velho"],
+  "palavras": ["data da torra", "café fresco", "café bom de manhã", "que não amargue", "nome do produtor"]
+ },
+ "pontosDeEntrada": [
+  { "cep": "Acabou o café em casa", "situacao": "pacote no fim, compra rápida pelo celular", "disputa": "disputado" },
+  { "cep": "Café de mercado decepcionou", "situacao": "abriu um café caro e estava sem cheiro", "disputa": "livre" },
+  { "cep": "Presente para quem gosta de café", "situacao": "datas comemorativas e visitas", "disputa": "disputado" },
+  { "cep": "Comprou um coador ou moedor novo", "situacao": "quer estrear com um café à altura", "disputa": "livre" },
+  { "cep": "Fim de semana com tempo", "situacao": "café da manhã longo, com calma", "disputa": "disputado" },
+  { "cep": "Visita à Mantiqueira", "situacao": "turismo na região, quer levar algo local", "disputa": "livre" }
+ ],
+ "insights": [
+  { "insight": "Quem paga mais por café especial quer ter certeza de que é fresco, mas quase nenhuma marca diz quando torrou", "evidencia": "4 de 10 avaliações citam a data da torra; nenhum dos 4 concorrentes mostra a data", "implicacao": "A data da torra é prova e pode virar o ativo central da marca" },
+  { "insight": "O público quer café especial mas se sente bobo diante das notas sensoriais", "evidencia": "avaliações: 'me sinto meio bobo quando falam de notas de frutas vermelhas'; 'tenho vergonha de dizer que não sei preparar'", "implicacao": "Falar simples, sem jargão de barista, é diferença e acolhimento" }
+ ],
+ "barreiras": ["Prazo de entrega longo derruba a promessa de frescor", "Assinatura sem controle de quantidade"]
+}

@@ -1,0 +1,3740 @@
+{
+ "batch": "eficacia",
+ "sources": [
+  {
+   "id": "src-ipa-long-short-10-principles",
+   "title": "The Long and the Short of It: 10 key principles of success (apresentação)",
+   "url": "https://ipa.co.uk/media/14463/long_and_short_of_it_presentation_final_030424.pdf",
+   "author": "Les Binet & Peter Field / IPA",
+   "year": 2013,
+   "format": "pdf",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Meta-análise de 996 campanhas, 700 marcas e 83 categorias do IPA Databank comparando efeitos de curto e longo prazo. Conclui que é preciso equilibrar construção de marca e ativação (ótimo perto de 60:40), falar com todo o mercado, usar emoção, buscar fama, investir em share of voice acima do share of market e medir efeitos de longo prazo (elasticidade-preço, SOV).",
+   "notes": "Lido o deck de 40 slides (versão apresentação). O livro completo é pago e não foi lido. Base enviesada para casos inscritos em prêmio de eficácia."
+  },
+  {
+   "id": "src-b2b-institute-5-principles-2019",
+   "title": "The 5 Principles of Growth in B2B Marketing",
+   "url": "https://news.linkedin.com/content/dam/me/news/en-us/linkedin-pressroom-page/LIN_B2B-Marketing-Report-Digital.pdf",
+   "author": "Les Binet & Peter Field / LinkedIn B2B Institute",
+   "year": 2019,
+   "format": "pdf",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "empirica",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Primeiro recorte B2B do IPA Databank. Mostra que as regras do B2C valem para B2B: ESOV gera crescimento (0,7 ponto de share por 10 pontos de ESOV), o ótimo de verba é cerca de 46% marca e 54% ativação, aquisição supera fidelização, fama e disponibilidade mental geram mais efeitos e emoção vence no longo prazo. Inclui os casos VW Veículos Comerciais e BT Business.",
+   "notes": "Financiado pelo LinkedIn (interesse comercial em mídia de marca B2B). Os autores dizem que a amostra B2B é pequena (menos de 50 casos) e os achados são preliminares."
+  },
+  {
+   "id": "src-b2b-effectiveness-code-2021",
+   "title": "The B2B Effectiveness Code",
+   "url": "https://business.linkedin.com/content/dam/lem/business/en/advertise/resources/b2b-institute/the-b2b-effectiveness-code-27-october.pdf",
+   "author": "James Hurman / LinkedIn B2B Institute, WARC & Lions",
+   "year": 2021,
+   "format": "pdf",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "empirica",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Análise de 435 casos B2B das bases WARC e Lions (2010 a 2021). Confirma em B2B o princípio do Creative Commitment (mais verba, mais duração e mais canais rendem mais eficácia), mostra que o compromisso criativo B2B caiu na década e propõe a Escada de Eficácia B2B em seis níveis, de Response Trigger a Strategic Asset, com comportamentos vencedores por nível.",
+   "notes": "Financiado pelo LinkedIn. Lido o texto extraído do PDF; gráficos não foram interpretados um a um."
+  },
+  {
+   "id": "src-binet-field-effectiveness-in-context-2018",
+   "title": "Effectiveness in Context: a manual for brand building",
+   "url": "https://www.thinkbox.tv/research/thinkbox-research/effectiveness-in-context-free-download/",
+   "author": "Les Binet & Peter Field / IPA (distribuição gratuita Thinkbox)",
+   "year": 2018,
+   "format": "pdf",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Manual que flexiona as regras de eficácia por contexto (setor, canal de compra, preço, inovação, ciclo da categoria, tamanho da marca) usando o IPA Databank 1998-2016. O ponto ótimo geral é 62:38 marca:ativação, mas varia de 35:65 (primeiros anos de lançamento) a 80:20 (serviços financeiros). Traz tabelas de eficiência de ESOV e de equilíbrio marca/ativação para calcular verba.",
+   "notes": "Apoiado por Google e Thinkbox (interesse em mídia de marca). Lidos o resumo, a introdução e o capítulo final de aplicação ('flexing the rules'); capítulos setoriais só consultados por busca."
+  },
+  {
+   "id": "src-ipa-next-chapter-long-short-2023",
+   "title": "The next chapter for 'The Long and The Short of It'",
+   "url": "https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it/",
+   "author": "Alison Hoad / IPA blog",
+   "year": 2023,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Texto de aniversário de 10 anos do estudo. Registra que o ponto ótimo ficou estável (62:38 em Effectiveness in Context) e que, mesmo assim, a proporção de campanhas de curto prazo cresceu e a eficácia caiu (a 'maré de ativação'). Defende levar a evidência para CEO e CFO, não só para o meio publicitário.",
+   "notes": "Artigo curto de opinião, sem dados novos."
+  },
+  {
+   "id": "src-ipa-crisis-creative-effectiveness-2019",
+   "title": "The Crisis in Creative Effectiveness",
+   "url": "https://ipa.co.uk/knowledge/publications-reports/the-crisis-in-creative-effectiveness",
+   "author": "Peter Field / IPA",
+   "year": 2019,
+   "format": "relatorio",
+   "language": "en",
+   "access": "cadastro",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "sponsored": false,
+   "dissected": false,
+   "summary": "Relatório sobre cerca de 600 casos do IPA (1996-2018) mostrando que campanhas premiadas por criatividade perderam a vantagem de eficácia por causa do curto-prazismo.",
+   "notes": "O PDF exige login no site do IPA; não foi contornado. Só a página de apresentação foi lida. Os achados vêm da cobertura em src-mw-crisis-creative-effectiveness-2019 e src-contagious-crisis-creative-2019."
+  },
+  {
+   "id": "src-mw-crisis-creative-effectiveness-2019",
+   "title": "Link between creativity and effectiveness 'broken' as short-termism rises",
+   "url": "https://www.marketingweek.com/crisis-creative-effectiveness/",
+   "author": "Sarah Vizard / Marketing Week",
+   "year": 2019,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Reportagem sobre o relatório de Peter Field. Números: o multiplicador de eficiência das campanhas premiadas caiu de cerca de 12 para 4; a fatia de campanhas premiadas avaliadas em até seis meses subiu de 10% (2002) para 25% (2018); efeitos de ativação muito grandes subiram de menos de 5% para 45%, enquanto efeitos de imagem de marca caíram de 60% para 40%.",
+   "notes": "Cobertura secundária do relatório (o original está atrás de login)."
+  },
+  {
+   "id": "src-contagious-crisis-creative-2019",
+   "title": "Creative effectiveness is collapsing, claims new IPA report",
+   "url": "https://www.contagious.com/news-and-views/creative-effectiveness-peter-field-IPA-crisis-report",
+   "author": "Contagious",
+   "year": 2019,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Outra cobertura do relatório de Field. Acrescenta que o ótimo para 2004-2016 era 76:24 marca:ativação, que os profissionais subinvestiram em marca em pelo menos 14 pontos, e que campanhas de alto desempenho usam emoção, miram público amplo e usam big data para insight, não para segmentar.",
+   "notes": "Cobertura secundária."
+  },
+  {
+   "id": "src-ipa-go-big-or-go-home-2026",
+   "title": "Go Big or Go Home",
+   "url": "https://ipa.co.uk/knowledge/publications-reports/go-big-or-go-home/",
+   "author": "Les Binet & Will Davis / IPA",
+   "year": 2026,
+   "format": "relatorio",
+   "language": "en",
+   "access": "cadastro",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "sponsored": false,
+   "dissected": false,
+   "summary": "Relatório que critica o 'pensamento pequeno' (obsessão por eficiência, ROI e segmentação estreita) e propõe verba baseada em lucro, mídia ampla e criatividade ousada.",
+   "notes": "Download exige login no IPA; não contornado. Achados vêm dos comunicados públicos em src-ipa-news-go-big-2025-2026."
+  },
+  {
+   "id": "src-ipa-news-go-big-2025-2026",
+   "title": "Balance efficiency and effectiveness or risk a marketing 'death spiral' / 'Small thinking' is killing advertising",
+   "url": "https://ipa.co.uk/news/go-big-or-go-home/",
+   "author": "IPA (comunicados sobre Les Binet & Will Davis)",
+   "year": 2026,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Comunicados do IPA com os dados de Binet e Davis: no IPA Databank, a verba explica 89% da variação de lucro gerado e o ROI só 11%; desde a pandemia o ROI subiu 4% e o lucro líquido caiu 11%; 56% dos profissionais miram subsegmentos e 62% ignoram maiores de 45 anos. Recomenda mídia grande, alcance amplo, fama e verba ligada a lucro.",
+   "notes": "Duas páginas de notícia (2025 e 2026), também em https://ipa.co.uk/news/go-big-or-go-home-2026/. Dados de survey encomendado pela Medialab, empresa de um dos autores."
+  },
+  {
+   "id": "src-system1-cost-of-dull-2024",
+   "title": "The Extraordinary Cost of Dull",
+   "url": "https://system1group.com/blog/the-extraordinary-cost-of-dull",
+   "author": "System1 (Jon Evans) com Adam Morgan (eatbigfish) e Peter Field",
+   "year": 2024,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Com base em mais de 57 mil anúncios de TV dos EUA testados, mostra que a resposta mais comum a um anúncio é neutra (52% no Reino Unido, 47% nos EUA). Divide em quartis de 'chatice' e estima quanto a mais seria preciso gastar para que anúncios chatos rendessem como os interessantes: US$ 189 bi nos EUA e £ 13,29 bi no Reino Unido. Conclui que o problema do chato é desperdício, não dano.",
+   "notes": "Lido o post público. O whitepaper completo exige formulário e não foi baixado. System1 vende teste de anúncio (interesse comercial)."
+  },
+  {
+   "id": "src-westwoodone-cost-of-dull-2025",
+   "title": "The Extraordinary Cost of Dull: boring ads require 2X to 2.6X greater media spend",
+   "url": "https://www.westwoodone.com/blog/2025/01/27/the-extraordinary-cost-of-dull-boring-ads-require-2x-to-2-6x-greater-media-spend-to-achieve-same-impact-as-interesting-ads/",
+   "author": "Pierre Bouvard / Cumulus Media | Westwood One",
+   "year": 2025,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Resumo detalhado do whitepaper de System1, Morgan e Field. Traz os números de Field (anúncios chatos precisam de 2 a 2,6 vezes mais verba para o mesmo efeito; fama gera 6,1 vezes mais crescimento de share), os 'Quatro Cavaleiros do Dullocalypse' (performance, otimização, 'averaging', procurement) e o 'Anti-Dull Dial' de cinco perguntas.",
+   "notes": "Escrito por uma rede de rádio, com viés a favor de mídia de massa. Usado como ponte para o conteúdo do whitepaper, que está atrás de formulário."
+  },
+  {
+   "id": "src-system1-achtung-wood-2020",
+   "title": "Achtung! 5 key points from Orlando Wood's new work",
+   "url": "https://system1group.com/?p=6647",
+   "author": "Tom Ewing / System1 (sobre Orlando Wood)",
+   "year": 2020,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Resume a pesquisa de Orlando Wood sobre atenção: anúncios com traços de 'hemisfério direito' (personagem, acontecimento, lugar, diálogo) geram mais efeitos de negócio também em vídeo online; traços de 'hemisfério esquerdo' (gente encarando a câmera, texto na tela, produto em fundo abstrato) servem para resposta direta, mas perdem o prêmio maior.",
+   "notes": "Resumo de blog; os livros Lemon e Look Out são pagos e não foram lidos."
+  },
+  {
+   "id": "src-murrell-age-of-average-2023",
+   "title": "The age of average",
+   "url": "https://www.alexmurrell.co.uk/articles/the-age-of-average",
+   "author": "Alex Murrell",
+   "year": 2023,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Ensaio que documenta a convergência estética em interiores, arquitetura, carros, rostos, cinema e marcas. No branding, aponta o 'blanding' (identidades tech com a mesma fórmula), o 'efeito moodboard' na direção de arte, logos achatados de montadoras e slogans clonados ('Find your X', 'X, your way'). Defende que, num mundo homogêneo, ser diferente é a grande oportunidade.",
+   "notes": "Ensaio de curadoria (cita jornalistas e designers); evidência anedótica e de exemplos, não estudo controlado."
+  },
+  {
+   "id": "src-murrell-misleading-metric-2025",
+   "title": "Marketing's misleading metric",
+   "url": "https://www.alexmurrell.co.uk/articles/marketings-misleading-metric",
+   "author": "Alex Murrell",
+   "year": 2025,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Argumenta que usar ROI como KPI principal de construção de marca cria três incentivos perversos: privilegia eficiência sobre lucro absoluto, estimula cortar verba (retornos decrescentes) e empurra a mídia para quem já compraria. Reúne Binet, Carter, Daykin, Roach e Ritson; ROI vale para ativação, não para marca.",
+   "notes": "Cita dados do survey Language of Effectiveness (Marketing Week/Kantar 2023): 41,6% citam ROI como métrica mais importante para a liderança; 48,1% dos profissionais acham a empresa focada demais em ROI."
+  },
+  {
+   "id": "src-murrell-master-model-2026",
+   "title": "Advertising's master model",
+   "url": "https://www.alexmurrell.co.uk/articles/advertisings-master-model",
+   "author": "Alex Murrell",
+   "year": 2026,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "framework",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Junta seis teorias numa só: marca vs ativação (Binet & Field), cérebro direito vs esquerdo (Wood), fora vs dentro do mercado (Dawes, 95:5), atenção passiva vs ativa (Heath), Sistema 1 vs 2 (Kahneman) e resposta indireta vs direta (Stephen King). Conclui que há dois tipos de comunicação, com públicos, processamento e métricas diferentes, e que a resposta é quase sempre fazer os dois.",
+   "notes": "Síntese conceitual; a evidência está nas fontes citadas."
+  },
+  {
+   "id": "src-murrell-thinking-rationally-emotion-2024",
+   "title": "Thinking rationally about emotion",
+   "url": "https://www.alexmurrell.co.uk/articles/thinking-rationally-about-emotion",
+   "author": "Alex Murrell",
+   "year": 2024,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Explica por que a publicidade emocional é mais eficaz para construir marca: atrai mais atenção (anúncios de reação forte ganham 16% mais atenção, Nelson-Field), cria memórias mais fortes (amígdala e hipocampo) e é mais compartilhada (Berger: excitação aumenta compartilhamento). Lembra que campanhas emocionais geram 1,7 efeito de marca contra 1,0 das racionais.",
+   "notes": "Ensaio que compila estudos de terceiros."
+  },
+  {
+   "id": "src-roach-wrong-short-2020",
+   "title": "The Wrong and the Short of it",
+   "url": "https://thetomroach.com/2020/11/15/the-wrong-and-the-short-of-it/",
+   "author": "Tom Roach",
+   "year": 2020,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Cunha 'wrong-termism': tanto o curto-prazismo quanto o longo-prazismo são erros. Crescimento de longo prazo tem raiz no curto prazo e é composto, não somado. Mostra cenários de Binet e o gráfico do 'platô' com Grace Kite, e propõe share of search como métrica de curto prazo que prevê saúde de longo prazo. Foi a origem do termo 'bothism'.",
+   "notes": "Gráficos ilustrativos são teóricos, segundo o próprio autor."
+  },
+  {
+   "id": "src-roach-performance-plateau-2022",
+   "title": "Is your brand stuck on the performance plateau?",
+   "url": "https://thetomroach.com/2022/11/14/is-your-brand-stuck-on-the-performance-plateau/",
+   "author": "Tom Roach",
+   "year": 2022,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "caso",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Descreve o 'platô de performance': marcas que cresceram só com search, social e display estagnam, o CAC sobe e o ROAS cai. Para sair, é preciso reaprender como marcas crescem, conhecer não-compradores, buscar alcance e camadas de marca. Caso Gousto: de 100% performance em 2017 para 60:40, com aquisição orgânica indo de 20% para 75%.",
+   "notes": "Dados da Meta citados são de estudos da própria plataforma (não independentes). Autor trabalha na Jellyfish."
+  },
+  {
+   "id": "src-roach-brand-ai-2025",
+   "title": "Winning hearts, minds and models: brand building in an AI world",
+   "url": "https://thetomroach.com/2025/11/20/winning-hearts-minds-and-models-brand-building-in-an-ai-world/",
+   "author": "Tom Roach",
+   "year": 2025,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Argumenta que a IA cria um novo público para a marca: LLMs e agentes. Marcas precisam de 'model availability' além de disponibilidade mental, narrativa consistente entre o que fala para humanos e o que estrutura para máquinas, diretrizes de voz explícitas e literais, e campanhas que gerem conversa citável. Avisa que transformar a publicidade para humanos em bula informativa seria um erro.",
+   "notes": "Publicado antes na Marketing Week (out/2025). Autor trabalha na Jellyfish, que vende a ferramenta Share of Model."
+  },
+  {
+   "id": "src-roach-30-beliefs-2025",
+   "title": "30 beliefs in 30 tweets",
+   "url": "https://thetomroach.com/2025/12/01/30-beliefs-in-30-tweets/",
+   "author": "Tom Roach",
+   "year": 2025,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Lista de 30 crenças curtas: princípios rígidos e práticas flexíveis, marca como fluxo de caixa futuro, possuir ativos em vez de alugar, agir alguns tamanhos maior, consistência alta com volume alto e adequação à plataforma, e o funil como metáfora.",
+   "notes": "Aforismos, sem evidência própria."
+  },
+  {
+   "id": "src-roach-platform-age-ch1-2026",
+   "title": "Chapter 1: brand building in the platform age",
+   "url": "https://thetomroach.com/2026/08/24/chapter-1-brand-building-in-the-platform-age/",
+   "author": "Tom Roach",
+   "year": 2026,
+   "format": "livro-resumo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Capítulo de livro inacabado sobre construir marca na era das plataformas. Critica o termo 'performance marketing' (que desposiciona todo o resto como se não performasse), descreve a divisão entre 'contadores de histórias' e 'pensadores de sistemas' e defende acabar com a separação entre marca e performance.",
+   "notes": "Rascunho de 2022/23 publicado em 2026."
+  },
+  {
+   "id": "src-ritson-bothism-2026",
+   "title": "Mark Ritson: Why the best marketers choose 'and' over 'or'",
+   "url": "https://business.google.com/us/think/search-and-video/mark-ritson-bothism/",
+   "author": "Mark Ritson / Think with Google",
+   "year": 2026,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "misto",
+   "evidence": "opiniao-especialista",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Define 'bothism' como a capacidade de ver o valor dos dois lados de uma disputa de marketing e combiná-los na proporção certa: marca e performance, distintividade e diferenciação, descoberta e decisão, qualitativo e quantitativo. Usa a regra 95:5 como argumento contra a obsessão pelo fundo do funil.",
+   "notes": "Publicado pelo Google, com trecho promocional sobre Search + YouTube."
+  },
+  {
+   "id": "src-ritson-bad-brand-consultant-2016",
+   "title": "The seven unmistakable signs of a shit brand consultant",
+   "url": "https://www.marketingweek.com/mark-ritson-the-seven-unmistakable-signs-of-a-shit-brand-consultant/",
+   "author": "Mark Ritson / Marketing Week",
+   "year": 2016,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Sete sinais de consultoria de marca ruim: tratar millennials como segmento, recomendar sem dados (ou só com um tipo), vender várias camadas de conceitos em vez de um posicionamento, usar palavras-gatilho ('inovação', 'lifestyle', 'aspiracional', 'integridade', 'parceiro de confiança'), citar Maslow e clichês, usar metodologia com acrônimo registrado e idolatrar a Apple.",
+   "notes": "Lido via WebFetch (curl recebeu 403). Tom deliberadamente provocativo."
+  },
+  {
+   "id": "src-ritson-jaguar-2024",
+   "title": "Jaguar has rebranded when it needed to revitalise",
+   "url": "https://www.marketingweek.com/jaguar-rebranded-needed-revitalise/",
+   "author": "Mark Ritson / Marketing Week",
+   "year": 2024,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "posicionamento-diferenciacao",
+   "evidence": "caso",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Critica o rebrand 'Copy Nothing' da Jaguar: abandonou códigos de 90 anos, falou de 'luxo' e de 'criatividade destemida' em vez de benefícios, esqueceu a origem britânica, mirou um público jovem e rico em boa parte imaginário e aceitou perder 85% a 90% da base atual. Defende revitalizar (manter e atualizar códigos) em vez de resetar.",
+   "notes": "Lido via WebFetch. Artigo de nov/2024; resultado comercial do rebrand ainda não aparece no texto."
+  },
+  {
+   "id": "src-ritson-tactification-2016",
+   "title": "Tactics without strategy is dumbing down our discipline",
+   "url": "http://marketingweek.com/mark-ritson-beware-the-tactification-of-marketing/",
+   "author": "Mark Ritson / Marketing Week",
+   "year": 2016,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Denuncia a 'tatificação' do marketing: planos cheios de táticas digitais sem segmentação, alvo, posicionamento nem objetivos. Defende a sequência diagnóstico (pesquisa e segmentação), estratégia (alvo e posicionamento), objetivos e só então táticas.",
+   "notes": "Lido via WebFetch."
+  },
+  {
+   "id": "src-kantar-blueprint-brand-growth-2024",
+   "title": "Blueprint for Brand Growth (prévia pública e comunicado)",
+   "url": "https://www.kantar.com/press-center/analysis-of-6-5-billion-consumer-datapoints-reveals-the-three-rules-of-brand-growth",
+   "author": "Kantar",
+   "year": 2024,
+   "format": "relatorio",
+   "language": "en",
+   "access": "cadastro",
+   "license": "copyright",
+   "school": "misto",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Com 6,5 bilhões de pontos de dados atitudinais e de compra, a Kantar afirma que marcas crescem por ser 'significativamente diferentes para mais pessoas' (5 vezes mais penetração) e propõe três aceleradores: predispor mais gente, estar mais presente e achar novo espaço. Defende diferenciação, não só distintividade, para sustentar preço.",
+   "notes": "Lidos só o comunicado e a prévia (kantar.turtl.co); a versão completa exige formulário. O framework MDS é propriedade da Kantar (interesse comercial)."
+  },
+  {
+   "id": "src-ipsos-jkr-be-distinctive-2023",
+   "title": "Be Distinctive. Everywhere.",
+   "url": "https://bedistinctive.jkrglobal.com/",
+   "author": "Ipsos × Jones Knowles Ritchie (JKR)",
+   "year": 2023,
+   "format": "guia-web",
+   "language": "en",
+   "access": "cadastro",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Pesquisa Ipsos com mais de 26 mil respondentes, 523 marcas, 5.046 ativos, 33 categorias e 25 países. Só 15% dos ativos são 'Ouro' (distintivos sozinhos); 65% são 'Bronze'. Por tipo: produto 30-31%, logo 19%, mascote 16%, slogan 6%, cor 4%. JKR conclui que 85% do investimento vai para ativos não distintivos.",
+   "notes": "Lido o microsite público (páginas por ativo e conclusão); o PDF completo exige formulário. Também há página da Ipsos: https://www.ipsos.com/en-uk/be-distinctive-everywhere. JKR é agência de design (interesse em vender distintividade)."
+  },
+  {
+   "id": "src-mw-binet-five-keys-2023",
+   "title": "Les Binet's five keys to maximising profit in tough times",
+   "url": "https://www.marketingweek.com/les-binets-five-keys-to-maximising-profit-in-tough-times/",
+   "author": "Marketing Week / Thinkbox (série em vídeo com Les Binet)",
+   "year": 2023,
+   "format": "video",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "sponsored": true,
+   "dissected": false,
+   "summary": "Série em vídeo patrocinada pela Thinkbox sobre como manter crescimento com inflação e custos de mídia altos.",
+   "notes": "A página só descreve os vídeos; o conteúdo está em vídeo sem transcrição e não foi dissecado."
+  }
+ ],
+ "principles": [
+  {
+   "id": "long-short-60-40",
+   "title": "Divida a verba entre construção de marca e ativação, com a marca levando a maior parte",
+   "statement": "Planeje dois trabalhos diferentes, com criação, mídia e métricas próprias: construção de marca (ampla, emocional, longa) e ativação (focada, racional, imediata), e dê à marca algo perto de 60% da verba como ponto de partida.",
+   "why": "No IPA Databank, o número de efeitos de negócio muito grandes atinge o pico quando a ativação fica perto de 40% da verba (996 campanhas). A reanálise de 2018 achou 62:38. Ativação gera picos rápidos com ROI alto, mas decai; marca constrói memória, reduz sensibilidade a preço e acumula. Uma não funciona bem sem a outra.",
+   "how": [
+    "Separe no plano o que é marca (alcance amplo, emoção, meses ou anos) e o que é ativação (público em mercado, oferta, resposta)",
+    "Comece em 60:40 e ajuste pelo contexto (ver flex-brand-activation-by-context)",
+    "Não tente fazer cada peça cumprir os dois papéis igualmente: tenha peças primariamente de marca e peças primariamente de ativação",
+    "Revise a divisão quando a empresa trocar de CEO/CMO ou cortar verba, que é quando o desequilíbrio costuma aparecer"
+   ],
+   "tests": [
+    "O plano de mídia separa explicitamente verba de marca e verba de ativação?",
+    "A fatia de marca está entre 50% e 75%, ou há justificativa de contexto para estar fora disso?",
+    "Existe pelo menos uma frente de comunicação que não pede ação imediata?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "estrategia"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "princípios 8 e 9, 'The 60:40 rule'",
+     "paraphrase": "Efeitos de negócio muito grandes atingem o máximo com cerca de 40% da verba em ativação; integrar marca e ativação dobra a eficiência."
+    },
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "locator": "Introdução e Table S3",
+     "paraphrase": "O ponto ótimo geral é 62:38 marca:ativação, mas muda com o contexto.",
+     "quote": "short-termism in marketing is unwise. Always."
+    },
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "Princípio 2, Fig. 6",
+     "paraphrase": "Em B2B o ótimo observado é cerca de 46% marca e 54% ativação, como orientação e não como regra exata."
+    },
+    {
+     "id": "src-murrell-master-model-2026",
+     "locator": "seção inicial",
+     "paraphrase": "Resume as duas formas de publicidade e a regra de cerca de 60/40 como sweet spot."
+    },
+    {
+     "id": "src-roach-wrong-short-2020",
+     "locator": "nota v",
+     "paraphrase": "Binet diz que fazer toda peça ser 'brand response' é um meio-termo ruim; melhor um mix 60:40 de peças especializadas."
+    },
+    {
+     "id": "src-ipa-next-chapter-long-short-2023",
+     "locator": "seção 'Short-termism continues to grow'",
+     "paraphrase": "O ponto ótimo se manteve estável em 62:38 apesar da mudança de mídia."
+    }
+   ],
+   "conflictsWith": [
+    "long-vs-short-term"
+   ],
+   "cases": [
+    "case-gousto-performance-to-brand"
+   ],
+   "contexts": "Vale para a maioria das marcas estabelecidas. Em lançamentos nos primeiros 1-2 anos o ótimo inverte (35:65). Em B2B fica perto de 46:54. Serviços financeiros e marcas compradas online pedem mais marca (até 80:20 e 74:26). Para pequena empresa sem verba de marca, comece pelo princípio (ter alguma construção de marca) antes da proporção."
+  },
+  {
+   "id": "flex-brand-activation-by-context",
+   "title": "Ajuste a proporção marca/ativação ao contexto da marca",
+   "statement": "Onde construir marca é difícil (categoria racional, marca pequena, compra pesquisada online, preço premium) aumente a fatia de marca; onde a ativação é difícil, aumente a fatia de ativação; num lançamento, comece pesado em ativação e normalize em 1 a 2 anos.",
+   "why": "Effectiveness in Context mostra ótimos de 35:65 nos primeiros anos de lançamento e 57:43 depois; 80:20 em serviços financeiros, 51:49 em outros serviços, 74:26 para marcas online e por assinatura, 75:25 para marcas pequenas. Os autores observam que quando construir marca é difícil, os profissionais fogem dela, e isso destrói valor.",
+   "how": [
+    "Parta do ótimo do setor mais próximo",
+    "Aplique os ajustes só nos pontos em que a marca difere da média do setor",
+    "Num lançamento, planeje a virada de ativação para marca já no plano de 18 a 24 meses",
+    "Em categoria muito racional, não reduza marca: aumente"
+   ],
+   "tests": [
+    "O plano diz qual contexto justifica a proporção escolhida?",
+    "Se é lançamento, existe data planejada para aumentar a fatia de marca?",
+    "Se a categoria é racional ou de alta pesquisa online, a fatia de marca está acima da média?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "estrategia"
+   ],
+   "stage": [
+    "ativacao",
+    "diagnostico"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "locator": "Fig. 66, Fig. 125 e Table S3",
+     "paraphrase": "Dá os ótimos por contexto e manda aumentar a fatia da tarefa mais difícil."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Tabelas do Reino Unido, base IPA 1998-2016; usar como referência de direção, não como valor exato para o Brasil."
+  },
+  {
+   "id": "emotional-over-rational",
+   "title": "Construa marca com emoção; deixe a argumentação racional para quem já está comprando",
+   "statement": "Use emoção, história e entretenimento para construir marca junto a quem não está comprando agora, e reserve mensagens racionais de produto para ativar quem está em mercado.",
+   "why": "No IPA Databank, campanhas emocionais geram em média 1,7 efeito de marca contra 1,0 das racionais e superam em lucro após 2-3 anos (43% vs 30% com efeitos de lucro muito grandes em 3+ anos). Mensagem racional dá efeito direto grande que decai rápido. Em B2B o padrão se repete e a decisão é só um pouco mais racional que em B2C. Emoção atrai mais atenção, grava memória mais forte e é mais compartilhada.",
+   "how": [
+    "Defina qual emoção a marca quer associar à situação de compra",
+    "Prefira história, personagem e situação a lista de atributos nas peças de marca",
+    "Coloque prova e argumento nas peças de ativação, perto da decisão",
+    "Em B2B, procure território emocional real do comprador (solidão do dono, medo de errar, orgulho do negócio)"
+   ],
+   "tests": [
+    "A peça de marca funcionaria para alguém que não está pensando em comprar agora?",
+    "A peça provoca alguma emoção identificável, ou a reação esperada é neutra?",
+    "Em B2B, a comunicação de marca tem algo além de especificação técnica?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "narrativa-proposito"
+   ],
+   "stage": [
+    "narrativa",
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "princípio 4 'Balance head & heart'",
+     "paraphrase": "Emoção constrói marca devagar e reduz elasticidade de preço; mensagem racional dá pico curto sem mudar a marca."
+    },
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "Princípio 5, Figs. 10 e 12",
+     "paraphrase": "Em B2B, emocional rende mais no longo prazo e racional no curto; diferenciação por atributo é fraca no topo do funil."
+    },
+    {
+     "id": "src-murrell-thinking-rationally-emotion-2024",
+     "locator": "seções sobre atenção, memória e compartilhamento",
+     "paraphrase": "Emoção gera mais atenção (+16%), memória mais forte e mais compartilhamento."
+    },
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "Brand Builder, comportamento 1 'Use emotion'",
+     "paraphrase": "Campanhas Brand Builder B2B vencedoras usam emoção."
+    },
+    {
+     "id": "src-contagious-crisis-creative-2019",
+     "locator": "seção 'Emotional vs rational'",
+     "paraphrase": "Campanhas de alto desempenho usam mais emoção; a publicidade ficou mais didática e literal."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness"
+   ],
+   "cases": [
+    "case-vw-commercial-vehicles-working-with-you",
+    "case-bt-business-emotional-b2b"
+   ],
+   "contexts": "Vale para B2C e B2B. Em compras muito racionais a emoção continua necessária para marca, mas a fatia de ativação racional cresce. Emoção não é melodrama: humor e surpresa contam."
+  },
+  {
+   "id": "creative-effectiveness-dull-cost",
+   "title": "Anúncio sem graça é desperdício de verba: entretenha",
+   "statement": "Trate a neutralidade (o público não sentir nada) como o principal risco criativo; exija que a peça provoque emoção positiva ou surpresa, mesmo em categoria considerada chata.",
+   "why": "Cerca de metade das respostas a anúncios de TV é neutra (52% no Reino Unido, 47% nos EUA; B2B ainda pior). Com a mesma verba, anúncio não-chato prevê 1,3 ponto de share ao ano contra 0,1 do extremamente chato. Field calcula que o chato precisa de 2 a 2,6 vezes mais verba para o mesmo efeito. Tentar evitar emoção negativa não reduz a negativa, só mata a positiva.",
+   "how": [
+    "Teste a reação emocional antes de veicular (qualquer método que meça o que as pessoas sentem)",
+    "Use as cinco perguntas do Anti-Dull Dial na revisão criativa",
+    "Inclua humor, personagem ou situação recorrente",
+    "Não aprove peça 'segura' só porque ninguém reclamou dela"
+   ],
+   "tests": [
+    "Uma pessoa comum lembraria e contaria esta peça para alguém?",
+    "A peça tem pelo menos um elemento de surpresa ou humor?",
+    "A justificativa para aprovar foi 'é seguro' ou 'não ofende'?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "ativacao-eficacia",
+    "identidade-verbal"
+   ],
+   "stage": [
+    "ativacao",
+    "narrativa"
+   ],
+   "school": "eficacia",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-system1-cost-of-dull-2024",
+     "locator": "seções 'Boring is a Big Problem' e 'Quantifying the Dull Quartiles'",
+     "paraphrase": "Mede a neutralidade, divide em quartis e estima US$ 189 bi de custo extra nos EUA.",
+     "quote": "The problem of Dull isn’t damage. It’s waste."
+    },
+    {
+     "id": "src-westwoodone-cost-of-dull-2025",
+     "locator": "seção sobre Peter Field",
+     "paraphrase": "Anúncios chatos precisam de 2 a 2,6 vezes mais verba; fama gera 6,1 vezes mais share; os mais engraçados geram 5 vezes mais crescimento."
+    },
+    {
+     "id": "src-system1-achtung-wood-2020",
+     "locator": "ponto 5",
+     "paraphrase": "Relevância sozinha não basta; é preciso entreter.",
+     "quote": "Relevance isn’t enough, you have to entertain."
+    },
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "Response Trigger, comportamento 1",
+     "paraphrase": "Em B2B, onde o marketing é seco e funcional, um pouco de criatividade se destaca muito.",
+     "quote": "Don’t be a boring business"
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Vale para qualquer categoria; categorias 'chatas' (seguros, B2B, utilidades) têm mais a ganhar. Dados da System1 são de TV e de ferramenta proprietária."
+  },
+  {
+   "id": "fame-effects",
+   "title": "Mire fama: campanha de que as pessoas falam rende mais",
+   "statement": "Defina como objetivo de marca fazer a campanha ser comentada e compartilhada (fama), não só lembrada; é o objetivo que mais multiplica eficiência e poder de preço.",
+   "why": "No IPA Databank, campanhas de fama são cerca de 4 vezes mais eficientes em ESOV (1,4 vs 0,3) e reduzem mais a sensibilidade a preço (8% vs 3%). Em B2B, campanhas de fama superam as racionais em cerca de 10 vezes. Para LLMs, conversa e cobertura viram material citável.",
+   "how": [
+    "Escreva no briefing que a meta é a campanha ser comentada fora da categoria",
+    "Procure ideias que qualquer um possa participar, não só o público-alvo",
+    "Meça menções espontâneas, cobertura e busca pela marca, além de alcance pago"
+   ],
+   "tests": [
+    "O briefing pede que a ideia seja contada por pessoas, não só vista?",
+    "A ideia faz sentido para quem não é cliente?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "princípio 5 'Aim for fame'",
+     "paraphrase": "Fama quadruplica a eficiência e tem o maior efeito sobre preço."
+    },
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "Princípio 4 e Fig. 13",
+     "paraphrase": "Em B2B, campanhas que tornam a empresa mais famosa dão melhores resultados; fama supera o racional em cerca de 10 vezes."
+    },
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "Fame Maker, comportamentos 1 a 3",
+     "paraphrase": "Ser surpreendente e original, defender uma causa e fazer algo de que todos participem."
+    },
+    {
+     "id": "src-roach-brand-ai-2025",
+     "locator": "seção 'Campaigns engineered for LLM readability'",
+     "paraphrase": "Campanhas comentadas geram citações que alimentam os modelos de IA."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-amex-small-business-saturday"
+   ],
+   "contexts": "Fama exige verba e tempo; Field nota que campanhas fracas também dizem mirar fama, então a intenção não basta. Em nicho pequeno, 'fama' é fama dentro do setor."
+  },
+  {
+   "id": "share-of-voice-excess",
+   "title": "Para crescer, mantenha share of voice acima do share of market",
+   "statement": "Defina a verba pela meta de crescimento: marcas cujo share of voice supera o share of market tendem a crescer, na proporção do excesso (ESOV).",
+   "why": "Regra observada há 50 anos e confirmada no IPA: em B2C, 10 pontos de ESOV rendem cerca de 0,6 ponto de share ao ano; em B2B, 0,7. A eficiência varia por setor (Effectiveness in Context traz tabela). Criatividade e fama aumentam quanto cada ponto de ESOV rende.",
+   "how": [
+    "Estime o share of voice da categoria (gasto em mídia de todos)",
+    "Fixe a meta de share e calcule o ESOV necessário com a eficiência do setor",
+    "Desconte o crescimento-base que a marca teria com ESOV zero",
+    "Converta em verba e só então negocie cortes"
+   ],
+   "tests": [
+    "A verba foi calculada a partir de uma meta de share e do gasto dos concorrentes?",
+    "O SOV da marca está acima do seu share de mercado?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "equity-medicao"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "princípio 7",
+     "paraphrase": "SOV acima do SOM faz marcas crescerem e ficou mais importante com o tempo."
+    },
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "Princípio 1, Fig. 4",
+     "paraphrase": "A relação ESOV-crescimento em B2B é quase idêntica à de B2C."
+    },
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "locator": "Table S1 e S2",
+     "paraphrase": "Tabelas de eficiência de ESOV por contexto e taxas de crescimento com ESOV zero para orçar."
+    },
+    {
+     "id": "src-ipa-news-go-big-2025-2026",
+     "locator": "comunicado 2025",
+     "paraphrase": "Verba explica 89% da variação de lucro gerado; definir quanto gastar é a decisão mais importante.",
+     "quote": "We need to go big or go home."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Mais aplicável onde se conhece o gasto da categoria. Em mercados fragmentados ou digitais, o SOV é difícil de medir; use estimativas e busca (share of search) como aproximação."
+  },
+  {
+   "id": "reach-over-targeting",
+   "title": "Fale com todos os compradores da categoria, não só com quem já está pronto",
+   "statement": "Na construção de marca, alcance o maior número possível de compradores da categoria, clientes e não clientes; deixe a segmentação fina para a ativação.",
+   "why": "No IPA, campanhas que miram o mercado inteiro geram mais efeitos muito grandes (6,7 vs 2,2 para quem mira só clientes) e mais lucro e poder de preço. Em B2B, estratégias de fidelização tiveram taxa de sucesso zero na medida composta. Binet e Davis acham 56% dos profissionais mirando subsegmentos e 62% ignorando maiores de 45 anos, que fazem metade do consumo.",
+   "how": [
+    "Defina o público de marca como 'todos os compradores da categoria'",
+    "Em B2B, mapeie o comitê de compra inteiro e quem vai entrar nele",
+    "Use segmentação para mensagem e ativação, não para cortar alcance",
+    "Verifique faixas etárias e regiões excluídas por hábito, não por estratégia"
+   ],
+   "tests": [
+    "O público da comunicação de marca inclui não clientes?",
+    "Algum grupo grande de compradores (ex.: 45+) foi excluído sem justificativa?",
+    "Em B2B, o plano alcança quem influencia a compra, não só quem assina?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "publico",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "princípio 3 'Talk to all your prospects'",
+     "paraphrase": "Mirar o mercado inteiro dá mais efeitos e mais eficiência que mirar só clientes."
+    },
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "Princípio 3, Fig. 7",
+     "paraphrase": "Em B2B, aquisição supera fidelização e alcance supera as duas."
+    },
+    {
+     "id": "src-ipa-news-go-big-2025-2026",
+     "locator": "comunicado 2025",
+     "paraphrase": "Segmentação estreita e mídia estreita levam a uma 'espiral da morte' de verba, campanha e lucro."
+    },
+    {
+     "id": "src-contagious-crisis-creative-2019",
+     "locator": "seção 'Other performance traits'",
+     "paraphrase": "Campanhas de alto desempenho alcançam público mais amplo, incluindo não usuários."
+    },
+    {
+     "id": "src-ritson-jaguar-2024",
+     "locator": "seção sobre targeting",
+     "paraphrase": "Mirar um público estreito e imaginário e abandonar a base atual é comercialmente estúpido."
+    }
+   ],
+   "conflictsWith": [
+    "targeting-vs-mass-reach"
+   ],
+   "cases": [
+    "case-jaguar-2024-copy-nothing"
+   ],
+   "contexts": "Em B2B a 'categoria' pode ser pequena, então alcance significa cobrir todo o comitê de compra. Marcas de nicho verdadeiro são raras, mas existem."
+  },
+  {
+   "id": "penetration-growth-primary",
+   "title": "Cresça ganhando novos clientes; fidelidade vem junto",
+   "statement": "Faça da aquisição de novos compradores o objetivo principal; não aposte o crescimento em programas de fidelidade.",
+   "why": "Em todos os contextos do IPA a penetração é o principal motor de crescimento e a fidelidade nunca sobe sem a penetração subir. Campanhas focadas em fidelidade ficam abaixo em todas as métricas de negócio. Exceção parcial: em varejo, serviços financeiros e FMCG compensa também falar com a base.",
+   "how": [
+    "Escreva a meta principal como penetração (novos compradores)",
+    "Trate retenção como objetivo secundário",
+    "No varejo, finanças e marcas grandes, adicione ações para a base sem tirar verba da aquisição"
+   ],
+   "tests": [
+    "O objetivo principal do plano é ganhar compradores novos?",
+    "Existe algum argumento de que 'reter é mais barato que conquistar' sendo usado para cortar aquisição?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ciencia-crescimento",
+    "publico"
+   ],
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "locator": "'Findings that apply to all brands', Fig. 122",
+     "paraphrase": "Penetração é sempre o motor principal; não há justificativa empírica para estratégias só de fidelidade."
+    },
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "Princípio 3 e box Ehrenberg-Bass",
+     "paraphrase": "Em B2B também se cresce recrutando clientes; reter é tarefa secundária."
+    }
+   ],
+   "conflictsWith": [
+    "loyalty-vs-penetration"
+   ],
+   "cases": [],
+   "contexts": "Corrobora a lei do double jeopardy (Ehrenberg-Bass). Em marcas grandes e categorias maduras, defender a base ganha peso."
+  },
+  {
+   "id": "brand-boosts-activation",
+   "title": "Marca forte faz a ativação render mais",
+   "statement": "Não trate marca e performance como verbas rivais: investir em marca baixa o custo de aquisição e aumenta a resposta da própria ativação.",
+   "why": "Em B2B, marcas com mais efeitos de marca têm mais efeitos de ativação muito grandes (heurística do afeto: quem gosta da marca acredita mais no produto). Effectiveness in Context mostra que ativação depende de marca para ser eficiente e vice-versa. BT Business reduziu o custo por aquisição em 17% com campanha emocional.",
+   "how": [
+    "Ao avaliar marca, olhe também o efeito sobre CAC, taxa de conversão e busca pela marca",
+    "Mantenha a ativação 'always on' e adicione camadas de marca, em vez de trocar uma pela outra",
+    "Use a mesma ideia e os mesmos ativos nos dois tipos de peça"
+   ],
+   "tests": [
+    "A análise de performance considera o efeito da comunicação de marca no CAC?",
+    "Peças de ativação usam os mesmos ativos distintivos das peças de marca?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "b2b"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "Princípio 5, Fig. 11",
+     "paraphrase": "Marcas fortalecidas batem mais forte no curto e no longo prazo em B2B."
+    },
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "locator": "Figs. 120 e 121",
+     "paraphrase": "Construção de marca é essencial para eficácia e ativação é essencial para eficiência, em todos os contextos."
+    },
+    {
+     "id": "src-roach-wrong-short-2020",
+     "locator": "cenários 1 e 2",
+     "paraphrase": "Ao somar marca, a linha de base sobe e os picos de ativação também."
+    },
+    {
+     "id": "src-ritson-bothism-2026",
+     "locator": "seção 95/5",
+     "paraphrase": "Marca de longo prazo torna a performance de curto prazo mais eficiente; é um círculo virtuoso."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-bt-business-emotional-b2b",
+    "case-gousto-performance-to-brand"
+   ],
+   "contexts": "Vale para B2C e B2B. O efeito aparece em meses, não em semanas."
+  },
+  {
+   "id": "performance-plateau-add-brand",
+   "title": "Quando a performance estagnar, adicione construção de marca em vez de otimizar mais",
+   "statement": "Se o CAC sobe, o ROAS cai e mais otimização não destrava crescimento, a marca chegou ao platô de performance: a saída é ampliar alcance e construir marca, não espremer mais os mesmos canais.",
+   "why": "Kite e Roach observam o padrão em dezenas de marcas digitais; em evento de FMCG cerca de 80% da plateia reconheceu o problema. Airbnb e Asos admitiram dependência excessiva de performance. Will Davis (Medialab) descreve o mesmo 'teto de performance'. A Gousto saiu de 100% performance para 60:40 e a aquisição orgânica subiu de 20% para 75%.",
+   "how": [
+    "Calcule a dependência: quanto das vendas para se a mídia paga parar",
+    "Estude os compradores que não conhecem a marca, não só os clientes",
+    "Teste camadas de alcance e campanhas de marca medindo efeito em busca e base de vendas",
+    "Leve a liderança junto no reaprendizado sobre como marcas crescem"
+   ],
+   "tests": [
+    "Mais de 70% da aquisição vem de mídia paga de resposta?",
+    "O custo por aquisição sobe há vários trimestres apesar da otimização?",
+    "A marca tem baixa lembrança espontânea entre compradores da categoria?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "estrategia"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "caso",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-roach-performance-plateau-2022",
+     "locator": "texto inteiro",
+     "paraphrase": "Descreve o platô e como as marcas saem dele; caso Gousto.",
+     "quote": "A brand isn’t a luxury, it’s future cashflow."
+    },
+    {
+     "id": "src-roach-wrong-short-2020",
+     "locator": "gráfico com Grace Kite",
+     "paraphrase": "Crescimento só com performance chega ao platô; camada de marca retoma e potencializa a performance."
+    },
+    {
+     "id": "src-ipa-news-go-big-2025-2026",
+     "locator": "comunicado 2026, citação de Will Davis",
+     "paraphrase": "Quando o CPA sobe e a performance atinge o pico, é hora de ir mais amplo, não de otimizar."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-gousto-performance-to-brand"
+   ],
+   "contexts": "Típico de D2C, apps, SaaS e PMEs digitais. Para quem ainda está no início, performance pode comprar tempo e caixa para construir marca depois."
+  },
+  {
+   "id": "measure-profit-not-roi",
+   "title": "Meça construção de marca por lucro e share, não por ROI",
+   "statement": "Use lucro absoluto, share de mercado e poder de preço como métricas da comunicação de marca; ROI e ROAS servem para ativação de curto prazo.",
+   "why": "ROI mede eficiência, não eficácia: R$ 3 mi de lucro com ROI 2:1 vale mais que R$ 1,5 mi com ROI 3:1. Como os retornos são decrescentes, o jeito mais fácil de subir o ROI é gastar menos e mirar quem já compraria. No IPA, o ROI subiu 4% desde a pandemia e o lucro líquido caiu 11%; verba explica 89% da variação de lucro.",
+   "how": [
+    "Separe métricas: ativação por ROI/ROAS/CPA; marca por share, penetração, elasticidade-preço e lucro",
+    "Peça ao financeiro o lucro incremental absoluto, não só o ROI",
+    "Desconfie de ROI muito alto: pode indicar verba baixa demais"
+   ],
+   "tests": [
+    "O KPI principal da campanha de marca é ROI ou ROAS?",
+    "Alguém comparou o lucro absoluto de cenários com verbas diferentes?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "equity-medicao",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativacao",
+    "diagnostico"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-murrell-misleading-metric-2025",
+     "locator": "seções sobre os três incentivos perversos",
+     "paraphrase": "ROI como KPI de marca leva a preferir eficiência, cortar verba e mirar compradores pesados.",
+     "quote": "focus on the scrolls and not on the scraps"
+    },
+    {
+     "id": "src-ipa-news-go-big-2025-2026",
+     "locator": "comunicado 2025",
+     "paraphrase": "ROI responde por 11% da variação do lucro e a verba por 89%; ROI subiu e lucro caiu."
+    },
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "princípio 10",
+     "paraphrase": "Métricas de curto prazo sozinhas enganam; métricas-chave de longo prazo são SOV e elasticidade-preço."
+    }
+   ],
+   "conflictsWith": [
+    "roi-vs-profit-metric"
+   ],
+   "cases": [],
+   "contexts": "Vale para quem já investe em marca. Para ativação pura, ROI continua sendo a métrica certa (Ritson, citado por Murrell)."
+  },
+  {
+   "id": "balanced-scorecard-short-long",
+   "title": "Meça curto e longo prazo juntos",
+   "statement": "Monte um painel com métricas de curto prazo (vendas, resposta) e de longo prazo (elasticidade-preço, equity, fama, share) e use indicadores de curto prazo que prevejam o longo, como share of search.",
+   "why": "Campanhas racionais aparecem melhor em efeitos diretos e piores em lucro; medir só o curto prazo favorece o que destrói marca. Só 4% dos profissionais B2B medem impacto além de seis meses. Binet encontrou sinais de que share of search prevê share de mercado em várias categorias.",
+   "how": [
+    "Inclua pelo menos uma métrica de longo prazo (elasticidade-preço, equity, penetração) no relatório mensal",
+    "Acompanhe share of search da marca contra concorrentes",
+    "Avalie campanhas de marca em janelas de 1 a 3 anos"
+   ],
+   "tests": [
+    "O painel tem alguma métrica que só se mexe em mais de seis meses?",
+    "A marca acompanha sua participação nas buscas da categoria?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "equity-medicao"
+   ],
+   "stage": [
+    "ativacao",
+    "diagnostico"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "princípio 10 e 'The balanced scorecard'",
+     "paraphrase": "Propõe painel equilibrado do curto ao longo prazo."
+    },
+    {
+     "id": "src-roach-wrong-short-2020",
+     "locator": "seção sobre share of search",
+     "paraphrase": "Share of search pode prever saúde de longo prazo e unir times de marca e performance."
+    },
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "apresentação de Weinberg e Lombardo",
+     "paraphrase": "Só 4% dos profissionais B2B medem além de seis meses."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Share of search é proxy; funciona melhor em categorias com volume de busca relevante."
+  },
+  {
+   "id": "95-5-rule-b2b",
+   "title": "A maioria dos compradores não está comprando agora: construa memória para quando estiverem",
+   "statement": "Planeje a comunicação sabendo que, em qualquer trimestre, a grande maioria dos compradores da categoria está fora do mercado; o papel principal da propaganda é deixar a marca lembrada para quando eles voltarem.",
+   "why": "Dawes (Ehrenberg-Bass) estima que até 95% dos clientes B2B estão fora do mercado num dado trimestre (trocar de banco ou escritório a cada 5 anos dá cerca de 5% por trimestre). Carros: cerca de 97,5%. A regra é ilustrativa, não exata.",
+   "how": [
+    "Estime o ciclo de compra da categoria e a fatia em mercado por trimestre",
+    "Use esse número para justificar verba de topo de funil diante do financeiro",
+    "Crie peças que funcionem para quem não está procurando nada"
+   ],
+   "tests": [
+    "A marca sabe que porcentagem dos compradores está em mercado num trimestre?",
+    "A maior parte da comunicação só faz sentido para quem já está comprando?"
+   ],
+   "polarity": "fato",
+   "domain": [
+    "b2b",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-murrell-master-model-2026",
+     "locator": "Theory 02",
+     "paraphrase": "Explica a lógica da regra 95:5 e diz que não deve ser lida literalmente."
+    },
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "Part one",
+     "paraphrase": "95% dos clientes B2B não estão em mercado para muitos produtos num dado momento."
+    },
+    {
+     "id": "src-ritson-bothism-2026",
+     "locator": "seção 95/5",
+     "paraphrase": "Marca predispõe os 95%; performance converte os 5%."
+    },
+    {
+     "id": "src-roach-performance-plateau-2022",
+     "locator": "seção sobre 95:5",
+     "paraphrase": "Calcular a regra para a própria marca ajuda a ver o peso do topo do funil."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Em FMCG de compra frequente a fatia em mercado é maior; a lógica (construir memória antes) continua."
+  },
+  {
+   "id": "b2b-brand-matters",
+   "title": "Em B2B, marca e emoção funcionam como em B2C",
+   "statement": "Não trate o comprador B2B como um robô racional: as regras de ESOV, alcance, fama e emoção também valem em B2B, com um pouco mais de peso para ativação.",
+   "why": "O recorte B2B do IPA mostra resposta a ESOV quase igual à do B2C e decisões só um pouco mais racionais. Mesmo assim, a maioria dos profissionais B2B faz o contrário: 64% acham que se cresce por fidelidade e só 30% acreditam que propaganda dá poder de preço. Nos casos WARC, B2B gasta menos, dura menos e usa menos canais que B2C (compromisso criativo 5,9 vs 6,8).",
+   "how": [
+    "Aplique a divisão marca/ativação perto de 46:54",
+    "Crie uma plataforma emocional para o comprador, não só fichas técnicas",
+    "Fale com o comitê inteiro, incluindo CEO e CFO que não entendem o jargão técnico"
+   ],
+   "tests": [
+    "A comunicação B2B tem alguma peça que não seja geração de lead?",
+    "A linguagem seria entendida por um diretor financeiro sem formação técnica?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "b2b",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "posicionamento",
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "locator": "Introdução e Resumo",
+     "paraphrase": "As principais regras de crescimento do B2C também funcionam em B2B."
+    },
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "Part one",
+     "paraphrase": "B2B pende para campanhas curtas, racionais e muito segmentadas, ao contrário da evidência."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-vw-commercial-vehicles-working-with-you",
+    "case-bt-business-emotional-b2b",
+    "case-ibm-smarter-planet"
+   ],
+   "contexts": "Amostras B2B ainda pequenas; achados preliminares. Enterprise usa menos heurísticas que PME, mas ainda usa."
+  },
+  {
+   "id": "creative-commitment",
+   "title": "Comprometa-se com a ideia: mais verba, mais tempo, mais canais",
+   "statement": "Faça menos campanhas, maiores e mais longas, espalhadas por mais canais, em vez de muitas apostas pequenas e curtas.",
+   "why": "Em 4.863 casos B2C e 435 B2B (WARC/Lions), a eficácia sobe com o Creative Commitment (soma de verba, duração e número de canais); Field confirmou no IPA. Mesmo assim, o compromisso criativo caiu na década, empurrado por cortes, performance e pulverização de agências.",
+   "how": [
+    "Concentre pelo menos metade da verba numa grande ideia de plataforma",
+    "Planeje a ideia para pelo menos 1 a 3 anos",
+    "Desdobre a mesma ideia em vários canais, em vez de uma ideia por canal"
+   ],
+   "tests": [
+    "A principal ideia da marca vai durar mais de um ano?",
+    "A verba está concentrada ou pulverizada em várias campanhas pequenas?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativacao",
+    "plataforma"
+   ],
+   "school": "eficacia",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "Introduction to Creative Commitment e Figs. 8-12",
+     "paraphrase": "Campanhas B2B ficam mais eficazes com mais verba, duração e canais; o compromisso B2B está caindo."
+    },
+    {
+     "id": "src-contagious-crisis-creative-2019",
+     "locator": "seção 'Campaign durations'",
+     "paraphrase": "Campanhas de alto desempenho foram acompanhadas por períodos cerca de duas vezes mais longos."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-ibm-smarter-planet",
+    "case-amex-small-business-saturday"
+   ],
+   "contexts": "Para pequena empresa, o equivalente é escolher uma ideia e mantê-la, em vez de mudar a cada mês."
+  },
+  {
+   "id": "consistency-over-time",
+   "title": "Transforme a campanha em plataforma que dura anos",
+   "statement": "Construa uma plataforma criativa versátil e use-a por vários anos, com novas execuções, em vez de trocar de conceito a cada campanha.",
+   "why": "O nível mais alto da Escada B2B (Strategic Asset) reúne campanhas que mantêm a mesma estratégia criativa por anos e ficam mais eficientes a cada execução. São raras na base, porque B2B quase não sustenta ideias longas. Roach resume como alta consistência com alto volume e boa adequação a cada plataforma.",
+   "how": [
+    "Escolha uma ideia que aceite muitas execuções",
+    "Mantenha personagem, situação, slogan ou mecânica ao longo dos anos",
+    "Avalie a plataforma em 3+ anos, não por peça"
+   ],
+   "tests": [
+    "A marca usa a mesma plataforma criativa há mais de dois anos?",
+    "As novas peças são reconhecíveis como parte da mesma ideia?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "ativos-distintivos"
+   ],
+   "stage": [
+    "plataforma",
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "caso",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "Level 6: Strategic Asset",
+     "paraphrase": "Plataformas criativas duradouras melhoram a cada execução e são o maior feito em B2B."
+    },
+    {
+     "id": "src-roach-30-beliefs-2025",
+     "locator": "crença 28",
+     "paraphrase": "Novos princípios para a fragmentação criativa: consistência alta, volume alto, adequação alta à plataforma."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-ibm-smarter-planet",
+    "case-amex-small-business-saturday",
+    "case-brighthouse-insights-panel"
+   ],
+   "contexts": "Vale para todos. Consistência não é repetir a mesma peça: é manter a ideia e os ativos."
+  },
+  {
+   "id": "pricing-power-brand",
+   "title": "Use a marca para defender preço, não promoção",
+   "statement": "Conte com construção de marca emocional e famosa para reduzir a sensibilidade a preço; promoção e ativação não fazem isso.",
+   "why": "No IPA, campanhas de marca reduzem a sensibilidade a preço e esse efeito leva anos (cresce até 3 anos); quanto mais efeitos de marca, maior a chance de redução forte de sensibilidade. Fama e criatividade têm o maior efeito em preço. Ritson cita a herança da Jaguar como vantagem de preço contra novos concorrentes.",
+   "how": [
+    "Inclua elasticidade-preço entre as métricas de marca",
+    "Em época de inflação, prefira comunicação de marca a promoções de volume",
+    "Proteja os códigos que sustentam o prêmio de preço"
+   ],
+   "tests": [
+    "A marca mede como a sensibilidade a preço evolui ao longo dos anos?",
+    "A resposta padrão a pressão de custos é promoção?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "equity-medicao"
+   ],
+   "stage": [
+    "ativacao",
+    "posicionamento"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "princípios 1 e 2",
+     "paraphrase": "Efeitos de preço demoram e dependem de construção de marca."
+    },
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "locator": "'Findings that relate to context', premium",
+     "paraphrase": "Marcas premium precisam que a comunicação de marca sustente preço; ativação não faz isso."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Mais forte em marcas premium e categorias maduras."
+  },
+  {
+   "id": "avoid-new-news-advertising",
+   "title": "Não baseie a comunicação em novidades pequenas de produto",
+   "statement": "Só use inovação como mensagem central quando for grande; pequenas novidades ('agora com...') rendem menos que comunicação emocional de marca sem novidade nenhuma.",
+   "why": "Effectiveness in Context conclui que só inovação grande aumenta a eficácia; a maioria das inovações anunciadas é pequena e prejudica o crescimento de longo prazo. Os autores falam numa subclasse de 'viciados em inovação' com desempenho fraco.",
+   "how": [
+    "Classifique a novidade: variante, sub-marca ou nova categoria",
+    "Se for variante, use-a na ativação e mantenha a comunicação de marca emocional",
+    "Mire novidades em novos clientes, não na base"
+   ],
+   "tests": [
+    "A peça principal da marca é sobre uma melhoria pequena de produto?",
+    "A novidade mudaria a escolha de alguém que não é cliente?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "ativacao-eficacia",
+    "narrativa-proposito"
+   ],
+   "stage": [
+    "narrativa",
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "meta-analise",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "locator": "'In a nutshell', itens 04 e 05",
+     "paraphrase": "Hora de enterrar o modelo racional de 'new news' focado em inovação."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Inovação real (nova categoria, nova sub-marca) muda o jogo e facilita a ativação."
+  },
+  {
+   "id": "right-brain-character-incident-place",
+   "title": "Dê à peça personagem, acontecimento e lugar",
+   "statement": "Para prender atenção sustentada e construir marca, a peça precisa responder: quem está envolvido, o que acontece e onde se passa.",
+   "why": "Orlando Wood mostra que anúncios com mais traços de 'hemisfério direito' (pessoas, narrativa, diálogo, senso de lugar, humor, música melódica) têm mais estrelas no teste da System1 e, nas campanhas do IPA com vídeo online, geram mais efeitos de negócio. Mesmo um pouco mais desses traços já ajuda.",
+   "how": [
+    "Revise roteiros com as três perguntas: quem, o quê, onde",
+    "Troque 'pessoa olhando para a câmera falando atributos' por cena com interação",
+    "Tire texto excessivo da tela nas peças de marca",
+    "Reserve o formato frontal, com texto e produto isolado, para peças de resposta direta"
+   ],
+   "tests": [
+    "A peça tem personagem com algo acontecendo num lugar reconhecível?",
+    "A peça de marca depende de texto na tela e locução para ser entendida?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "sonoro-motion",
+    "identidade-visual"
+   ],
+   "stage": [
+    "ativacao",
+    "narrativa"
+   ],
+   "school": "eficacia",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-system1-achtung-wood-2020",
+     "locator": "pontos 1 a 4",
+     "paraphrase": "Personagem, acontecimento e lugar sustentam atenção; traços de hemisfério esquerdo servem para efeitos diretos."
+    },
+    {
+     "id": "src-murrell-master-model-2026",
+     "locator": "Theory 01",
+     "paraphrase": "Lista traços de cada hemisfério e a correlação com as notas de efetividade da System1."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Dados da System1 (ferramenta proprietária) e IPA. Útil também para posts e vídeos curtos."
+  },
+  {
+   "id": "codes-of-category-break-or-follow",
+   "title": "Fuja da média da categoria",
+   "statement": "Antes de aprovar identidade, direção de arte, nome ou slogan, compare com a categoria e com as tendências do momento; se parece com todo mundo, mude.",
+   "why": "Murrell documenta a convergência: identidades tech com a mesma fórmula, logos achatados em série nas montadoras, fotos com os mesmos truques e slogans no mesmo molde. A causa inclui otimização, testes que punem o diferente e o 'efeito moodboard'. Morgan e System1 apontam o 'averaging' como um dos quatro motores do anúncio chato. Ipsos/JKR alertam que ser 'apropriado à categoria' pode ser o oposto de ser distintivo.",
+   "how": [
+    "Monte um painel com as identidades, cores, slogans e fotos dos concorrentes e das marcas em alta",
+    "Marque onde a proposta coincide com a média e decida conscientemente o que manter",
+    "Teste a proposta sem logo: alguém sabe de quem é?",
+    "Procure referências fora da categoria e fora das plataformas de inspiração de sempre"
+   ],
+   "tests": [
+    "Sem o logo, a peça poderia ser de um concorrente?",
+    "O slogan segue um molde comum ('Encontre seu X', 'X do seu jeito')?",
+    "A paleta e a tipografia repetem a da maioria da categoria?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "identidade-visual",
+    "identidade-verbal",
+    "ativos-distintivos"
+   ],
+   "stage": [
+    "paisagem",
+    "ativos",
+    "voz"
+   ],
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-murrell-age-of-average-2023",
+     "locator": "seções sobre marcas, identidades e slogans",
+     "paraphrase": "Marcas, anúncios, identidades e slogans estão convergindo; ser diferente é a oportunidade.",
+     "quote": "the age of average is the age of opportunity."
+    },
+    {
+     "id": "src-westwoodone-cost-of-dull-2025",
+     "locator": "Four Horsemen, 'Averaging'",
+     "paraphrase": "Copiar o que funciona para os outros homogeniza tudo: nada fica ruim, mas nada se destaca."
+    },
+    {
+     "id": "src-ipsos-jkr-be-distinctive-2023",
+     "locator": "página Colour",
+     "paraphrase": "Ser 'apropriado à categoria' é tentador, mas pode ser o contrário de distintivo."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-auto-flat-logos-blanding"
+   ],
+   "contexts": "Quebrar códigos não significa ignorar sinais que ajudam a reconhecer a categoria (ex.: segurança em remédios). Decida código por código."
+  },
+  {
+   "id": "distinctive-assets-fame-uniqueness",
+   "title": "Poucos ativos são realmente distintivos: invista nos que podem chegar ao nível Ouro",
+   "statement": "Meça se cada ativo (logo, cor, slogan, mascote, produto) lembra a marca sozinho e só para ela; concentre investimento nos poucos que chegam lá e use-os de forma consistente em todo lugar.",
+   "why": "Na pesquisa Ipsos/JKR (26 mil respondentes, 5.046 ativos), só 15% dos ativos eram 'Ouro'; 65% eram 'Bronze'. Produto e forma (cerca de 30%) e logo (19%) foram os mais fortes; slogans (6%) e cor (4%) os mais fracos. 81% dos slogans eram praticamente esquecíveis.",
+   "how": [
+    "Teste reconhecimento de cada ativo isolado com compradores da categoria",
+    "Classifique em ouro/prata/bronze e decida: amplificar, consistir ou descartar",
+    "Dê atenção à forma do produto, embalagem e modo de mostrar o produto",
+    "Não conte com cor sozinha para identificar a marca"
+   ],
+   "tests": [
+    "A marca tem algum ativo que, sem o nome, é atribuído corretamente pela maioria?",
+    "O slogan atual é lembrado espontaneamente e ligado à marca?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativos-distintivos",
+    "equity-medicao"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ipsos-jkr-be-distinctive-2023",
+     "locator": "páginas Findings, Logos, Slogans, Colour, Product",
+     "paraphrase": "Só 15% dos ativos são ouro; produto lidera e cor fica por último."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness"
+   ],
+   "cases": [],
+   "contexts": "Pesquisa global de marcas grandes; para marca nova, use como guia do que tende a funcionar (forma e produto distintivos, mascote)."
+  },
+  {
+   "id": "meaningful-difference-more-people",
+   "title": "Seja significativamente diferente para mais pessoas",
+   "statement": "Busque ao mesmo tempo alcance (mais pessoas) e uma diferença percebida que importe para elas; distintividade sozinha não sustenta preço.",
+   "why": "A Kantar, com 6,5 bilhões de dados atitudinais e de compra, diz que marcas significativamente diferentes para mais pessoas têm 5 vezes mais penetração e mais chance de crescer. Propõe três aceleradores: predispor mais gente, estar mais presente e achar novo espaço (10% mais ocasiões de uso dão +17% de receita).",
+   "how": [
+    "Meça se a marca é vista como diferente e se essa diferença importa",
+    "Combine construção de disponibilidade mental com um motivo claro de preferência",
+    "Procure ocasiões e motivações novas de uso"
+   ],
+   "tests": [
+    "Compradores conseguem dizer em que a marca é diferente das outras?",
+    "Essa diferença é relevante para a escolha, ou é só estética?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "posicionamento",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "posicionamento"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-kantar-blueprint-brand-growth-2024",
+     "locator": "comunicado e prévia, páginas 2 e 3",
+     "paraphrase": "Marcas crescem sendo significativamente diferentes para mais pessoas; diferenciação, não só distintividade, defende preço."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness"
+   ],
+   "cases": [],
+   "contexts": "Métrica proprietária da Kantar (MDS); relatório completo atrás de formulário. Em categoria nova a diferenciação pesa mais."
+  },
+  {
+   "id": "brand-for-llm-audiences",
+   "title": "Construa a marca também para quem a IA consulta",
+   "statement": "Trate LLMs e agentes como um novo público: mantenha a mesma narrativa e os mesmos pontos de entrada da categoria em conteúdo estruturado para máquinas e em comunicação emocional para pessoas, sem transformar a publicidade em bula.",
+   "why": "Respostas de IA e agentes de compra já influenciam escolhas; brands que só aparecem por acaso perdem controle. Humanos têm pouca atenção e memória; LLMs absorvem detalhe infinito. Se a mensagem para humanos não bate com o conteúdo estruturado, a marca vira incoerente para os modelos. Campanhas comentadas geram citações que alimentam os modelos.",
+   "how": [
+    "Mapeie como os principais LLMs descrevem a marca e os concorrentes",
+    "Escreva conteúdo estruturado que ligue a marca a vários pontos de entrada da categoria e casos de uso detalhados",
+    "Traduza diretrizes de voz em instruções literais (ex.: 'coloquial, frases curtas', não só 'calorosa')",
+    "Mantenha a comunicação para pessoas emocional e entretida"
+   ],
+   "tests": [
+    "A marca sabe como é descrita por assistentes de IA?",
+    "As diretrizes de voz poderiam ser seguidas por um modelo sem ambiguidade?",
+    "O que a marca diz em anúncios bate com o que o site e o conteúdo estruturado dizem?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "estrategia",
+    "identidade-verbal",
+    "experiencia"
+   ],
+   "stage": [
+    "voz",
+    "narrativa",
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "evidence": "opiniao-especialista",
+   "strength": 1,
+   "sources": [
+    {
+     "id": "src-roach-brand-ai-2025",
+     "locator": "seções 'Adapting brand communications to an AI world' e 'Campaigns engineered for LLM readability'",
+     "paraphrase": "A marca precisa de disponibilidade nos modelos, além de disponibilidade mental.",
+     "quote": "now it’s needed for model availability too"
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Área nova, evidência ainda de opinião; o autor trabalha numa empresa que vende medição de 'Share of Model'."
+  },
+  {
+   "id": "strategy-before-tactics",
+   "title": "Diagnóstico e estratégia antes de tática",
+   "statement": "Defina pesquisa, segmentação, público-alvo, posicionamento e objetivos antes de escolher canais, formatos e ações.",
+   "why": "Ritson descreve planos cheios de táticas digitais sem resposta para quem é o alvo, qual o posicionamento e qual o objetivo, e chama isso de 'tatificação'. O curto-prazismo e o foco em canal são as mesmas forças que o IPA liga à queda de eficácia.",
+   "how": [
+    "Comece por pesquisa (qualitativa e quantitativa) e mapa do mercado",
+    "Escolha alvo e posicionamento e escreva objetivos por alvo",
+    "Só depois escolha táticas e canais"
+   ],
+   "tests": [
+    "O plano diz quem é o alvo e qual o posicionamento antes de listar ações?",
+    "Há objetivos mensuráveis por público?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "estrategia",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "diagnostico",
+    "posicionamento"
+   ],
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ritson-tactification-2016",
+     "locator": "texto inteiro",
+     "paraphrase": "Tática sem estratégia rebaixa a disciplina; a sequência é diagnóstico, estratégia, objetivos, táticas."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Universal."
+  },
+  {
+   "id": "qual-then-quant-research",
+   "title": "Pesquise com qualitativo primeiro e quantitativo depois",
+   "statement": "Use pesquisa qualitativa para descobrir o que importa e quantitativa para medir em escala; não recomende nada de marca sem dados de cliente.",
+   "why": "Ritson argumenta que pular o qualitativo leva a questionários enormes e sem foco, e que consultoria que recomenda sem dados, ou com um só tipo de dado, é sinal de trabalho ruim.",
+   "how": [
+    "Faça entrevistas ou etnografia para levantar variáveis",
+    "Transforme as variáveis em questionário curto",
+    "Baseie recomendações nos dois"
+   ],
+   "tests": [
+    "A recomendação de marca cita dados de clientes reais?",
+    "Houve fase qualitativa antes do questionário?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "estrategia",
+    "equity-medicao"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ritson-bothism-2026",
+     "locator": "seção 'The power of qualitative and quantitative'",
+     "paraphrase": "Qualitativo descobre as variáveis; quantitativo as mede; juntos dão menos trabalho."
+    },
+    {
+     "id": "src-ritson-bad-brand-consultant-2016",
+     "locator": "sinal 2",
+     "paraphrase": "Consultor que recomenda sem dados, ou com um só tipo, é mau sinal."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Universal; para pequena empresa, poucas entrevistas já mudam o resultado."
+  },
+  {
+   "id": "one-positioning-not-layers",
+   "title": "Um posicionamento, não uma pilha de conceitos",
+   "statement": "Resuma a estratégia de marca num único conceito de posicionamento claro, em vez de camadas de valores, atributos, propostas, essências e pilares.",
+   "why": "Ritson aponta como sinal de consultoria ruim entregar várias camadas de conceitos, que confundem quem precisa executar. Na Jaguar, critica um posicionamento cheio de palavras internas que não dizem nada ao consumidor.",
+   "how": [
+    "Escreva o posicionamento em uma frase",
+    "Corte camadas que repetem a mesma ideia com outro nome",
+    "Teste se quem executa (criação, vendas) consegue repetir a frase"
+   ],
+   "tests": [
+    "A plataforma de marca tem mais de três camadas de conceitos?",
+    "Alguém fora do projeto consegue dizer o posicionamento em uma frase?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "posicionamento",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "posicionamento",
+    "plataforma"
+   ],
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "strength": 1,
+   "sources": [
+    {
+     "id": "src-ritson-bad-brand-consultant-2016",
+     "locator": "sinal 3",
+     "paraphrase": "Posicionamento deve ser um conceito; camadas de valores, atributos e essências confundem."
+    }
+   ],
+   "conflictsWith": [
+    "messaging-hierarchy"
+   ],
+   "cases": [
+    "case-jaguar-2024-copy-nothing"
+   ],
+   "contexts": "Plataformas podem ter apoio (provas, tom), mas o centro deve ser um só."
+  },
+  {
+   "id": "specificity-over-adjectives",
+   "title": "Seja específico: troque adjetivos de marca por benefício e origem concretos",
+   "statement": "Descreva a marca pelo que ela faz e de onde vem, não por adjetivos genéricos como 'inovadora', 'aspiracional', 'confiável' ou 'luxuosa'.",
+   "why": "Ritson diz que ninguém compra uma marca por ser 'a mais inovadora' e que 'lifestyle', 'aspiracional', 'integridade' e 'parceiro de confiança' não significam nada. Na Jaguar, o texto de lançamento falava de criatividade nove vezes e nunca de ser britânica, e usava 'luxo', que marcas de luxo não dizem.",
+   "how": [
+    "Liste os adjetivos do texto de marca e troque cada um por um fato, número ou exemplo",
+    "Inclua origem e benefício concreto quando tiverem valor comercial",
+    "Nunca descreva a própria categoria de prestígio ('luxo', 'premium') como argumento"
+   ],
+   "tests": [
+    "O texto de marca contém 'inovador', 'aspiracional', 'confiável' ou 'luxo'?",
+    "Cada afirmação tem uma prova concreta ao lado?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "identidade-verbal",
+    "posicionamento"
+   ],
+   "stage": [
+    "voz",
+    "posicionamento"
+   ],
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ritson-bad-brand-consultant-2016",
+     "locator": "sinal 4",
+     "paraphrase": "Palavras-gatilho de consultoria ruim: inovação, lifestyle, aspiracional, integridade, parceiro de confiança."
+    },
+    {
+     "id": "src-ritson-jaguar-2024",
+     "locator": "seções 'What he criticises' e 'Positioning'",
+     "paraphrase": "Jaguar trocou origem e benefício por jargão interno e pela palavra luxo."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-jaguar-2024-copy-nothing"
+   ],
+   "contexts": "Universal."
+  },
+  {
+   "id": "rebrand-keep-equity",
+   "title": "Revitalize, não resete: mantenha os códigos que já funcionam",
+   "statement": "Ao modernizar uma marca com história, preserve e atualize seus códigos e sua base de clientes; numa mudança grande de produto, reforce os sinais conhecidos em vez de jogá-los fora.",
+   "why": "Ritson argumenta que a Jaguar trocou 90 anos de códigos (e o 'Grace, Space, Pace') por logos, tipografia e paleta novas, e aceitou perder 85% a 90% dos clientes, que eram os mais propensos a comprar a versão elétrica. Mudança de motor não muda o DNA da marca.",
+   "how": [
+    "Faça auditoria dos ativos com reconhecimento comprovado antes do redesenho",
+    "Mantenha os de nível alto e atualize a execução",
+    "Planeje como a base atual migra para o novo produto"
+   ],
+   "tests": [
+    "O rebrand descarta ativos que os clientes reconhecem?",
+    "O plano assume perder a maior parte da base atual?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "ativos-distintivos",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "ativos",
+    "diagnostico"
+   ],
+   "school": "posicionamento-diferenciacao",
+   "evidence": "caso",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ritson-jaguar-2024",
+     "locator": "seções 'Distinctive Assets' e 'Lessons'",
+     "paraphrase": "Durante mudança de produto, a marca deve enfatizar mais seus marcadores, não menos."
+    }
+   ],
+   "conflictsWith": [
+    "rebrand-vs-evolve"
+   ],
+   "cases": [
+    "case-jaguar-2024-copy-nothing"
+   ],
+   "contexts": "Marcas sem equity relevante têm menos a perder num reset."
+  }
+ ],
+ "frameworks": [
+  {
+   "id": "binet-field-10-principles",
+   "name": "Os 10 princípios de The Long and the Short of It",
+   "author": "Les Binet & Peter Field (IPA)",
+   "purpose": "Checklist para planejar e avaliar um programa de comunicação que gere vendas no curto prazo e crescimento e lucro no longo.",
+   "components": [
+    {
+     "name": "1. Sustente volume e preço",
+     "description": "Os maiores ganhos de lucro vêm de mexer nos dois; efeito de preço leva anos."
+    },
+    {
+     "name": "2. Construa vendas e vendabilidade",
+     "description": "Campanhas de marca rendem mais ESOV ao longo de 3+ anos que campanhas diretas."
+    },
+    {
+     "name": "3. Fale com todos os prospects",
+     "description": "Mirar o mercado todo dá mais efeitos e mais lucro que mirar só clientes."
+    },
+    {
+     "name": "4. Equilibre cabeça e coração",
+     "description": "Racional dá pico curto; emoção constrói marca e reduz sensibilidade a preço."
+    },
+    {
+     "name": "5. Mire fama",
+     "description": "Campanhas de fama são cerca de 4 vezes mais eficientes."
+    },
+    {
+     "name": "6. Criatividade aumenta eficiência",
+     "description": "Campanhas premiadas eram muito mais eficientes (dado anterior à crise de 2019)."
+    },
+    {
+     "name": "7. Share of voice importa",
+     "description": "SOV acima do share de mercado faz crescer."
+    },
+    {
+     "name": "8. Integre marca e ativação",
+     "description": "Combinar dobra a eficiência."
+    },
+    {
+     "name": "9. Equilibre a verba (60:40)",
+     "description": "Ótimo perto de 40% em ativação."
+    },
+    {
+     "name": "10. Meça curto e longo prazo",
+     "description": "Métricas de curto prazo enganam; acompanhe SOV e elasticidade-preço."
+    }
+   ],
+   "steps": [
+    "Defina objetivos de volume e de preço",
+    "Separe tarefas de marca e de ativação e a verba de cada",
+    "Defina público de marca como todo o mercado",
+    "Escolha território emocional e meta de fama",
+    "Calcule ESOV necessário",
+    "Monte painel com métricas de curto e longo prazo"
+   ],
+   "inputs": [
+    "share de mercado e gasto da categoria",
+    "metas de crescimento e de margem",
+    "ciclo de compra"
+   ],
+   "outputs": [
+    "divisão de verba marca/ativação",
+    "briefing com objetivo de fama e emoção",
+    "painel de métricas equilibrado"
+   ],
+   "pitfalls": [
+    "Ler 60:40 como regra fixa em qualquer contexto",
+    "Achar que os autores são 'só longo prazo' e esquecer a ativação",
+    "Fazer toda peça tentar cumprir os dois papéis"
+   ],
+   "criticisms": [
+    "Base enviesada para casos inscritos em prêmios (os autores dizem que o viés é modesto)",
+    "Dados majoritariamente do Reino Unido",
+    "Escola Ehrenberg-Bass discorda do peso dado a segmentação e a criatividade premiada em alguns pontos"
+   ],
+   "domain": [
+    "ativacao-eficacia",
+    "estrategia"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "sources": [
+    {
+     "id": "src-ipa-long-short-10-principles",
+     "locator": "slide final '10 Key principles'",
+     "paraphrase": "Lista os dez princípios."
+    }
+   ]
+  },
+  {
+   "id": "b2b-effectiveness-ladder",
+   "name": "Escada de Eficácia B2B",
+   "author": "James Hurman / LinkedIn B2B Institute, WARC & Lions",
+   "purpose": "Classificar campanhas B2B pelo tipo de efeito que buscam e mostrar o caminho dos efeitos táticos aos efeitos que constroem negócio no longo prazo.",
+   "components": [
+    {
+     "name": "1. Response Trigger",
+     "description": "Gera resposta ou interação (visita, download, inscrição)."
+    },
+    {
+     "name": "2. Lead Generator",
+     "description": "Aumenta quantidade ou qualidade de leads para vendas."
+    },
+    {
+     "name": "3. Sale Closer",
+     "description": "Gera venda imediata ou fecha leads."
+    },
+    {
+     "name": "4. Fame Maker",
+     "description": "Cria fama: ideias que se espalham e geram conversa."
+    },
+    {
+     "name": "5. Brand Builder",
+     "description": "Melhora métricas de saúde de marca (lembrança, consideração, preferência)."
+    },
+    {
+     "name": "6. Strategic Asset",
+     "description": "Plataforma criativa duradoura, reaproveitada por anos, que melhora a cada execução."
+    }
+   ],
+   "steps": [
+    "Classifique cada campanha atual num nível",
+    "Defina o nível-alvo de cada nova campanha e as métricas desse nível",
+    "Use os comportamentos vencedores do nível (ex.: não ser chato, demonstrar benefício de forma surpreendente, ser útil, liderar pensamento, usar emoção, falar com público amplo)",
+    "Mantenha as ideias que funcionam por tempo suficiente para virar Strategic Asset"
+   ],
+   "inputs": [
+    "portfólio de campanhas",
+    "métricas disponíveis por horizonte de tempo"
+   ],
+   "outputs": [
+    "mapa do portfólio por nível",
+    "métricas adequadas por campanha",
+    "prioridades para subir na escada"
+   ],
+   "pitfalls": [
+    "Ficar nos três primeiros níveis por conforto de medição",
+    "Medir Brand Builder com métricas de lead",
+    "Trocar de plataforma antes de ela amadurecer"
+   ],
+   "criticisms": [
+    "Patrocinado pelo LinkedIn, que vende mídia de marca B2B",
+    "Base de casos de prêmio"
+   ],
+   "domain": [
+    "b2b",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "sources": [
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "Part two",
+     "paraphrase": "Define os seis níveis e os comportamentos vencedores em cada um."
+    }
+   ]
+  },
+  {
+   "id": "creative-commitment-score",
+   "name": "Pontuação de Creative Commitment",
+   "author": "James Hurman / WARC & Lions",
+   "purpose": "Medir quanto uma campanha está apoiada em verba, duração e canais, os três fatores que mais se correlacionam com eficácia.",
+   "components": [
+    {
+     "name": "Verba de mídia",
+     "description": "Pontuação 1 a 5 (de menos de US$ 500 mil até faixas maiores)."
+    },
+    {
+     "name": "Duração",
+     "description": "1 = menos de 3 meses; 2 = 3-6 meses; 3 = 6-12 meses; 4 = 1-3 anos; 5 = mais."
+    },
+    {
+     "name": "Número de canais",
+     "description": "1 = 1-4; 2 = 5-7; 3 = 8-10; 4 = 11-13; 5 = 14+."
+    }
+   ],
+   "steps": [
+    "Pontue a campanha nas três dimensões",
+    "Some (de 3 a 15)",
+    "Compare com a média da categoria (B2C 6,8; B2B 5,9)",
+    "Aumente a dimensão mais barata de puxar (muitas vezes, duração)"
+   ],
+   "inputs": [
+    "verba",
+    "período planejado",
+    "lista de canais"
+   ],
+   "outputs": [
+    "pontuação de 3 a 15",
+    "alavanca prioritária"
+   ],
+   "pitfalls": [
+    "Pulverizar canais sem uma ideia central",
+    "Confundir duração com repetição da mesma peça"
+   ],
+   "criticisms": [
+    "Correlação, não causalidade comprovada; Field validou no IPA"
+   ],
+   "domain": [
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "sources": [
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "locator": "seção Creative Commitment",
+     "paraphrase": "Define a pontuação e mostra que a eficácia sobe com ela."
+    }
+   ]
+  },
+  {
+   "id": "anti-dull-dial",
+   "name": "Anti-Dull Dial (cinco perguntas contra o anúncio chato)",
+   "author": "Adam Morgan (eatbigfish) com System1",
+   "purpose": "Revisar estratégia e criação para evitar a resposta neutra do público.",
+   "components": [
+    {
+     "name": "Encontra o público onde ele se importa?",
+     "description": "Fala de algo que interessa e na língua dele, sem jargão de negócio."
+    },
+    {
+     "name": "Usa a régua real de interesse?",
+     "description": "Mede o interesse real com o público, sem se enganar."
+    },
+    {
+     "name": "Mostra distintividade e caráter?",
+     "description": "Parece e soa como a marca, com personagem ou recurso recorrente."
+    },
+    {
+     "name": "Usa emoção, drama e história?",
+     "description": "Entretém, de preferência com humor."
+    },
+    {
+     "name": "Nega uma suposição e surpreende?",
+     "description": "Contraria alguma expectativa do público."
+    }
+   ],
+   "steps": [
+    "Aplique as cinco perguntas ao briefing",
+    "Repita na revisão do roteiro",
+    "Quanto mais 'sim', menos chata a peça"
+   ],
+   "inputs": [
+    "briefing",
+    "roteiro ou layout"
+   ],
+   "outputs": [
+    "lista de pontos a reforçar"
+   ],
+   "pitfalls": [
+    "Responder 'sim' por otimismo interno, sem teste com o público"
+   ],
+   "criticisms": [
+    "Heurística qualitativa; números de apoio vêm de ferramenta proprietária da System1"
+   ],
+   "domain": [
+    "ativacao-eficacia",
+    "identidade-verbal"
+   ],
+   "stage": [
+    "ativacao",
+    "narrativa"
+   ],
+   "school": "eficacia",
+   "sources": [
+    {
+     "id": "src-westwoodone-cost-of-dull-2025",
+     "locator": "seção 'Anti Dull Dial'",
+     "paraphrase": "Lista as cinco perguntas do whitepaper."
+    }
+   ]
+  },
+  {
+   "id": "four-horsemen-dullocalypse",
+   "name": "Os quatro motores do anúncio chato",
+   "author": "Adam Morgan (eatbigfish)",
+   "purpose": "Diagnosticar por que a comunicação de uma marca ficou neutra e sem graça.",
+   "components": [
+    {
+     "name": "Performance",
+     "description": "Verba migrando para canais medidos por métricas transacionais, que priorizam reconhecimento sobre emoção."
+    },
+    {
+     "name": "Otimização",
+     "description": "Quanto mais formatos e pontos de contato, mais simples e genéricos os ativos ficam."
+    },
+    {
+     "name": "Averaging (a média)",
+     "description": "Todos copiam o que parece funcionar e a categoria inteira converge (Age of Average)."
+    },
+    {
+     "name": "Procurement",
+     "description": "Cortes em cascata reduzem tempo e verba para ir de bom a ótimo."
+    }
+   ],
+   "steps": [
+    "Verifique qual dos quatro está presente",
+    "Para cada um, defina uma contramedida (ex.: metas de marca nos canais de performance, ativos mestres antes de adaptar, auditoria da categoria, tempo protegido de criação)"
+   ],
+   "inputs": [
+    "mix de mídia",
+    "processo de criação e aprovação",
+    "comparação com concorrentes"
+   ],
+   "outputs": [
+    "diagnóstico das causas da chatice"
+   ],
+   "pitfalls": [
+    "Culpar só a criação quando a causa é o processo"
+   ],
+   "criticisms": [
+    "Conceitual, sem medida própria"
+   ],
+   "domain": [
+    "ativacao-eficacia",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "school": "eficacia",
+   "sources": [
+    {
+     "id": "src-westwoodone-cost-of-dull-2025",
+     "locator": "seção 'four Horsemen of the Dullocalypse'",
+     "paraphrase": "Descreve os quatro fatores."
+    }
+   ]
+  },
+  {
+   "id": "advertising-master-model",
+   "name": "Modelo mestre da publicidade (dois tipos de comunicação)",
+   "author": "Alex Murrell",
+   "purpose": "Unificar seis teorias para decidir que tipo de peça fazer para cada público e momento.",
+   "components": [
+    {
+     "name": "Construção de marca",
+     "description": "Gera demanda; traços de hemisfério direito; público fora do mercado; atenção passiva; Sistema 1; efeito indireto que molda atitudes."
+    },
+    {
+     "name": "Ativação de vendas",
+     "description": "Captura demanda; traços de hemisfério esquerdo; público em mercado; atenção ativa; Sistema 2; efeito direto que dispara ação."
+    }
+   ],
+   "steps": [
+    "Para cada peça, defina se é de marca ou de ativação",
+    "Alinhe criação (emocional ou racional), mídia (ampla ou focada) e métrica (longa ou curta) ao tipo",
+    "Garanta que o plano tenha os dois"
+   ],
+   "inputs": [
+    "objetivo da peça",
+    "público"
+   ],
+   "outputs": [
+    "especificação coerente de criação, mídia e métrica"
+   ],
+   "pitfalls": [
+    "Medir peça de marca com métrica de resposta direta"
+   ],
+   "criticisms": [
+    "Simplificação; a teoria dos hemisférios de Wood (baseada em McGilchrist) é contestada por parte da neurociência"
+   ],
+   "domain": [
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "eficacia",
+   "sources": [
+    {
+     "id": "src-murrell-master-model-2026",
+     "locator": "conclusão",
+     "paraphrase": "Junta as seis teorias numa linha comum."
+    }
+   ]
+  },
+  {
+   "id": "kantar-blueprint-growth-accelerators",
+   "name": "Blueprint for Brand Growth (motor e três aceleradores)",
+   "author": "Kantar",
+   "purpose": "Priorizar investimentos de marketing para crescer penetração, preço e valor.",
+   "components": [
+    {
+     "name": "Motor: ser significativamente diferente para mais pessoas",
+     "description": "Métricas: penetração, margem, 'meaningful' e 'different'."
+    },
+    {
+     "name": "Predispor mais pessoas",
+     "description": "Criatividade, publicidade e experiência criam diferença e disponibilidade mental; métricas de poder de demanda e de preço."
+    },
+    {
+     "name": "Estar mais presente",
+     "description": "Distribuição, jornada, sortimento, embalagem, preço e promoção convertem a predisposição."
+    },
+    {
+     "name": "Achar novo espaço",
+     "description": "Inovação em motivações, ocasiões e categorias vizinhas."
+    }
+   ],
+   "steps": [
+    "Diagnostique o ponto de partida (tamanho, maturidade, ciclo de compra)",
+    "Escolha o acelerador com maior retorno",
+    "Acompanhe as métricas de cada um"
+   ],
+   "inputs": [
+    "dados de equity e de compra"
+   ],
+   "outputs": [
+    "prioridades de investimento"
+   ],
+   "pitfalls": [
+    "Usar só o motor de penetração e ignorar diferenciação, ou o contrário"
+   ],
+   "criticisms": [
+    "Framework proprietário; Ehrenberg-Bass questiona a ênfase em diferenciação percebida"
+   ],
+   "domain": [
+    "ciencia-crescimento",
+    "posicionamento"
+   ],
+   "stage": [
+    "diagnostico",
+    "posicionamento"
+   ],
+   "school": "misto",
+   "sources": [
+    {
+     "id": "src-kantar-blueprint-brand-growth-2024",
+     "locator": "páginas 3 e 4 da prévia",
+     "paraphrase": "Apresenta o motor e os três aceleradores."
+    }
+   ]
+  },
+  {
+   "id": "ritson-diagnosis-strategy-tactics",
+   "name": "Sequência diagnóstico, estratégia, tática",
+   "author": "Mark Ritson",
+   "purpose": "Garantir que as escolhas de canal e ação venham depois de entender o mercado e escolher alvo e posicionamento.",
+   "components": [
+    {
+     "name": "Diagnóstico",
+     "description": "Pesquisa e segmentação para mapear o mercado."
+    },
+    {
+     "name": "Estratégia",
+     "description": "Escolha de alvo e posicionamento."
+    },
+    {
+     "name": "Objetivos",
+     "description": "Metas claras por segmento-alvo."
+    },
+    {
+     "name": "Táticas",
+     "description": "Canais, formatos, preço, distribuição e comunicação."
+    }
+   ],
+   "steps": [
+    "Faça pesquisa qualitativa e quantitativa",
+    "Segmente e escolha o alvo",
+    "Defina posicionamento",
+    "Escreva objetivos",
+    "Escolha táticas"
+   ],
+   "inputs": [
+    "dados de clientes e de mercado"
+   ],
+   "outputs": [
+    "plano em que cada tática responde a uma escolha estratégica"
+   ],
+   "pitfalls": [
+    "Começar pelo canal da moda"
+   ],
+   "criticisms": [
+    "Ehrenberg-Bass questiona segmentação fina para a comunicação de marca (ver targeting-vs-mass-reach)"
+   ],
+   "domain": [
+    "estrategia"
+   ],
+   "stage": [
+    "diagnostico",
+    "posicionamento"
+   ],
+   "school": "posicionamento-diferenciacao",
+   "sources": [
+    {
+     "id": "src-ritson-tactification-2016",
+     "locator": "seção sobre a sequência",
+     "paraphrase": "Descreve a ordem diagnóstico, estratégia e tática."
+    }
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "id": "long-vs-short-term",
+   "question": "Marcas devem priorizar construção de longo prazo ou resultado de curto prazo?",
+   "positions": [
+    {
+     "school": "eficacia",
+     "claim": "Os dois, equilibrados: perto de 60:40 a favor de marca, com ajustes por contexto. Curto-prazismo é sempre um erro.",
+     "evidence": "Meta-análises do IPA Databank (Binet & Field 2013, 2018; Field 2019).",
+     "sources": [
+      {
+       "id": "src-ipa-long-short-10-principles",
+       "paraphrase": "Sem curto prazo não há longo prazo, mas o longo prazo gera crescimento e lucro."
+      },
+      {
+       "id": "src-binet-field-effectiveness-in-context-2018",
+       "paraphrase": "Não há contexto em que ativação de curto prazo seja o principal motor de crescimento."
+      }
+     ]
+    },
+    {
+     "school": "pratica",
+     "claim": "O erro é 'wrong-termism': longo-prazismo puro também falha. Crescimento de longo prazo nasce de efeitos de curto prazo e as duas lógicas precisam funcionar juntas e ser medidas juntas.",
+     "evidence": "Modelagem econométrica de Grace Kite e casos de marcas digitais.",
+     "sources": [
+      {
+       "id": "src-roach-wrong-short-2020",
+       "paraphrase": "Curto e longo prazismo são ambos errados; o efeito é composto."
+      },
+      {
+       "id": "src-ritson-bothism-2026",
+       "paraphrase": "Bothism: combinar os dois lados na proporção certa, sem obrigação de 50/50."
+      }
+     ]
+    },
+    {
+     "school": "misto",
+     "claim": "Na prática, a pressão por performance mensurável domina, especialmente em PMEs e marcas digitais, e só muda quando a marca bate no platô.",
+     "evidence": "Observação de mercado (platô de performance), dados de survey sobre ROI.",
+     "sources": [
+      {
+       "id": "src-roach-performance-plateau-2022",
+       "paraphrase": "Marcas crescem com performance até estagnar e só então corrigem o rumo."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Ninguém sério defende só um lado. A divergência real é de ênfase e de como medir: a escola de eficácia dá a proporção, a prática pede integração e métricas comuns.",
+   "systemStance": "Padrão: dois trabalhos separados, verba perto de 60:40 a favor de marca, ajustada por contexto. Lançamento: comece pesado em ativação e mude em 1-2 anos. Marca sem caixa: performance para sobreviver, mas já com ativos e ideia de marca consistentes.",
+   "stage": [
+    "ativacao"
+   ],
+   "domain": [
+    "ativacao-eficacia",
+    "estrategia"
+   ]
+  },
+  {
+   "id": "roi-vs-profit-metric",
+   "question": "ROI é uma boa métrica para avaliar comunicação de marca?",
+   "positions": [
+    {
+     "school": "eficacia",
+     "claim": "Não. ROI mede eficiência e sobe quando se gasta menos e se mira quem já compraria; para marca, use lucro absoluto, share e poder de preço.",
+     "evidence": "IPA: verba explica 89% da variação de lucro, ROI 11%; ROI subiu e lucro caiu pós-pandemia.",
+     "sources": [
+      {
+       "id": "src-ipa-news-go-big-2025-2026",
+       "paraphrase": "Budget é oito vezes mais importante que ROI para o lucro."
+      },
+      {
+       "id": "src-murrell-misleading-metric-2025",
+       "paraphrase": "ROI cria três incentivos perversos quando usado para marca."
+      }
+     ]
+    },
+    {
+     "school": "misto",
+     "claim": "ROI faz todo sentido para ativação de curto prazo e é a métrica que a liderança mais usa; o problema é aplicá-lo à construção de marca.",
+     "evidence": "Survey Language of Effectiveness: 41,6% dos profissionais dizem que a liderança prioriza ROI.",
+     "sources": [
+      {
+       "id": "src-murrell-misleading-metric-2025",
+       "paraphrase": "Ritson e Binet aceitam ROI para performance, não para marca."
+      }
+     ]
+    }
+   ],
+   "synthesis": "ROI é útil para ativação; para marca, combine com lucro incremental absoluto e métricas de longo prazo.",
+   "systemStance": "O sistema não aceita ROI como KPI principal de uma campanha de marca; aceita para ativação.",
+   "stage": [
+    "ativacao"
+   ],
+   "domain": [
+    "equity-medicao"
+   ]
+  },
+  {
+   "id": "differentiation-vs-distinctiveness",
+   "question": "A marca precisa ser percebida como diferente ou basta ser distinta e lembrada?",
+   "positions": [
+    {
+     "school": "eficacia",
+     "claim": "Para construir marca, emoção e fama rendem mais que argumentos de diferenciação por atributo; diferenciação racional serve no fundo do funil.",
+     "evidence": "Recorte B2B do IPA: estratégias de diferenciação são fracas como topo de funil.",
+     "sources": [
+      {
+       "id": "src-b2b-institute-5-principles-2019",
+       "paraphrase": "Diferenciação por atributo funciona na ativação, não como motor de longo prazo."
+      }
+     ]
+    },
+    {
+     "school": "misto",
+     "claim": "Ser significativamente diferente para mais pessoas é o motor de crescimento; distintividade sozinha não defende preço.",
+     "evidence": "Kantar Blueprint, 6,5 bilhões de dados atitudinais e de compra.",
+     "sources": [
+      {
+       "id": "src-kantar-blueprint-brand-growth-2024",
+       "paraphrase": "Diferenciação, não só distintividade, cria conexões mentais e defende preço."
+      }
+     ]
+    },
+    {
+     "school": "ehrenberg-bass",
+     "claim": "Distintividade dos ativos é rara e valiosa; poucos ativos chegam a identificar a marca sozinhos.",
+     "evidence": "Ipsos × JKR, 26 mil respondentes.",
+     "sources": [
+      {
+       "id": "src-ipsos-jkr-be-distinctive-2023",
+       "paraphrase": "Só 15% dos ativos testados são realmente distintivos."
+      }
+     ]
+    },
+    {
+     "school": "posicionamento-diferenciacao",
+     "claim": "Não precisa escolher: a marca deve vir à mente e ter as associações que fecham a compra.",
+     "evidence": "Opinião (bothism).",
+     "sources": [
+      {
+       "id": "src-ritson-bothism-2026",
+       "paraphrase": "Distintividade e diferenciação são complementares."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Todos concordam que ser reconhecível é condição necessária. A divergência é se a diferença percebida é motor (Kantar) ou consequência e complemento (eficácia/Ehrenberg-Bass).",
+   "systemStance": "Padrão: construir ativos distintivos consistentes e, junto, uma diferença relevante e simples de dizer. Em categoria nova ou de alto preço, a diferenciação pesa mais.",
+   "stage": [
+    "posicionamento",
+    "ativos"
+   ],
+   "domain": [
+    "posicionamento",
+    "ativos-distintivos"
+   ]
+  },
+  {
+   "id": "targeting-vs-mass-reach",
+   "question": "A comunicação deve mirar segmentos estreitos ou todo o mercado?",
+   "positions": [
+    {
+     "school": "eficacia",
+     "claim": "Para construção de marca, alcance amplo de todos os compradores da categoria; segmentação fina é para ativação.",
+     "evidence": "IPA: mirar o mercado todo dá cerca de 3 vezes mais efeitos que mirar só clientes; Binet & Davis acham segmentação excessiva.",
+     "sources": [
+      {
+       "id": "src-ipa-long-short-10-principles",
+       "paraphrase": "Fale com todos os prospects."
+      },
+      {
+       "id": "src-ipa-news-go-big-2025-2026",
+       "paraphrase": "56% miram subsegmentos e 62% ignoram 45+."
+      }
+     ]
+    },
+    {
+     "school": "posicionamento-diferenciacao",
+     "claim": "Segmentar e escolher alvo continua essencial para a estratégia; o erro é segmentar sem dados (ex.: 'millennials') ou mirar um público imaginário.",
+     "evidence": "Opinião e casos (Jaguar).",
+     "sources": [
+      {
+       "id": "src-ritson-tactification-2016",
+       "paraphrase": "Segmentação e alvo vêm antes das táticas."
+      },
+      {
+       "id": "src-ritson-bad-brand-consultant-2016",
+       "paraphrase": "Millennials não passam em nenhum teste de segmentação."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Estratégia pode escolher um alvo e um posicionamento, mas a mídia de marca deve alcançar amplamente a categoria; a segmentação ganha força na ativação.",
+   "systemStance": "Estratégia com alvo claro, comunicação de marca com alcance amplo; nunca excluir grupos grandes de compradores por hábito.",
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "domain": [
+    "publico",
+    "ativacao-eficacia"
+   ]
+  },
+  {
+   "id": "loyalty-vs-penetration",
+   "question": "Marcas crescem por fidelidade ou por penetração?",
+   "positions": [
+    {
+     "school": "eficacia",
+     "claim": "Penetração é sempre o motor; fidelidade cresce junto. Estratégias só de fidelidade têm desempenho pior em qualquer contexto.",
+     "evidence": "IPA 1998-2016 em todos os contextos; recorte B2B.",
+     "sources": [
+      {
+       "id": "src-binet-field-effectiveness-in-context-2018",
+       "paraphrase": "Não há justificativa empírica para fidelidade como motor."
+      },
+      {
+       "id": "src-b2b-institute-5-principles-2019",
+       "paraphrase": "64% dos profissionais B2B acreditam em fidelidade, ao contrário da evidência."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Eficácia e Ehrenberg-Bass concordam; a crença em fidelidade sobrevive na prática, sobretudo em B2B.",
+   "systemStance": "Objetivo principal sempre penetração; ações para a base como complemento em varejo, finanças e marcas grandes.",
+   "stage": [
+    "publico"
+   ],
+   "domain": [
+    "ciencia-crescimento"
+   ]
+  },
+  {
+   "id": "rebrand-vs-evolve",
+   "question": "Ao modernizar uma marca antiga, é melhor romper ou evoluir?",
+   "positions": [
+    {
+     "school": "posicionamento-diferenciacao",
+     "claim": "Evoluir: manter os códigos e a base, atualizar a execução. Resetar destrói equity construída por décadas.",
+     "evidence": "Caso Jaguar 2024 (opinião).",
+     "sources": [
+      {
+       "id": "src-ritson-jaguar-2024",
+       "paraphrase": "Jaguar precisava revitalizar e fez um reset."
+      }
+     ]
+    },
+    {
+     "school": "pratica",
+     "claim": "Romper com a média pode ser necessário para não parecer igual a todos; a homogeneização é o maior risco.",
+     "evidence": "Ensaio Age of Average.",
+     "sources": [
+      {
+       "id": "src-murrell-age-of-average-2023",
+       "paraphrase": "Num mundo que converge, ousar diferente é a oportunidade."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Não há contradição real: o rompimento que Murrell defende é com a média da categoria, não com os próprios ativos fortes. O caso Jaguar mostra o risco de romper com os próprios códigos e ainda assim cair num visual de tendência.",
+   "systemStance": "Preserve ativos de reconhecimento comprovado; rompa com convenções da categoria e tendências genéricas. Reset só quando a marca não tem equity a perder.",
+   "stage": [
+    "ativos",
+    "diagnostico"
+   ],
+   "domain": [
+    "ativos-distintivos",
+    "gestao-governanca"
+   ]
+  }
+ ],
+ "cases": [
+  {
+   "id": "case-vw-commercial-vehicles-working-with-you",
+   "brand": "Volkswagen Veículos Comerciais (Reino Unido)",
+   "year": 2013,
+   "agency": null,
+   "sector": "automotivo B2B",
+   "market": "Reino Unido",
+   "type": "reposicionamento",
+   "challenge": "Crescer agressivamente no Reino Unido com mais concorrência e verba menor.",
+   "insight": "Donos de pequenas e médias empresas se importavam com a van, mas queriam apoio, conselho e compreensão; sentiam-se sozinhos tocando o negócio.",
+   "strategy": "Reposicionar de fabricante de vans para parceiro de serviço, falando com gestores, não motoristas.",
+   "execution": "Campanha 'Working with You' com foco em empatia, dedicação e solidão de quem toca pequena empresa.",
+   "results": [
+    {
+     "metric": "lembrança de marca",
+     "value": "+30%",
+     "independent": false,
+     "source": "src-b2b-institute-5-principles-2019"
+    },
+    {
+     "metric": "vendas e share",
+     "value": "maiores da história de 60 anos no Reino Unido",
+     "independent": false,
+     "source": "src-b2b-institute-5-principles-2019"
+    },
+    {
+     "metric": "retorno financeiro (econometria)",
+     "value": "11:1; 3 vezes mais eficiente que a propaganda anterior",
+     "independent": false,
+     "source": "src-b2b-institute-5-principles-2019"
+    }
+   ],
+   "lessons": [
+    "Num setor que só fala de produto, empatia diferencia",
+    "Público B2B pequeno compra por emoção também",
+    "Mude quem é o interlocutor (gestor em vez de motorista) para achar território novo"
+   ],
+   "principles": [
+    "emotional-over-rational",
+    "b2b-brand-matters"
+   ],
+   "sources": [
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "paraphrase": "Caso usado para ilustrar emoção em B2B."
+    }
+   ]
+  },
+  {
+   "id": "case-bt-business-emotional-b2b",
+   "brand": "BT Business",
+   "year": 2015,
+   "agency": null,
+   "sector": "telecom B2B",
+   "market": "Reino Unido",
+   "type": "reposicionamento",
+   "challenge": "Consideração B2B no menor nível histórico e receita em queda; propaganda funcional e técnica.",
+   "insight": "Decisões B2B eram mais emocionais do que se supunha; CEOs e CFOs entravam na decisão sem base técnica; a marca era vista como corporativa e distante.",
+   "strategy": "Campanha de marca emocional sobre proximidade humana, com propaganda de produto no mesmo tom humano.",
+   "execution": "Vídeos com histórias reais de profissionais do setor público agradecendo outros profissionais por meio da comunicação da BT.",
+   "results": [
+    {
+     "metric": "custo por aquisição",
+     "value": "-17%",
+     "independent": false,
+     "source": "src-b2b-institute-5-principles-2019"
+    },
+    {
+     "metric": "ROI de lucro da campanha",
+     "value": "316%",
+     "independent": false,
+     "source": "src-b2b-institute-5-principles-2019"
+    },
+    {
+     "metric": "vendas de mídia atribuídas à campanha de marca",
+     "value": "23% (econometria)",
+     "independent": false,
+     "source": "src-b2b-institute-5-principles-2019"
+    }
+   ],
+   "lessons": [
+    "Marca emocional reduz custo da ativação",
+    "Fale também com quem não entende o jargão técnico"
+   ],
+   "principles": [
+    "emotional-over-rational",
+    "brand-boosts-activation",
+    "b2b-brand-matters"
+   ],
+   "sources": [
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "paraphrase": "Caso de emoção em B2B com econometria."
+    }
+   ]
+  },
+  {
+   "id": "case-gousto-performance-to-brand",
+   "brand": "Gousto",
+   "year": 2017,
+   "agency": null,
+   "sector": "alimentação D2C (kits de refeição)",
+   "market": "Reino Unido",
+   "type": "reposicionamento",
+   "challenge": "100% da verba em performance e 80% da aquisição vinda de anúncios pagos: desligar a mídia parava as vendas.",
+   "insight": "Lembrança baixa, share of voice baixo e verba de performance já no máximo numa categoria de massa.",
+   "strategy": "Criar um 'reservatório de demanda' com construção de marca e otimizar a divisão pelos dados.",
+   "execution": "Camadas de comunicação de marca somadas à performance; divisão final em 60% marca e 40% performance.",
+   "results": [
+    {
+     "metric": "aquisição orgânica",
+     "value": "de 20% (2017) para 75% (2020)",
+     "independent": false,
+     "source": "src-roach-performance-plateau-2022"
+    }
+   ],
+   "lessons": [
+    "Saia da dependência de mídia paga antes do platô",
+    "Os dados da própria marca podem levar a 60:40 sem copiar a regra"
+   ],
+   "principles": [
+    "long-short-60-40",
+    "performance-plateau-add-brand",
+    "brand-boosts-activation"
+   ],
+   "sources": [
+    {
+     "id": "src-roach-performance-plateau-2022",
+     "paraphrase": "Caso apresentado pelo CMO no IPA EffWorks."
+    }
+   ]
+  },
+  {
+   "id": "case-ibm-smarter-planet",
+   "brand": "IBM",
+   "year": 2008,
+   "agency": null,
+   "sector": "tecnologia B2B",
+   "market": "global",
+   "type": "reposicionamento",
+   "challenge": "Reposicionar a IBM de fornecedora de hardware para empresa de aplicação inteligente de tecnologia, em plena crise de 2008.",
+   "insight": "Pacotes de estímulo iam para energia, saúde e transporte; tecnologia aplicada podia resolver os maiores problemas de líderes nacionais e urbanos.",
+   "strategy": "Falar com líderes de governo, cidades e empresas, não com gerentes de TI, com uma plataforma-convite.",
+   "execution": "Plataforma 'Let's Build a Smarter Planet', mantida por anos.",
+   "results": [
+    {
+     "metric": "receita da iniciativa em 2010",
+     "value": "US$ 3 bilhões, mais de 6.000 projetos com clientes",
+     "independent": false,
+     "source": "src-b2b-effectiveness-code-2021"
+    }
+   ],
+   "lessons": [
+    "Uma plataforma longa vira ativo estratégico",
+    "Mudar o interlocutor pode reposicionar a marca"
+   ],
+   "principles": [
+    "creative-commitment",
+    "consistency-over-time",
+    "b2b-brand-matters"
+   ],
+   "sources": [
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "paraphrase": "Exemplo de Strategic Asset."
+    }
+   ]
+  },
+  {
+   "id": "case-amex-small-business-saturday",
+   "brand": "American Express",
+   "year": 2010,
+   "agency": null,
+   "sector": "serviços financeiros",
+   "market": "EUA e Reino Unido",
+   "type": "lancamento",
+   "challenge": "Ajudar pequenos comerciantes a se recuperar da crise e competir com grandes redes.",
+   "insight": "Entre Black Friday e Cyber Monday não havia ocasião para o comércio local.",
+   "strategy": "Criar uma data nacional anual de compra no pequeno comércio, em que mais vendas locais significam mais transações com o cartão.",
+   "execution": "'Small Business Saturday', depois oficializado pelo Senado dos EUA e exportado ao Reino Unido.",
+   "results": [
+    {
+     "metric": "gasto em independentes em novembro",
+     "value": "mais de US$ 14 bi em 2014",
+     "independent": false,
+     "source": "src-b2b-effectiveness-code-2021"
+    },
+    {
+     "metric": "consumidores no dia",
+     "value": "110 milhões em 2019",
+     "independent": false,
+     "source": "src-b2b-effectiveness-code-2021"
+    }
+   ],
+   "lessons": [
+    "Fazer algo de que todos participam gera fama",
+    "Uma data repetida todo ano vira ativo da marca"
+   ],
+   "principles": [
+    "fame-effects",
+    "creative-commitment",
+    "consistency-over-time"
+   ],
+   "sources": [
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "paraphrase": "Exemplo de Strategic Asset."
+    }
+   ]
+  },
+  {
+   "id": "case-brighthouse-insights-panel",
+   "brand": "Brighthouse Financial",
+   "year": 2017,
+   "agency": null,
+   "sector": "seguros B2B2C",
+   "market": "EUA",
+   "type": "reposicionamento",
+   "challenge": "Mostrar compromisso com profissionais financeiros que distribuem os produtos.",
+   "insight": "Esses profissionais precisavam de conteúdo que os ajudasse a se relacionar melhor com clientes.",
+   "strategy": "Liderança de pensamento útil e contínua.",
+   "execution": "Painel com economistas comportamentais, antropólogos, futuristas e ex-profissionais produzindo estudos (futuro da aposentadoria, transferência de riqueza).",
+   "results": [
+    {
+     "metric": "crescimento de receita vs categoria",
+     "value": "12,6 vezes mais rápido",
+     "independent": false,
+     "source": "src-b2b-effectiveness-code-2021"
+    },
+    {
+     "metric": "share de mercado",
+     "value": "+50% entre 2017 e 2019",
+     "independent": false,
+     "source": "src-b2b-effectiveness-code-2021"
+    }
+   ],
+   "lessons": [
+    "Ser útil de forma consistente pode virar plataforma de marca",
+    "Em B2B, o canal (intermediário) também é público"
+   ],
+   "principles": [
+    "consistency-over-time"
+   ],
+   "sources": [
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "paraphrase": "Exemplo de Strategic Asset."
+    }
+   ]
+  },
+  {
+   "id": "case-jaguar-2024-copy-nothing",
+   "brand": "Jaguar",
+   "year": 2024,
+   "agency": null,
+   "sector": "automotivo de luxo",
+   "market": "global",
+   "type": "rebrand",
+   "challenge": "Marca enfraquecida (vendida 1 para 6 em relação à Land Rover) migrando para carros elétricos com preço cerca de duas vezes maior.",
+   "insight": "Segundo a marca, mirar compradores jovens, ricos e urbanos com foco em design ('Copy Nothing').",
+   "strategy": "Reset total: novos logos, tipografia, paleta colorida e linguagem de 'criatividade destemida', aceitando manter só 10% a 15% dos clientes.",
+   "execution": "Campanha de lançamento sem carros, com forte reação negativa nas redes.",
+   "results": [
+    {
+     "metric": "retenção esperada da base",
+     "value": "10% a 15%",
+     "independent": false,
+     "source": "src-ritson-jaguar-2024"
+    },
+    {
+     "metric": "reação nas redes",
+     "value": "cerca de 9 milhões de visualizações no X, majoritariamente negativas",
+     "independent": true,
+     "source": "src-ritson-jaguar-2024"
+    }
+   ],
+   "lessons": [
+    "Revitalizar em vez de resetar",
+    "Em mudança de produto, reforce os códigos",
+    "Não fale 'luxo' de si mesmo",
+    "Não descarte a base que mais compraria o novo produto",
+    "Jargão interno não é posicionamento"
+   ],
+   "principles": [
+    "rebrand-keep-equity",
+    "specificity-over-adjectives",
+    "reach-over-targeting"
+   ],
+   "sources": [
+    {
+     "id": "src-ritson-jaguar-2024",
+     "paraphrase": "Crítica do rebrand em novembro de 2024."
+    }
+   ]
+  },
+  {
+   "id": "case-auto-flat-logos-blanding",
+   "brand": "Vauxhall, Audi, Volkswagen, BMW, Toyota, Nissan",
+   "year": 2020,
+   "agency": null,
+   "sector": "automotivo",
+   "market": "global",
+   "type": "rebrand",
+   "challenge": "Modernizar logos para o digital.",
+   "insight": "Todas seguiram a mesma tendência de achatar e simplificar.",
+   "strategy": "Logo plano, fino e simplificado.",
+   "execution": "Entre 2018 e 2020, várias montadoras trocaram emblemas 3D cromados por versões planas.",
+   "results": [],
+   "lessons": [
+    "Seguir a tendência do momento faz marcas concorrentes ficarem parecidas",
+    "Pergunte se o redesenho aumenta ou diminui o que só a sua marca tem"
+   ],
+   "principles": [
+    "codes-of-category-break-or-follow"
+   ],
+   "sources": [
+    {
+     "id": "src-murrell-age-of-average-2023",
+     "paraphrase": "Exemplo de 'blanding' em identidades automotivas."
+    }
+   ]
+  }
+ ],
+ "antipatterns": [
+  {
+   "id": "blanding",
+   "name": "Blanding (identidade de fórmula)",
+   "description": "Identidade feita pela mesma receita das marcas da moda: nome inventado, sans-serif limpa, muito espaço em branco, tom direto, ilustrações alegres, cores vibrantes (roxo e turquesa), logo simplificado ou ausente.",
+   "signals": [
+    "nome inventado sem significado",
+    "sans-serif geométrica genérica sem desenho próprio",
+    "ilustrações de personagens sem rosto e alegres",
+    "logo achatado que parece o de concorrentes",
+    "paleta de tendência sem relação com a história da marca"
+   ],
+   "whyBad": "Quando todos usam a mesma fórmula, nenhum ativo identifica a marca sozinho; investimento vai para algo que não gera reconhecimento (85% do gasto em ativos não distintivos, Ipsos/JKR).",
+   "fix": "Comece pela auditoria da categoria, procure um ativo próprio (forma, personagem, tipografia desenhada, cor dona do contexto) e teste reconhecimento sem o nome.",
+   "domain": [
+    "identidade-visual",
+    "ativos-distintivos"
+   ],
+   "stage": [
+    "ativos",
+    "paisagem"
+   ],
+   "sources": [
+    {
+     "id": "src-murrell-age-of-average-2023",
+     "paraphrase": "Descreve o blanding nas identidades tech."
+    },
+    {
+     "id": "src-ipsos-jkr-be-distinctive-2023",
+     "paraphrase": "Só 15% dos ativos são distintivos."
+    }
+   ]
+  },
+  {
+   "id": "moodboard-effect",
+   "name": "Efeito moodboard",
+   "description": "Direção de arte copiada das mesmas fontes online de referência, gerando os mesmos truques visuais (produto em prateleira, produto flutuando com reflexo de céu, gotas de água, fundos pastel).",
+   "signals": [
+    "referências tiradas só de plataformas de inspiração populares",
+    "foto de produto em cenário pastel vazio",
+    "composições virais repetidas"
+   ],
+   "whyBad": "A abundância de referências estreita o pensamento; as peças ficam bonitas e indistinguíveis.",
+   "fix": "Busque referências fora da categoria e fora das plataformas óbvias; parta de um ativo ou história da marca, não de uma pasta de imagens.",
+   "domain": [
+    "identidade-visual"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "sources": [
+    {
+     "id": "src-murrell-age-of-average-2023",
+     "paraphrase": "Cita Elizabeth Goodspeed sobre o efeito moodboard."
+    }
+   ]
+  },
+  {
+   "id": "cloned-tagline-templates",
+   "name": "Slogan de molde",
+   "description": "Slogan que segue uma estrutura usada por dezenas de marcas, como 'Encontre seu X' ou 'X, do seu jeito'.",
+   "signals": [
+    "'encontre seu...'",
+    "'do seu jeito'",
+    "'feito para você'",
+    "verbo no imperativo + 'seu' + substantivo abstrato"
+   ],
+   "whyBad": "A estrutura já pertence à categoria inteira; slogans são o ativo menos distintivo (6% ouro, 81% esquecíveis).",
+   "fix": "Escreva uma frase que só a sua marca possa dizer, ligada a um fato ou ativo dela, e use por anos.",
+   "domain": [
+    "identidade-verbal"
+   ],
+   "stage": [
+    "voz"
+   ],
+   "sources": [
+    {
+     "id": "src-murrell-age-of-average-2023",
+     "paraphrase": "BBH listou 27 slogans no formato 'Find your X'."
+    },
+    {
+     "id": "src-ipsos-jkr-be-distinctive-2023",
+     "paraphrase": "81% dos slogans testados são quase totalmente esquecíveis."
+    }
+   ]
+  },
+  {
+   "id": "neutral-safe-advertising",
+   "name": "Anúncio 'seguro' que não provoca nada",
+   "description": "Peça aprovada por não ofender ninguém, que gera resposta neutra.",
+   "signals": [
+    "aprovação justificada por 'é seguro'",
+    "sem humor, surpresa nem personagem",
+    "lista de atributos com locução",
+    "pessoa encarando a câmera falando benefícios"
+   ],
+   "whyBad": "Neutralidade não destrói marca, mas desperdiça verba: o chato precisa de 2 a 2,6 vezes mais mídia para o mesmo efeito, e evitar emoção não reduz a negativa, só a positiva.",
+   "fix": "Aplique o Anti-Dull Dial, teste reação emocional e inclua personagem, acontecimento e lugar.",
+   "domain": [
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativacao",
+    "narrativa"
+   ],
+   "sources": [
+    {
+     "id": "src-system1-cost-of-dull-2024",
+     "paraphrase": "Metade das respostas é neutra; o custo é desperdício."
+    },
+    {
+     "id": "src-westwoodone-cost-of-dull-2025",
+     "paraphrase": "Dados de Field sobre o custo do chato."
+    }
+   ]
+  },
+  {
+   "id": "left-brain-ad-format",
+   "name": "Formato 'hemisfério esquerdo' em peça de marca",
+   "description": "Peça de construção de marca feita com recursos de resposta direta: texto na tela, produto isolado em fundo abstrato, apresentador frontal, ritmo repetitivo, sem cena nem diálogo.",
+   "signals": [
+    "muitas palavras escritas na tela",
+    "produto em fundo neutro",
+    "ninguém interage com ninguém",
+    "sem lugar reconhecível"
+   ],
+   "whyBad": "Funciona para clique e busca, mas perde a atenção sustentada que constrói marca e gera menos efeitos de negócio.",
+   "fix": "Para marca: personagem, acontecimento, lugar, diálogo, humor, música melódica. Para resposta: formato frontal tudo bem.",
+   "domain": [
+    "ativacao-eficacia",
+    "sonoro-motion"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-system1-achtung-wood-2020",
+     "paraphrase": "Traços de hemisfério esquerdo dão efeitos diretos e perdem o prêmio maior."
+    }
+   ]
+  },
+  {
+   "id": "roi-as-brand-kpi",
+   "name": "ROI como KPI de construção de marca",
+   "description": "Avaliar e cortar campanhas de marca pelo ROI ou ROAS.",
+   "signals": [
+    "meta de ROAS em campanha de alcance",
+    "comemoração de ROI alto com verba pequena",
+    "corte de mídia ampla por 'baixo retorno'"
+   ],
+   "whyBad": "Incentiva gastar pouco, mirar quem já compraria e preferir eficiência a lucro; ROI sobe enquanto o lucro cai.",
+   "fix": "Meça marca por lucro absoluto, share, penetração e poder de preço; ROI só para ativação.",
+   "domain": [
+    "equity-medicao"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-murrell-misleading-metric-2025",
+     "paraphrase": "Os três incentivos perversos do ROI."
+    },
+    {
+     "id": "src-ipa-news-go-big-2025-2026",
+     "paraphrase": "ROI +4%, lucro -11%."
+    }
+   ]
+  },
+  {
+   "id": "small-thinking-fragmentation",
+   "name": "Pensamento pequeno e verba pulverizada",
+   "description": "Muitas campanhas pequenas, curtas e muito segmentadas, em poucos canais, em vez de uma grande ideia sustentada.",
+   "signals": [
+    "campanhas de menos de 3 meses",
+    "nova ideia a cada trimestre",
+    "públicos estreitos por padrão",
+    "muitas agências especialistas sem ideia central"
+   ],
+   "whyBad": "Eficácia cresce com verba, duração e canais; a queda do compromisso criativo derrubou a eficácia e leva a uma 'espiral da morte' de verba e lucro.",
+   "fix": "Concentre verba numa ideia de plataforma, planeje para anos e desdobre em vários canais.",
+   "domain": [
+    "ativacao-eficacia",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "paraphrase": "O compromisso criativo B2B caiu na década."
+    },
+    {
+     "id": "src-ipa-news-go-big-2025-2026",
+     "paraphrase": "Pensamento pequeno está matando a publicidade."
+    }
+   ]
+  },
+  {
+   "id": "disposable-short-term-creativity",
+   "name": "Criatividade descartável de curto prazo",
+   "description": "Ideias criativas feitas para efeito imediato ou prêmio, sem papel na construção da marca ao longo do tempo.",
+   "signals": [
+    "campanha avaliada em menos de seis meses",
+    "ideia sem ativos da marca",
+    "peça pensada para júri, não para o público"
+   ],
+   "whyBad": "Campanhas premiadas perderam a vantagem de eficácia (multiplicador caiu de cerca de 12 para 4) quando a criatividade virou curto-prazista.",
+   "fix": "Exija no briefing como a ideia fortalece a marca em anos; avalie em 1 a 3 anos.",
+   "domain": [
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativacao",
+    "plataforma"
+   ],
+   "sources": [
+    {
+     "id": "src-mw-crisis-creative-effectiveness-2019",
+     "paraphrase": "Números da crise de eficácia criativa."
+    },
+    {
+     "id": "src-contagious-crisis-creative-2019",
+     "paraphrase": "Field pede fim da criatividade descartável."
+    }
+   ]
+  },
+  {
+   "id": "loyalty-first-strategy",
+   "name": "Estratégia centrada em fidelidade",
+   "description": "Planejar o crescimento a partir de reter e vender mais para quem já é cliente.",
+   "signals": [
+    "'reter é mais barato que conquistar' como argumento central",
+    "verba concentrada em CRM e programa de pontos",
+    "público de mídia = base de clientes"
+   ],
+   "whyBad": "Em todos os contextos do IPA a penetração é o motor; campanhas de fidelidade em B2B tiveram sucesso zero na medida composta.",
+   "fix": "Objetivo principal em novos compradores; base como complemento.",
+   "domain": [
+    "ciencia-crescimento",
+    "publico"
+   ],
+   "stage": [
+    "publico"
+   ],
+   "sources": [
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "paraphrase": "Fidelização perde para aquisição e alcance."
+    },
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "paraphrase": "Sem justificativa empírica em nenhum contexto."
+    }
+   ]
+  },
+  {
+   "id": "rational-only-b2b",
+   "name": "B2B só racional e técnico",
+   "description": "Comunicação B2B feita só de especificações, provas e jargão técnico, dirigida a quem está comprando agora.",
+   "signals": [
+    "peças cheias de especificação técnica",
+    "linguagem que um CFO não entende",
+    "só e-mail e marketing direto",
+    "nenhuma peça para quem não está comprando"
+   ],
+   "whyBad": "Decisões B2B são só um pouco mais racionais que B2C; mensagens racionais são esquecidas por quem não está em mercado (95%).",
+   "fix": "Crie plataforma emocional e ampla para o topo e deixe o técnico para a ativação.",
+   "domain": [
+    "b2b",
+    "identidade-verbal"
+   ],
+   "stage": [
+    "voz",
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-b2b-institute-5-principles-2019",
+     "paraphrase": "Mensagem racional não constrói marca B2B."
+    },
+    {
+     "id": "src-b2b-effectiveness-code-2021",
+     "paraphrase": "B2B usa muito menos emoção, humor e história que B2C."
+    }
+   ]
+  },
+  {
+   "id": "new-news-innovation-junkie",
+   "name": "Viciado em novidade",
+   "description": "Comunicação de marca sustentada por uma sequência de pequenas novidades de produto.",
+   "signals": [
+    "'novo', 'agora com', 'nova fórmula' como mensagem principal recorrente",
+    "troca de mensagem a cada pequena atualização"
+   ],
+   "whyBad": "Inovação pequena rende menos que comunicação emocional sem novidade e prejudica o crescimento de longo prazo.",
+   "fix": "Novidade pequena vai para a ativação; a marca continua com a sua plataforma emocional.",
+   "domain": [
+    "narrativa-proposito",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "narrativa"
+   ],
+   "sources": [
+    {
+     "id": "src-binet-field-effectiveness-in-context-2018",
+     "paraphrase": "Uma subclasse de 'innovation junkies' com desempenho fraco."
+    }
+   ]
+  },
+  {
+   "id": "performance-only-dependency",
+   "name": "Dependência total de mídia de performance",
+   "description": "Marca que vende quase só por anúncios pagos de resposta e para de vender quando a mídia para.",
+   "signals": [
+    "100% da verba em search/social/display",
+    "maioria da aquisição vinda de mídia paga",
+    "CAC subindo, ROAS caindo"
+   ],
+   "whyBad": "Leva ao platô de performance: sem base de lembrança, crescer exige pagar cada venda, cada vez mais caro.",
+   "fix": "Adicionar camadas de marca, alcance e ativos distintivos; medir base de vendas e busca pela marca.",
+   "domain": [
+    "ativacao-eficacia",
+    "estrategia"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-roach-performance-plateau-2022",
+     "paraphrase": "Descreve o platô e o caso Gousto."
+    }
+   ]
+  },
+  {
+   "id": "tactics-without-strategy",
+   "name": "Tática sem estratégia",
+   "description": "Plano que lista canais, ferramentas e ações sem alvo, posicionamento nem objetivos.",
+   "signals": [
+    "plano começa por 'vamos fazer TikTok, influenciadores, IA'",
+    "não há segmentação nem alvo descrito",
+    "objetivos genéricos ('aumentar engajamento')"
+   ],
+   "whyBad": "Execução sem direção gasta verba e torna o marketing o 'departamento de colorir'.",
+   "fix": "Diagnóstico, estratégia, objetivos e só então táticas.",
+   "domain": [
+    "estrategia"
+   ],
+   "stage": [
+    "diagnostico",
+    "posicionamento"
+   ],
+   "sources": [
+    {
+     "id": "src-ritson-tactification-2016",
+     "paraphrase": "Denuncia a tatificação."
+    }
+   ]
+  },
+  {
+   "id": "layered-concept-soup",
+   "name": "Sopa de camadas conceituais",
+   "description": "Plataforma de marca com valores, atributos, proposta de valor, essência, pilares e propósito empilhados, dizendo a mesma coisa com nomes diferentes.",
+   "signals": [
+    "mais de cinco camadas de conceitos",
+    "diagrama de cebola ou pirâmide com muitas palavras",
+    "ninguém consegue dizer o posicionamento em uma frase"
+   ],
+   "whyBad": "Confunde quem executa e dilui a escolha estratégica.",
+   "fix": "Um posicionamento em uma frase, com provas e tom como apoio.",
+   "domain": [
+    "posicionamento"
+   ],
+   "stage": [
+    "plataforma"
+   ],
+   "sources": [
+    {
+     "id": "src-ritson-bad-brand-consultant-2016",
+     "paraphrase": "Vender vários conceitos é sinal de consultoria ruim."
+    }
+   ]
+  },
+  {
+   "id": "consultant-buzzword-red-flags",
+   "name": "Sinais de consultoria de marca ruim",
+   "description": "Trabalho de marca apoiado em clichês: segmento 'millennials', recomendações sem dados, Maslow, metodologia com acrônimo registrado e idolatria da Apple.",
+   "signals": [
+    "'millennials' como segmento",
+    "nenhum dado de cliente",
+    "pirâmide de Maslow",
+    "método com acrônimo de marca registrada",
+    "Apple e Steve Jobs como exemplo para qualquer categoria"
+   ],
+   "whyBad": "Indica raciocínio de prateleira, sem diagnóstico do mercado real.",
+   "fix": "Exigir dados qualitativos e quantitativos, segmentação baseada em necessidade e exemplos da categoria.",
+   "domain": [
+    "estrategia",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "sources": [
+    {
+     "id": "src-ritson-bad-brand-consultant-2016",
+     "paraphrase": "Os sete sinais."
+    }
+   ]
+  },
+  {
+   "id": "heritage-reset",
+   "name": "Reset de herança",
+   "description": "Rebrand que joga fora códigos reconhecidos e a base de clientes para parecer moderno.",
+   "signals": [
+    "novo logo, tipografia e paleta ao mesmo tempo",
+    "nenhum ativo antigo mantido",
+    "plano aceita perder a maior parte dos clientes",
+    "origem da marca some do discurso"
+   ],
+   "whyBad": "Destrói equity acumulada e muitas vezes troca um ativo próprio por um visual de tendência.",
+   "fix": "Auditar e preservar ativos fortes; modernizar a execução.",
+   "domain": [
+    "ativos-distintivos",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "sources": [
+    {
+     "id": "src-ritson-jaguar-2024",
+     "paraphrase": "Jaguar como exemplo."
+    }
+   ]
+  },
+  {
+   "id": "self-described-luxury",
+   "name": "Marca que se chama de luxo",
+   "description": "Comunicação que usa 'luxo', 'premium' ou 'exclusivo' para descrever a si mesma.",
+   "signals": [
+    "'luxo' ou 'premium' no texto de marca",
+    "adjetivos de status em vez de detalhes concretos"
+   ],
+   "whyBad": "Marcas de luxo não dizem que são de luxo; o rótulo soa inseguro e genérico.",
+   "fix": "Mostre os detalhes, a origem e o ofício que justificam o preço.",
+   "domain": [
+    "identidade-verbal"
+   ],
+   "stage": [
+    "voz"
+   ],
+   "sources": [
+    {
+     "id": "src-ritson-jaguar-2024",
+     "paraphrase": "Critica a Jaguar por falar de luxo."
+    }
+   ]
+  },
+  {
+   "id": "brand-guidelines-too-vague-for-ai",
+   "name": "Diretriz de voz vaga demais para máquinas",
+   "description": "Guia de voz com adjetivos abertos ('calorosa', 'humana') que modelos de IA não interpretam corretamente.",
+   "signals": [
+    "voz descrita só com adjetivos",
+    "sem exemplos de faça/não faça",
+    "IA gerando texto frio para uma marca 'calorosa'"
+   ],
+   "whyBad": "Agentes e geradores de conteúdo leem literalmente; ambiguidade gera texto fora da marca em escala.",
+   "fix": "Traduza cada traço em instruções literais e exemplos (ex.: coloquial, frases curtas, segunda pessoa).",
+   "domain": [
+    "identidade-verbal"
+   ],
+   "stage": [
+    "voz"
+   ],
+   "sources": [
+    {
+     "id": "src-roach-brand-ai-2025",
+     "paraphrase": "Caso de cliente com voz 'calorosa' que a IA não captou."
+    }
+   ]
+  }
+ ],
+ "lexicon": [
+  {
+   "term": "inovação",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "diga qual problema a novidade resolve e para quem, com número ou exemplo",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "inovadora",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "troque pelo que a marca faz de diferente, com prova",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "innovative",
+   "lang": "en",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "say what it does differently, with proof",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "lifestyle",
+   "lang": "en",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "descreva a situação concreta de uso",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "estilo de vida",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "descreva a situação concreta de uso",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "aspiracional",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "diga que desejo específico a marca atende",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "aspirational",
+   "lang": "en",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "name the specific desire",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "integridade",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "mostre um comportamento verificável",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "parceiro de confiança",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "b2b",
+   "replacement": "mostre provas: prazos cumpridos, anos de relação, casos",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "trusted partner",
+   "lang": "en",
+   "kind": "cliche",
+   "category": "b2b",
+   "replacement": "show proof: tenure, cases, guarantees",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "millennials",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "segmente por necessidade ou situação de compra, não por geração",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016"
+   ]
+  },
+  {
+   "term": "encontre seu",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "escreva uma frase que só a sua marca possa dizer",
+   "sources": [
+    "src-murrell-age-of-average-2023"
+   ]
+  },
+  {
+   "term": "find your",
+   "lang": "en",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "write a line only your brand can own",
+   "sources": [
+    "src-murrell-age-of-average-2023"
+   ]
+  },
+  {
+   "term": "do seu jeito",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "diga o que concretamente o cliente pode escolher",
+   "sources": [
+    "src-murrell-age-of-average-2023"
+   ]
+  },
+  {
+   "term": "your way",
+   "lang": "en",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "say what the customer can actually choose",
+   "sources": [
+    "src-murrell-age-of-average-2023"
+   ]
+  },
+  {
+   "term": "feito para você",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "diga para quem e para quê, especificamente",
+   "sources": [
+    "src-murrell-age-of-average-2023"
+   ]
+  },
+  {
+   "term": "luxo",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "luxo",
+   "replacement": "mostre ofício, origem, materiais e detalhes",
+   "sources": [
+    "src-ritson-jaguar-2024"
+   ]
+  },
+  {
+   "term": "luxury",
+   "lang": "en",
+   "kind": "adjetivo-vazio",
+   "category": "luxo",
+   "replacement": "show craft, origin, materials",
+   "sources": [
+    "src-ritson-jaguar-2024"
+   ]
+  },
+  {
+   "term": "criatividade destemida",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "mostre o que foi feito, não o adjetivo",
+   "sources": [
+    "src-ritson-jaguar-2024"
+   ]
+  },
+  {
+   "term": "fearless creativity",
+   "lang": "en",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "show the work, not the adjective",
+   "sources": [
+    "src-ritson-jaguar-2024"
+   ]
+  },
+  {
+   "term": "exuberante",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "descreva o elemento concreto",
+   "sources": [
+    "src-ritson-jaguar-2024"
+   ]
+  },
+  {
+   "term": "modernista",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga o que muda para o cliente",
+   "sources": [
+    "src-ritson-jaguar-2024"
+   ]
+  },
+  {
+   "term": "premium",
+   "lang": "pt",
+   "kind": "adjetivo-vazio",
+   "category": "geral",
+   "replacement": "prove com detalhe concreto que justifique o preço",
+   "sources": [
+    "src-ritson-jaguar-2024"
+   ]
+  },
+  {
+   "term": "soluções inovadoras",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "b2b",
+   "replacement": "diga o que a solução faz, para quem e com que resultado",
+   "sources": [
+    "src-ritson-bad-brand-consultant-2016",
+    "src-b2b-effectiveness-code-2021"
+   ]
+  },
+  {
+   "term": "líder de mercado",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "b2b",
+   "replacement": "dê o número e a fonte da liderança",
+   "sources": [
+    "src-b2b-effectiveness-code-2021"
+   ]
+  },
+  {
+   "term": "tecnologia de ponta",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "tech",
+   "replacement": "diga o que a tecnologia permite fazer",
+   "sources": [
+    "src-b2b-institute-5-principles-2019"
+   ]
+  },
+  {
+   "term": "performance marketing",
+   "lang": "en",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga 'ativação' ou 'resposta direta'; toda boa comunicação precisa performar",
+   "sources": [
+    "src-roach-platform-age-ch1-2026"
+   ]
+  },
+  {
+   "term": "agora com",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "fmcg",
+   "replacement": "novidade pequena vai na ativação; a marca mantém sua plataforma",
+   "sources": [
+    "src-binet-field-effectiveness-in-context-2018"
+   ]
+  },
+  {
+   "term": "nova fórmula",
+   "lang": "pt",
+   "kind": "categoria",
+   "category": "fmcg",
+   "replacement": "só use como mensagem central se a mudança for grande",
+   "sources": [
+    "src-binet-field-effectiveness-in-context-2018"
+   ]
+  },
+  {
+   "term": "experiência única",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "descreva o que acontece de fato na experiência",
+   "sources": [
+    "src-murrell-age-of-average-2023"
+   ]
+  },
+  {
+   "term": "roi",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "para marca, fale de lucro absoluto, share e poder de preço",
+   "sources": [
+    "src-murrell-misleading-metric-2025"
+   ]
+  },
+  {
+   "term": "seguro e sem riscos",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "peça segura costuma ser neutra; busque emoção ou surpresa",
+   "sources": [
+    "src-system1-cost-of-dull-2024"
+   ]
+  }
+ ]
+}

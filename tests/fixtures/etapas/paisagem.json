@@ -1,0 +1,28 @@
+{
+ "categoria": { "nome": "Café especial torrado vendido direto ao consumidor", "quadroDeReferencia": "Café especial em grãos ou moído para preparar em casa", "comoOPublicoDescreve": "café bom de manhã, café fresco, café que não amarga" },
+ "alternativas": ["Café de mercado premium", "Assinaturas de café especial", "Cafeterias da região", "Continuar com o café de sempre"],
+ "concorrentes": [
+  { "nome": "Café Aurora", "promessa": "Paixão por café e experiência única", "voz": "fala de si, adjetivos", "fraqueza": "nenhum fato verificável" },
+  { "nome": "Santo Grão", "promessa": "Do grão à xícara com torra artesanal", "fraqueza": "promessa igual à de todos" },
+  { "nome": "Bom Dia Café", "promessa": "Café especial todo mês em casa", "forca": "conveniência de assinatura", "fraqueza": "frescor não comprovado" },
+  { "nome": "Terra Roxa", "promessa": "Soluções completas em cafés especiais", "fraqueza": "linguagem corporativa" }
+ ],
+ "convencoes": [
+  { "convencao": "cafés especiais", "tipo": "verbal", "decisao": "seguir", "porque": "é o nome da categoria; sem ele o público não nos encontra" },
+  { "convencao": "grãos selecionados", "tipo": "promessa", "decisao": "quebrar", "porque": "todos dizem e ninguém prova; vamos nomear os 6 sítios" },
+  { "convencao": "experiência única", "tipo": "promessa", "decisao": "quebrar", "porque": "promessa vaga; trocamos pelo frescor medido em dias" },
+  { "convencao": "do grão à xícara", "tipo": "verbal", "decisao": "quebrar", "porque": "frase da categoria inteira" },
+  { "convencao": "qualidade e excelência", "tipo": "promessa", "decisao": "quebrar", "porque": "adjetivo sem critério" },
+  { "convencao": "sabor", "tipo": "verbal", "decisao": "seguir", "porque": "é o que o público avalia, desde que descrito de forma simples" },
+  { "convencao": "torra artesanal", "tipo": "promessa", "decisao": "quebrar", "porque": "todo mundo diz artesanal; dizemos o dia e o tamanho do lote" },
+  { "convencao": "paixão por café", "tipo": "tom", "decisao": "quebrar", "porque": "clichê de categoria" },
+  { "convencao": "compromisso com o produtor", "tipo": "promessa", "decisao": "quebrar", "porque": "publicamos o preço pago por saca em vez de prometer" },
+  { "convencao": "tradição", "tipo": "tom", "decisao": "quebrar", "porque": "somos de 2019; a força está no frescor, não na idade" },
+  { "convencao": "notas sensoriais técnicas", "tipo": "verbal", "decisao": "quebrar", "porque": "o público se sente excluído por elas" }
+ ],
+ "espacosLivres": [
+  "Nenhum concorrente mostra a data da torra, e o público cita isso como o principal motivo de confiança",
+  "Ninguém explica café especial para quem tem vergonha de não saber preparar",
+  "Ninguém publica quanto paga ao produtor por saca"
+ ]
+}

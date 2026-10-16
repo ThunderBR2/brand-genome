@@ -1,0 +1,54 @@
+{
+  "name": "brand-genome",
+  "version": "0.1.0",
+  "description": "Engenharia de marca com evidência: um cânone destilado das melhores fontes de branding, análise da categoria e dos concorrentes, um processo em etapas com portões de qualidade e um verificador que barra o genérico.",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "brand": "dist/cli.js"
+  },
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "canon"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json && node -e \"try{require('fs').chmodSync('dist/cli.js',0o755)}catch{}\"",
+    "dev": "tsx src/cli.ts",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "canon": "tsx src/cli.ts canon build",
+    "mcp": "tsx src/cli.ts mcp"
+  },
+  "author": "Everton (Denoised)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "keywords": [
+    "branding",
+    "brand-strategy",
+    "positioning",
+    "tone-of-voice",
+    "naming",
+    "mcp",
+    "ai"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "cheerio": "^1.2.0",
+    "commander": "^15.0.0",
+    "mammoth": "^1.13.0",
+    "pdfjs-dist": "^4.10.38",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.5"
+  },
+  "optionalDependencies": {
+    "playwright": "^1.64.1"
+  }
+}

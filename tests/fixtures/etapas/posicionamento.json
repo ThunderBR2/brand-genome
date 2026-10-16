@@ -1,0 +1,16 @@
+{
+ "quadroDeReferencia": "Café especial para preparar em casa",
+ "alvo": "Quem toma café coado todo dia e quer saber que está pagando por café fresco",
+ "pontosDeParidade": ["Cafés especiais com pontuação acima de 80", "Compra simples pelo site", "Opção em grão e moído"],
+ "pontosDeDiferenca": [
+  { "diferencial": "Data da torra impressa e envio com no máximo 5 dias de torra", "prova": "Torra às terças e quintas; pacote com data; 5 dias como regra escrita", "relevancia": "É o motivo de confiança mais citado pelos clientes", "sustentabilidade": "Exige torrar em lotes pequenos e com frequência, o que marcas maiores não conseguem" },
+  { "diferencial": "Preço pago a cada sítio publicado no site", "prova": "Valor por saca dos 6 sítios publicado, em média 40% acima da bolsa", "relevancia": "Responde à desconfiança de quem paga mais caro", "sustentabilidade": "Expõe a cadeia inteira; quem compra de intermediários não tem como publicar" }
+ ],
+ "onliness": "Somos a única torrefação da Mantiqueira que imprime a data da torra no pacote e só envia café com até 5 dias de torra, para quem toma café coado todo dia e quer ter certeza de que é fresco.",
+ "declaracao": "Para quem toma café coado todo dia, a Grão Alto é a torrefação da Serra da Mantiqueira que prova o frescor: imprime a data da torra em cada pacote, só envia café com até 5 dias de torra e publica quanto paga a cada um dos 6 sítios.",
+ "razoesParaAcreditar": ["Lotes de 12 kg torrados às terças e quintas", "Valor pago por saca publicado para os 6 sítios", "Data da torra e nome do produtor em cada pacote"],
+ "sacrificio": ["Não vamos vender em supermercado, onde o café fica semanas na prateleira", "Não vamos atender quem quer o menor preço por quilo"],
+ "opostoPlausivel": "Uma marca de café especial com estoque grande, presente no varejo e com preço menor, que prioriza estar em todo lugar em vez do frescor",
+ "inimigo": "Café velho vendido como especial",
+ "palavraParaPossuir": "fresco"
+}

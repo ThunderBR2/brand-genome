@@ -1,0 +1,23 @@
+{
+ "tracos": [
+  { "traco": "Mostra o número", "significa": "Toda afirmação importante vem com data, quantidade ou nome", "naoSignifica": "Encher o texto de dados técnicos", "faca": ["Diga o dia da torra", "Diga quantos quilos, quantos dias, quanto pagamos"], "naoFaca": ["Prometer frescor sem dizer quantos dias", "Usar 'selecionado' sem dizer por quem"], "exemplo": "Torrado na terça. Chega na sua casa até sábado." },
+  { "traco": "Fala de mesa de cozinha", "significa": "Explica café como se explicasse a um vizinho, sem jargão de barista", "naoSignifica": "Infantilizar quem lê", "faca": ["Descreva o café pelo jeito de tomar", "Use frases curtas"], "naoFaca": ["Notas sensoriais sem tradução", "Termos em inglês de barista"], "exemplo": "Doce, bom puro ou com leite. Rende bem no coado." },
+  { "traco": "Calma do interior", "significa": "Segura, sem pressa e sem gritar", "naoSignifica": "Lenta ou desinteressada", "faca": ["Termine frases com ponto final", "Use o nome dos produtores"], "naoFaca": ["Exclamações", "Urgência falsa como 'últimas unidades'"], "exemplo": "Seu Antônio colheu este lote em agosto, no sítio dele em Gonçalves." }
+ ],
+ "mapaDeTom": [
+  { "situacao": "Página de produto", "ajuste": "mais dados: dia da torra, sítio, altitude", "exemplo": "Torra de 14 de outubro. Sítio Pedra Branca, 1.250 metros." },
+  { "situacao": "Atraso na entrega", "ajuste": "direta e responsável, sem desculpa genérica", "exemplo": "Seu pedido atrasou dois dias por nossa conta. Vamos torrar um lote novo e enviar amanhã." },
+  { "situacao": "Instagram", "ajuste": "mais leve, mostrando a torra e os produtores", "exemplo": "Terça é dia de torra. Hoje saem 12 kg do Sítio Pedra Branca." }
+ ],
+ "lexico": {
+  "usar": ["torrado em", "dias de torra", "sítio", "produtor", "coado", "fresco"],
+  "evitar": ["grãos selecionados", "experiência única", "do grão à xícara", "qualidade", "excelência", "paixão por café", "torra artesanal", "notas sensoriais", "cafés especiais de qualidade"],
+  "palavrasProprias": ["café com data", "dia de torra", "dias de torra", "preço aberto"]
+ },
+ "gramatica": { "pessoa": "nos", "formalidade": 2.5, "frasesMedia": 10, "frasesMax": 22, "exclamacao": "nunca", "emoji": "nunca", "outras": ["Números em algarismos", "Nomes de produtores sempre com o nome do sítio"] },
+ "exemplos": [
+  { "contexto": "Topo do site", "antes": "Cafés especiais com paixão por café, grãos selecionados e qualidade do grão à xícara.", "depois": "Café com data. Torramos às terças e quintas e só enviamos café com até 5 dias de torra." },
+  { "contexto": "Descrição de produto", "antes": "Café especial com notas de frutas vermelhas e chocolate, acidez cítrica e corpo aveludado.", "depois": "Doce e encorpado, bom puro ou com leite. Vem do Sítio Pedra Branca, em Gonçalves, a 1.250 metros." },
+  { "contexto": "Sobre nós", "antes": "Somos apaixonados por café e temos compromisso com a excelência e o produtor.", "depois": "Compramos de 6 sítios da Mantiqueira e publicamos quanto pagamos por saca. Em 2025, foram em média 40% acima da bolsa." }
+ ]
+}

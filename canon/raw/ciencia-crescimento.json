@@ -1,0 +1,2849 @@
+{
+ "batch": "ciencia-crescimento",
+ "sources": [
+  {
+   "id": "src-ebi-95-5-rule-b2b",
+   "title": "Advertising effectiveness and the 95-5 rule: most B2B buyers are not in the market right now",
+   "url": "https://marketingscience.info/news-and-insights/advertising-effectiveness-and-the-95-5-rule-most-b2b-buyers-are-not-in-the-market-right-now",
+   "author": "John Dawes (Ehrenberg-Bass Institute) para o LinkedIn B2B Institute",
+   "year": 2021,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Como empresas trocam fornecedores de serviço a cada ~5 anos em média, só cerca de 20% estão no mercado num ano e ~5% num trimestre. Logo a propaganda age sobretudo criando e renovando memórias que serão usadas quando o comprador entrar no mercado. Mirar só quem está pronto para comprar não constrói a disponibilidade mental necessária para crescer.",
+   "notes": "Texto integral no site do EBI (republicado em acesso aberto); também é capítulo do compêndio How B2B Brands Grow do LinkedIn. O próprio autor diz que 95% é heurística, não número exato. Encomendado pelo LinkedIn B2B Institute, que vende mídia: marcado como patrocinado."
+  },
+  {
+   "id": "src-ebi-stop-advertising-2018",
+   "title": "What happens to sales when brands stop advertising for long periods?",
+   "url": "https://marketingscience.info/news-and-insights/what-happens-when-brands-stop-advertising",
+   "author": "Adam Gelzinis, Rachel Kennedy, Virginia Beal, Nicole Hartnett e Byron Sharp (Ehrenberg-Bass Institute)",
+   "year": 2018,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Com 20+ anos de dados de 70 marcas de uma categoria de bens de consumo na Austrália, 57 casos de corte total de mídia por 1 ano ou mais: vendas caíram em média 16% após um ano, 25% após dois e 36% após três. Marcas pequenas e marcas já em queda caem mais rápido; marcas grandes em crescimento seguraram o crescimento por 1 a 2 anos. Voltar ao ar após um ano parado não recuperou a trajetória de metade das marcas.",
+   "notes": "Relatório para patrocinadores liberado ao público após publicação no Journal of Advertising Research. Uma única categoria e um país; os autores avisam que a generalização está em estudo."
+  },
+  {
+   "id": "src-ebi-cep-b2b-2022",
+   "title": "Category Entry Points in a Business-to-Business (B2B) world",
+   "url": "https://marketingscience.info/news-and-insights/category-entry-points-in-a-business-to-business-b2b-world",
+   "author": "Jenni Romaniuk (Ehrenberg-Bass Institute) para o LinkedIn B2B Institute",
+   "year": 2022,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Define CEPs como as pistas (internas e externas) que o comprador usa para buscar marcas na memória numa situação de compra e ensina a gerá-los (os W's), priorizá-los (3Cs: credibilidade, competitividade, comunalidade) e medi-los (participação mental, penetração mental, tamanho da rede). Em seguros empresariais nos EUA, cada CEP a mais ligado à marca reduz a probabilidade de defecção em cerca de 5% (16 de 17 produtos significativos).",
+   "notes": "Texto integral aberto. Dados de seguros (EUA, n=606), anúncios online (EUA, n=311, pesquisa feita para o LinkedIn) e banco empresarial (Reino Unido, n=609). Probabilidade de troca medida pela escala Juster (intenção, não comportamento real)."
+  },
+  {
+   "id": "src-ebi-double-jeopardy-b2b-2021",
+   "title": "The Double Jeopardy Law in B2B shows the way to grow",
+   "url": "https://marketingscience.info/news-and-insights/the-double-jeopardy-law-in-b2b-shows-the-way-to-grow",
+   "author": "Jenni Romaniuk, John Dawes e Sahar Faghidno (Ehrenberg-Bass Institute) para o LinkedIn B2B Institute",
+   "year": 2021,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Mostra a lei do Double Jeopardy em banco empresarial (Reino Unido), seguros empresariais (EUA), concreto e aviões: marcas com menos clientes também têm clientes um pouco menos fiéis. Conclui que só há um caminho sustentável de crescimento em B2B, que é aumentar a base de clientes, e que a fidelidade tem tetos previsíveis pelo tamanho. Ensina a testar a lei na sua categoria com uma pesquisa simples.",
+   "notes": "Texto integral aberto; também é capítulo do compêndio do LinkedIn. Desvios da lei são tratados como exceções a investigar."
+  },
+  {
+   "id": "src-ebi-how-b2b-brands-compete",
+   "title": "How do B2B brands compete? (Duplication of Purchase Law)",
+   "url": "https://marketingscience.info/news-and-insights/how-do-b2b-brands-compete",
+   "author": "Jenni Romaniuk (Ehrenberg-Bass Institute) para o LinkedIn B2B Institute",
+   "year": 2021,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Aplica a Lei de Duplicação de Compra a B2B: toda marca divide clientes com as concorrentes na proporção do tamanho delas (correlação de 93% em seguros empresariais nos EUA; padrões iguais em combustível de aviação e bancos). Os principais concorrentes são as marcas grandes, não as parecidas, e o crescimento vem de tirar clientes de todas, proporcionalmente.",
+   "notes": "Texto integral aberto. Inclui a Lei do Monopólio Natural (marcas grandes concentram compradores leves)."
+  },
+  {
+   "id": "src-ebi-b2b-brand-rejection",
+   "title": "Brand rejection in B2B: incidence, reasons and implications",
+   "url": "https://marketingscience.info/news-and-insights/brand-rejection-in-b2b-indidence-reasons-and-implications",
+   "author": "Jenni Romaniuk (Ehrenberg-Bass Institute) para o LinkedIn B2B Institute",
+   "year": 2021,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Com 609 compradores de banco empresarial (Reino Unido) e 616 de seguros (EUA), a rejeição ativa média foi de 11% e 7%, parecida com os 9% de mediana em 535 marcas B2C. Os motivos de rejeição são difusos, e o desconhecimento da marca é barreira muito maior que a rejeição, sobretudo para marcas pequenas. Recomenda investir em disponibilidade mental e física em vez de 'consertar' motivos de rejeição.",
+   "notes": "Texto integral aberto."
+  },
+  {
+   "id": "src-ebi-best-product-doesnt-win",
+   "title": "Why you need to advertise: the best product doesn't win",
+   "url": "https://marketingscience.info/news-and-insights/why-you-need-to-advertise-the-best-product-doesnt-win",
+   "author": "Ehrenberg-Bass Institute para o LinkedIn B2B Institute (autor não identificado na página)",
+   "year": 2020,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Compradores B2B são avarentos cognitivos: estudos citados mostram conjuntos de consideração de 2 a 4 fornecedores (média ~3), e mais de 80% escolhem marcas já conhecidas ao buscar online. Ninguém sabe qual é o melhor produto; a marca precisa ser conhecida e lembrada. Recomenda anunciar para a base ampla de compradores futuros, espalhando o investimento no tempo.",
+   "notes": "Texto integral aberto. Ano inferido pelas referências (citadas em 2020). Argumento sustentado por estudos de terceiros citados, sem dado novo."
+  },
+  {
+   "id": "src-ebi-easy-to-find-b2b",
+   "title": "Easy to find: being where B2B buying happens",
+   "url": "https://marketingscience.info/news-and-insights/easy-to-find-being-where-b2b-buying-happens",
+   "author": "Ehrenberg-Bass Institute para o LinkedIn B2B Institute",
+   "year": 2025,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Propõe um modelo de disponibilidade física para B2B em três frentes: presença (canais, cobrindo receita e clientes da categoria), proeminência (ser fácil de achar; 'alugada' via mídia paga ou 'própria' via ativos distintivos) e portfólio (proteger o produto núcleo e enxugar caudas longas). Usa a Lei de Duplicação de Compra entre canais para achar canais redundantes e complementares.",
+   "notes": "Texto integral aberto. Ano inferido (menciona busca com IA e agentes). Pesquisa com 500+ profissionais de marketing B2B nos EUA e Reino Unido; tabelas de canais de software e serviços financeiros."
+  },
+  {
+   "id": "src-ebi-purpose-aware-2025",
+   "title": "Brand Purpose... Are consumers aware to care?",
+   "url": "https://marketingscience.info/news-and-insights/brand-purposeare-consumers-aware-to-care",
+   "author": "Victoria Tait, Virginia Beal, John Dawes e Byron Sharp (Ehrenberg-Bass Institute)",
+   "year": 2025,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Com quase 3.000 entrevistados nos EUA, Reino Unido e Austrália, 14 marcas tidas como exemplos de propósito tiveram reconhecimento médio do propósito de 18%, contra 9% para propósitos falsos inventados, o que sugere consciência real perto de 9%. A Nike foi exceção (52% nos EUA), em parte por ser muito grande. Conclui que propósito não é necessário para crescer e que o investimento nele tem custo de oportunidade.",
+   "notes": "Texto integral aberto (parte 1 de 2). Mede consciência, não efeito em vendas. A pesquisadora principal declara ter começado a favor do propósito."
+  },
+  {
+   "id": "src-ebi-genai-rejection-b2b",
+   "title": "Buyer says no: the rejection of Generative AI brands in B2B",
+   "url": "https://marketingscience.info/news-and-insights/buyer-says-no-the-rejection-of-generative-ai-brands-in-b2b",
+   "author": "Ehrenberg-Bass Institute",
+   "year": 2025,
+   "format": "relatorio",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Com 2.835 usuários profissionais de IA generativa em 13 países e 20 empresas, a rejeição média foi de 6% (máximo 15%). O motivo mais comum foi falta de familiaridade (22%); custo e boca a boca negativo ficaram em 3% ou menos. Há sempre mais gente sem opinião ou que não conhece a marca do que gente que a rejeita, de 1,3 a 3,9 vezes.",
+   "notes": "Texto integral aberto (resumo do relatório). Ano inferido."
+  },
+  {
+   "id": "src-ebi-cannes-ritson-sharp-2026",
+   "title": "From mental availability to mass marketing, purpose nonsense and consistency: what Ritson and Sharp did and didn't agree on at this year's Cannes",
+   "url": "https://marketingscience.info/news-and-insights/from-mental-availability-to-mass-marketing-purpose-nonsense-and-consistency-what-ritson-and-sharp-did-and-didnt-agree-on-at-this-years-cannes",
+   "author": "Mi3 (republicado pelo Ehrenberg-Bass Institute)",
+   "year": 2026,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "misto",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Relato do painel de Ritson e Sharp em Cannes 2026. Concordam em disponibilidade mental como tarefa central, ativos distintivos (Ritson troca 'brand codes' pelo termo de Sharp), marketing de massa sofisticado, a razão 95:5 e campanhas que duram anos. Divergem em diferenciação: Ritson defende diferenciação relativa por cima da distintividade; Sharp diz que diferenciação percebida é muito baixa e importa pouco.",
+   "notes": "Página do EBI republica trecho do Mi3 (original: mi-3.com.au, 24/06/2026); lido o trecho disponível, não o artigo completo do Mi3."
+  },
+  {
+   "id": "src-ebi-differentiation-vs-distinctiveness",
+   "title": "Differentiation versus distinctiveness",
+   "url": "https://marketingscience.info/differentiation-versus-distinctiveness",
+   "author": "Marketingfacts (série sobre marketing B2B; republicado pelo Ehrenberg-Bass Institute)",
+   "year": 2022,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Explica a diferença entre diferenciação (atributos que tornam a oferta diferente) e distintividade (ser facilmente identificado: nome, logo, jingle, cores). Resume a virada provocada por How Brands Grow e cita Ritson concordando que, em B2B também, saliência pesa mais que imagem. Compradores B2B fazem 'satisficing' e comparam no máximo as duas opções mais conhecidas.",
+   "notes": "Trecho republicado; original em marketingfacts.nl. Ano inferido (cita coluna de Ritson sobre Belvedere). Texto de divulgação, sem dados próprios."
+  },
+  {
+   "id": "src-sharp-measure-salience",
+   "title": "How to measure brand salience",
+   "url": "https://marketingscience.info/how-to-measure-brand-salience",
+   "author": "Byron Sharp",
+   "year": null,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Sharp define saliência de marca como a propensão de ser notada ou lembrada em situações de compra e diz que ela depende das pistas. Medidas de lembrança tradicionais usam uma pista só (o nome da categoria) e por isso falham; é preciso uma amostra representativa de associações. Rastreadores de marca medem atitude demais (o que reflete uso passado) e devem acompanhar os ativos distintivos à parte.",
+   "notes": "Post curto sem data na página. O método detalhado (Report 41) é restrito a patrocinadores."
+  },
+  {
+   "id": "src-romaniuk-sharp-2004-salience",
+   "title": "Conceptualizing and measuring brand salience (Marketing Theory 4(4))",
+   "url": "https://studysites.uk.sagepub.com/clow/study/articles/PDFs/05_Romanuik.pdf",
+   "author": "Jenni Romaniuk e Byron Sharp",
+   "year": 2004,
+   "format": "paper",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "framework",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Artigo conceitual que separa saliência de consciência e de atitude: saliência é a quantidade e a qualidade da rede de memória da marca, acessada por várias pistas. Propõe medir com um conjunto amplo de pistas (situações, benefícios, atributos), em relação aos concorrentes, e com respostas sim/não de associação. Lembra que só cerca de metade das associações se repete numa segunda medição, o que indica propensões probabilísticas.",
+   "notes": "PDF hospedado no site de apoio da SAGE (editora). O download direto falhou; o conteúdo foi lido pela ferramenta de busca da web, sem acesso ao arquivo completo. O artigo é conceitual: as previsões ficam para testes futuros."
+  },
+  {
+   "id": "src-vieceli-sharp-2001-salience-recall",
+   "title": "The inhibiting effect of brand salience on brand name recall",
+   "url": "https://assets.marketingscience.info/7234.pdf",
+   "author": "Julian Vieceli e Byron Sharp",
+   "year": 2001,
+   "format": "paper",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Replicação de Alba & Chattopadhyay (1986), que diziam que tornar uma marca muito saliente inibe a lembrança das concorrentes. Com 210 estudantes em dois experimentos (xampu e cereal), a inibição não apareceu e a tendência foi a oposta, como prevê o modelo de rede associativa da memória. O artigo também resume a visão de que a propaganda repetitiva atua mais na saliência que na mudança de atitude.",
+   "notes": "Cópia aberta (anais da ANZMAC). Amostra de estudantes e manipulação artificial de saliência; os próprios autores apontam o limite de validade externa."
+  },
+  {
+   "id": "src-sharp-blog-answering-critics-2016",
+   "title": "Answering critics",
+   "url": "https://byronsharp.wordpress.com/2016/09/18/answering-critics/",
+   "author": "Byron Sharp",
+   "year": 2016,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Sharp responde a críticas comuns a How Brands Grow. Lembra que o 'double' do Double Jeopardy significa que, quando a marca cresce, a fidelidade também sobe um pouco. Mas, para crescer, a penetração precisa subir muito mais que a frequência de compra. Diz que atitude segue comportamento e que mudanças aparentes de atitude que precedem compra são sobretudo regressão à média. Chama o propósito de marca de moda que a maioria dos consumidores ignora.",
+   "notes": "Blog pessoal; inclui debate nos comentários com um defensor de métricas de atitude (posição contrária registrada no debate de fidelidade)."
+  },
+  {
+   "id": "src-sharp-blog-brand-image-2018",
+   "title": "Some inconvenient truths about brand image perceptions",
+   "url": "https://byronsharp.wordpress.com/2018/08/14/some-truth-about-brand-image-perceptions/",
+   "author": "Byron Sharp",
+   "year": 2018,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Percepções avaliativas de marca refletem sobretudo o uso passado dos entrevistados, isto é, a participação de mercado. Não se sabe quanto vale uma pequena mudança numa associação, e análises de 'drivers' sobre séries temporais são pseudociência ajustada demais aos dados. A pesquisa de imagem serve para conhecer os ativos e fazer a propaganda parecer a marca, não para buscar significado em oscilações.",
+   "notes": "Blog pessoal; nos comentários, Koen Pauwels discorda (diz que, em algumas marcas, percepção move vendas). Ambos concordam que disponibilidade mental afeta vendas."
+  },
+  {
+   "id": "src-sharp-2002-economy-of-scale",
+   "title": "A Marketing Economy of Scale: Big Brands Lose Less of their Customer Base than Small Brands",
+   "url": "https://www.byronsharp.com/resources/7273.pdf",
+   "author": "Byron Sharp, Erica Riebe, John Dawes e Nick Danenberg",
+   "year": 2002,
+   "format": "paper",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Em mercados estacionários, marcas pequenas perdem e ganham uma fatia maior da própria base todo ano (churn maior) só por serem pequenas: Double Jeopardy aplicado à defecção. Num mercado industrial, a maior marca tinha 18% de probabilidade de defecção e a menor, 28%. Conclui que metas de retenção precisam ser realistas para o tamanho da marca.",
+   "notes": "Marketing Bulletin 13, cópia do autor. Amostra pequena (200 varejistas) e intenção de troca medida por escala verbal de probabilidade."
+  },
+  {
+   "id": "src-riquier-sharp-1997-usage-bias",
+   "title": "Image Measurement and the Problem of Usage Bias",
+   "url": "https://www.byronsharp.com/resources/4909.pdf",
+   "author": "Christopher Riquier e Byron Sharp",
+   "year": 1997,
+   "format": "paper",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Replica Ehrenberg: atributos avaliativos ('confiável', 'bom serviço') são citados por usuários e muito menos por não usuários, então variam com a participação de mercado; atributos descritivos não. Com 560 pequenas e médias empresas avaliando bancos na Austrália, mostra que mapas perceptuais acabam com um eixo dominado pelo tamanho das marcas, ou seja, mostram participação de mercado disfarçada de posicionamento.",
+   "notes": "Cópia do autor (artigo da conferência EMAC). Lido o início e a metodologia; resultados detalhados em tabelas não totalmente legíveis em texto."
+  },
+  {
+   "id": "src-sharp-sharp-loyalty-programs",
+   "title": "Loyalty Programs and their Impact on Repeat-Purchase Loyalty Patterns: a replication and extension",
+   "url": "https://www.byronsharp.com/resources/6076.PDF",
+   "author": "Byron Sharp e Anne Sharp",
+   "year": 1999,
+   "format": "paper",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Usando o modelo Dirichlet como referência, mostra que um programa de fidelidade na Nova Zelândia gerou 'excesso de fidelidade' e ajudou a marca a ganhar participação, mas de forma defensiva, concentrada em quem já comprava. A promoção de preço rival gerou ganho maior, porém temporário. Ganhos permanentes 'normais' vêm de penetração.",
+   "notes": "Cópia do autor (EMAC 1999). Marcas anonimizadas. A permanência do efeito não foi investigada."
+  },
+  {
+   "id": "src-mundt-sharp-dawes-2003-multiproduct",
+   "title": "An Investigation of Multi-Product Loyalty in Financial Services",
+   "url": "https://www.byronsharp.com/resources/10092.pdf",
+   "author": "Kerry Mundt, Byron Sharp e John Dawes",
+   "year": 2003,
+   "format": "paper",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Com 14.000+ respondentes, instituições financeiras têm cerca de 2 produtos por cliente (variação de 1,6 a 2,2 em cinco anos), são a principal instituição para cerca de dois terços dos clientes e ficam com 30% a 35% do 'share of wallet'. Os padrões são previsíveis e quase iguais entre concorrentes, o que torna a venda cruzada uma rota difícil de crescimento.",
+   "notes": "Cópia do autor (ANZMAC 2003). Dados do Reino Unido."
+  },
+  {
+   "id": "src-ehrenberg-barnard-sharp-2000-models",
+   "title": "Decision models or descriptive models?",
+   "url": "https://www.byronsharp.com/resources/6791.pdf",
+   "author": "Andrew Ehrenberg, Neil Barnard e Byron Sharp (IJRM 17)",
+   "year": 2000,
+   "format": "paper",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Critica modelos de decisão (logit, mix de marketing calibrado num único conjunto de dados) por causalidade presumida e baixa previsibilidade em dados novos. Defende modelos descritivos, como o Dirichlet, validados em muitas categorias, países e épocas, como base do conhecimento de marketing. Conclusão aplicada: uma marca em geral cresce ganhando mais clientes, não tornando os atuais mais fiéis.",
+   "notes": "Cópia do autor de artigo da Elsevier. Lidos introdução e discussão; as seções técnicas foram lidas por alto."
+  },
+  {
+   "id": "src-li-how-b2b-brands-grow",
+   "title": "How B2B Brands Grow (compêndio: introdução do B2B Institute e prefácio de Byron Sharp)",
+   "url": "https://business.linkedin.com/advertise/resources/b2b-institute/how-b2b-brands-grow",
+   "author": "LinkedIn B2B Institute e Ehrenberg-Bass Institute (Byron Sharp, Jenni Romaniuk, John Dawes, Sahar Faghidno)",
+   "year": 2021,
+   "format": "pdf",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "A introdução resume a visão do EBI para B2B: comprador escolhe marcas fáceis de lembrar e de achar, crescimento vem de novos clientes, marcas competem por distintividade e a propaganda funciona ao renovar memórias de quem vai comprar daqui a anos. No prefácio, Sharp diz que disponibilidade mental, física e a iconografia distintiva são ativos de mercado (brand equity) e que vantagens de produto e preço raramente duram.",
+   "notes": "Página e PDFs do LinkedIn (b2b-introduction.pdf, byron-sharp-v1.pdf). Os capítulos de dados (Double Jeopardy, duplicação, rejeição, 95-5) espelham os relatórios do EBI catalogados à parte. Conteúdo de um vendedor de mídia: interesse comercial em defender propaganda de alcance."
+  },
+  {
+   "id": "src-li-salesforce-trailblazer-case",
+   "title": "How Salesforce's Trailblazer Campaign Builds Mental Availability",
+   "url": "https://business.linkedin.com/content/dam/lem/business/en/advertise/resources/b2b-institute/b2bi-salesforce-case-study.pdf",
+   "author": "LinkedIn B2B Institute",
+   "year": 2021,
+   "format": "case",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "caso",
+   "sponsored": true,
+   "dissected": true,
+   "summary": "Caso da Salesforce: marca famosa, mas poucos sabiam como ela ajudaria seus negócios, um déficit de consciência situacional. A campanha Trailblazer (2019) usou os personagens Astro e Codey como ativos distintivos e ligou a marca a várias situações de compra de CRM, seguindo o método RMB (alcance, mensagem, marca). O caso também contrapõe a visão centrada na marca à visão centrada no cliente.",
+   "notes": "Resultados declarados pela própria Salesforce ('métricas quase dobraram'), sem números independentes. Peça de conteúdo do LinkedIn."
+  },
+  {
+   "id": "src-ritson-mw-differentiation-2023",
+   "title": "Ritson: Differentiation is not about uniqueness",
+   "url": "https://www.marketingweek.com/ritson-differentiation-uniqueness/",
+   "author": "Josh Stephenson (Marketing Week), sobre fala de Mark Ritson",
+   "year": 2023,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Ritson defende 'diferenciação relativa': ter mais de um atributo valorizado do que os concorrentes, em vez de unicidade. Diz que o mercado exagerou na virada para a distintividade por causa de How Brands Grow. Recomenda um conceito de posicionamento, usar CEPs e 3Cs para escolher, falar menos e com mais frequência, e entregar com execução distintiva. Romaniuk concordou com cerca de 60%.",
+   "notes": "Lido pela ferramenta de busca da web (o download direto deu 403); texto aparentemente integral, sem paywall visível."
+  },
+  {
+   "id": "src-mi3-ritson-dogma-2023",
+   "title": "Don't call it science, call it what it really is: consulting, dogma, ideology (Mark Ritson)",
+   "url": "https://mi-3.com.au/30-08-2023/dont-call-it-science-call-it-what-it-really-consulting-dogma-ideology-mark-ritson-why",
+   "author": "Mi3, sobre palestra de Mark Ritson no ADMA Global Forum",
+   "year": 2023,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Ritson elogia How Brands Grow e chama a distintividade de conceito brilhante, mas rejeita a ideia de buscar distintividade 'em vez de' diferenciação significativa. Acusa o EBI de dogma com interesse comercial. Propõe definir o alvo, um posicionamento com 2 ou 3 atributos, cerca de 60% do orçamento em marca e a mesma mensagem por anos, junto de poucos ativos distintivos.",
+   "notes": "Lido pela ferramenta de busca da web; data inferida pela URL. Sem resposta do EBI no texto."
+  },
+  {
+   "id": "src-mw-reality-check-ceps-2026",
+   "title": "Reality Check: There's more to mental availability than category entry points",
+   "url": "https://www.marketingweek.com/reality-check-mental-availability-category-entry-points/",
+   "author": "Ian Murray e Andrew Tenzer (Everyday People), Marketing Week",
+   "year": 2026,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "comportamental",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Os autores aceitam o método de Romaniuk, mas dizem que CEPs não bastam: em carros elétricos, só metade dos 10 atributos mais associados são CEPs, e sinais de força comercial ('marca grande, bem-sucedida') e de norma social pesam mais. Propõem medir também sinais custosos, normas sociais e valores ao lado dos CEPs.",
+   "notes": "Lido pela ferramenta de busca da web. Dados proprietários da consultoria que vende o modelo Signal, sem amostra nem testes publicados. Classificado como contraponto."
+  },
+  {
+   "id": "src-mw-romaniuk-meaning-assets-2025",
+   "title": "Why choosing distinctive assets for their meaning comes at a cost",
+   "url": "https://www.marketingweek.com/jenni-romaniuk-meaning-distinctive-assets/",
+   "author": "Jenni Romaniuk, Marketing Week",
+   "year": 2025,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Escolher um ativo distintivo pelo significado (amarelo 'alegre', urso 'para crianças') facilita a justificativa, mas cobra caro nas quatro fases da vida do ativo: seleção (concorrentes tiram do mesmo poço), construção (o significado prévio compete com a marca), uso (limita contextos) e proteção (difícil de registrar e envelhece se a estratégia muda).",
+   "notes": "Título aproximado (página lida pela ferramenta de busca da web, sem paywall visível). Primeira coluna de Romaniuk na Marketing Week."
+  },
+  {
+   "id": "src-ebi-romaniuk-admap-assets",
+   "title": "Brands need distinctive assets (Romaniuk no Admap)",
+   "url": "https://marketingscience.info/news-and-insights/brands-need-distinctive-assets",
+   "author": "Jenni Romaniuk (resumo de artigo no Admap/WARC)",
+   "year": null,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Marcas que contam só com conteúdo chamativo para ser notadas desperdiçam o papel dos ativos distintivos. Quanto mais a criação chama atenção, mais a marca precisa trabalhar para ser atribuída. Ativos (formas, cores, rostos, palavras, fontes, sons) devem ser vistos como um cardápio de recursos de marca e escolhidos pelo contraste com o ambiente, conforme sua fama e unicidade.",
+   "notes": "Notícia curta que resume artigo do Admap (pago). Sem data na página."
+  },
+  {
+   "id": "src-umbrex-distinctive-assets-framework",
+   "title": "Distinctive Brand Assets Framework (Ehrenberg-Bass)",
+   "url": "https://umbrex.com/resources/frameworks/marketing-frameworks/distinctive-brand-assets-framework-ehrenberg-bass/",
+   "author": "Umbrex (consultoria)",
+   "year": null,
+   "format": "guia-web",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "framework",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Guia prático do modelo de ativos distintivos de Romaniuk: inventariar ativos, testar sem marca a fama (quantos ligam o ativo à marca) e a unicidade (quanto ele aponta só para ela), classificar numa grade 2x2, definir um núcleo de 3 a 5 ativos, criar regras de uso e ligar ativos a CEPs. Alerta que ativos não substituem posicionamento nem valor de produto.",
+   "notes": "Texto de consultoria que divulga o modelo, não fonte primária (a primária é o livro pago Building Distinctive Brand Assets, 2018). O caso 'Cascade' do texto é ilustrativo e foi ignorado como evidência."
+  },
+  {
+   "id": "src-ebi-purpose-perspective-2020",
+   "title": "Can we get some perspective on brand purpose?",
+   "url": "https://marketingscience.info/can-we-get-some-perspective-on-brand-purpose/",
+   "author": "Autor não identificado (opinião publicada originalmente no The Drum, republicada pelo EBI)",
+   "year": 2020,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "pratica",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": true,
+   "summary": "Texto conciliador: a briga sobre propósito opõe Sharp, Hoffman e Shotton a Stengel, Sinek e Earls, e todos podem estar certos para marcas diferentes. Propõe que há tipos diferentes de propósito (nova visão da categoria, ativismo, desafiante, paixão por um tema), que salvar o mundo costuma ser exagero e que nem toda marca precisa de propósito (Marmite).",
+   "notes": "Só trecho republicado; artigo completo no The Drum, não lido. Opinião de praticante, sem dados."
+  },
+  {
+   "id": "src-ebi-battling-professors",
+   "title": "The battling professors: Byron Sharp and Mark Ritson go head to head",
+   "url": "https://marketingscience.info/news-and-insights/the-battling-professors-byron-sharp-and-mark-ritson-go-head-to-head",
+   "author": "Marketing Week (republicado pelo EBI)",
+   "year": 2017,
+   "format": "artigo",
+   "language": "en",
+   "access": "livre",
+   "license": "copyright",
+   "school": "misto",
+   "evidence": "opiniao-especialista",
+   "sponsored": false,
+   "dissected": false,
+   "summary": "Anúncio do debate entre Ritson e Sharp no Festival of Marketing (sete anos após How Brands Grow). Não tem o conteúdo do debate.",
+   "notes": "Não dissecado: a página é só o anúncio do evento, sem argumentos. O conteúdo do confronto está coberto pelas fontes de Cannes 2026 e pelos textos de Ritson."
+  },
+  {
+   "id": "src-hbg-pirated-pdf",
+   "title": "How Brands Grow (PDF em site de terceiros)",
+   "url": "https://pmis.udsm.ac.tz/33462556/nrescuel/jsearcht/opractised/how+brands+grow+by+byron+sharp.pdf",
+   "author": "Byron Sharp",
+   "year": 2010,
+   "format": "livro-resumo",
+   "language": "en",
+   "access": "pago",
+   "license": "copyright",
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "sponsored": false,
+   "dissected": false,
+   "summary": "Livro canônico da escola (leis de crescimento, disponibilidade mental e física, distintividade). Não dissecado.",
+   "notes": "Não aberto: provável cópia não autorizada, sinalizada nos catálogos. O livro é pago; os conceitos entram via relatórios abertos do EBI."
+  }
+ ],
+ "principles": [
+  {
+   "id": "mental-availability",
+   "title": "Faça a marca vir à mente nas situações de compra, não só ser conhecida",
+   "statement": "O trabalho central da marca é ser lembrada (ou notada) por muitos compradores da categoria, em muitas situações de compra, e não apenas ser 'conhecida' ou 'amada'.",
+   "why": "Compradores, inclusive em B2B, partem das marcas que a memória oferece e consideram poucas opções (2 a 4 fornecedores em estudos B2B). Marcas maiores têm mais gente ligando mais situações a elas. Até Ritson, crítico do EBI, aceita que vir à mente resolve a maior parte do trabalho, e cita dado de Dawes: em B2B, a primeira marca lembrada é a comprada cerca de 70% das vezes. O EBI trata a disponibilidade mental e física como ativos de mercado, o brand equity real.",
+   "how": [
+    "Troque a pergunta 'o que pensam da minha marca?' por 'quando pensam na minha marca?'",
+    "Mapeie as situações de compra (CEPs) da categoria e ligue a marca a elas na comunicação",
+    "Alcance o maior número de compradores da categoria, inclusive quem não está comprando agora",
+    "Acompanhe a disponibilidade mental com métricas de CEP, não só com lembrança espontânea"
+   ],
+   "tests": [
+    "A estratégia define em quais situações de compra a marca precisa vir à mente?",
+    "O objetivo de comunicação fala em ser lembrado em situações, e não só em 'aumentar awareness' ou 'gerar amor'?",
+    "Existe métrica de disponibilidade mental baseada em várias pistas, não só no nome da categoria?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "ciencia-crescimento",
+    "estrategia"
+   ],
+   "stage": [
+    "diagnostico",
+    "posicionamento",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "seção inicial e Figura 1",
+     "paraphrase": "Marcas grandes têm mais compradores ligando mais CEPs a elas; para crescer é preciso ampliar essa rede de memória."
+    },
+    {
+     "id": "src-ebi-best-product-doesnt-win",
+     "locator": "seção 'cognitive misers'",
+     "paraphrase": "Compradores B2B consideram em média cerca de 3 fornecedores e preferem os que já conhecem.",
+     "quote": "buyers don't necessarily buy the best product"
+    },
+    {
+     "id": "src-ebi-cannes-ritson-sharp-2026",
+     "locator": "primeira 'verdade' do painel",
+     "paraphrase": "Ritson e Sharp concordam que fazer a marca vir à mente em situações de compra é a tarefa principal do marketing."
+    },
+    {
+     "id": "src-li-how-b2b-brands-grow",
+     "locator": "prefácio de Sharp",
+     "paraphrase": "Disponibilidade mental e física, mais a iconografia distintiva, são ativos de mercado que constituem o brand equity."
+    },
+    {
+     "id": "src-li-salesforce-trailblazer-case",
+     "locator": "p. 3-4",
+     "paraphrase": "Mesmo uma marca famosa pode sofrer de déficit de consciência situacional: conhecida, mas não lembrada nas situações certas."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness",
+    "mental-availability-beyond-ceps"
+   ],
+   "cases": [
+    "case-salesforce-trailblazer-2019"
+   ],
+   "contexts": "Vale para B2C, B2B, serviços e duráveis, segundo o EBI. Pesa ainda mais em categorias de baixo envolvimento e com muitas marcas parecidas. Em categoria nova ou produto realmente diferente, a explicação do que a marca faz também conta."
+  },
+  {
+   "id": "physical-availability",
+   "title": "Seja fácil de achar e de comprar onde a compra acontece",
+   "statement": "Além de ser lembrada, a marca precisa estar presente nos canais em que a categoria é comprada, ser fácil de achar nesses ambientes e ter o portfólio que a situação pede.",
+   "why": "O EBI aponta disponibilidade física como a segunda alavanca de crescimento. Em B2B, rejeições citam falta de presença (agências bancárias) ou de portfólio. Investir em presença só compensa se a marca também for lembrada. Em B2B, profissionais usam em média 3,7 canais de venda, e decisões de canal costumam ficar com vendas ou engenharia, sem visão do todo.",
+   "how": [
+    "Compare a sua fatia de receita por canal com a fatia da categoria em cada canal e corrija lacunas",
+    "Priorize os canais com mais clientes e mais receita; adicione canais nichados só se trazem compradores novos de verdade",
+    "Use a duplicação entre canais para cortar canais redundantes e achar complementos (ex.: digital para quem não quer falar com vendedor)",
+    "Proteja o produto núcleo e enxugue caudas longas de portfólio"
+   ],
+   "tests": [
+    "A marca está presente nos canais que concentram a maior parte das compras da categoria?",
+    "Um comprador consegue reconhecer a marca rapidamente no ambiente de compra sem ler o nome?",
+    "Alguém de marketing decide sobre canais e portfólio, e não só vendas ou produto?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "ciencia-crescimento",
+    "experiencia",
+    "b2b"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ebi-easy-to-find-b2b",
+     "locator": "seções Presence, Prominence, Portfolio",
+     "paraphrase": "Disponibilidade física em B2B se constrói por presença em canais, proeminência nos ambientes de compra e portfólio adequado."
+    },
+    {
+     "id": "src-ebi-b2b-brand-rejection",
+     "locator": "conclusão",
+     "paraphrase": "Barreiras físicas, como falta de presença ou de portfólio, aparecem entre os motivos de rejeição, mas só rendem se a marca já for lembrada."
+    },
+    {
+     "id": "src-li-how-b2b-brands-grow",
+     "locator": "prefácio de Sharp",
+     "paraphrase": "A propaganda rende pouco quando atinge compradores longe dos pontos de venda da empresa."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Universal. Em serviços B2B, 'presença' inclui equipe de vendas, site, marketplaces, eventos e, cada vez mais, respostas de busca com IA e agentes de compra."
+  },
+  {
+   "id": "category-entry-points",
+   "title": "Ligue a marca às situações que fazem as pessoas entrarem na categoria",
+   "statement": "Descubra os pontos de entrada da categoria (CEPs: quando, onde, por quê, com quem, sentindo o quê) e construa ligações de memória entre a marca e os mais valiosos, um por peça, vários ao longo do tempo.",
+   "why": "Os CEPs são as pistas que o comprador usa para puxar marcas da memória. Em seguros empresariais nos EUA, cada CEP a mais ligado à marca reduziu a probabilidade de defecção em cerca de 5% (relação significativa em 16 de 17 produtos), replicando achados em telecom e bancos. Mais CEPs também aumentam a chance de ser a escolhida quando a empresa troca de fornecedor.",
+   "how": [
+    "Gere CEPs com os W's (quando, onde, enquanto, com o quê, por quê, como se sente, com/para quem), ouvindo compradores, marketing e vendas",
+    "Em B2B, pense em cada W pelo lado da empresa e da pessoa (ser promovido, não ser demitido, aprovação da diretoria)",
+    "Filtre pelos 3Cs: credibilidade, competitividade e comunalidade, e chegue a uma lista de 5 a 8 CEPs",
+    "Uma mensagem (um CEP) por peça; varie o CEP entre campanhas para ampliar a rede",
+    "Leve os CEPs também para roteiros de venda, site, conteúdo e redes"
+   ],
+   "tests": [
+    "A marca tem uma lista priorizada de 5 a 8 situações de compra que quer possuir?",
+    "Cada peça de comunicação mostra claramente uma situação de compra junto com a marca?",
+    "O plano de longo prazo varia os CEPs ao longo do tempo em vez de repetir um só para sempre?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ciencia-crescimento",
+    "publico",
+    "posicionamento"
+   ],
+   "stage": [
+    "publico",
+    "posicionamento",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "seções sobre W's, 3Cs e Figura 3",
+     "paraphrase": "CEPs são pistas internas e externas de busca na memória; o relatório ensina a gerar, priorizar e medir, com dados de defecção em seguros.",
+     "quote": "Category Entry Points (CEPs) are the cues that category buyers use"
+    },
+    {
+     "id": "src-li-salesforce-trailblazer-case",
+     "locator": "p. 5-7",
+     "paraphrase": "A Salesforce ligou a marca a várias situações de compra de CRM por meio de personagens e histórias."
+    },
+    {
+     "id": "src-ebi-b2b-brand-rejection",
+     "locator": "conclusão",
+     "paraphrase": "Ao falar com não clientes, inclua mensagens sobre os CEPs, que decidem quais empresas vêm à mente."
+    },
+    {
+     "id": "src-ritson-mw-differentiation-2023",
+     "locator": "recomendações",
+     "paraphrase": "Até Ritson recomenda usar CEPs e os 3Cs para escolher o que comunicar."
+    }
+   ],
+   "conflictsWith": [
+    "mental-availability-beyond-ceps"
+   ],
+   "cases": [
+    "case-salesforce-trailblazer-2019"
+   ],
+   "contexts": "Forte em categorias com várias ocasiões de uso. Em categorias muito estreitas, a lista de CEPs é curta e o ganho vem mais de alcance e marcação. Críticos dizem que sinais de força da marca e de norma social também pesam (ver debate)."
+  },
+  {
+   "id": "double-jeopardy",
+   "title": "Marca pequena sofre duas vezes: menos clientes e clientes menos fiéis",
+   "statement": "Fidelidade é em grande parte função do tamanho da marca: marcas menores têm menos compradores, e esses compradores são um pouco menos fiéis (compram menos, trocam mais). Use isso para fixar metas realistas e achar desvios.",
+   "why": "A lei aparece desde os anos 1960 em bens de consumo, bancos, seguros, luxo, voto, carros e categorias novas (streaming, carona, hospedagem). Em B2B, aparece em banco empresarial, seguros, concreto e aviões. Em seguros empresariais, a mesma seguradora tem defecção de marca pequena num produto e de marca grande em outro, conforme o seu tamanho em cada um. Em churn: num mercado industrial, a defecção esperada era de 18% na maior marca e 28% na menor.",
+   "how": [
+    "Ordene as marcas da categoria por penetração e compare as métricas de fidelidade; a sua deve estar próxima das vizinhas de tamanho",
+    "Em categorias de 'assinatura' (um fornecedor por vez), use retenção e defecção; em 'repertório', use frequência e participação nas compras",
+    "Trate desvios grandes como pistas a investigar (ex.: excesso de fidelidade pode indicar teto de penetração por distribuição)",
+    "Não prometa ganhos de fidelidade descolados do crescimento de participação"
+   ],
+   "tests": [
+    "As metas de retenção e fidelidade são compatíveis com o tamanho atual da marca?",
+    "O diagnóstico compara a fidelidade da marca com a de concorrentes do mesmo tamanho antes de concluir que há um problema?"
+   ],
+   "polarity": "fato",
+   "domain": [
+    "ciencia-crescimento",
+    "equity-medicao",
+    "b2b"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-double-jeopardy-b2b-2021",
+     "locator": "tabelas 1 a 4",
+     "paraphrase": "Evidência de Double Jeopardy em várias categorias B2B e países; a fidelidade é previsível pela participação."
+    },
+    {
+     "id": "src-sharp-2002-economy-of-scale",
+     "locator": "exemplo de duas marcas e tabela de defecção",
+     "paraphrase": "Em mercados estáveis, marcas pequenas trocam uma fatia maior da base a cada ano só por serem pequenas."
+    },
+    {
+     "id": "src-sharp-blog-answering-critics-2016",
+     "locator": "seção sobre o 'double'",
+     "paraphrase": "Quando a marca cresce, a fidelidade e as atitudes também sobem um pouco, mas a penetração sobe muito mais."
+    }
+   ],
+   "conflictsWith": [
+    "loyalty-vs-penetration"
+   ],
+   "cases": [],
+   "contexts": "Vale para mercados estáveis e não segmentados. Marcas de nicho de verdade (partição) e programas de fidelidade fortes podem gerar 'excesso de fidelidade', em geral com teto de penetração."
+  },
+  {
+   "id": "growth-through-penetration",
+   "title": "Cresça ganhando mais clientes, não espremendo os atuais",
+   "statement": "O caminho sustentável para crescer é aumentar a penetração, recrutando compradores novos e leves. Cuidar dos clientes atuais é necessário, mas não basta para crescer.",
+   "why": "Para metas modestas de participação, a penetração trimestral costuma precisar dobrar ou triplicar, enquanto a frequência de compra sobe só uma fração de ocasião. Análises longitudinais do EBI (2003, 2012 e 2014) mostram ganhos e perdas de participação vindos sobretudo de aquisição. Em bancos, cerca de 2 produtos por cliente em todos os concorrentes, de 1,6 a 2,2 em cinco anos: venda cruzada é rota difícil. Programas de fidelidade geram efeito defensivo, concentrado em quem já compra.",
+   "how": [
+    "Revise o plano: quanto do esforço vai só para a base atual e quanto alcança toda a categoria?",
+    "Remova barreiras de penetração: mentais (para que situações a marca é lembrada) e físicas (onde e como se compra)",
+    "Trate retenção, venda cruzada e programa de fidelidade como defesa, não como motor principal de crescimento",
+    "Dê atenção aos compradores leves, que são a maioria da base de qualquer marca"
+   ],
+   "tests": [
+    "O plano de crescimento depende principalmente de novos clientes?",
+    "A estratégia evita prometer crescimento grande só com upsell, cross-sell ou programa de fidelidade?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ciencia-crescimento",
+    "estrategia",
+    "b2b"
+   ],
+   "stage": [
+    "diagnostico",
+    "publico",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-double-jeopardy-b2b-2021",
+     "locator": "implicações",
+     "paraphrase": "Crescer exige expandir a base de clientes; focar só a base atual não atinge esse objetivo."
+    },
+    {
+     "id": "src-sharp-blog-answering-critics-2016",
+     "locator": "seção 'brands grow only by acquiring'",
+     "paraphrase": "Metas típicas exigem dobrar ou triplicar a penetração trimestral, com pouca mudança na frequência."
+    },
+    {
+     "id": "src-mundt-sharp-dawes-2003-multiproduct",
+     "locator": "Tabela 1 e conclusão",
+     "paraphrase": "Produtos por cliente são quase iguais entre bancos, o que torna a venda cruzada difícil como rota de crescimento."
+    },
+    {
+     "id": "src-sharp-sharp-loyalty-programs",
+     "locator": "resumo e conclusões",
+     "paraphrase": "Programas de fidelidade e promoções agem de forma defensiva, sobre quem já compra."
+    },
+    {
+     "id": "src-ehrenberg-barnard-sharp-2000-models",
+     "locator": "Discussão",
+     "paraphrase": "Modelos descritivos mostram que a marca cresce ganhando mais clientes, não tornando os atuais mais fiéis."
+    }
+   ],
+   "conflictsWith": [
+    "loyalty-vs-penetration"
+   ],
+   "cases": [],
+   "contexts": "Forte em bens de consumo e serviços. Em B2B de poucas contas enormes, a gestão de contas existentes tem papel maior, mas o EBI afirma que a lei também vale ali. Kapferer contesta para o luxo (ver lote de posicionamento)."
+  },
+  {
+   "id": "brand-salience",
+   "title": "Saliência não é top of mind: meça com várias pistas",
+   "statement": "Saliência de marca é a propensão de ser notada ou lembrada em situações de compra. Ela depende das pistas, então é medida com um conjunto representativo de associações e em comparação com os concorrentes, não com uma única pergunta de lembrança pela categoria.",
+   "why": "A lembrança tradicional usa uma pista só (o nome da categoria) e não reflete as muitas pistas da compra real. A recuperação de memória é probabilística: só cerca de metade das associações se repete numa segunda medição. Sharp admite que o nome 'saliência' foi ruim porque foi confundido com top of mind. Uma replicação também não confirmou que uma marca muito saliente 'apaga' as concorrentes da memória.",
+   "how": [
+    "Monte uma lista de atributos e situações (CEPs) e pergunte quais marcas o comprador liga a cada uma (escolha livre, sim/não)",
+    "Inclua concorrentes e a opção 'nenhuma'",
+    "Calcule participação mental, penetração mental e tamanho da rede de memória",
+    "Deixe ativos distintivos (cor, logo, personagem) fora do índice de saliência e meça-os à parte"
+   ],
+   "tests": [
+    "A medição de força de marca usa várias pistas além do nome da categoria?",
+    "As métricas comparam a marca com os concorrentes no mesmo questionário?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "equity-medicao",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "framework",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-romaniuk-sharp-2004-salience",
+     "locator": "seções de definição e mensuração",
+     "paraphrase": "Saliência é a qualidade e a quantidade da rede de memória; mede-se com muitas pistas, em relação aos rivais, por associação sim/não."
+    },
+    {
+     "id": "src-sharp-measure-salience",
+     "locator": "texto integral",
+     "paraphrase": "Medidas de awareness usam uma só pista; é preciso uma amostra de associações.",
+     "quote": "the propensity of the brand to be noticed or come to mind"
+    },
+    {
+     "id": "src-ebi-cannes-ritson-sharp-2026",
+     "locator": "fala de Sharp",
+     "paraphrase": "Sharp diz que 'saliência' foi um nome ruim porque foi confundido com top of mind."
+    },
+    {
+     "id": "src-vieceli-sharp-2001-salience-recall",
+     "locator": "conclusão",
+     "paraphrase": "Aumentar a saliência de uma marca não inibiu a lembrança das concorrentes, ao contrário do estudo original."
+    }
+   ],
+   "conflictsWith": [
+    "funnel-metrics-validity"
+   ],
+   "cases": [],
+   "contexts": "Útil em qualquer categoria com pesquisa de marca. Exige amostra de compradores da categoria, não só de clientes."
+  },
+  {
+   "id": "mental-availability-metrics",
+   "title": "Meça disponibilidade mental com participação mental, penetração mental e tamanho da rede",
+   "statement": "Transforme os CEPs em três métricas: participação mental (fatia das ligações CEP-marca), penetração mental (% de compradores que ligam a marca a pelo menos um CEP) e tamanho da rede (CEPs por pessoa que lembra a marca). Use-as para traçar o caminho de crescimento.",
+   "why": "No banco empresarial do Reino Unido (n=609), o Barclays teve 9,8% de participação mental, 78% de penetração mental e rede de 7,9; o RBS teve 4,4%, 53% e 5,2. O modelo de valores esperados também mostra que cerca de 93% das combinações marca-CEP ficam dentro do esperado para o tamanho da marca. Por isso, vantagens e desvantagens mentais reais são raras e valiosas.",
+   "how": [
+    "Aplique a pesquisa de escolha livre CEP x marcas a compradores da categoria",
+    "Calcule o valor esperado de cada célula (total da linha x total da coluna / total geral) e compare com o real",
+    "Classifique como vantagem mental (+5 pp), desvantagem (-5 pp) ou esperado",
+    "Defina a meta como subir penetração mental e tamanho da rede, e acompanhe ao longo dos anos"
+   ],
+   "tests": [
+    "A marca sabe sua participação mental e sua penetração mental em relação aos concorrentes?",
+    "A análise de associações desconta o efeito do tamanho da marca antes de declarar uma 'força' de imagem?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "equity-medicao",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "diagnostico",
+    "paisagem"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "Tabelas 1 a 4",
+     "paraphrase": "Fórmulas e exemplos de valores esperados, vantagem e desvantagem mental e das três métricas de disponibilidade mental."
+    },
+    {
+     "id": "src-riquier-sharp-1997-usage-bias",
+     "locator": "seções 1 a 3",
+     "paraphrase": "Atributos avaliativos acompanham a participação de mercado, por isso é preciso descontar o tamanho antes de interpretar imagem."
+    }
+   ],
+   "conflictsWith": [
+    "funnel-metrics-validity"
+   ],
+   "cases": [],
+   "contexts": "Exige pesquisa com amostra da categoria. Para PMEs sem verba, uma versão simplificada com 100 a 300 compradores já indica a direção."
+  },
+  {
+   "id": "distinctive-assets-fame-uniqueness",
+   "title": "Construa poucos ativos distintivos, famosos e únicos, além do logo",
+   "statement": "Desenvolva uma paleta de ativos distintivos (cor, forma, personagem, som, frase, fonte), em geral o logo mais 3 ou 4 elementos, e avalie cada um por fama (quantos ligam o ativo à marca sem ver o nome) e unicidade (quanto ele aponta só para ela).",
+   "why": "Ativos fazem a atenção conquistada ser atribuída à marca certa. Quanto mais a criação chama atenção, mais a marca tem de trabalhar para ser reconhecida. Sharp diz que distintividade não é 'ser verde quando todos são roxos', é parecer consigo mesma de forma reconhecível. Em B2B, quase toda marca só tem o logo, o que a deixa sem armas contra a desordem do ambiente. A Salesforce transformou Astro e Codey em ativos famosos e únicos.",
+   "how": [
+    "Inventarie ativos atuais e candidatos, incluindo os dos concorrentes",
+    "Teste sem marca: mostre o ativo e pergunte de que marca é; calcule fama e unicidade",
+    "Grade: alto/alto = proteger e usar sempre; famoso mas não único = afiar ou combinar; único mas pouco famoso = investir; baixo/baixo = descartar",
+    "Escolha ativos por contraste com o ambiente onde vão aparecer (prateleira, feed, palco, áudio)",
+    "Use os ativos em toda comunicação de alto alcance e nos pontos de escolha"
+   ],
+   "tests": [
+    "A marca tem pelo menos 2 ou 3 ativos além do logo que compradores reconhecem sem o nome?",
+    "Os ativos foram testados por fama e unicidade, ou só escolhidos por gosto?",
+    "Os ativos aparecem de forma consistente em todas as peças de alto alcance?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "ativos-distintivos",
+    "identidade-visual",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "ativos",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-romaniuk-admap-assets",
+     "locator": "texto integral",
+     "paraphrase": "Ativos distintivos fazem a marca furar a desordem; escolha por contraste e conforme fama e unicidade."
+    },
+    {
+     "id": "src-ebi-cannes-ritson-sharp-2026",
+     "locator": "trecho sobre ativos",
+     "paraphrase": "Sharp e Ritson concordam em uma paleta de ativos: o logo mais três ou quatro elementos, aplicados com muita consistência."
+    },
+    {
+     "id": "src-umbrex-distinctive-assets-framework",
+     "locator": "seções 'Fame and Uniqueness' e passo a passo",
+     "paraphrase": "Grade fama x unicidade e passos para auditar, testar e governar ativos."
+    },
+    {
+     "id": "src-ebi-easy-to-find-b2b",
+     "locator": "seção Prominence",
+     "paraphrase": "Em B2B, quase sempre só existe o logo; ativos diversos ajudam a marca a ser achada em qualquer ambiente."
+    },
+    {
+     "id": "src-li-salesforce-trailblazer-case",
+     "locator": "p. 6",
+     "paraphrase": "Os personagens da Salesforce viraram ativos famosos e únicos."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness"
+   ],
+   "cases": [
+    "case-salesforce-trailblazer-2019"
+   ],
+   "contexts": "Universal. Em marcas novas, ativos ainda não têm fama e precisam ser 'ensinados' junto com o nome por algum tempo. Em B2B costuma ser a maior lacuna."
+  },
+  {
+   "id": "assets-chosen-for-distinctiveness-not-meaning",
+   "title": "Escolha ativos pela capacidade de identificar, não pelo significado bonito",
+   "statement": "Não escolha cor, símbolo ou personagem só porque 'significam' algo positivo (amarelo = alegria, verde = natural). Significado prévio tende a ser compartilhado com concorrentes, compete com a marca na memória, limita os usos e dificulta o registro.",
+   "why": "Romaniuk descreve custos do significado nas quatro fases do ativo. Na seleção, concorrentes tiram do mesmo poço de significados. Na construção, o significado prévio puxa a atenção para longe da marca. No uso, o ativo não combina com mensagens que contrariam o significado. Na proteção, cores descritivas (verde para orgânico) são difíceis de registrar e envelhecem se a estratégia muda. O valor de um ativo vem de quantos contextos ele aguenta.",
+   "how": [
+    "Na criação, apresente ativos como candidatos e teste-os, em vez de defendê-los pelo significado",
+    "Verifique se concorrentes usam elementos do mesmo campo de sentido",
+    "Prefira elementos que possam ser usados em muitos contextos e mensagens",
+    "Cheque a possibilidade de registro antes de investir"
+   ],
+   "tests": [
+    "A justificativa dos ativos se baseia em significado ('a cor X transmite Y') sem teste de reconhecimento?",
+    "Algum ativo usa o código mais óbvio da categoria (verde em orgânicos, azul em bancos)?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "ativos-distintivos",
+    "identidade-visual"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-mw-romaniuk-meaning-assets-2025",
+     "locator": "as quatro fases",
+     "paraphrase": "Escolher ativos pelo significado facilita justificar, mas cobra custos na seleção, construção, uso e proteção."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Conflita com a tradição de design que justifica escolhas por semântica. Não proíbe significado; pede que ele não seja o critério principal. Vale ainda mais em categorias com códigos muito batidos."
+  },
+  {
+   "id": "owned-vs-rented-prominence",
+   "title": "Troque proeminência alugada por proeminência própria",
+   "statement": "Posição paga (busca patrocinada, patrocínio de evento, ponta de gôndola) só funciona enquanto você paga. Ativos distintivos dão proeminência própria e duradoura. Use a mídia alugada para 'ensinar' os ativos ('rent to buy').",
+   "why": "O EBI descreve a proeminência alugada como um pico de açúcar temporário: se você para de pagar, o concorrente ocupa o lugar. Ativos bem geridos ficam com a marca a longo prazo. A dependência de mídia paga deixa a marca à mercê de quem aluga o espaço.",
+   "how": [
+    "Mapeie onde a marca precisa ser achada (marketplace, loja de apps, feira, prateleira, busca)",
+    "Em cada ambiente, use os ativos distintivos de forma bem visível, inclusive na mídia paga",
+    "Planeje reduzir a dependência de posição paga à medida que os ativos ganham fama"
+   ],
+   "tests": [
+    "A marca seria achada nos principais ambientes de compra se parasse de pagar por posição?",
+    "As peças pagas carregam ativos distintivos além do logo?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativos-distintivos",
+    "ciencia-crescimento",
+    "b2b"
+   ],
+   "stage": [
+    "ativos",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "framework",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ebi-easy-to-find-b2b",
+     "locator": "seção Prominence",
+     "paraphrase": "Proeminência alugada é temporária; a própria vem de ativos distintivos; use 'rent to buy'."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Especialmente relevante para marcas digitais e B2B que vivem de mídia de performance e busca paga."
+  },
+  {
+   "id": "reach-over-targeting",
+   "title": "Alcance todos os compradores da categoria; não aposte só na segmentação estreita",
+   "statement": "Para crescer, comunique-se com toda a base de compradores da categoria (marketing de massa sofisticado), incluindo compradores leves e clientes de concorrentes. Use segmentação estreita só como complemento de ativação.",
+   "why": "Clientes futuros vêm de todas as marcas, proporcionalmente ao tamanho delas (Lei de Duplicação de Compra), então não há um 'segmento especial' que concentre o crescimento. Quem está pronto para comprar busca pouco e prefere marcas conhecidas, e a taxa de clique de marcas desconhecidas é menor. Ritson e Sharp concordaram em Cannes 2026 que o marketing de massa sofisticado é necessário, embora Ritson chame os 5% de ativação de 'targeting'.",
+   "how": [
+    "Defina o público da marca como todos os compradores da categoria, não só a persona ideal",
+    "Planeje mídia por alcance (e frequência suficiente ao longo do ano), não só por eficiência de custo por clique",
+    "Reserve segmentação fina para mensagens de ativação a quem está no mercado",
+    "Pare de excluir compradores leves e clientes de concorrentes do plano de marca"
+   ],
+   "tests": [
+    "O plano de mídia de marca atinge a maioria dos compradores da categoria ao longo do ano?",
+    "A estratégia evita restringir a comunicação de marca a uma persona estreita?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ciencia-crescimento",
+    "publico",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-how-b2b-brands-compete",
+     "locator": "seção de implicações",
+     "paraphrase": "Alcançar o mercado todo é recomendado; tentar ganhar eficiência com segmentação estreita tende a atrapalhar o crescimento."
+    },
+    {
+     "id": "src-ebi-95-5-rule-b2b",
+     "locator": "seção sobre segmentação",
+     "paraphrase": "Mirar só quem está pronto para comprar não constrói a familiaridade necessária."
+    },
+    {
+     "id": "src-ebi-cannes-ritson-sharp-2026",
+     "locator": "trecho sobre massa",
+     "paraphrase": "Ritson e Sharp concordam em marketing de massa sofisticado; divergem só no nome dos 5% de ativação."
+    },
+    {
+     "id": "src-li-salesforce-trailblazer-case",
+     "locator": "método RMB",
+     "paraphrase": "Alcance: segmentação ampla para atingir todos os compradores da categoria."
+    }
+   ],
+   "conflictsWith": [
+    "targeting-vs-mass-reach"
+   ],
+   "cases": [
+    "case-salesforce-trailblazer-2019"
+   ],
+   "contexts": "Para marca pequena com pouca verba, 'toda a categoria' pode ser toda a categoria numa região ou num canal. Ritson defende definir um alvo antes de posicionar (ver debate)."
+  },
+  {
+   "id": "95-5-rule-b2b",
+   "title": "A maioria dos compradores não está no mercado agora: comunique para o futuro",
+   "statement": "Em muitas categorias, só uma pequena parte dos compradores (até ~5% num trimestre em B2B) está comprando agora. A propaganda funciona sobretudo criando e renovando memórias que serão usadas quando eles entrarem no mercado.",
+   "why": "Empresas trocam fornecedores como banco ou escritório de advocacia a cada ~5 anos em média: cerca de 20% estão no mercado num ano e ~5% num trimestre. Uma campanha só disputa quem está no mercado naquele momento, e ninguém consegue trazer quem não está. Construir disponibilidade mental leva anos: marcas estabelecidas muitas vezes ficam em 20% a 30% de compradores ligando a marca a um CEP, e líderes em ~50%.",
+   "how": [
+    "Calcule a proporção no mercado: com intervalo médio entre compras de 2 anos, ~50% compram num ano e ~13% num trimestre",
+    "Se não tiver o dado, pergunte numa pesquisa simples com que frequência a empresa compra a categoria",
+    "Distribua a verba ao longo do ano em vez de concentrá-la num trimestre",
+    "Julgue a propaganda pelo quanto ela cria memórias de marca ligadas a situações de compra, não só por leads imediatos"
+   ],
+   "tests": [
+    "A estratégia reconhece que a maioria do público não está comprando agora?",
+    "O plano mantém presença contínua em vez de picos isolados?",
+    "As metas de curto prazo de cada campanha são realistas diante da fatia que está no mercado?"
+   ],
+   "polarity": "fato",
+   "domain": [
+    "b2b",
+    "ciencia-crescimento",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-95-5-rule-b2b",
+     "locator": "texto integral e perguntas e respostas",
+     "paraphrase": "Até 95% dos clientes empresariais não estão no mercado; a propaganda age via memória; o cálculo vem do intervalo entre compras.",
+     "quote": "up to 95% of business clients are not in the market"
+    },
+    {
+     "id": "src-ebi-cannes-ritson-sharp-2026",
+     "locator": "trecho sobre 95:5",
+     "paraphrase": "Ritson e Sharp aceitam a razão 95:5 entre compradores latentes e no mercado."
+    },
+    {
+     "id": "src-ebi-best-product-doesnt-win",
+     "locator": "parágrafo final",
+     "paraphrase": "Anuncie para a base ampla de compradores futuros e espalhe o investimento no tempo."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "O 95% é heurística; o número real depende do ciclo de recompra. Em categorias de compra frequente (alimentos, apps), a fatia no mercado é maior, mas a lógica de memória continua valendo."
+  },
+  {
+   "id": "cost-of-going-dark",
+   "title": "Sair do ar custa caro e a conta chega com atraso",
+   "statement": "Não trate a propaganda como gasto cortável sem consequência: marcas que ficam um ano ou mais sem mídia tendem a perder vendas progressivamente, e as pequenas e as em queda perdem mais rápido.",
+   "why": "Em 57 casos de corte total de mídia por 1 ano ou mais (70 marcas, 20+ anos de dados na Austrália), as vendas caíram em média 16% em um ano, 25% em dois e 36% em três. Todas as marcas que já caíam continuaram caindo, e as vendas caíram pela metade em dois anos. As pequenas em crescimento passaram a cair. As grandes em crescimento seguraram o crescimento por 1 a 2 anos. Entre 14 marcas que pararam um ano e voltaram, metade não recuperou a trajetória após um ano de volta. Testes antigos de TV mostram que cerca de metade dos cortes não muda as vendas no primeiro ano, então o dano aparece tarde.",
+   "how": [
+    "Antes de cortar mídia, avalie o tamanho e a tendência da marca: pequena ou em queda é a mais vulnerável",
+    "Prefira reduzir a sair completamente do ar",
+    "Mantenha participação de voz compatível com o tamanho da marca",
+    "Não use um ano sem queda após o corte como prova de que a mídia era inútil"
+   ],
+   "tests": [
+    "O plano mantém presença mínima de mídia todo ano?",
+    "A decisão de corte considerou que a perda tende a aparecer só depois de 12 a 24 meses?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "ativacao-eficacia",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-stop-advertising-2018",
+     "locator": "Tabelas 3 e 4 e gráficos 2 e 3",
+     "paraphrase": "Queda média de 16%, 25% e 36% em 1, 2 e 3 anos sem mídia; pequenas e em queda sofrem mais; voltar ao ar não recupera de imediato."
+    },
+    {
+     "id": "src-ebi-95-5-rule-b2b",
+     "locator": "pergunta sobre teto",
+     "paraphrase": "Gastar tudo num trimestre deixa a marca fora do ar para quem entra no mercado no resto do ano."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Dados de uma categoria de bens de consumo australiana; generalização em estudo. A lógica de decaimento da memória se aplica a serviços e B2B, mas a magnitude pode mudar."
+  },
+  {
+   "id": "consistency-over-time",
+   "title": "Mantenha campanhas e ativos por anos, não por semanas",
+   "statement": "Rode a mesma ideia de campanha e os mesmos ativos por anos. A memória decai e a familiaridade se constrói com repetição consistente; trocar tudo com frequência desperdiça o que já foi construído.",
+   "why": "Ritson e Sharp concordam que campanhas precisam durar anos, não os 30 a 40 dias usuais, e que os profissionais são ruins em manter o rumo. Ritson diz que o desgaste raramente existe: a campanha costuma ser abandonada antes de a maior parte do alvo vê-la. O EBI lembra que ligações de memória com CEPs precisam ser renovadas sempre, porque decaem e sofrem com a concorrência.",
+   "how": [
+    "Defina uma plataforma de campanha capaz de durar vários anos com variações de execução",
+    "Varie o CEP ou a história, mantendo os ativos e o tom",
+    "Exija evidência de desgaste real (dados de efeito) antes de trocar a ideia"
+   ],
+   "tests": [
+    "A marca usa a mesma plataforma de campanha há pelo menos dois anos?",
+    "As mudanças de identidade preservam os ativos com fama comprovada?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativacao-eficacia",
+    "gestao-governanca",
+    "ativos-distintivos"
+   ],
+   "stage": [
+    "ativacao",
+    "ativos"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ebi-cannes-ritson-sharp-2026",
+     "locator": "trecho sobre consistência",
+     "paraphrase": "Ambos defendem campanhas que durem anos e criticam a troca frequente."
+    },
+    {
+     "id": "src-mi3-ritson-dogma-2023",
+     "locator": "recomendações",
+     "paraphrase": "Ritson: mantenha a mesma mensagem por anos; desgaste é raro."
+    },
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "seção sobre competitividade",
+     "paraphrase": "Ligar a marca a um CEP não se faz uma vez só; a memória precisa ser renovada."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Consistência não é imobilidade: variar execuções e CEPs é recomendado. Rebrands devem evoluir ativos com fama, não substituí-los."
+  },
+  {
+   "id": "awareness-gap-over-rejection",
+   "title": "Sua marca é pequena porque não é lembrada, não porque é rejeitada",
+   "statement": "Antes de gastar para 'corrigir a imagem' ou rebater objeções, confira: em geral, menos de 1 em 10 compradores rejeita ativamente uma marca, e há muito mais gente que não a conhece ou não tem opinião. O ganho maior está em ser conhecida e lembrada.",
+   "why": "A rejeição média foi de 9% em 535 marcas de bens de consumo, 11% em banco empresarial, 7% em seguros empresariais e 6% em IA generativa B2B (máximo 15%). Mesmo marcas grandes têm mais desconhecedores que rejeitadores, e as pequenas chegam a 3 ou 4 vezes mais. Os motivos de rejeição são difusos (origem, serviço, preço, ética), então nenhuma ação única muda muito. Em IA generativa, o motivo mais comum foi justamente a falta de familiaridade (22%). Dois em cada três ex-clientes de bancos não rejeitam a marca antiga.",
+   "how": [
+    "Meça rejeição com a opção 'eu me recusaria a usar' separada de 'não conheço / sem opinião'",
+    "Compare sua taxa com as de marcas da categoria; se estiver normal, deixe de lado até algo mudar",
+    "Redirecione verba de 'reverter objeções' para alcance e CEPs",
+    "Não pergunte 'quais as barreiras para comprar a marca?': a pergunta fabrica barreiras"
+   ],
+   "tests": [
+    "O diagnóstico separou rejeição ativa de desconhecimento?",
+    "O plano evita gastar a maior parte da verba rebatendo objeções de uma minoria?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ciencia-crescimento",
+    "equity-medicao",
+    "b2b"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-b2b-brand-rejection",
+     "locator": "achados 1 a 5",
+     "paraphrase": "Rejeição de 11% e 7% em B2B, motivos difusos, desconhecimento maior que rejeição."
+    },
+    {
+     "id": "src-ebi-genai-rejection-b2b",
+     "locator": "texto integral",
+     "paraphrase": "Em IA generativa B2B, rejeição média de 6% e falta de familiaridade como principal motivo."
+    },
+    {
+     "id": "src-sharp-blog-answering-critics-2016",
+     "locator": "seção sobre atitudes",
+     "paraphrase": "Raramente é um problema de percepção que segura a marca; o problema é ser pouco notada e pouco presente."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Exceção: crise real de reputação (escândalo, falha grave) pode elevar a rejeição; aí vale agir. Em marca nova, a lacuna de conhecimento domina quase sempre."
+  },
+  {
+   "id": "compete-with-big-brands-duplication",
+   "title": "Seus concorrentes de verdade são as marcas grandes, não as parecidas",
+   "statement": "Pela Lei de Duplicação de Compra, a marca divide clientes com as concorrentes na proporção do tamanho delas. Por isso, novos clientes virão principalmente das marcas grandes, sejam ou não parecidas com a sua, e é contra elas que a marca precisa se destacar.",
+   "why": "Em 16 produtos de seguros empresariais nos EUA, o compartilhamento de clientes acompanha a penetração dos concorrentes (correlação de 93%). Combustível de aviação e bancos repetem o padrão: todo banco perde mais clientes para os grandes e ganha mais clientes deles. Um concorrente pequeno muito parecido costuma ter pouco impacto. Como os futuros clientes conhecem bem uma marca grande, a sua precisa de marcação forte para que a atenção conquistada não vá para o concorrente.",
+   "how": [
+    "Monte a tabela de duplicação: entre os clientes de cada marca, qual % também usa cada concorrente",
+    "Compare com o esperado pelo tamanho; um compartilhamento acima do esperado indica rivalidade próxima real",
+    "Não se distraia com rivais pequenos parecidos sem evidência de excesso de compartilhamento",
+    "Desenhe a comunicação para quem hoje é cliente das grandes: marcação forte e ativos claros"
+   ],
+   "tests": [
+    "A análise de concorrência considera as maiores marcas da categoria, e não só as que 'se parecem' com a marca?",
+    "Há evidência de dados (duplicação) para tratar um rival pequeno como ameaça principal?"
+   ],
+   "polarity": "fato",
+   "domain": [
+    "ciencia-crescimento",
+    "posicionamento",
+    "b2b"
+   ],
+   "stage": [
+    "paisagem",
+    "diagnostico"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-how-b2b-brands-compete",
+     "locator": "Tabelas 1 a 3 e implicações",
+     "paraphrase": "Marcas dividem clientes proporcionalmente ao tamanho das concorrentes; os grandes são os principais rivais, qualquer que seja o posicionamento."
+    }
+   ],
+   "conflictsWith": [
+    "targeting-vs-mass-reach",
+    "differentiation-vs-distinctiveness"
+   ],
+   "cases": [],
+   "contexts": "Mercados partidos (por preço extremo, função ou nicho real) mostram excesso de compartilhamento dentro da partição. Aí a 'concorrência parecida' importa mais."
+  },
+  {
+   "id": "best-product-doesnt-win",
+   "title": "O melhor produto não ganha sozinho: ganha o melhor entre os conhecidos",
+   "statement": "Não espere que a superioridade do produto faça o marketing, nem adie a comunicação por não ter o produto 'melhor'. Compradores escolhem entre as poucas marcas que conhecem; ser conhecido e lembrado vem antes de ser o melhor.",
+   "why": "Compradores são avarentos cognitivos e não comparam todo o mercado: estudos B2B citados mostram conjuntos de consideração de 2 a 4 fornecedores. Mais de 80% escolhem marca conhecida ao buscar online. O Double Jeopardy mostra que marcas grandes não têm fidelidade muito acima do esperado, sinal de que não são grandes por serem muito melhores. Com ~3 marcas consideradas, entrar no conjunto leva a chance de ser comprado de quase zero para ~33%.",
+   "how": [
+    "Em marcas técnicas, desafie a crença de que 'o produto se vende sozinho'",
+    "Comece a construir familiaridade antes de o produto estar 'perfeito'",
+    "Mantenha qualidade competitiva (produto pior que a média é problema), mas não espere que ela substitua a comunicação"
+   ],
+   "tests": [
+    "A estratégia depende de o comprador perceber sozinho a superioridade do produto?",
+    "Há plano de comunicação para a fase em que a marca ainda é desconhecida?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "ciencia-crescimento",
+    "b2b",
+    "estrategia"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ebi-best-product-doesnt-win",
+     "locator": "texto integral",
+     "paraphrase": "Ninguém sabe qual é o melhor produto; compradores consideram poucas marcas e preferem as conhecidas."
+    },
+    {
+     "id": "src-ebi-differentiation-vs-distinctiveness",
+     "locator": "seção B2B",
+     "paraphrase": "Mesmo em compras grandes de software, compradores comparam poucas marcas famosas em vez de varrer o mercado."
+    },
+    {
+     "id": "src-ebi-double-jeopardy-b2b-2021",
+     "locator": "seção sobre qualidade",
+     "paraphrase": "Marcas grandes têm mais fidelidade por serem grandes, e não são grandes por serem muito melhores."
+    },
+    {
+     "id": "src-li-how-b2b-brands-grow",
+     "locator": "prefácio de Sharp",
+     "paraphrase": "Vantagens de produto e preço raramente duram em mercados competitivos; a disputa de longo prazo é por disponibilidade."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness"
+   ],
+   "cases": [],
+   "contexts": "Inovação realmente superior e visível (ex.: categoria nova) muda o quadro por um tempo, e Sharp admite que a inovação funciona ao ampliar a disponibilidade. Produto ruim nunca é compensado por propaganda."
+  },
+  {
+   "id": "purpose-skepticism",
+   "title": "Não conte com propósito de marca como motor de crescimento",
+   "statement": "Trate o propósito social ou ambiental como escolha ética ou de negócio, não como estratégia de crescimento de marca. Mesmo as marcas-símbolo de propósito têm consciência do propósito baixíssima, e o investimento para comunicá-lo tira verba de ações que comprovadamente fazem crescer.",
+   "why": "Em 14 marcas tidas como exemplos de propósito, nos EUA, Reino Unido e Austrália, o reconhecimento médio do propósito foi de 18%, e propósitos falsos inventados tiveram 9%: consciência real perto de 9%. Isso apesar de mais da metade comunicar o propósito há 20 anos ou mais. A Nike (52% nos EUA) é exceção, em parte pelo tamanho. Sharp chama o propósito de moda que a maioria ignora, e o painel de Cannes 2026 o tratou como 'bobagem'.",
+   "how": [
+    "Se o objetivo é crescer, priorize disponibilidade mental e física",
+    "Se a marca já tem propósito, reavalie quanto investe em comunicá-lo; um investimento modesto pode reduzir 'motivos para não comprar' na avaliação",
+    "Se o objetivo é impacto social, considere doar à causa o que iria para a propaganda do propósito",
+    "Desconfie de cases que atribuem crescimento ao propósito sem controlar aumento de verba e distribuição"
+   ],
+   "tests": [
+    "A tese de crescimento depende de consumidores conhecerem e valorizarem o propósito?",
+    "Há evidência de que o público-alvo reconhece o propósito acima do nível de chute?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "narrativa-proposito",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "plataforma",
+    "narrativa"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ebi-purpose-aware-2025",
+     "locator": "Tabelas 1 e 2 e recomendações",
+     "paraphrase": "Reconhecimento médio de propósito de 18% contra 9% de propósitos falsos; propósito não é imperativo para o sucesso.",
+     "quote": "genuine awareness of brand purpose rarely exceeds 10%"
+    },
+    {
+     "id": "src-sharp-blog-answering-critics-2016",
+     "locator": "comentários",
+     "paraphrase": "Sharp vê o propósito como moda ignorada pela maioria; cidadania corporativa não é tarefa do marketing."
+    },
+    {
+     "id": "src-ebi-cannes-ritson-sharp-2026",
+     "locator": "título e tema",
+     "paraphrase": "Ritson e Sharp tratam o propósito de marketing com ceticismo."
+    }
+   ],
+   "conflictsWith": [
+    "purpose-value"
+   ],
+   "cases": [],
+   "contexts": "O estudo mede consciência, não vendas; a parte 2 compara com outras percepções. Propósito pode fazer sentido como cultura interna, atração de talentos ou desempate quando é conhecido e relevante (ex.: atum 'dolphin safe')."
+  },
+  {
+   "id": "attitudes-follow-behaviour",
+   "title": "Atitudes de marca seguem o uso: não leia oscilações de imagem como causa de vendas",
+   "statement": "Percepções avaliativas ('confiável', 'de qualidade') refletem sobretudo quantos entrevistados usam a marca. Desconte o tamanho antes de interpretar imagem e não trate pequenas oscilações de atributos ou 'drivers' estatísticos como alavancas de venda.",
+   "why": "Desde Bird, Channon e Ehrenberg (1970), atributos avaliativos são citados muito mais por usuários que por não usuários e acompanham a participação de mercado; atributos descritivos não. Num estudo com 560 empresas avaliando bancos, os mapas perceptuais tiveram um eixo dominado pelo tamanho das marcas. Sharp diz que não se sabe quanto vale uma mudança de 3% numa associação e que modelos de 'drivers' em uma série temporal se ajustam demais aos dados. Mudanças aparentes de atitude antes de mudanças de compra são em boa parte regressão à média.",
+   "how": [
+    "Separe atributos descritivos (o que a marca oferece) de avaliativos (o quanto é boa)",
+    "Compare cada associação com o valor esperado pelo tamanho da marca",
+    "Use a pesquisa de imagem para conhecer ativos e fazer a propaganda 'parecer a marca', não para caçar significado em décimos",
+    "Desconfie de métricas proprietárias de atitude que 'explicam' vendas sem dados públicos"
+   ],
+   "tests": [
+    "O diagnóstico de imagem descontou o efeito do tamanho da marca?",
+    "As decisões de posicionamento se apoiam em oscilações pequenas de atributos avaliativos?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "equity-medicao"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-riquier-sharp-1997-usage-bias",
+     "locator": "seções 1 a 3",
+     "paraphrase": "Atributos avaliativos variam com o uso e distorcem mapas perceptuais."
+    },
+    {
+     "id": "src-sharp-blog-brand-image-2018",
+     "locator": "texto integral",
+     "paraphrase": "Atitudes refletem compras passadas; o valor de pequenas mudanças de imagem é desconhecido."
+    },
+    {
+     "id": "src-sharp-blog-answering-critics-2016",
+     "locator": "seção sobre regressão à média",
+     "paraphrase": "A atitude parece prever mudança de compra, mas em boa parte é regressão à média."
+    }
+   ],
+   "conflictsWith": [
+    "funnel-metrics-validity"
+   ],
+   "cases": [],
+   "contexts": "Contestado: Pauwels e outros defensores de métricas de atitude veem causalidade nos dois sentidos para algumas marcas. Atributos descritivos (ex.: 'vende sapato masculino') podem, sim, limitar vendas."
+  },
+  {
+   "id": "relative-differentiation",
+   "title": "Diferenciação relativa: tenha mais de um atributo valorizado que os rivais",
+   "statement": "Em vez de buscar unicidade (rara e copiável), escolha um conceito de posicionamento com 2 ou 3 atributos que importam e invista para que a marca seja mais associada a eles do que os concorrentes. Entregue isso com execução distintiva.",
+   "why": "Ritson argumenta que diferenciação 'não é unicidade, é diferença', que a virada para a distintividade foi longe demais, e que distintividade sem nada a dizer não basta para crescer mais rápido. Romaniuk concordou com cerca de 60% e apoia a ideia de 'vantagem mental' num atributo. Sharp rebate que a diferenciação percebida é muito baixa e importa pouco.",
+   "how": [
+    "Escolha um conceito com 2 ou 3 atributos que caibam numa página",
+    "Use CEPs e 3Cs para filtrar atributos críveis e pouco disputados",
+    "Fale menos e com mais frequência; ponha excesso de participação de voz nesses atributos",
+    "Acompanhe a vantagem mental (associação acima do esperado) ao longo do tempo"
+   ],
+   "tests": [
+    "O posicionamento tem um conceito só, com poucos atributos?",
+    "Os atributos escolhidos são aqueles em que a marca pode ter vantagem mental medida, e não slogans de unicidade?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "posicionamento",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "posicionamento"
+   ],
+   "school": "posicionamento-diferenciacao",
+   "evidence": "opiniao-especialista",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ritson-mw-differentiation-2023",
+     "locator": "argumento central e recomendações",
+     "paraphrase": "Diferenciação relativa, um conceito, poucos atributos, excesso de voz e execução distintiva.",
+     "quote": "Differentiation is not about uniqueness, it's about difference"
+    },
+    {
+     "id": "src-mi3-ritson-dogma-2023",
+     "locator": "crítica central",
+     "paraphrase": "Distintividade sozinha não basta; é preciso combinar com posicionamento relativo e estável."
+    },
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "seção sobre vantagem mental",
+     "paraphrase": "O EBI mede 'vantagem mental' como associação acima do esperado, uma versão empírica de diferenciação relativa."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness"
+   ],
+   "cases": [],
+   "contexts": "Pesa mais em categorias com diferenças funcionais reais (B2B técnico, tecnologia, saúde) e em marcas novas que precisam dizer o que fazem. Pesa menos em categorias quase indiferenciáveis (vodka, água, combustível)."
+  },
+  {
+   "id": "mental-availability-beyond-ceps",
+   "title": "Além dos CEPs, meça sinais de força e de aprovação social",
+   "statement": "Ao medir disponibilidade mental, inclua, além dos CEPs, associações de força comercial ('marca grande, bem-sucedida', 'investe muito') e de norma social ('o que outros compram', 'a escolha certa'), que podem ser as associações mais salientes da categoria.",
+   "why": "Uma consultoria de pesquisa, usando o método de Romaniuk em carros elétricos, achou que só metade dos 10 atributos mais associados eram CEPs; a maior marca tinha desvantagem nos CEPs mais lembrados e vantagem em sinais de força e aprovação social. Os autores dizem ter visto o mesmo em ração, moda, aviação premium e supermercados.",
+   "how": [
+    "Inclua na pesquisa de associações itens de força comercial e de norma social",
+    "Analise-os com os mesmos valores esperados usados para CEPs",
+    "Considere que mídia e criação também sinalizam força (sinalização custosa)"
+   ],
+   "tests": [
+    "A pesquisa de marca inclui itens de força comercial e de aprovação social, além de situações de compra?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "equity-medicao",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "school": "comportamental",
+   "evidence": "empirica",
+   "strength": 1,
+   "sources": [
+    {
+     "id": "src-mw-reality-check-ceps-2026",
+     "locator": "figuras 1 a 3 e implicações",
+     "paraphrase": "CEPs não bastam; sinais custosos, normas sociais e valores também explicam disponibilidade mental."
+    }
+   ],
+   "conflictsWith": [
+    "category-entry-points"
+   ],
+   "cases": [],
+   "contexts": "Evidência proprietária, da consultoria que vende o modelo, sem metodologia pública: força 1. No B2B, o 'ninguém foi demitido por comprar IBM' do próprio EBI (W 'com quem') já aponta nessa direção."
+  }
+ ],
+ "frameworks": [
+  {
+   "id": "cep-ws-framework",
+   "name": "Os W's dos pontos de entrada da categoria (CEPs)",
+   "author": "Jenni Romaniuk / Ehrenberg-Bass Institute",
+   "purpose": "Gerar uma lista completa e diversa das situações de compra em que a categoria vem à mente, como base para mensagens e métricas de disponibilidade mental.",
+   "components": [
+    {
+     "name": "Quando",
+     "description": "Momento: hora, dia, estação, urgência ou tempo disponível."
+    },
+    {
+     "name": "Onde",
+     "description": "Local: sede ou filial, home office, onde estão os clientes do comprador."
+    },
+    {
+     "name": "Enquanto",
+     "description": "Atividades antes, durante ou depois que mudam a escolha (ex.: lançamento em curso pede fornecedor 'seguro')."
+    },
+    {
+     "name": "Com o quê",
+     "description": "Produtos e sistemas complementares; integração com o que a empresa já usa."
+    },
+    {
+     "name": "Por quê",
+     "description": "Motivos da empresa (metas, sustentabilidade, retenção) e da pessoa (desempenho, promoção)."
+    },
+    {
+     "name": "Como se sente",
+     "description": "Emoções antes, durante e depois (frustração, orgulho, alívio)."
+    },
+    {
+     "name": "Com/para quem",
+     "description": "Diretoria, pares, equipe júnior e clientes do comprador, essencial em comitês B2B."
+    }
+   ],
+   "steps": [
+    "Reúna compradores, marketing e vendas e use os W's como roteiro de perguntas ou de brainstorm",
+    "Em B2B, passe cada W por dois filtros: o da empresa e o da pessoa (ambição, medo de errar)",
+    "Escreva cada CEP para completar a frase 'procurando uma marca que...'",
+    "Remova duplicatas e junte itens parecidos",
+    "Leve a lista para o framework dos 3Cs para priorizar"
+   ],
+   "inputs": [
+    "Entrevistas ou pesquisa com compradores da categoria",
+    "Conhecimento de vendas e atendimento"
+   ],
+   "outputs": [
+    "Lista longa de CEPs da categoria, pronta para priorização e pesquisa"
+   ],
+   "pitfalls": [
+    "Listar só benefícios funcionais e esquecer emoções e pessoas envolvidas",
+    "Gerar CEPs só a partir dos clientes atuais",
+    "Confundir CEP (situação do comprador) com atributo da marca"
+   ],
+   "criticisms": [
+    "Consultorias comportamentais dizem que CEPs não captam sinais de força e de norma social, que também guiam a escolha (escola comportamental)"
+   ],
+   "domain": [
+    "publico",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "publico",
+    "posicionamento"
+   ],
+   "school": "ehrenberg-bass",
+   "sources": [
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "seção 'How do we find a category's CEPs'",
+     "paraphrase": "Os W's estruturam a geração de CEPs, com perguntas de exemplo para B2B."
+    },
+    {
+     "id": "src-li-salesforce-trailblazer-case",
+     "locator": "p. 5",
+     "paraphrase": "Diagrama dos W's aplicado a CRM."
+    }
+   ]
+  },
+  {
+   "id": "cep-3cs-prioritization",
+   "name": "3Cs: priorização de CEPs (credibilidade, competitividade, comunalidade)",
+   "author": "Jenni Romaniuk / Ehrenberg-Bass Institute",
+   "purpose": "Reduzir a lista longa de CEPs a uma lista curta de 5 a 8 que valem investimento de mensagem ao longo dos anos.",
+   "components": [
+    {
+     "name": "Credibilidade",
+     "description": "A marca pode entregar e é vista como capaz? Filtro externo (vantagem ou desvantagem mental medida) e interno (portfólio e pipeline)."
+    },
+    {
+     "name": "Competitividade",
+     "description": "Quantas marcas já têm vantagem mental naquele CEP; espaços lotados ficam em segundo plano."
+    },
+    {
+     "name": "Comunalidade",
+     "description": "Com que frequência o CEP ocorre ou quanto dinheiro ele movimenta (abordagem de 'moeda' em B2B com pedidos de valor muito variado)."
+    }
+   ],
+   "steps": [
+    "Pesquise a ligação CEP x marca (escolha livre, com opção 'nenhuma')",
+    "Calcule valores esperados e classifique a marca em vantagem, desvantagem ou esperado (limite de +/-5 pp)",
+    "Descarte CEPs com desvantagem mental difícil de reverter e os que o portfólio não atende",
+    "Conte, em cada CEP, quantos concorrentes têm vantagem mental e rebaixe os lotados",
+    "Pondere pela frequência ou pelo valor em dinheiro de cada CEP",
+    "Feche a lista curta de 5 a 8 CEPs e distribua-os no tempo: uma mensagem por peça"
+   ],
+   "inputs": [
+    "Lista de CEPs (W's)",
+    "Pesquisa de associação CEP x marca com compradores da categoria",
+    "Dados de portfólio e vendas"
+   ],
+   "outputs": [
+    "Lista curta de 5 a 8 CEPs priorizados",
+    "Mapa de vantagens e desvantagens mentais"
+   ],
+   "pitfalls": [
+    "Escolher CEPs onde a marca já é forte só por conforto, sem olhar o valor comercial",
+    "Tentar comunicar vários CEPs na mesma peça",
+    "Achar que ligar a marca a um CEP é tarefa feita uma vez só"
+   ],
+   "criticisms": [
+    "Ritson usa os 3Cs para escolher atributos de diferenciação relativa, enquanto o EBI os usa para disponibilidade mental (escola posicionamento-diferenciacao)"
+   ],
+   "domain": [
+    "posicionamento",
+    "ciencia-crescimento",
+    "equity-medicao"
+   ],
+   "stage": [
+    "posicionamento",
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "sources": [
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "seções 3Cs, Tabelas 1 a 3 e 'long-short list'",
+     "paraphrase": "Credibilidade, competitividade e comunalidade eliminam CEPs fracos e resultam numa lista de 5 a 8."
+    },
+    {
+     "id": "src-ritson-mw-differentiation-2023",
+     "locator": "recomendações",
+     "paraphrase": "Ritson recomenda CEPs e 3Cs na escolha do posicionamento."
+    }
+   ]
+  },
+  {
+   "id": "mental-availability-metrics-framework",
+   "name": "Métricas de disponibilidade mental (participação mental, penetração mental, tamanho da rede)",
+   "author": "Jenni Romaniuk / Ehrenberg-Bass Institute",
+   "purpose": "Medir se a comunicação está ampliando e renovando a rede de memória da marca, em vez de usar awareness simples ou atitudes.",
+   "components": [
+    {
+     "name": "Participação mental",
+     "description": "Ligações CEP-marca da marca divididas pelo total de ligações de todas as marcas."
+    },
+    {
+     "name": "Penetração mental",
+     "description": "% de compradores da categoria que ligam a marca a pelo menos um CEP."
+    },
+    {
+     "name": "Tamanho da rede",
+     "description": "Média de CEPs ligados à marca entre quem a liga a algum CEP."
+    },
+    {
+     "name": "Vantagem ou desvantagem mental",
+     "description": "Diferença entre a associação real e a esperada pelo tamanho, por CEP."
+    }
+   ],
+   "steps": [
+    "Aplique a pesquisa de escolha livre (CEPs nas linhas, marcas nas colunas, com 'nenhuma')",
+    "Calcule as três métricas para todas as marcas",
+    "Calcule o esperado de cada célula (total da linha x total da coluna / total geral) e os desvios em pontos percentuais",
+    "Projete o caminho de crescimento: quanto de penetração mental e de rede é preciso para chegar ao nível de um concorrente maior",
+    "Repita periodicamente com a mesma lista de CEPs"
+   ],
+   "inputs": [
+    "Lista de CEPs",
+    "Amostra de compradores da categoria (não só clientes)"
+   ],
+   "outputs": [
+    "Placar de disponibilidade mental versus concorrentes",
+    "Metas de crescimento mental"
+   ],
+   "pitfalls": [
+    "Pesquisar só a própria base de clientes",
+    "Misturar ativos distintivos na lista de atributos de saliência",
+    "Interpretar oscilações pequenas como tendência"
+   ],
+   "criticisms": [
+    "Defensores de métricas de atitude e de funil (Keller e trackers tradicionais) dizem que essas métricas ignoram afeto e preferência (escola academica)"
+   ],
+   "domain": [
+    "equity-medicao",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "school": "ehrenberg-bass",
+   "sources": [
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "Tabela 4",
+     "paraphrase": "Definições e exemplo de bancos do Reino Unido com as três métricas."
+    },
+    {
+     "id": "src-romaniuk-sharp-2004-salience",
+     "locator": "seção de mensuração",
+     "paraphrase": "Bases conceituais: várias pistas, comparação com rivais e respostas sim/não."
+    }
+   ]
+  },
+  {
+   "id": "distinctive-asset-grid",
+   "name": "Grade de ativos distintivos (fama x unicidade)",
+   "author": "Jenni Romaniuk / Ehrenberg-Bass Institute",
+   "purpose": "Decidir quais elementos sensoriais da marca proteger, investir, afiar ou descartar, com base em teste de reconhecimento sem marca.",
+   "components": [
+    {
+     "name": "Fama",
+     "description": "% de compradores da categoria que ligam o ativo à marca sem ver o nome."
+    },
+    {
+     "name": "Unicidade",
+     "description": "% das atribuições do ativo que vão para a sua marca e não para rivais."
+    },
+    {
+     "name": "Quadrante usar/proteger",
+     "description": "Alta fama e alta unicidade: obrigatório em toda peça de alto alcance."
+    },
+    {
+     "name": "Quadrante investir",
+     "description": "Baixa fama e alta unicidade: promissor; use junto de ativos fortes até ganhar fama."
+    },
+    {
+     "name": "Quadrante afiar",
+     "description": "Alta fama e baixa unicidade: código da categoria; combine com algo único."
+    },
+    {
+     "name": "Quadrante descartar",
+     "description": "Baixa fama e baixa unicidade: não é ativo."
+    }
+   ],
+   "steps": [
+    "Inventarie ativos próprios e dos concorrentes (cor, forma, personagem, som, frase, fonte, movimento)",
+    "Crie estímulos sem marca e pergunte a compradores da categoria de que marca são",
+    "Calcule fama e unicidade e posicione cada ativo na grade",
+    "Escolha um núcleo de 3 a 5 ativos e defina papéis (primário, secundário)",
+    "Escreva regras de uso e combinação, e ligue ativos a CEPs na execução",
+    "Teste de novo todo ano e evolua sem substituir o que tem fama"
+   ],
+   "inputs": [
+    "Inventário de elementos de identidade",
+    "Amostra de compradores da categoria"
+   ],
+   "outputs": [
+    "Núcleo de ativos priorizado",
+    "Regras de uso",
+    "Linha de base para acompanhar"
+   ],
+   "pitfalls": [
+    "Escolher pelo gosto ou pelo significado em vez de testar",
+    "Usar estímulos que deixam a marca aparecer",
+    "Trocar ativos famosos num rebrand",
+    "Tratar ativos como substitutos de posicionamento ou de produto"
+   ],
+   "criticisms": [
+    "A escola de identidade e design vê a identidade como expressão de significado e estratégia, não só como sinal de reconhecimento (escola identidade-design)"
+   ],
+   "domain": [
+    "ativos-distintivos",
+    "identidade-visual"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "school": "ehrenberg-bass",
+   "sources": [
+    {
+     "id": "src-umbrex-distinctive-assets-framework",
+     "locator": "seções 'Fame and Uniqueness' e passo a passo",
+     "paraphrase": "Grade de fama e unicidade, quadrantes e processo de auditoria."
+    },
+    {
+     "id": "src-ebi-romaniuk-admap-assets",
+     "locator": "texto integral",
+     "paraphrase": "Ativos como cardápio, escolhidos por contraste e conforme fama e unicidade."
+    }
+   ]
+  },
+  {
+   "id": "rmb-reach-message-brand",
+   "name": "RMB: alcance, mensagem, marca",
+   "author": "LinkedIn B2B Institute (a partir do Ehrenberg-Bass)",
+   "purpose": "Checklist simples para campanhas que constroem disponibilidade mental, sobretudo em B2B.",
+   "components": [
+    {
+     "name": "Alcance (Reach)",
+     "description": "Atingir todos os compradores da categoria com segmentação ampla."
+    },
+    {
+     "name": "Mensagem (Message)",
+     "description": "Ligar a marca a diferentes CEPs ao longo das campanhas."
+    },
+    {
+     "name": "Marca (Brand)",
+     "description": "Marcação forte com ativos distintivos em tudo."
+    }
+   ],
+   "steps": [
+    "Defina a audiência como a categoria inteira",
+    "Escolha um CEP por peça e varie entre peças",
+    "Coloque ativos distintivos de forma visível do início ao fim"
+   ],
+   "inputs": [
+    "Lista de CEPs priorizados",
+    "Ativos distintivos"
+   ],
+   "outputs": [
+    "Briefing de campanha de construção de marca"
+   ],
+   "pitfalls": [
+    "Reduzir alcance para ganhar eficiência",
+    "Peça com muitas mensagens",
+    "Marca aparecendo só no fim"
+   ],
+   "criticisms": [
+    "Ritson considera que falta definir um alvo e um posicionamento antes do alcance (escola posicionamento-diferenciacao)"
+   ],
+   "domain": [
+    "ativacao-eficacia",
+    "b2b",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "school": "ehrenberg-bass",
+   "sources": [
+    {
+     "id": "src-li-salesforce-trailblazer-case",
+     "locator": "p. 6-7",
+     "paraphrase": "O método RMB é ilustrado com a campanha Trailblazer da Salesforce."
+    }
+   ]
+  },
+  {
+   "id": "physical-availability-3ps-b2b",
+   "name": "Disponibilidade física B2B: presença, proeminência, portfólio",
+   "author": "Ehrenberg-Bass Institute",
+   "purpose": "Organizar decisões de canal, de visibilidade e de linha de produtos para que a marca lembrada seja fácil de comprar.",
+   "components": [
+    {
+     "name": "Presença",
+     "description": "Estar nos canais na proporção da receita e dos clientes da categoria em cada um; usar duplicação entre canais para cortar e expandir."
+    },
+    {
+     "name": "Proeminência",
+     "description": "Ser fácil de achar em cada ambiente; própria (ativos distintivos) e alugada (mídia paga e posição)."
+    },
+    {
+     "name": "Portfólio",
+     "description": "Cobrir necessidades atuais e futuras guiado por vendas e CEPs; proteger o núcleo e cortar caudas longas."
+    }
+   ],
+   "steps": [
+    "Compare sua receita por canal com a da categoria e ache lacunas",
+    "Faça o perfil dos usuários de cada canal antes de acreditar em nichos",
+    "Analise a duplicação entre canais (redundância e complementaridade)",
+    "Liste ambientes de compra em que a marca é difícil de achar e crie ativos para eles",
+    "Calcule quanto o produto núcleo pesa na receita e enxugue a cauda"
+   ],
+   "inputs": [
+    "Receita e clientes por canal (marca e categoria)",
+    "Pesquisa de canais usados por compradores",
+    "Dados de portfólio"
+   ],
+   "outputs": [
+    "Plano de canais",
+    "Plano de proeminência ('rent to buy')",
+    "Portfólio enxuto"
+   ],
+   "pitfalls": [
+    "Abandonar canais legados cedo demais",
+    "Entrar em canais novos cedo demais",
+    "Deixar decisões de canal só com vendas ou TI"
+   ],
+   "criticisms": [],
+   "domain": [
+    "experiencia",
+    "b2b",
+    "ciencia-crescimento"
+   ],
+   "stage": [
+    "ativacao",
+    "arquitetura"
+   ],
+   "school": "ehrenberg-bass",
+   "sources": [
+    {
+     "id": "src-ebi-easy-to-find-b2b",
+     "locator": "texto integral",
+     "paraphrase": "Modelo de presença, proeminência e portfólio com perguntas de diagnóstico."
+    }
+   ]
+  },
+  {
+   "id": "double-jeopardy-benchmark",
+   "name": "Benchmark de Double Jeopardy e duplicação (diagnóstico de fidelidade e concorrência)",
+   "author": "Ehrenberg-Bass Institute",
+   "purpose": "Saber se a fidelidade e o compartilhamento de clientes da marca são normais para o seu tamanho, e assim fixar metas realistas e achar anomalias.",
+   "components": [
+    {
+     "name": "Penetração",
+     "description": "% de compradores da categoria que compraram a marca no período."
+    },
+    {
+     "name": "Métricas de fidelidade",
+     "description": "Repertório: frequência, participação nas compras, % de exclusivos. Assinatura: defecção, retenção, tempo de casa."
+    },
+    {
+     "name": "Tabela de duplicação",
+     "description": "Entre os clientes de A, % que também usa B, comparado com a penetração de B."
+    }
+   ],
+   "steps": [
+    "Pesquise uma amostra ampla de compradores da categoria (não só clientes)",
+    "Identifique o universo de compradores e quais fornecedores cada um usa",
+    "Ordene as marcas por penetração e compare a fidelidade entre vizinhas",
+    "Monte a tabela de duplicação e marque desvios grandes",
+    "Investigue só desvios persistentes (descarte variação amostral)"
+   ],
+   "inputs": [
+    "Pesquisa de uso por fornecedor",
+    "Definição clara de comprador da categoria e período"
+   ],
+   "outputs": [
+    "Fidelidade esperada versus real",
+    "Mapa dos concorrentes reais",
+    "Metas realistas de retenção"
+   ],
+   "pitfalls": [
+    "Universo de compradores estreito demais",
+    "Amostra pequena para marcas pequenas",
+    "Ver desvio onde há só ruído"
+   ],
+   "criticisms": [
+    "Programas de fidelidade fortes e nichos verdadeiros podem gerar 'excesso de fidelidade' (reconhecido pelo próprio EBI)"
+   ],
+   "domain": [
+    "equity-medicao",
+    "ciencia-crescimento",
+    "b2b"
+   ],
+   "stage": [
+    "diagnostico",
+    "paisagem"
+   ],
+   "school": "ehrenberg-bass",
+   "sources": [
+    {
+     "id": "src-ebi-double-jeopardy-b2b-2021",
+     "locator": "seção de mensuração",
+     "paraphrase": "Como montar a pesquisa e as métricas para testar o Double Jeopardy."
+    },
+    {
+     "id": "src-ebi-how-b2b-brands-compete",
+     "locator": "Tabela 1",
+     "paraphrase": "Como ler a tabela de duplicação e os desvios."
+    },
+    {
+     "id": "src-sharp-2002-economy-of-scale",
+     "locator": "tabela de defecção",
+     "paraphrase": "A defecção esperada também segue o tamanho da marca."
+    }
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "id": "differentiation-vs-distinctiveness",
+   "question": "A marca precisa ser percebida como diferente ou basta ser distinta e lembrada?",
+   "positions": [
+    {
+     "school": "ehrenberg-bass",
+     "claim": "Marcas raramente competem por diferenciação significativa; competem por distintividade (ser reconhecida) e por disponibilidade mental e física. Diferenciação percebida é baixa e importa pouco.",
+     "evidence": "Double Jeopardy e duplicação mostram mercados pouco segmentados; em experimentos de preço do EBI, só um atributo (orgânico, sem glúten) mudou comportamento; vantagens de produto são copiadas.",
+     "sources": [
+      {
+       "id": "src-li-how-b2b-brands-grow",
+       "locator": "prefácio de Sharp",
+       "paraphrase": "Marcas raramente competem por diferenciação significativa; o que importa é distintividade e marcação clara."
+      },
+      {
+       "id": "src-ebi-cannes-ritson-sharp-2026",
+       "locator": "fala de Sharp",
+       "paraphrase": "Diferenciação percebida é muito baixa; se precisa torturar dados para achá-la, ela não existe."
+      },
+      {
+       "id": "src-ebi-differentiation-vs-distinctiveness",
+       "locator": "seção B2B",
+       "paraphrase": "Compradores B2B fazem satisficing e comparam as opções mais conhecidas; importa ser lembrado e achado, não parecer diferente."
+      }
+     ]
+    },
+    {
+     "school": "posicionamento-diferenciacao",
+     "claim": "Distintividade é essencial, mas não basta: a marca cresce mais rápido com diferenciação relativa (mais de um atributo valorizado do que os rivais) somada a execução distintiva.",
+     "evidence": "Argumento de especialista (Ritson); cita cases de praticantes; Romaniuk concordou com cerca de 60% e aceita a ideia de 'vantagem mental'.",
+     "sources": [
+      {
+       "id": "src-ritson-mw-differentiation-2023",
+       "locator": "argumento central",
+       "paraphrase": "Diferenciação é diferença, não unicidade; o mercado foi longe demais em direção à distintividade."
+      },
+      {
+       "id": "src-mi3-ritson-dogma-2023",
+       "locator": "crítica central",
+       "paraphrase": "Distintividade sozinha não basta; buscar distintividade 'em vez de' diferenciação é erro."
+      }
+     ]
+    }
+   ],
+   "synthesis": "As duas escolas concordam que vir à mente é a tarefa principal, que ativos distintivos são indispensáveis e que unicidade absoluta é rara. A divergência é quanto peso dar a uma vantagem relativa de associação. A 'vantagem mental' do EBI (associação acima do esperado) e a 'diferenciação relativa' de Ritson são operacionalmente próximas.",
+   "systemStance": "Padrão do sistema: distintividade e disponibilidade mental primeiro (sempre obrigatórias); depois, um conceito com 2 ou 3 atributos onde a marca possa ter vantagem mental medida. Dê mais peso à diferenciação em categoria nova, em produto realmente superior e visível, em B2B técnico e em marca que precisa explicar o que faz. Dê menos em categorias de paridade (bebidas, commodities, varejo de massa).",
+   "stage": [
+    "posicionamento",
+    "ativos"
+   ],
+   "domain": [
+    "posicionamento",
+    "ciencia-crescimento",
+    "ativos-distintivos"
+   ]
+  },
+  {
+   "id": "targeting-vs-mass-reach",
+   "question": "Crescer exige mirar num segmento específico ou alcançar toda a categoria?",
+   "positions": [
+    {
+     "school": "ehrenberg-bass",
+     "claim": "Compradores de marcas concorrentes se parecem e são compartilhados conforme o tamanho; o crescimento vem de toda a categoria. Use marketing de massa sofisticado; segmentação estreita para ganhar eficiência atrapalha.",
+     "evidence": "Lei de Duplicação de Compra em B2B (correlação de 93% em seguros); 95-5; menor taxa de clique de marcas desconhecidas.",
+     "sources": [
+      {
+       "id": "src-ebi-how-b2b-brands-compete",
+       "locator": "implicações",
+       "paraphrase": "Alcançar o mercado todo; segmentação estreita é contraproducente."
+      },
+      {
+       "id": "src-ebi-95-5-rule-b2b",
+       "locator": "seção sobre segmentação",
+       "paraphrase": "Mirar só quem está pronto para comprar não constrói familiaridade."
+      }
+     ]
+    },
+    {
+     "school": "posicionamento-diferenciacao",
+     "claim": "Defina primeiro o alvo (a maioria dos profissionais não sabe qual é); a mídia de marca é ampla, mas a estratégia precisa de alvo, e os 5% de ativação são 'targeting'.",
+     "evidence": "Opinião de especialista (Ritson), com pesquisa do Better Briefs Project sobre briefings sem alvo definido.",
+     "sources": [
+      {
+       "id": "src-mi3-ritson-dogma-2023",
+       "locator": "alternativa de Ritson",
+       "paraphrase": "Identificar o alvo é o primeiro passo; depois vem o posicionamento."
+      },
+      {
+       "id": "src-ebi-cannes-ritson-sharp-2026",
+       "locator": "trecho sobre massa",
+       "paraphrase": "Ambos aceitam massa sofisticada; Ritson chama os 5% de ativação de segmentação e Sharp, de disponibilidade de compra."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Concordam em alcance amplo para a construção de marca e em uma parte de ativação mais dirigida. A divergência é mais de linguagem e de ênfase no planejamento.",
+   "systemStance": "Padrão: público de marca = todos os compradores da categoria (no recorte geográfico ou de canal que a verba permite); segmentação só para ativação e para escolher CEPs. Troque por foco estreito apenas em nicho real (partição comprovada por duplicação) ou com verba mínima, e mesmo assim no nicho inteiro.",
+   "stage": [
+    "publico",
+    "ativacao"
+   ],
+   "domain": [
+    "publico",
+    "ciencia-crescimento",
+    "ativacao-eficacia"
+   ]
+  },
+  {
+   "id": "loyalty-vs-penetration",
+   "question": "Marcas crescem aumentando a fidelidade dos clientes atuais ou ganhando novos clientes?",
+   "positions": [
+    {
+     "school": "ehrenberg-bass",
+     "claim": "Cresce-se sobretudo por penetração; a fidelidade sobe um pouco junto (Double Jeopardy) e tem teto previsível pelo tamanho. Retenção, venda cruzada e programas de fidelidade são defensivos.",
+     "evidence": "Double Jeopardy em B2C e B2B; análises longitudinais; 2 produtos por cliente em todos os bancos; efeito defensivo de programas de fidelidade.",
+     "sources": [
+      {
+       "id": "src-ebi-double-jeopardy-b2b-2021",
+       "locator": "implicações",
+       "paraphrase": "Não é possível crescer de forma sustentável focando só fidelidade."
+      },
+      {
+       "id": "src-mundt-sharp-dawes-2003-multiproduct",
+       "locator": "conclusão",
+       "paraphrase": "Venda cruzada é rota difícil de crescimento."
+      }
+     ]
+    },
+    {
+     "school": "academica",
+     "claim": "Atitude e compromisso com a marca também causam compra; marcas que geram mais compromisso por compra crescem mais e rendem mais por ponto de saliência.",
+     "evidence": "Dados proprietários citados por um praticante nos comentários do blog de Sharp; Pauwels defende causalidade nos dois sentidos para algumas marcas. Sem dados públicos.",
+     "sources": [
+      {
+       "id": "src-sharp-blog-answering-critics-2016",
+       "locator": "comentários",
+       "paraphrase": "Um defensor de métricas de atitude argumenta que atitudes também predizem e causam compra."
+      },
+      {
+       "id": "src-sharp-blog-brand-image-2018",
+       "locator": "comentários",
+       "paraphrase": "Pauwels diz que, em algumas marcas, a percepção move vendas."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Ninguém nega que cuidar dos clientes atuais é necessário. O EBI admite fidelidade natural e 'excesso de fidelidade' por programas e nichos; os críticos admitem que a penetração precisa crescer.",
+   "systemStance": "Padrão: plano de crescimento baseado em penetração; metas de fidelidade calibradas pelo tamanho. Use iniciativas de fidelidade como defesa e experiência, não como motor principal. Reavalie em contas B2B muito concentradas e em assinaturas com custo alto de troca.",
+   "stage": [
+    "diagnostico",
+    "ativacao"
+   ],
+   "domain": [
+    "ciencia-crescimento",
+    "equity-medicao"
+   ]
+  },
+  {
+   "id": "purpose-value",
+   "question": "Propósito de marca ajuda a marca a crescer?",
+   "positions": [
+    {
+     "school": "ehrenberg-bass",
+     "claim": "Não como estratégia de marketing: mesmo as marcas-símbolo têm consciência do propósito perto do nível de chute, e o investimento tem custo de oportunidade. Propósito não é necessário para o sucesso.",
+     "evidence": "Pesquisa com quase 3.000 pessoas em 3 países e 14 marcas: 18% de reconhecimento contra 9% de propósitos falsos.",
+     "sources": [
+      {
+       "id": "src-ebi-purpose-aware-2025",
+       "locator": "resultados e recomendações",
+       "paraphrase": "Consciência real raramente passa de 10%; prefira estratégias de disponibilidade."
+      }
+     ]
+    },
+    {
+     "school": "pratica",
+     "claim": "Depende da marca: há tipos diferentes de propósito (visão da categoria, ativismo, desafiante, paixão) e alguns funcionam; nem toda marca precisa de um; 'salvar o mundo' costuma ser exagero.",
+     "evidence": "Opinião de praticante, sem dados.",
+     "sources": [
+      {
+       "id": "src-ebi-purpose-perspective-2020",
+       "locator": "princípios 1 a 3",
+       "paraphrase": "Tipos de propósito diferem; nem toda marca precisa de propósito (Marmite)."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Concordam que propósito não é obrigatório, que propósito grandioso desconectado do produto é arriscado e que ser bom cidadão corporativo é outra coisa.",
+   "systemStance": "Padrão: não recomende propósito como alavanca de crescimento sem evidência específica. Aceite propósito quando ele está ligado ao produto ou à operação, é crível e serve à cultura ou a desempate; nunca como substituto de alcance e disponibilidade. (Escola de propósito, Stengel, Sinek e Troiano, é registrada em outros lotes.)",
+   "stage": [
+    "plataforma",
+    "narrativa"
+   ],
+   "domain": [
+    "narrativa-proposito",
+    "ciencia-crescimento"
+   ]
+  },
+  {
+   "id": "funnel-metrics-validity",
+   "question": "Métricas de atitude e imagem (consideração, preferência, 'drivers' de imagem) servem para guiar a marca?",
+   "positions": [
+    {
+     "school": "ehrenberg-bass",
+     "claim": "Atitudes seguem o comportamento; imagem avaliativa reflete participação de mercado; oscilações pequenas não têm valor conhecido. Meça o que evoca a marca (CEPs), não o que a marca evoca.",
+     "evidence": "Bird, Channon e Ehrenberg (1970) e replicações; viés de uso em mapas perceptuais; regressão à média.",
+     "sources": [
+      {
+       "id": "src-riquier-sharp-1997-usage-bias",
+       "locator": "resultados",
+       "paraphrase": "Mapas perceptuais têm um eixo dominado pelo tamanho das marcas."
+      },
+      {
+       "id": "src-sharp-blog-brand-image-2018",
+       "locator": "texto integral",
+       "paraphrase": "Ninguém sabe quanto vale uma pequena mudança de imagem; modelos de drivers são pseudociência."
+      }
+     ]
+    },
+    {
+     "school": "academica",
+     "claim": "Percepções também causam vendas em parte das marcas; modelos de séries temporais com moderadores podem identificar isso.",
+     "evidence": "Argumento de Pauwels e de praticantes nos comentários; sem dados públicos no texto.",
+     "sources": [
+      {
+       "id": "src-sharp-blog-brand-image-2018",
+       "locator": "comentários",
+       "paraphrase": "Pauwels defende causalidade dupla e critica afirmações absolutas."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Concordam que disponibilidade mental afeta vendas e que o conhecimento científico sobre o valor de pequenas mudanças de imagem é limitado.",
+   "systemStance": "Padrão: use métricas de disponibilidade mental (CEPs) como métrica principal de saúde da marca; use imagem para conhecer ativos e associações descritivas, sempre descontando o tamanho; trate 'drivers' de atitude com ceticismo.",
+   "stage": [
+    "diagnostico"
+   ],
+   "domain": [
+    "equity-medicao"
+   ]
+  },
+  {
+   "id": "laws-vs-heuristics",
+   "question": "As 'leis' do Ehrenberg-Bass são ciência estabelecida ou uma ideologia de consultoria?",
+   "positions": [
+    {
+     "school": "ehrenberg-bass",
+     "claim": "São generalizações empíricas replicadas em muitas categorias, países e épocas (Dirichlet, Double Jeopardy, duplicação); modelos descritivos validados são mais confiáveis que modelos de decisão calibrados em um só conjunto de dados.",
+     "evidence": "Décadas de replicação; artigo de 2000 sobre modelos de decisão e descritivos.",
+     "sources": [
+      {
+       "id": "src-ehrenberg-barnard-sharp-2000-models",
+       "locator": "Discussão",
+       "paraphrase": "Modelos descritivos validados em muitas condições são a base do conhecimento."
+      },
+      {
+       "id": "src-sharp-blog-answering-critics-2016",
+       "locator": "abertura",
+       "paraphrase": "Críticos não trazem dados públicos; métricas proprietárias que 'explicam' vendas são suspeitas."
+      }
+     ]
+    },
+    {
+     "school": "posicionamento-diferenciacao",
+     "claim": "As leis são úteis, mas o EBI transforma achados em dogma e tem interesse comercial em vender o novo paradigma.",
+     "evidence": "Opinião de Ritson em palestra.",
+     "sources": [
+      {
+       "id": "src-mi3-ritson-dogma-2023",
+       "locator": "crítica central",
+       "paraphrase": "Ritson chama de 'consultoria, dogma, ideologia' a postura do EBI."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Ritson aceita boa parte das conclusões (disponibilidade mental, ativos, alcance, consistência); a crítica é à extrapolação (descartar diferenciação) e ao tom.",
+   "systemStance": "Trate as regularidades (Double Jeopardy, duplicação, 95-5, queda ao sair do ar) como fatos fortes; trate as prescrições derivadas ('diferenciação não importa', 'propósito é bobagem') como posição de escola, explicitada como tal.",
+   "stage": [
+    "diagnostico",
+    "posicionamento"
+   ],
+   "domain": [
+    "ciencia-crescimento",
+    "estrategia"
+   ]
+  },
+  {
+   "id": "ceps-sufficiency",
+   "question": "Os pontos de entrada da categoria bastam para medir e construir disponibilidade mental?",
+   "positions": [
+    {
+     "school": "ehrenberg-bass",
+     "claim": "CEPs são as pistas que puxam marcas da memória; ampliar e renovar a rede de CEPs é o caminho, medido por participação e penetração mental.",
+     "evidence": "Dados de seguros e bancos; replicações em telecom.",
+     "sources": [
+      {
+       "id": "src-ebi-cep-b2b-2022",
+       "locator": "texto integral",
+       "paraphrase": "Mais CEPs, menos defecção; métricas baseadas em CEPs."
+      }
+     ]
+    },
+    {
+     "school": "comportamental",
+     "claim": "Sinais de força comercial, normas sociais e valores também são associações muito salientes e podem explicar vantagens que os CEPs não explicam.",
+     "evidence": "Pesquisa proprietária em carros elétricos e outras categorias, com o método de Romaniuk; sem metodologia pública.",
+     "sources": [
+      {
+       "id": "src-mw-reality-check-ceps-2026",
+       "locator": "figuras 1 a 3",
+       "paraphrase": "Só metade dos atributos mais associados em carros elétricos são CEPs."
+      }
+     ]
+    }
+   ],
+   "synthesis": "Os críticos usam o próprio método de Romaniuk e confirmam a lei de resposta por tamanho; a divergência é sobre quais pistas entram na lista.",
+   "systemStance": "Padrão: CEPs como base; acrescente alguns itens de força e de aprovação social ('marca líder', 'escolha segura', 'a diretoria aprovaria') na pesquisa, sobretudo em B2B e em categorias de risco.",
+   "stage": [
+    "diagnostico",
+    "publico"
+   ],
+   "domain": [
+    "equity-medicao",
+    "ciencia-crescimento"
+   ]
+  }
+ ],
+ "cases": [
+  {
+   "id": "case-salesforce-trailblazer-2019",
+   "brand": "Salesforce",
+   "year": 2019,
+   "agency": "interna (equipe de Global Brand)",
+   "sector": "tecnologia / software B2B",
+   "market": "global",
+   "type": "reposicionamento",
+   "challenge": "Marca líder e famosa em CRM, mas poucos sabiam como ela ajudaria seus negócios: déficit de consciência situacional.",
+   "insight": "Ser conhecida não basta; é preciso vir à mente nas situações de compra de CRM. Os personagens criados para a plataforma de ensino já despertavam afeto espontâneo dos clientes.",
+   "strategy": "Construir disponibilidade mental pelo método RMB: alcance amplo, mensagens ligadas a diferentes CEPs e marcação forte com ativos distintivos.",
+   "execution": "Campanha Trailblazer com os personagens Astro e Codey como ativos famosos e únicos, nova identidade visual e histórias ligadas a situações de compra.",
+   "results": [
+    {
+     "metric": "Métricas de marca",
+     "value": "'quase dobraram' após nova identidade e personagens (declaração do SVP de marca, sem números)",
+     "independent": false,
+     "source": "src-li-salesforce-trailblazer-case"
+    }
+   ],
+   "lessons": [
+    "Até líderes têm lacuna de disponibilidade mental quando o mercado não sabe para que situações usá-los",
+    "Personagens podem ser ativos distintivos fortes em B2B, mesmo em cultura corporativa conservadora",
+    "Construir disponibilidade mental exige paciência interna: o executivo de marca ficou 1 a 2 anos fora das conversas de vendas"
+   ],
+   "principles": [
+    "mental-availability",
+    "category-entry-points",
+    "distinctive-assets-fame-uniqueness",
+    "reach-over-targeting"
+   ],
+   "sources": [
+    {
+     "id": "src-li-salesforce-trailblazer-case",
+     "locator": "texto integral",
+     "paraphrase": "Caso do LinkedIn sobre a campanha Trailblazer e o método RMB."
+    }
+   ]
+  }
+ ],
+ "antipatterns": [
+  {
+   "id": "awareness-as-done",
+   "name": "'Todo mundo já nos conhece'",
+   "description": "Tratar consciência de marca como problema resolvido porque a marca é famosa ou líder, ignorando em quais situações ela não vem à mente.",
+   "signals": [
+    "Objetivo de comunicação só de conversão porque 'awareness já está alta'",
+    "Pesquisa de marca só com lembrança espontânea pela categoria",
+    "Só 16% de profissionais B2B listam awareness como objetivo (dado do LinkedIn)"
+   ],
+   "whyBad": "Fama genérica não garante lembrança nas situações de compra; até a Salesforce tinha essa lacuna.",
+   "fix": "Medir disponibilidade mental por CEPs e definir quais situações a marca precisa possuir.",
+   "domain": [
+    "ciencia-crescimento",
+    "equity-medicao"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "sources": [
+    {
+     "id": "src-li-salesforce-trailblazer-case",
+     "locator": "p. 2-3",
+     "paraphrase": "Mesmo marcas famosas têm problema de consciência situacional."
+    }
+   ]
+  },
+  {
+   "id": "logo-only-branding",
+   "name": "Marca que só tem logo",
+   "description": "Identidade que depende só do logotipo, sem outros ativos reconhecíveis (cor própria, personagem, som, forma, frase).",
+   "signals": [
+    "Guia de marca com logo e paleta genérica da categoria, sem outros elementos testados",
+    "Peças em que, cobrindo o logo, ninguém saberia de quem é",
+    "Marca aparece só no fim do vídeo ou no rodapé"
+   ],
+   "whyBad": "A atenção conquistada vai para o concorrente maior ou para ninguém; a marca não fura a desordem dos ambientes de compra.",
+   "fix": "Desenvolver e testar 3 a 5 ativos por fama e unicidade e usá-los do início ao fim das peças.",
+   "domain": [
+    "ativos-distintivos",
+    "identidade-visual",
+    "b2b"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "sources": [
+    {
+     "id": "src-ebi-easy-to-find-b2b",
+     "locator": "seção Prominence",
+     "paraphrase": "Em B2B quase sempre só existe o logo, o que deixa a marca sem armas contra a desordem."
+    },
+    {
+     "id": "src-ebi-romaniuk-admap-assets",
+     "locator": "texto integral",
+     "paraphrase": "Quanto mais a criação chama atenção, mais a marcação precisa trabalhar."
+    }
+   ]
+  },
+  {
+   "id": "loyalty-led-growth-plan",
+   "name": "Plano de crescimento por fidelidade",
+   "description": "Apostar o crescimento em retenção, upsell, cross-sell ou programa de fidelidade, com metas de fidelidade descoladas do tamanho da marca.",
+   "signals": [
+    "Meta do tipo 'aumentar a fidelidade em 50%'",
+    "Verba concentrada em CRM da base atual",
+    "Premissa 'reter custa X vezes menos que conquistar' como justificativa central"
+   ],
+   "whyBad": "A fidelidade tem teto previsível pelo tamanho (Double Jeopardy); o crescimento sustentável vem de penetração.",
+   "fix": "Reequilibrar para aquisição e alcance da categoria; tratar fidelidade como defesa e calibrar metas pelo tamanho.",
+   "domain": [
+    "ciencia-crescimento",
+    "estrategia"
+   ],
+   "stage": [
+    "diagnostico",
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-ebi-double-jeopardy-b2b-2021",
+     "locator": "implicações",
+     "paraphrase": "Gestores não podem simplesmente decidir aumentar a fidelidade em 50%."
+    },
+    {
+     "id": "src-mundt-sharp-dawes-2003-multiproduct",
+     "locator": "conclusão",
+     "paraphrase": "Venda cruzada é rota difícil."
+    }
+   ]
+  },
+  {
+   "id": "in-market-only-targeting",
+   "name": "Falar só com quem está pronto para comprar",
+   "description": "Comunicação concentrada em quem demonstra intenção (retargeting, busca, leads quentes), sem construir memória nos compradores futuros.",
+   "signals": [
+    "Quase toda a verba em performance e retargeting",
+    "KPIs só de lead e de custo por aquisição",
+    "Picos de mídia em um trimestre e silêncio no resto do ano"
+   ],
+   "whyBad": "Só uma pequena fatia está no mercado; quem busca prefere marcas que já conhece, e marcas desconhecidas têm cliques menores.",
+   "fix": "Manter comunicação de marca contínua para toda a categoria e usar ativação dirigida como complemento.",
+   "domain": [
+    "ativacao-eficacia",
+    "b2b"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-ebi-95-5-rule-b2b",
+     "locator": "seção sobre segmentação",
+     "paraphrase": "Mirar só quem está pronto para comprar não constrói disponibilidade mental."
+    }
+   ]
+  },
+  {
+   "id": "going-dark-to-save",
+   "name": "Cortar toda a mídia para economizar",
+   "description": "Suspender a propaganda por um ano ou mais para melhorar o resultado, tratando a falta de queda imediata como prova de que a mídia não fazia falta.",
+   "signals": [
+    "Ano sem mídia aprovado como 'pausa'",
+    "Corte justificado por 'as vendas não caíram nos primeiros meses'"
+   ],
+   "whyBad": "A queda média é de 16% no primeiro ano e cresce depois; pequenas e em queda sofrem mais; voltar ao ar não recupera rápido.",
+   "fix": "Reduzir em vez de zerar, manter participação de voz compatível com o tamanho e considerar o efeito atrasado.",
+   "domain": [
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-ebi-stop-advertising-2018",
+     "locator": "resultados",
+     "paraphrase": "Quedas de 16%, 25% e 36% com 1, 2 e 3 anos sem mídia."
+    }
+   ]
+  },
+  {
+   "id": "fixing-rejection-reasons",
+   "name": "Caçar e rebater objeções de uma minoria",
+   "description": "Pesquisar 'barreiras' e montar campanhas para rebater motivos de rejeição, quando o problema real é a marca não ser conhecida nem lembrada.",
+   "signals": [
+    "Pergunta de pesquisa 'quais as barreiras para comprar a marca?'",
+    "Campanha centrada em responder a críticas",
+    "Diagnóstico sem separar 'rejeito' de 'não conheço'"
+   ],
+   "whyBad": "Menos de 1 em 10 rejeita uma marca, os motivos são difusos, e a pergunta fabrica barreiras; falar da objeção pode espalhá-la.",
+   "fix": "Separar rejeição de desconhecimento, comparar com a categoria e investir em alcance e CEPs.",
+   "domain": [
+    "ciencia-crescimento",
+    "equity-medicao"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "sources": [
+    {
+     "id": "src-ebi-b2b-brand-rejection",
+     "locator": "achados e conclusão",
+     "paraphrase": "Rejeição é rara e difusa; desconhecimento é a barreira maior."
+    },
+    {
+     "id": "src-ebi-genai-rejection-b2b",
+     "locator": "texto integral",
+     "paraphrase": "Rebater rejeição pode amplificar um problema pequeno."
+    }
+   ]
+  },
+  {
+   "id": "purpose-as-growth-engine",
+   "name": "Propósito como motor de crescimento",
+   "description": "Plataforma de marca centrada num propósito social grandioso, apresentado como o que vai fazer a marca crescer.",
+   "signals": [
+    "Manifesto sobre 'mudar o mundo' sem ligação com o produto",
+    "Case de sucesso atribuído ao propósito sem controlar verba e distribuição",
+    "Verba de propaganda dedicada a comunicar o propósito"
+   ],
+   "whyBad": "A consciência do propósito é baixíssima mesmo nas marcas-símbolo; o investimento tira verba de alcance e de disponibilidade.",
+   "fix": "Separar cidadania corporativa (fazer) de comunicação de crescimento; usar propósito só quando crível, ligado ao produto e como desempate.",
+   "domain": [
+    "narrativa-proposito"
+   ],
+   "stage": [
+    "plataforma",
+    "narrativa"
+   ],
+   "sources": [
+    {
+     "id": "src-ebi-purpose-aware-2025",
+     "locator": "recomendações",
+     "paraphrase": "Desconfie de cases que creditam o sucesso ao propósito sem considerar outros fatores."
+    }
+   ]
+  },
+  {
+   "id": "image-tracker-tea-leaves",
+   "name": "Ler folhas de chá no tracking de imagem",
+   "description": "Tomar decisões com base em pequenas oscilações de atributos avaliativos ou em modelos estatísticos de 'drivers' de imagem.",
+   "signals": [
+    "Relatório que comemora +2 pontos em 'confiável'",
+    "Mapa perceptual usado para definir posicionamento sem descontar o tamanho",
+    "Métrica proprietária de 'amor à marca' que 'explica' vendas"
+   ],
+   "whyBad": "Atributos avaliativos refletem o tamanho da base de usuários; o valor de mudanças pequenas é desconhecido e os modelos se ajustam demais aos dados.",
+   "fix": "Usar métricas de disponibilidade mental, descontar o tamanho (valores esperados) e olhar imagem para ativos e associações descritivas.",
+   "domain": [
+    "equity-medicao"
+   ],
+   "stage": [
+    "diagnostico"
+   ],
+   "sources": [
+    {
+     "id": "src-sharp-blog-brand-image-2018",
+     "locator": "texto integral",
+     "paraphrase": "Spider graphs e mapas perceptuais não dizem quanto vale uma percepção."
+    },
+    {
+     "id": "src-riquier-sharp-1997-usage-bias",
+     "locator": "implicações",
+     "paraphrase": "Mapas perceptuais confundem participação de mercado com posicionamento."
+    }
+   ]
+  },
+  {
+   "id": "meaning-first-asset-choice",
+   "name": "Ativo escolhido pelo 'significado'",
+   "description": "Escolher cor, símbolo ou mascote porque 'transmite' um valor (verde = sustentável, azul = confiança), sem testar se identifica a marca.",
+   "signals": [
+    "Apresentação de identidade justificada por semântica de cores",
+    "Mesmo código de cor dos concorrentes da categoria",
+    "Nenhum teste de reconhecimento sem marca"
+   ],
+   "whyBad": "Significados são compartilhados com concorrentes, competem com a marca na memória e limitam usos e registro.",
+   "fix": "Tratar ativos como candidatos, testar fama e unicidade e priorizar contraste com a categoria.",
+   "domain": [
+    "ativos-distintivos",
+    "identidade-visual"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "sources": [
+    {
+     "id": "src-mw-romaniuk-meaning-assets-2025",
+     "locator": "as quatro fases",
+     "paraphrase": "Escolher ativos pelo significado cobra custos ao longo da vida do ativo."
+    }
+   ]
+  },
+  {
+   "id": "campaign-churn",
+   "name": "Troca constante de campanha",
+   "description": "Trocar conceito, ativos e tom a cada poucas semanas ou a cada novo diretor ou agência.",
+   "signals": [
+    "Campanhas de 30 a 40 dias com ideias diferentes",
+    "Rebrand sem auditoria de ativos com fama",
+    "Justificativa 'o público já cansou' sem dados"
+   ],
+   "whyBad": "A memória se constrói com repetição; a campanha costuma ser abandonada antes de a maior parte do público vê-la.",
+   "fix": "Plataforma que dure anos, variando execuções e CEPs e mantendo ativos.",
+   "domain": [
+    "ativacao-eficacia",
+    "gestao-governanca"
+   ],
+   "stage": [
+    "ativacao"
+   ],
+   "sources": [
+    {
+     "id": "src-ebi-cannes-ritson-sharp-2026",
+     "locator": "trecho sobre consistência",
+     "paraphrase": "Ritson e Sharp criticam campanhas curtas e a falta de constância."
+    },
+    {
+     "id": "src-mi3-ritson-dogma-2023",
+     "locator": "recomendações",
+     "paraphrase": "Desgaste é raro; mantenha a mensagem por anos."
+    }
+   ]
+  }
+ ],
+ "lexicon": [
+  {
+   "term": "todo mundo já conhece a nossa marca",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "diga em quais situações de compra a marca vem à mente e para quantos compradores (penetração mental)",
+   "sources": [
+    "src-li-salesforce-trailblazer-case"
+   ]
+  },
+  {
+   "term": "nosso produto é o melhor do mercado",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "mostre a situação de uso em que ele resolve o problema, com marca bem visível; compradores escolhem entre as marcas que conhecem",
+   "sources": [
+    "src-ebi-best-product-doesnt-win"
+   ]
+  },
+  {
+   "term": "o produto se vende sozinho",
+   "lang": "pt",
+   "kind": "cliche",
+   "category": "geral",
+   "replacement": "planeje alcance e lembrança; ninguém compara todo o mercado",
+   "sources": [
+    "src-ebi-best-product-doesnt-win"
+   ]
+  },
+  {
+   "term": "fidelizar o cliente",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "diga quantos clientes novos a marca precisa ganhar; a fidelidade acompanha o tamanho",
+   "sources": [
+    "src-ebi-double-jeopardy-b2b-2021"
+   ]
+  },
+  {
+   "term": "amor à marca",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "fale de ser lembrada e fácil de comprar; a maioria dos clientes acha a marca 'boa o bastante'",
+   "sources": [
+    "src-li-salesforce-trailblazer-case",
+    "src-sharp-blog-answering-critics-2016"
+   ]
+  },
+  {
+   "term": "top of mind",
+   "lang": "pt",
+   "kind": "jargao",
+   "category": "geral",
+   "replacement": "disponibilidade mental: em quais situações (CEPs) e para quantos compradores a marca vem à mente",
+   "sources": [
+    "src-sharp-measure-salience",
+    "src-ebi-cannes-ritson-sharp-2026"
+   ]
+  },
+  {
+   "term": "mudar o mundo",
+   "lang": "pt",
+   "kind": "proposito-generico",
+   "category": "geral",
+   "replacement": "diga a ação concreta e verificável ligada ao produto, sem prometer crescimento por ela",
+   "sources": [
+    "src-ebi-purpose-aware-2025",
+    "src-ebi-purpose-perspective-2020"
+   ]
+  },
+  {
+   "term": "somos únicos no mercado",
+   "lang": "pt",
+   "kind": "promessa-vaga",
+   "category": "geral",
+   "replacement": "aponte o atributo em que a marca tem mais associação que os rivais (diferenciação relativa) e prove",
+   "sources": [
+    "src-ritson-mw-differentiation-2023",
+    "src-ebi-cannes-ritson-sharp-2026"
+   ]
+  }
+ ]
+}

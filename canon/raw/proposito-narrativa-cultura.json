@@ -1,0 +1,3476 @@
+{
+  "batch": "proposito-narrativa-cultura",
+  "sources": [
+    {
+      "id": "src-asbury-stengel-purpose-autopsy-2025",
+      "title": "Stengel and a strange purpose autopsy",
+      "url": "https://nickasbury.substack.com/p/stengel-and-a-strange-purpose-autopsy",
+      "author": "Nick Asbury",
+      "year": 2025,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Asbury compila mais de uma década de críticas ao livro Grow (Sharp 2011, Marketing Week 2013, Shotton 2015, Ritson desde 2015, Giridharadas 2018, Harrison 2020) e acusa Stengel de nunca ter respondido a elas. Desmonta os casos usados como vitrine de propósito (Patagonia, Ben & Jerry's, Ford, e.l.f.), mostrando custos sociais e contradições que a narrativa de propósito esconde. Argumenta que resultado comercial é medido com rigor, mas impacto social quase nunca.",
+      "notes": "Texto opinativo e polêmico; não detalha a metodologia do estudo Stengel 50 (para isso, ver Shotton). Mencionado em 23/05/2025 nas notas de pesquisa."
+    },
+    {
+      "id": "src-murrell-pitfalls-of-purpose",
+      "title": "The Pitfalls of Purpose",
+      "url": "https://www.alexmurrell.co.uk/articles/the-pitfalls-of-purpose",
+      "author": "Alex Murrell",
+      "year": 2019,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Murrell recusa o tudo-ou-nada: propósito nem garante nem impede crescimento. Os fracassos caem em três armadilhas (falta de credibilidade, falta de consideração com temas culturais sensíveis, falta de compromisso) e os acertos são críveis, cuidadosos e comprometidos. Usa Heineken, Pepsi, State Street e Patagonia como exemplos e cita a crítica metodológica de Sharp ao Grow.",
+      "notes": "Ano aproximado (artigo sem data visível na extração). Números de Dove e Patagonia vêm de terceiros citados pelo autor, não verificados aqui."
+    },
+    {
+      "id": "src-ebi-purpose-aware-to-care",
+      "title": "Brand Purpose… Are consumers aware to care?",
+      "url": "https://marketingscience.info/news-and-insights/brand-purposeare-consumers-aware-to-care",
+      "author": "Victoria Tait, Virginia Beal, John Dawes, Byron Sharp (Ehrenberg-Bass Institute)",
+      "year": 2026,
+      "format": "relatorio",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "ehrenberg-bass",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Pesquisa com cerca de 3.000 pessoas nos EUA, Reino Unido e Austrália sobre 14 marcas consideradas exemplares de propósito. A consciência média do propósito foi de 18% (5% a 52%), mas propósitos fictícios tiveram 9%, então a consciência real raramente passa de 10%. Conclui que o efeito comercial do propósito é superestimado e recomenda priorizar disponibilidade mental e física.",
+      "notes": "Página indica publicação ~7 meses antes da coleta (ano estimado 2026). Tabelas em imagem não foram lidas; lista completa de marcas indisponível."
+    },
+    {
+      "id": "src-mw-unilever-purpose-terry-smith-2023",
+      "title": "Unilever praises purpose amid fresh criticism from major investor",
+      "url": "https://www.marketingweek.com/unilever-praises-purpose-investor-criticism/",
+      "author": "Charlotte Rogers e Michaela Jefferson (Marketing Week)",
+      "year": 2023,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "misto",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Terry Smith (Fundsmith, ~15º maior acionista da Unilever) ironiza o propósito de Lux e Hellmann's e diz que ligar propósito a crescimento confunde correlação com causa, sem grupo de controle. A Unilever responde com dados próprios: marcas de alto propósito cresceram 6,1% em 2021 contra 0,2% das de baixo propósito, e ROI de mídia 20% maior. Alan Jope admite que valor competitivo e bom produto a preço justo são pré-requisitos.",
+      "notes": "Os números da Unilever são classificação interna da própria empresa: tratar como independent=false e não causais."
+    },
+    {
+      "id": "src-drum-terry-smith-unilever-2022",
+      "title": "Star investor slams Unilever's brand purpose obsession",
+      "url": "https://www.thedrum.com/news/star-investor-slams-unilever-s-brand-purpose-obsession",
+      "author": "The Drum",
+      "year": 2022,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "misto",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Na carta anual de 2022, Terry Smith diz que a gestão da Unilever está obcecada em exibir credenciais de sustentabilidade em vez de cuidar do básico do negócio. Critica o reposicionamento de Hellmann's como marca contra o desperdício de comida: uma maionese de 1913 não precisaria de propósito definido.",
+      "notes": "Matéria curta; complementa a da Marketing Week."
+    },
+    {
+      "id": "src-campaign-razorfish-vice-purpose-washing-2021",
+      "title": "Consumers are growing wary of purpose-washing",
+      "url": "https://campaignlive.com/article/consumers-growing-wary-purpose-washing/1733204",
+      "author": "Sabrina Sanchez (Campaign US), sobre estudo Razorfish + Vice Media Group",
+      "year": 2021,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "misto",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Pesquisa com 1.000 consumidores nos EUA e com profissionais de marketing: só 43% dos consumidores acreditam que as marcas vivem o propósito declarado, contra 83% dos marketers. 62% dizem considerar valores na compra, mas só 19% dos marketers usam o propósito para desenhar experiência e 27% para desenhar produto. Sinais de purpose-washing: propósito escolhido pela tendência do momento e propósito escrito como manifesto e testado no consumidor.",
+      "notes": "Estudo feito por agência (Razorfish) com publisher; detalhes metodológicos não publicados na matéria. Experimento de disposição a pagar (tequila) sem números legíveis."
+    },
+    {
+      "id": "src-ritson-mw-inane-visions-2015",
+      "title": "Brands' inane 'visions' have lost touch with what consumers really use them for",
+      "url": "http://marketingweek.com/2015/05/20/mark-ritson-brands-inane-visions-have-lost-touch-with-what-consumers-really-use-them-for/",
+      "author": "Mark Ritson (Marketing Week)",
+      "year": 2015,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "posicionamento-diferenciacao",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Ritson ataca visões de marca grandiosas que sobem demais na escada de benefícios e perdem contato com o uso real do produto (Barclaycard, Coca-Cola, McDonald's, Kellogg's, Starbucks). Visões infladas geram táticas infladas, como o #RaceTogether da Starbucks, e são intercambiáveis entre marcas, o que destrói diferenciação.",
+      "notes": "Coluna opinativa, sem dados de consumidor."
+    },
+    {
+      "id": "src-shotton-bsi-purpose-wishful-thinking-2019",
+      "title": "Why Brand Purpose Is Wishful Thinking",
+      "url": "https://brandingstrategyinsider.com/why-brand-purpose-is-wishful-thinking/",
+      "author": "Richard Shotton (Branding Strategy Insider)",
+      "year": 2019,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "comportamental",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Shotton submete o estudo Stengel 50 a quatro testes e diz que ele falha em todos: dados inconsistentes (marcas sem ação na bolsa, unidades de grupos maiores), poder preditivo nulo (só 9 de 26 empresas bateram o S&P 500 em cinco anos, contra ~13 esperadas por acaso), ideais tão amplos que só descrevem a categoria e ausência de grupo de comparação. Explica a adoção do propósito pelo viés de ver o que se deseja.",
+      "notes": "Republicação de crítica de 2015; números de reanálise do próprio Shotton."
+    },
+    {
+      "id": "src-roach-truth-lies-brand-purpose-2020",
+      "title": "Truth, lies and brand purpose: the biggest lie the ad industry ever told?",
+      "url": "https://thetomroach.com/2020/11/13/truth-lies-and-brand-purpose-the-biggest-lie-the-ad-industry-ever-told/",
+      "author": "Tom Roach",
+      "year": 2020,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "eficacia",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Roach separa três tipos de marca com propósito: nascidas com propósito, convertidas corporativas e pseudo-propositadas (propósito como campanha). A chance de o propósito gerar lucro cai do primeiro para o terceiro tipo. Propósito funciona quando está embutido no modelo de negócio e não é entregue principalmente por publicidade.",
+      "notes": "Ensaio opinativo; evidência vem de Shotton, Ritson, Sharp e pesquisas de confiança (Ipsos)."
+    },
+    {
+      "id": "src-sb-stengel-grow-review-2012",
+      "title": "Best Business Books 2012: Marketing (resenha de Grow, de Jim Stengel)",
+      "url": "https://www.strategy-business.com/article/00148c",
+      "author": "Shaun Holliday (strategy+business), sobre Jim Stengel",
+      "year": 2012,
+      "format": "livro-resumo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "proposito",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Resenha de Grow: Stengel defende que um ideal de marca focado em melhorar a vida das pessoas é a maior alavanca de vantagem competitiva. Todo ideal se liga a um de cinco campos de valor humano (alegria, conexão, exploração, orgulho, impacto social) e precisa ser ativado em quatro frentes: cultura, comunicação, experiência e medição. Cita o estudo com a Millward Brown sobre 50 mil marcas, em que as 50 melhores superaram o S&P 500 em quase 400%.",
+      "notes": "Livro pago; usada resenha gratuita. Os números do Stengel 50 são contestados (ver Shotton, Asbury, Sharp)."
+    },
+    {
+      "id": "src-sinek-ted-golden-circle-2009",
+      "title": "How Great Leaders Inspire Action (transcrição da palestra TEDx)",
+      "url": "https://sonix.ai/resources/full-transcript-how-great-leaders-inspire-action-simon-sinek-ted/",
+      "author": "Simon Sinek",
+      "year": 2009,
+      "format": "video",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "proposito",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Sinek propõe o Golden Circle (Por quê, Como, O quê) e diz que líderes e marcas que inspiram comunicam de dentro para fora, começando pela crença. Ilustra com Apple, irmãos Wright, TiVo e Martin Luther King e apoia a tese numa divisão do cérebro (límbico x neocórtex) e na curva de difusão de inovações.",
+      "notes": "Transcrição automática de terceiros. A base neurológica (cérebro trino) é considerada ultrapassada; os exemplos são anedóticos. Livro Start With Why não lido."
+    },
+    {
+      "id": "src-acawiki-holt-icon-2003",
+      "title": "What Becomes an Icon Most (resumo AcaWiki de Douglas Holt)",
+      "url": "https://acawiki.org/What_Becomes_an_Icon_Most",
+      "author": "AcaWiki, sobre Douglas B. Holt (HBR 2003 / How Brands Become Icons)",
+      "year": 2003,
+      "format": "livro-resumo",
+      "language": "en",
+      "access": "livre",
+      "license": "CC BY 3.0",
+      "school": "cultural",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Resumo do branding cultural de Holt: marcas icônicas criam mitos de identidade que resolvem contradições culturais vividas pelas pessoas. O processo começa escolhendo uma contradição cultural e escrevendo um brief cultural com tratamento do mito, autenticidade populista (vinda de mundos que vivem suas crenças) e estética carismática.",
+      "notes": "Resumo curto; o artigo HBR e o livro são pagos. Exemplos detalhados (Mountain Dew, Budweiser, VW) não cobertos."
+    },
+    {
+      "id": "src-melnick-holt-crowdculture-2016",
+      "title": "Branding is dead, long live Crowdculture (resumo de Holt, HBR 2016)",
+      "url": "https://lloydmelnick.com/2016/04/20/",
+      "author": "Lloyd Melnick, sobre Douglas Holt",
+      "year": 2016,
+      "format": "livro-resumo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "cultural",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Resumo de Branding in the Age of Social Media: conteúdo de marca fracassou porque as crowdcultures (subculturas e mundos de arte conectados) agora produzem cultura direto. Holt propõe cinco passos de branding cultural: mapear a ortodoxia cultural da categoria, localizar a oportunidade em comunidades de nicho, mirar a crowdculture, difundir a nova ideologia e inovar nos pontos de tensão. Avisa que seguir listas de tendência vira commodity.",
+      "notes": "Fonte secundária de artigo HBR pago. Números de YouTube (Red Bull 4,9 mi x Dude Perfect 8 mi) são de 2016."
+    },
+    {
+      "id": "src-hbr-holt-social-media-2016",
+      "title": "Branding in the Age of Social Media",
+      "url": "https://hbr.org/2016/03/branding-in-the-age-of-social-media",
+      "author": "Douglas Holt (Harvard Business Review)",
+      "year": 2016,
+      "format": "artigo",
+      "language": "en",
+      "access": "pago",
+      "license": "copyright",
+      "school": "cultural",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": false,
+      "summary": "Artigo original do conceito de crowdculture e branding cultural na era das redes. Conteúdo usado apenas via resumos gratuitos (Melnick).",
+      "notes": "Paywall premium da HBR; não contornado."
+    },
+    {
+      "id": "src-column-storybrand-drawbacks-2025",
+      "title": "8 Hidden Drawbacks You Need to Know About the StoryBrand Method",
+      "url": "https://columncontent.com/storybrand-method-drawbacks/",
+      "author": "Mo Shehu (Column)",
+      "year": 2025,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Lista oito limitações do StoryBrand: simplificação excessiva, mensagens intercambiáveis entre concorrentes que usam o mesmo molde, pouca profundidade, voz achatada, foco transacional, ignora marcas lideradas por fundador, falha em B2B com vários decisores e cansa em conteúdo contínuo. Reconhece que funciona bem para produtos simples, venda direta e páginas de conversão.",
+      "notes": "Publicado por agência de conteúdo (interesse comercial em vender alternativa)."
+    },
+    {
+      "id": "src-stfo-storybrand-frustrating",
+      "title": "StoryBrand is frustrating",
+      "url": "https://essays.stfo.io/posts/storybrand-is-frustrating-stfo",
+      "author": "Billy Broas (Stand The F*ck Out)",
+      "year": 2024,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "verbal",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Broas elogia o cliente-como-herói e a lógica de uma mensagem central reutilizada em todos os canais, mas diz que o arco narrativo é desajeitado para mensagem do dia a dia e que o papel de Guia soa pretensioso para encanador ou contador. Propõe o papel de Comerciante Confiável e reservar frameworks narrativos para peças grandes.",
+      "notes": "Data exata não informada (mais de um ano antes da coleta)."
+    },
+    {
+      "id": "src-mann-storybrand-notes",
+      "title": "Building a StoryBrand by Donald Miller (book notes)",
+      "url": "https://grahammann.net/book-notes/building-a-storybrand-donald-miller",
+      "author": "Graham Mann, sobre Donald Miller",
+      "year": 2017,
+      "format": "livro-resumo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "verbal",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Notas do livro de Miller com os sete elementos do SB7 (personagem, problema, guia, plano, chamada para ação, fracasso, sucesso), a regra de que a marca é guia com empatia e autoridade e os três níveis de problema (externo, interno, filosófico).",
+      "notes": "Ano das notas estimado; livro original de 2017."
+    },
+    {
+      "id": "src-mm-ana-couto-branding-valor-2023",
+      "title": "É necessário revolucionar o branding para evoluir a criação de valor, afirma Ana Couto",
+      "url": "https://mundodomarketing.com.br/e-necessario-revolucionar-o-branding-para-evoluir-a-criacao-de-valor-afirma-ana-couto",
+      "author": "Mundo do Marketing, sobre palestra de Ana Couto",
+      "year": 2023,
+      "format": "artigo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "proposito",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Ana Couto defende que branding deixou de ser troca de logo e virou gestão de valor num novo capitalismo, em que bom produto não basta e o negócio precisa gerar impacto positivo no ecossistema. Diferencia revolução (impacto, pontes) de causa e pede conexão intencional e autêntica, não seguir tendência.",
+      "notes": "Não detalha as ondas de valor nem o Valometry; para isso, ver Touché e Marcas pelo Mundo."
+    },
+    {
+      "id": "src-touche-ana-couto-revolucao-branding-2024",
+      "title": "A (R)evolução do Branding (página do livro)",
+      "url": "https://www.touchelivros.com.br/a-revolucao-do-branding/",
+      "author": "Ana Couto (Editora Gente)",
+      "year": 2024,
+      "format": "livro-resumo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "proposito",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Sinopse do livro: branding como disciplina de gestão do intangível, com coerência entre o que a empresa é, faz e fala. Apresenta a metodologia do código genético e o Valometry, organizado em três ondas de valor: Produto, Pessoas e Propósito.",
+      "notes": "Página de loja; livro pago não lido. Funcionamento interno do Valometry não detalhado."
+    },
+    {
+      "id": "src-mpm-ana-couto-marca-brasil-valometry-2022",
+      "title": "Ana Couto busca entender como marcas e pessoas podem construir mais valor para o Brasil",
+      "url": "https://marcaspelomundo.com.br/agencias/ana-couto-busca-entender-como-marcas-e-pessoas-podem-construir-mais-valor-para-o-brasil/",
+      "author": "Marcas pelo Mundo, sobre estudo da Ana Couto",
+      "year": 2022,
+      "format": "artigo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "proposito",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Estudo da agência Ana Couto sobre a marca Brasil usando o Valometry (5 comunidades online com 150 pessoas, 600 mil tweets, quanti com 2.500 pessoas). Define as ondas: Produto (custo-benefício e diferenciação), Pessoas (identificação, fidelização, conexão emocional) e Propósito (visão de mundo compartilhada que mobiliza e gera impacto).",
+      "notes": "Estudo da própria agência, divulgado como release: independent=false para qualquer resultado."
+    },
+    {
+      "id": "src-mm-troiano-potencia-das-marcas-2026",
+      "title": "Jaime Troiano discute o papel das marcas em meio às transformações da sociedade em novo livro",
+      "url": "https://mundodomarketing.com.br/jaime-troiano-discute-o-papel-das-marcas-em-meio-as-transformacoes-da-sociedade-em-novo-livro",
+      "author": "Mundo do Marketing, sobre Jaime Troiano",
+      "year": 2026,
+      "format": "artigo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "proposito",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Sobre o livro A Potência das Marcas: a marca começa nas decisões e práticas internas, antes da comunicação, e os colaboradores são o ponto de partida da coerência. O propósito deve orientar decisões e relações, não funcionar como discurso institucional. Em empresas familiares, o propósito se liga a sucessão e continuidade.",
+      "notes": "Matéria de lançamento, sem cases. Blog da TroianoBranding bloqueia robôs; não acessado."
+    },
+    {
+      "id": "src-lencioni-values-hbr-2002",
+      "title": "Make Your Values Mean Something",
+      "url": "https://files.tablegroup.com/wp-content/uploads/2021/05/07135328/Make-Your-Values-Mean-Something.pdf",
+      "author": "Patrick M. Lencioni (Harvard Business Review)",
+      "year": 2002,
+      "format": "pdf",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Os valores da Enron em 2000 eram comunicação, respeito, integridade e excelência: listas assim são vazias e geram cinismo. Lencioni separa quatro tipos de valor (central, aspiracional, permissão para jogar, acidental), diz que valores reais restringem e doem, devem ser definidos por um grupo pequeno com o CEO (não por consenso de RH) e precisam estar embutidos em contratação, avaliação, promoção e demissão. 55% das Fortune 100 citam integridade como valor.",
+      "notes": "PDF de reimpressão disponibilizado gratuitamente pela Table Group (empresa do autor)."
+    },
+    {
+      "id": "src-procopywriters-brand-manifesto-2019",
+      "title": "How to write an effective brand manifesto",
+      "url": "https://www.procopywriters.co.uk/2019/05/how-to-write-an-effective-brand-manifesto/",
+      "author": "A Thousand Monkeys (republicado na ProCopywriters)",
+      "year": 2019,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "verbal",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Manifesto é sobretudo ferramenta interna. Deve nomear um problema, declarar uma meta, ganhar ritmo sem virar paródia, mostrar crença e paixão em vez de declará-las (evitar o “nós acreditamos”) e caber em cerca de 100 palavras. Cita manifestos longos que fracassaram (Mahabis, 3.000 palavras) e o Google, que não sustentou seus princípios.",
+      "notes": "Autor individual não identificado."
+    },
+    {
+      "id": "src-praticando-narrativas-lemas-2024",
+      "title": "Narrativas e lemas de marca na prática",
+      "url": "https://praticandoobranding.substack.com/p/narrativas-e-lemas-de-marca-na-pratica",
+      "author": "Paulo Lima (Praticando o Branding)",
+      "year": 2024,
+      "format": "artigo",
+      "language": "pt",
+      "access": "livre",
+      "license": "copyright",
+      "school": "pratica",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Separa estratégia (submersa, estável por 5 anos ou mais: DNA, posicionamento, propósito) de expressão (visível e flexível). Narrativa é um recorte dos pilares de comunicação que nasce da plataforma; lemas são frases derivadas da narrativa, organizadas por função. Base estratégica precisa ser verdadeira, não criativa.",
+      "notes": "Final do texto é promoção de workshop, ignorado. Edições sobre manifesto (#53) e Golden Circle (#7) não foram encontradas com URL pública."
+    },
+    {
+      "id": "src-kantar-purpose-consumers-2022",
+      "title": "Understanding brand purpose for different consumers",
+      "url": "https://www.kantar.com/north-america/inspiration/brands/understanding-brand-purpose-for-different-consumers",
+      "author": "Niels Neudecker (Kantar)",
+      "year": 2022,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "misto",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Pesquisa com 2.000 consumidores nos EUA (jul/2021): 76% dos 18 a 34 anos dizem que propósito importa, contra 49% dos 55+; varejo é a categoria onde mais pesa e aéreas e refrigerantes onde menos. Recomenda manter a declaração de propósito estável e adaptar só a expressão por público.",
+      "notes": "Dado declarado (importância dita), não comportamento de compra. Peça promove relatório pago/cadastro da Kantar."
+    },
+    {
+      "id": "src-minimba-benefit-ladder-2025",
+      "title": "Climbing the benefit ladder: How far is too far?",
+      "url": "https://minimba.com/articles/climbing-the-benefit-ladder-how-far-is-too-far",
+      "author": "Rachel Morris (MiniMBA), com Mark Ritson",
+      "year": 2025,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "posicionamento-diferenciacao",
+      "evidence": "framework",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Escada de benefícios: atributo, benefício funcional, associação emocional e propósito sociocultural no topo. A ideia é parar no degrau certo para a marca, não no topo; subir demais leva a promessas iguais às dos concorrentes e comoditiza. Fecha com o teste dos 3Cs (cliente quer, empresa entrega, melhor ou diferente da concorrência). Walmart parou no benefício/emocional.",
+      "notes": "Conteúdo de escola que vende o curso de Ritson."
+    },
+    {
+      "id": "src-mi3-ritson-purpose-practice-2021",
+      "title": "Mark Ritson: sustainability, diversity, purpose – marketing should practice what it's trying to preach",
+      "url": "https://mi-3.com.au/28-04-2021/mark-ritson-sustainability-diversity-purpose-marketing-should-practice-what-its-trying",
+      "author": "Brendan Coyne (Mi3), sobre Mark Ritson",
+      "year": 2021,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "posicionamento-diferenciacao",
+      "evidence": "opiniao-especialista",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Ritson diz que discurso de propósito é hipócrita quando a empresa não pratica, e usa impostos como teste: quem minimiza tributos não vive o propósito. Elogia a Unilever nesse quesito e critica Starbucks e petroleiras. Pede aplicar sustentabilidade e diversidade dentro da empresa primeiro e testar propósito com os 3Cs.",
+      "notes": "Marcado News Plus, mas texto completo visível."
+    },
+    {
+      "id": "src-gallup-few-believe-values-2016",
+      "title": "Few Employees Believe in Their Company's Values",
+      "url": "https://news.gallup.com/businessjournal/195491/few-employees-believe-company-values.aspx",
+      "author": "Nate Dvorak e Bailey Nelson (Gallup)",
+      "year": 2016,
+      "format": "artigo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "academica",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Só 23% dos funcionários nos EUA concordam totalmente que conseguem aplicar os valores da empresa no trabalho diário, e 27% acreditam neles. Valores falham porque descrevem a cultura ideal dos líderes, ficam vagos, viram programa isolado e não são medidos. Recomenda ligar cultura a propósito e marca, alinhar avaliação de desempenho e reconhecimento e medir regularmente.",
+      "notes": "Gallup não publica amostra na matéria. Artigo de 2022 (Efron) repete os números e acrescenta: 26% dos funcionários dizem que a empresa sempre cumpre promessas."
+    },
+    {
+      "id": "src-edelman-change-my-world-2025",
+      "title": "The New Role for Brands: From Change the World to Change My World",
+      "url": "https://www.edelman.com/insights/new-role-brands-change-world-change-my-world",
+      "author": "Richard Edelman (Edelman Trust Barometer Special Report 2025)",
+      "year": 2025,
+      "format": "relatorio",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "proposito",
+      "evidence": "empirica",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Pesquisa em 15 mercados: as pessoas esperam primeiro que a marca melhore a vida delas (me fazer sentir bem 68%, me dar otimismo 62%, me ajudar a fazer o bem 61%) e só depois causas coletivas. 80% confiam nas marcas que usam. O propósito muda de mudar o mundo para mudar o meu mundo, com atuação local e de pares.",
+      "notes": "Edelman é agência de RP com interesse em vender reputação e propósito; amostra total não informada."
+    },
+    {
+      "id": "src-rkconnect-holt-cultural-branding",
+      "title": "The next revolution in branding: cultural branding (excerto de Holt, HBR 2016)",
+      "url": "https://rkconnect.com/blog/the-next-revolution-in-brandingcultural-branding",
+      "author": "RK Connect, sobre Douglas Holt",
+      "year": 2016,
+      "format": "livro-resumo",
+      "language": "en",
+      "access": "livre",
+      "license": "copyright",
+      "school": "cultural",
+      "evidence": "caso",
+      "sponsored": false,
+      "dissected": true,
+      "summary": "Excerto do artigo de Holt: conteúdo de marca é visto como spam; marcas devem defender ideologias de crowdcultures. Detalha o caso Chipotle (Back to the Start, Scarecrow) e seus reveses com contaminações.",
+      "notes": "Fonte secundária curta; sem data própria."
+    }
+  ],
+  "principles": [
+    {
+      "id": "purpose-must-be-operational",
+      "title": "Propósito só existe se mudar decisões de produto, operação e pessoas",
+      "statement": "Só declare um propósito se ele já orienta (ou vai orientar, com plano e dono) decisões concretas de produto, experiência, contratação, investimento e renúncia; caso contrário, não declare nenhum.",
+      "why": "Há um abismo entre discurso e prática: 83% dos marketers acham que suas marcas vivem o propósito, só 43% dos consumidores acreditam, e só 19% dos marketers usam o propósito para desenhar experiência e 27% para desenhar produto (Razorfish/Vice 2021). Os casos que até os céticos aceitam (Patagonia) são de propósito embutido no modelo de negócio; os pseudo-propósitos feitos como campanha são os menos lucrativos (Roach). Até a Unilever admite que valor e bom produto a preço justo vêm antes. Troiano e Couto, do lado pró-propósito, chegam ao mesmo ponto: propósito como prática, coerência entre ser, fazer e falar.",
+      "how": [
+        "Liste 3 a 5 decisões reais dos últimos 2 anos que o propósito explicaria (algo que a empresa fez ou deixou de fazer por causa dele)",
+        "Para cada frente (produto, atendimento, RH, compras, preço, impostos) escreva uma prova atual e uma meta com dono e prazo",
+        "Escreva o que a marca deixa de ganhar por causa do propósito (o custo); se não há custo, é frase de efeito",
+        "Só depois disso escreva a frase de propósito, ancorada no papel que o produto cumpre",
+        "Se não houver provas, use benefício funcional ou emocional como plataforma e deixe o propósito de fora"
+      ],
+      "tests": [
+        "Existe ao menos uma decisão documentada em que o propósito fez a empresa abrir mão de receita ou conveniência?",
+        "O propósito aparece em critérios de produto, contratação ou avaliação de desempenho, e não só em publicidade?",
+        "Um cliente consegue descrever o propósito pelo que a marca faz, sem ter visto a campanha?",
+        "As práticas da empresa (impostos, salários, fornecedores) contradizem o propósito declarado?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "narrativa-proposito",
+        "cultura-interna",
+        "estrategia"
+      ],
+      "stage": [
+        "plataforma",
+        "narrativa"
+      ],
+      "school": "misto",
+      "evidence": "empirica",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-campaign-razorfish-vice-purpose-washing-2021",
+          "locator": "dados do estudo",
+          "paraphrase": "83% dos marketers x 43% dos consumidores; só 19% usam propósito na experiência e 27% no produto"
+        },
+        {
+          "id": "src-roach-truth-lies-brand-purpose-2020",
+          "locator": "três tipos de marca com propósito",
+          "paraphrase": "propósito gera mais lucro quando embutido no modelo de negócio, menos quando é só campanha",
+          "quote": "if being purposeful means doing ads to you, then you're probably doing it wrong"
+        },
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "locator": "Pitfall 3: Not being committed",
+          "paraphrase": "alinhar todas as ações ao propósito, de forma consistente e ao longo do tempo"
+        },
+        {
+          "id": "src-mi3-ritson-purpose-practice-2021",
+          "locator": "teste dos impostos",
+          "paraphrase": "quem fala de propósito e minimiza impostos não vive o propósito; pratique dentro primeiro"
+        },
+        {
+          "id": "src-mm-troiano-potencia-das-marcas-2026",
+          "locator": "propósito como prática",
+          "paraphrase": "propósito deve orientar decisões e relações, não ser discurso institucional"
+        },
+        {
+          "id": "src-mw-unilever-purpose-terry-smith-2023",
+          "locator": "resposta de Alan Jope",
+          "paraphrase": "mesmo a Unilever reconhece valor competitivo e bom produto a preço justo como pré-requisito"
+        },
+        {
+          "id": "src-touche-ana-couto-revolucao-branding-2024",
+          "locator": "sinopse",
+          "paraphrase": "branding exige coerência entre o que a empresa é, faz e fala"
+        }
+      ],
+      "conflictsWith": [
+        "purpose-value"
+      ],
+      "cases": [
+        "case-patagonia-purpose",
+        "case-state-street-fearless-girl-2017",
+        "case-starbucks-race-together-2015"
+      ],
+      "contexts": "Vale para qualquer marca que queira usar propósito. Em marcas nascidas com propósito (fundador, nicho) a prova costuma já existir; em grandes empresas convertidas, o risco de lacuna discurso-prática é maior. Em pequenas empresas brasileiras, prefira provas simples e verificáveis (fornecedor local, política de troca) a causas globais."
+    },
+    {
+      "id": "purpose-skepticism",
+      "title": "Não trate propósito como motor de crescimento comprovado",
+      "statement": "Não prometa ao cliente da marca que propósito vai gerar crescimento: a evidência causal é fraca, a maioria dos consumidores nem sabe o propósito das marcas e crescimento vem de disponibilidade mental e física, produto e preço.",
+      "why": "Em ~3.000 pessoas em três países, a consciência média do propósito de 14 marcas-exemplo foi 18%, contra 9% para propósitos inventados: a consciência real raramente passa de 10% (Ehrenberg-Bass). O estudo Stengel 50, base do argumento pró-propósito, escolheu só vencedoras, sem grupo de comparação, e falhou em prever: só 9 de 26 empresas bateram o S&P 500 nos cinco anos seguintes, contra ~13 esperadas por acaso (Shotton). Os 6,1% x 0,2% da Unilever são classificação interna sem controle, o que Terry Smith chama de confundir correlação com causa.",
+      "how": [
+        "Ao apresentar propósito, separe o que é crença da empresa do que é alavanca de vendas",
+        "Nunca cite Stengel 50 ou os números internos da Unilever como prova causal",
+        "Se o objetivo é crescer, priorize alcance, ativos distintivos, pontos de entrada e distribuição antes de propósito",
+        "Se o objetivo é impacto social, avalie se doar diretamente faria mais bem que anunciar o propósito",
+        "Se for usar propósito, meça a consciência dele no público (com item falso de controle) antes de atribuir efeito"
+      ],
+      "tests": [
+        "A estratégia apresenta o propósito como causa de crescimento sem dado com grupo de controle?",
+        "O plano de crescimento funcionaria mesmo sem o propósito?",
+        "Existe medição de quantos clientes conhecem o propósito, descontado o chute?"
+      ],
+      "polarity": "evite",
+      "domain": [
+        "narrativa-proposito",
+        "ciencia-crescimento",
+        "equity-medicao"
+      ],
+      "stage": [
+        "diagnostico",
+        "plataforma"
+      ],
+      "school": "ehrenberg-bass",
+      "evidence": "empirica",
+      "strength": 3,
+      "sources": [
+        {
+          "id": "src-ebi-purpose-aware-to-care",
+          "locator": "Key results",
+          "paraphrase": "consciência média de 18%, dummy 9%, consciência real raramente acima de 10%"
+        },
+        {
+          "id": "src-shotton-bsi-purpose-wishful-thinking-2019",
+          "locator": "quatro testes",
+          "paraphrase": "Stengel 50 falha em precisão, previsão, definição dos ideais e comparação"
+        },
+        {
+          "id": "src-mw-unilever-purpose-terry-smith-2023",
+          "locator": "carta de Terry Smith",
+          "paraphrase": "ligar propósito a crescimento sem grupo de controle confunde correlação com causa"
+        },
+        {
+          "id": "src-asbury-stengel-purpose-autopsy-2025",
+          "locator": "histórico das críticas",
+          "paraphrase": "14 anos de críticas metodológicas ao Grow sem resposta pública de Stengel",
+          "quote": "the purpose of purpose is purpose"
+        },
+        {
+          "id": "src-drum-terry-smith-unilever-2022",
+          "locator": "Hellmann's",
+          "paraphrase": "uma maionese de 1913 não precisa de propósito para ser comprada"
+        }
+      ],
+      "conflictsWith": [
+        "brand-ideal-drives-growth",
+        "purpose-value"
+      ],
+      "cases": [
+        "case-unilever-purpose-terry-smith-2022",
+        "case-stengel-50-grow-2011"
+      ],
+      "contexts": "Forte em bens de consumo de massa e categorias de baixo envolvimento. O peso declarado do propósito é maior em varejo e entre jovens (Kantar), mas declarado não é comportamento. Não impede propósito genuíno; impede vendê-lo como atalho de crescimento."
+    },
+    {
+      "id": "brand-ideal-drives-growth",
+      "title": "Ideal de marca como motor de crescimento (tese pró-propósito, contestada)",
+      "statement": "Segundo Stengel, marcas que organizam a empresa em torno de um ideal de melhorar a vida das pessoas crescem mais; use esta tese só como hipótese inspiradora, nunca como prova.",
+      "why": "Stengel, com a Millward Brown, analisou 10 anos de dados de mais de 50 mil marcas e afirma que as 50 mais associadas a melhorar a vida das pessoas superaram o S&P 500 em quase 400%. A Unilever reporta crescimento de 6,1% para marcas de alto propósito contra 0,2%. Ambas as evidências são de parte interessada e metodologicamente contestadas (seleção de vencedoras, sem controle).",
+      "how": [
+        "Se a empresa quer trabalhar ideal, use os cinco campos de Stengel só como ponto de partida de conversa",
+        "Ative o ideal pelas quatro frentes (cultura, comunicação, experiência, medição) e não só pela comunicação",
+        "Registre a evidência como contestada no material para o cliente"
+      ],
+      "tests": [
+        "O ideal está ligado ao benefício que o produto entrega de fato?",
+        "O documento deixa claro que o vínculo ideal-crescimento é contestado?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "plataforma"
+      ],
+      "school": "proposito",
+      "evidence": "empirica",
+      "strength": 1,
+      "sources": [
+        {
+          "id": "src-sb-stengel-grow-review-2012",
+          "locator": "evidence",
+          "paraphrase": "Stengel 50 superou o S&P 500 em quase 400% em retorno",
+          "quote": "nothing unites and motivates people's actions as strongly as ideals"
+        },
+        {
+          "id": "src-mw-unilever-purpose-terry-smith-2023",
+          "locator": "dados de Jope",
+          "paraphrase": "alto propósito 6,1% x baixo propósito 0,2% em 2021, dado interno"
+        }
+      ],
+      "conflictsWith": [
+        "purpose-skepticism"
+      ],
+      "cases": [
+        "case-stengel-50-grow-2011",
+        "case-unilever-purpose-terry-smith-2022"
+      ],
+      "contexts": "Útil como linguagem para engajar liderança e cultura interna; fraco como argumento de ROI. Strength 1 por evidência de parte interessada sem controle."
+    },
+    {
+      "id": "benefit-ladder-reasonable-reach",
+      "title": "Suba a escada de benefícios só até onde o produto sustenta",
+      "statement": "Ancore propósito e narrativa num papel que o produto realmente cumpre e pare no degrau da escada de benefícios que a marca consegue provar, mesmo que não seja o topo.",
+      "why": "No topo da escada, as promessas ficam parecidas (conectar pessoas, liberar potencial humano) e a marca vira commodity, com preço como único diferencial (MiniMBA/Ritson). Visões infladas de Coca-Cola, McDonald's e Starbucks eram intercambiáveis entre si e levaram a táticas infladas (Ritson 2015). Heineken tentou dizer que cerveja une lados políticos opostos, algo que o produto não faz (Murrell).",
+      "how": [
+        "Monte a escada: atributos, benefícios funcionais, benefícios emocionais, papel sociocultural",
+        "Em cada degrau, pergunte se o produto entrega isso com prova",
+        "Pare no degrau mais alto que ainda seja crível e diferente dos concorrentes",
+        "Passe o resultado pelos 3Cs: o cliente quer, a empresa entrega, e entrega melhor ou diferente da concorrência",
+        "Troque o nome da marca por um concorrente: se a frase continua valendo, desça um degrau"
+      ],
+      "tests": [
+        "A promessa principal é algo que o produto faz ou facilita de verdade?",
+        "Trocando o nome da marca pelo de um concorrente, a frase de propósito continua fazendo sentido?",
+        "A promessa passa nos 3Cs?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "narrativa-proposito",
+        "posicionamento"
+      ],
+      "stage": [
+        "posicionamento",
+        "plataforma"
+      ],
+      "school": "posicionamento-diferenciacao",
+      "evidence": "opiniao-especialista",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-minimba-benefit-ladder-2025",
+          "locator": "benefit ladder + 3Cs",
+          "paraphrase": "pare no degrau adequado; topo da escada gera promessas genéricas e comoditiza",
+          "quote": "stop at whichever rung is appropriate for your brand"
+        },
+        {
+          "id": "src-ritson-mw-inane-visions-2015",
+          "locator": "exemplos",
+          "paraphrase": "visões de marca infladas perdem contato com o uso real e são intercambiáveis"
+        },
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "locator": "Pitfall 1: Not being credible",
+          "paraphrase": "construa o propósito num papel que o produto realmente desempenha (reasonable reach)"
+        }
+      ],
+      "conflictsWith": [
+        "purpose-value"
+      ],
+      "cases": [
+        "case-heineken-open-your-world-2017",
+        "case-walmart-save-money-live-better"
+      ],
+      "contexts": "Vale para quase toda marca. Marcas nascidas de uma causa (Patagonia) podem morar no topo porque o produto e o modelo de negócio são a prova."
+    },
+    {
+      "id": "values-as-behaviours",
+      "title": "Valores são comportamentos que custam, não palavras bonitas",
+      "statement": "Escreva valores como poucos comportamentos observáveis e específicos que a empresa já pratica e está disposta a cobrar (na contratação, avaliação e demissão), e separe-os de valores aspiracionais e de mínimos obrigatórios.",
+      "why": "Os valores da Enron eram comunicação, respeito, integridade e excelência; 55% das Fortune 100 citam integridade e 40% trabalho em equipe, o que não diferencia ninguém (Lencioni). Só 23% dos funcionários nos EUA conseguem aplicar os valores da empresa no dia a dia e 27% acreditam neles (Gallup). Valores reais restringem a liberdade da empresa e expõem os líderes a críticas; se não houver disposição para isso, é melhor não ter lista.",
+      "how": [
+        "Classifique cada candidato a valor: central (já existe e é inegociável), aspiracional (falta e é necessário), permissão para jogar (mínimo que todo mundo tem) ou acidental (surgiu sozinho)",
+        "Mantenha só os centrais na lista principal; aspiracionais vão para plano de desenvolvimento, mínimos vão para código de conduta",
+        "Reescreva cada valor como comportamento: o que a pessoa faz, o que não faz, um exemplo real da casa",
+        "Defina com grupo pequeno (CEO, fundadores, poucas pessoas-chave), não por consenso amplo",
+        "Embuta em entrevistas, avaliação, promoção, reconhecimento e demissão; colete histórias reais que mostrem o valor em ação"
+      ],
+      "tests": [
+        "Algum valor da lista também está na lista de um concorrente direto?",
+        "Cada valor tem um comportamento observável e um exemplo real?",
+        "Há alguém que já foi contratado, promovido ou desligado com base em um desses valores?",
+        "A lista mistura valores aspiracionais ou mínimos legais com valores centrais?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "cultura-interna",
+        "identidade-verbal"
+      ],
+      "stage": [
+        "plataforma"
+      ],
+      "school": "pratica",
+      "evidence": "empirica",
+      "strength": 3,
+      "sources": [
+        {
+          "id": "src-lencioni-values-hbr-2002",
+          "locator": "Understand the different types of values; Be aggressively authentic",
+          "paraphrase": "quatro tipos de valor; valores genéricos não diferenciam; valores reais doem",
+          "quote": "values inflict pain"
+        },
+        {
+          "id": "src-gallup-few-believe-values-2016",
+          "locator": "dados e recomendações",
+          "paraphrase": "23% aplicam e 27% acreditam nos valores; ligar a desempenho e reconhecimento",
+          "quote": "Culture alone is devoid of impact"
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-enron-values-2000",
+        "case-siebel-professionalism-values"
+      ],
+      "contexts": "Vale para qualquer porte. Em pequena empresa, 2 ou 3 comportamentos bastam. Valores difíceis ou contraculturais (Siebel: profissionalismo no Vale do Silício) diferenciam mais que valores simpáticos."
+    },
+    {
+      "id": "internal-adoption",
+      "title": "A marca começa dentro: adoção interna antes de comunicação",
+      "statement": "Planeje a adoção interna da marca (lideranças modelando, rituais, processos de pessoas, histórias) antes ou junto do lançamento externo; marca que os funcionários não vivem vira promessa quebrada no primeiro contato.",
+      "why": "Troiano defende que a marca começa nas decisões internas, muito antes da comunicação, e que colaboradores são o ponto de partida da coerência. Gallup mostra que só 26% dos funcionários dizem que a empresa sempre cumpre o que promete e associa a lacuna à cultura não gerida. Stengel, do lado pró-propósito, coloca construir a cultura em torno do ideal como primeira tarefa. Lencioni mostra o custo inverso: CEO que desmente um valor em reunião destrói a credibilidade.",
+      "how": [
+        "Mapeie a distância entre a cultura desejada e a vivida (pesquisa, entrevistas, observação)",
+        "Defina 3 a 5 comportamentos que expressam a marca em cada área de contato com o cliente",
+        "Faça os líderes modelarem os comportamentos primeiro e repetirem a mensagem muitas vezes",
+        "Ajuste processos: onboarding com histórias reais, critérios de avaliação e reconhecimento",
+        "Meça periodicamente propósito, marca e cultura juntos"
+      ],
+      "tests": [
+        "Existe um plano de lançamento interno com responsáveis, além do externo?",
+        "Os líderes conseguem citar exemplos recentes de comportamentos da marca?",
+        "Os processos de RH mencionam os comportamentos da marca?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "cultura-interna",
+        "gestao-governanca"
+      ],
+      "stage": [
+        "plataforma",
+        "ativacao"
+      ],
+      "school": "proposito",
+      "evidence": "empirica",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-mm-troiano-potencia-das-marcas-2026",
+          "locator": "branding começa dentro",
+          "paraphrase": "a marca nasce nas decisões e práticas internas; colaboradores são o ponto de partida",
+          "quote": "A construção de uma marca começa muito antes da sua comunicação."
+        },
+        {
+          "id": "src-gallup-few-believe-values-2016",
+          "locator": "Why company values fail",
+          "paraphrase": "cultura tratada como programa isolado e não medida cria lacuna entre o desejado e o vivido"
+        },
+        {
+          "id": "src-sb-stengel-grow-review-2012",
+          "locator": "quatro must-dos",
+          "paraphrase": "construir a cultura em torno do ideal é a primeira tarefa para torná-lo central"
+        },
+        {
+          "id": "src-lencioni-values-hbr-2002",
+          "locator": "Weave core values into everything",
+          "paraphrase": "valores precisam estar em todo processo que toca o funcionário"
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-siebel-professionalism-values"
+      ],
+      "contexts": "Crítico em serviços, varejo e B2B, onde o funcionário é a marca. Em empresas familiares (Troiano), conecte com sucessão e continuidade. Céticos do propósito concordam com esta parte (Ritson: pratique dentro primeiro)."
+    },
+    {
+      "id": "story-protagonist-customer",
+      "title": "Cliente como protagonista da história, com freio contra a padronização",
+      "statement": "Em mensagens de conversão, coloque o cliente como protagonista com um problema em três níveis e a marca como ajudante com empatia e autoridade, mas tire a diferenciação do posicionamento e não do molde narrativo.",
+      "why": "O SB7 dá clareza e uma mensagem central reutilizável (Miller; Broas). Mas concorrentes que usam o mesmo molde ficam intercambiáveis, a voz achata e o modelo falha em B2B com vários decisores e em conteúdo contínuo (Column). O papel de Guia soa pretensioso para negócios comuns (Broas).",
+      "how": [
+        "Escreva o problema do cliente em três níveis: externo, interno (sentimento), filosófico (por que é injusto)",
+        "Mostre empatia (entendemos) e autoridade (prova) em uma frase cada",
+        "Ofereça um plano de 3 passos e uma chamada clara",
+        "Em B2B, faça uma versão por decisor",
+        "Para negócios simples, troque Guia por fornecedor confiável que faz bem o trabalho",
+        "Revise: a voz e a diferença vêm do posicionamento, não do molde"
+      ],
+      "tests": [
+        "A mensagem fala mais do cliente do que da marca?",
+        "Se trocarmos o nome por um concorrente que também usa SB7, a página continua igual?",
+        "Há versão para cada decisor relevante (em B2B)?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "identidade-verbal",
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "narrativa",
+        "ativacao"
+      ],
+      "school": "verbal",
+      "evidence": "framework",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-mann-storybrand-notes",
+          "locator": "SB7",
+          "paraphrase": "sete elementos e marca como guia com empatia e autoridade",
+          "quote": "The customer is the hero, not your brand."
+        },
+        {
+          "id": "src-column-storybrand-drawbacks-2025",
+          "locator": "8 drawbacks",
+          "paraphrase": "molde comum gera mensagens intercambiáveis e falha em B2B com vários decisores"
+        },
+        {
+          "id": "src-stfo-storybrand-frustrating",
+          "locator": "crítica ao Guia",
+          "paraphrase": "o papel de Guia não serve a muitos negócios; prefira o comerciante confiável"
+        }
+      ],
+      "conflictsWith": [
+        "storybrand-formula-value"
+      ],
+      "cases": [],
+      "contexts": "Bom para sites, páginas de venda, B2C simples e pequenas empresas. Fraco para B2B complexo, marcas lideradas por fundador e linha editorial contínua."
+    },
+    {
+      "id": "cultural-tension-identity-myth",
+      "title": "Marcas culturais resolvem uma contradição cultural com um mito de identidade",
+      "statement": "Para marcas que querem significado cultural, parta de uma contradição ou tensão viva na sociedade e de uma comunidade que vive uma ideologia alternativa, e não de benefícios ou tendências genéricas.",
+      "why": "Holt mostra que marcas icônicas (Nike, Harley, Budweiser, Mountain Dew, VW) criaram mitos de identidade que aliviam ansiedades coletivas causadas por mudança social, com autenticidade emprestada de mundos populistas que vivem suas crenças. Na era das redes, conteúdo de marca perdeu para as crowdcultures (Red Bull com ~US$ 2 bi/ano de conteúdo tinha menos inscritos que um canal de cinco atletas universitários em 2016). Seguir listas de tendência vira commodity.",
+      "how": [
+        "Mapeie a ortodoxia cultural da categoria (o que todos dizem e mostram)",
+        "Identifique uma tensão social que essa ortodoxia não resolve",
+        "Localize a comunidade (crowdculture, subcultura) que já vive a ideologia alternativa",
+        "Escreva o brief cultural: tratamento do mito, fonte de autenticidade, estética carismática",
+        "Prove a ideologia em produto e comportamento, não só em filme",
+        "Volte às tensões quando o debate público mudar"
+      ],
+      "tests": [
+        "A estratégia nomeia uma tensão cultural concreta, e não um valor universal?",
+        "Existe uma comunidade real que já vive a ideia que a marca quer defender?",
+        "A ideia vem de pesquisa cultural própria e não de uma lista de tendências?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "narrativa-proposito",
+        "posicionamento"
+      ],
+      "stage": [
+        "paisagem",
+        "posicionamento",
+        "narrativa"
+      ],
+      "school": "cultural",
+      "evidence": "framework",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-acawiki-holt-icon-2003",
+          "locator": "cultural branding principles",
+          "paraphrase": "mitos de identidade resolvem contradições culturais; brief com mito, autenticidade populista e estética"
+        },
+        {
+          "id": "src-melnick-holt-crowdculture-2016",
+          "locator": "five steps",
+          "paraphrase": "mapear ortodoxia, achar oportunidade em nichos, mirar a crowdculture, difundir ideologia, inovar nas tensões"
+        }
+      ],
+      "conflictsWith": [
+        "mindshare-vs-cultural-branding"
+      ],
+      "cases": [
+        "case-chipotle-scarecrow"
+      ],
+      "contexts": "Mais útil para marcas de identidade/expressão (moda, bebida, lifestyle, esporte) e desafiantes. Em categorias de baixo envolvimento, a escola Ehrenberg-Bass diria que distintividade e alcance pesam mais. Exige prova operacional: Chipotle sofreu ao falhar no próprio discurso de comida segura."
+    },
+    {
+      "id": "codes-of-category-break-or-follow",
+      "title": "Mapeie a ortodoxia da categoria antes de decidir quebrá-la",
+      "statement": "Antes de definir narrativa ou propósito, liste as convenções culturais e de discurso da categoria; decida conscientemente quais seguir (para ser reconhecido) e qual quebrar (para significar algo novo).",
+      "why": "Holt coloca o mapeamento da ortodoxia cultural da categoria como primeiro passo do branding cultural; inovação cultural nasce de desafiar a crença convencional do setor. Ritson mostra o outro lado: quando todos sobem para o mesmo topo da escada, a categoria inteira fica genérica.",
+      "how": [
+        "Colete 10 a 20 manifestos, propósitos e campanhas da categoria",
+        "Liste crenças repetidas, palavras e imagens recorrentes",
+        "Marque quais são código de reconhecimento da categoria e quais são clichê",
+        "Escolha uma ortodoxia a desafiar, com prova de que a marca sustenta o desafio"
+      ],
+      "tests": [
+        "Há um mapa das convenções da categoria anexado à estratégia?",
+        "A marca escolheu explicitamente qual convenção quebra e por quê?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "posicionamento",
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "paisagem"
+      ],
+      "school": "cultural",
+      "evidence": "framework",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-melnick-holt-crowdculture-2016",
+          "locator": "step 1",
+          "paraphrase": "mapear a ortodoxia cultural da categoria que pode ser desafiada"
+        },
+        {
+          "id": "src-ritson-mw-inane-visions-2015",
+          "locator": "visões intercambiáveis",
+          "paraphrase": "visões de marca no topo da escada são trocáveis entre empresas"
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [
+        "case-chipotle-scarecrow"
+      ],
+      "contexts": "Aplicável a qualquer categoria; essencial para desafiantes."
+    },
+    {
+      "id": "narrative-flexible-strategy-stable",
+      "title": "Propósito e estratégia estáveis, narrativa e expressão adaptáveis",
+      "statement": "Mantenha a declaração de propósito e a plataforma fixas por anos e varie só narrativas, lemas e execuções por público e contexto, sempre derivadas da mesma base.",
+      "why": "Kantar mostra que o peso do propósito varia muito por idade e grupo (76% dos 18 a 34 anos x 49% dos 55+) e recomenda adaptar a expressão sem mudar a declaração, que soaria oportunista. O Praticando o Branding separa a estratégia submersa (5 anos ou mais) da expressão flexível, com narrativas e lemas por função.",
+      "how": [
+        "Separe no documento: estratégia (estável) e expressão (narrativas, lemas)",
+        "Para cada narrativa, indique de qual pilar da plataforma ela nasce",
+        "Organize lemas por uso: comunicação, comercial, conteúdo",
+        "Revise as narrativas a cada ciclo de campanha sem reescrever o propósito"
+      ],
+      "tests": [
+        "Cada narrativa aponta para um pilar da plataforma?",
+        "O propósito mudou de texto entre públicos ou campanhas?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "narrativa-proposito",
+        "identidade-verbal",
+        "gestao-governanca"
+      ],
+      "stage": [
+        "plataforma",
+        "narrativa"
+      ],
+      "school": "misto",
+      "evidence": "empirica",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-kantar-purpose-consumers-2022",
+          "locator": "Recommendations",
+          "paraphrase": "mantenha a declaração de propósito estável e adapte expressão por público",
+          "quote": "Consumers are not monolithic"
+        },
+        {
+          "id": "src-praticando-narrativas-lemas-2024",
+          "locator": "estratégia x expressão",
+          "paraphrase": "narrativa é recorte flexível da estratégia, que é estável e verdadeira",
+          "quote": "As narrativas de uma marca representam seus principais pilares de comunicação."
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Vale para marcas com vários públicos ou portfólios. Marca pequena pode ter uma só narrativa."
+    },
+    {
+      "id": "manifesto-show-dont-declare",
+      "title": "Manifesto nomeia um problema e mostra crença com fatos, em poucas palavras",
+      "statement": "Escreva o manifesto como texto curto (cerca de 100 palavras), interno antes de externo, que nomeia um problema concreto, uma meta e provas de comportamento; nunca como ponto de partida do propósito nem como lista de “nós acreditamos”.",
+      "why": "Manifestos funcionam como ferramenta interna e de onboarding; clientes raramente leem. Os eficazes nomeiam um problema e mostram paixão no estilo e nos fatos; os vazios declaram crença e paixão e se alongam (Mahabis, 3.000 palavras, entrou em recuperação). Escrever o manifesto primeiro e testá-lo no consumidor é sinal de purpose-washing (Razorfish).",
+      "how": [
+        "Comece pelo problema que a marca combate, em termos concretos",
+        "Diga a meta em uma frase",
+        "Inclua 2 ou 3 provas do que a marca já faz (fatos, números, renúncias)",
+        "Corte toda frase que começa com “nós acreditamos” e substitua por uma ação",
+        "Use ritmo (tríades) com moderação e limite a ~100 palavras",
+        "Escreva só depois que propósito e provas estiverem definidos"
+      ],
+      "tests": [
+        "O manifesto nomeia um problema específico?",
+        "Tem pelo menos uma prova factual de comportamento?",
+        "Mais da metade das frases são declarações de crença ou paixão?",
+        "O texto continuaria válido para um concorrente?"
+      ],
+      "polarity": "sempre",
+      "domain": [
+        "identidade-verbal",
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "narrativa",
+        "voz"
+      ],
+      "school": "verbal",
+      "evidence": "opiniao-especialista",
+      "strength": 1,
+      "sources": [
+        {
+          "id": "src-procopywriters-brand-manifesto-2019",
+          "locator": "steps",
+          "paraphrase": "problema, meta, ritmo moderado, mostrar e não declarar, ~100 palavras",
+          "quote": "Just don't expect your customers to read it."
+        },
+        {
+          "id": "src-campaign-razorfish-vice-purpose-washing-2021",
+          "locator": "sinais de purpose-washing",
+          "paraphrase": "propósito escrito como manifesto e testado no consumidor é sinal de lavagem"
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Vale para marcas de qualquer porte. Manifesto público só faz sentido quando há provas suficientes; senão, mantenha interno."
+    },
+    {
+      "id": "purpose-proximal-change-my-world",
+      "title": "Propósito próximo: melhore a vida do cliente antes de mudar o mundo",
+      "statement": "Quando usar propósito, comece pelo impacto pessoal e local que a marca gera na vida do cliente e da comunidade dele; causas globais são complemento, não ponto de partida.",
+      "why": "Na pesquisa da Edelman em 15 mercados (2025), expectativas pessoais lideram: me fazer sentir bem (68%), me dar otimismo (62%), me ajudar a fazer o bem (61%); causas coletivas são aditivas. No experimento da Razorfish, apoio a uma causa foi maior quando o impacto era perto de onde o consumidor vive e compra. Ritson: consumidor quer um café, não lições sobre igualdade.",
+      "how": [
+        "Liste como o produto melhora o dia a dia de quem compra (tempo, dinheiro, autoestima, segurança)",
+        "Identifique impacto possível na comunidade próxima (bairro, cidade, cadeia local)",
+        "Só adicione causa ampla se houver ligação direta com o produto e prova",
+        "Comunique por vozes locais e de pares, não só pela marca"
+      ],
+      "tests": [
+        "O propósito explica o que muda na vida do cliente?",
+        "Existe impacto local verificável?"
+      ],
+      "polarity": "prefira",
+      "domain": [
+        "narrativa-proposito",
+        "publico"
+      ],
+      "stage": [
+        "plataforma",
+        "narrativa"
+      ],
+      "school": "misto",
+      "evidence": "empirica",
+      "strength": 2,
+      "sources": [
+        {
+          "id": "src-edelman-change-my-world-2025",
+          "locator": "Me vs We factors",
+          "paraphrase": "fatores pessoais são a expectativa principal; causas coletivas são aditivas",
+          "quote": "consumers want brands to change my world"
+        },
+        {
+          "id": "src-campaign-razorfish-vice-purpose-washing-2021",
+          "locator": "experimento",
+          "paraphrase": "apoio maior quando o impacto é próximo de onde o consumidor vive"
+        },
+        {
+          "id": "src-ritson-mw-inane-visions-2015",
+          "locator": "argumento central",
+          "paraphrase": "consumidores querem o produto, não lições de felicidade ou igualdade"
+        }
+      ],
+      "conflictsWith": [],
+      "cases": [],
+      "contexts": "Forte em contexto de crise econômica e no Brasil, onde pequenas marcas têm impacto local visível. Edelman é parte interessada; a convergência com críticos dá mais peso."
+    }
+  ],
+  "frameworks": [
+    {
+      "id": "sinek-golden-circle",
+      "name": "Golden Circle (Por quê, Como, O quê)",
+      "author": "Simon Sinek",
+      "purpose": "Organizar a comunicação de dentro para fora, começando pela crença que move a empresa.",
+      "components": [
+        {
+          "name": "Por quê",
+          "description": "crença, causa ou razão de existir; lucro é resultado, não razão"
+        },
+        {
+          "name": "Como",
+          "description": "o jeito próprio de fazer, processo ou proposta diferenciadora"
+        },
+        {
+          "name": "O quê",
+          "description": "produtos e serviços"
+        }
+      ],
+      "steps": [
+        "Escreva o O quê e o Como com fatos",
+        "Escreva o Por quê como crença que explica decisões passadas",
+        "Teste se o Por quê é provado pelo Como (ex.: processo, renúncias)",
+        "Ordene a mensagem: crença, depois forma de fazer, depois produto como prova"
+      ],
+      "inputs": [
+        "história da fundação",
+        "decisões difíceis já tomadas",
+        "processo diferenciado"
+      ],
+      "outputs": [
+        "frase de crença",
+        "ordem de mensagem"
+      ],
+      "pitfalls": [
+        "Por quê genérico (inspirar, mudar o mundo) que serve a qualquer empresa",
+        "Por quê sem Como que o prove",
+        "Usar o círculo como substituto de posicionamento"
+      ],
+      "criticisms": [
+        "Base neurológica do cérebro trino é ultrapassada; decisão não é separada assim (verificação da transcrição)",
+        "Exemplos anedóticos e escolhidos a posteriori (Apple, TiVo, irmãos Wright), sem teste controlado",
+        "Escola Ehrenberg-Bass: consumidores raramente sabem o propósito das marcas (consciência real abaixo de 10%), o que enfraquece a tese de que compram o porquê"
+      ],
+      "domain": [
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "plataforma",
+        "narrativa"
+      ],
+      "school": "proposito",
+      "sources": [
+        {
+          "id": "src-sinek-ted-golden-circle-2009",
+          "locator": "palestra completa",
+          "paraphrase": "comunicar de dentro para fora; pessoas compram o porquê",
+          "quote": "People don't buy what you do; they buy why you do it."
+        },
+        {
+          "id": "src-ebi-purpose-aware-to-care",
+          "locator": "resultados",
+          "paraphrase": "consciência de propósito muito baixa mesmo em marcas-exemplo"
+        }
+      ]
+    },
+    {
+      "id": "stengel-brand-ideal-five-fields",
+      "name": "Ideal de marca e cinco campos de valor humano",
+      "author": "Jim Stengel",
+      "purpose": "Definir um ideal de marca ligado a melhorar a vida das pessoas e torná-lo central na empresa.",
+      "components": [
+        {
+          "name": "Alegria",
+          "description": "despertar experiências de felicidade, maravilha e possibilidade"
+        },
+        {
+          "name": "Conexão",
+          "description": "ajudar pessoas a se conectar entre si e com o mundo"
+        },
+        {
+          "name": "Exploração",
+          "description": "ajudar a explorar novos horizontes e experiências"
+        },
+        {
+          "name": "Orgulho",
+          "description": "dar confiança, força e vitalidade às pessoas"
+        },
+        {
+          "name": "Impacto social",
+          "description": "afetar a sociedade de forma ampla"
+        }
+      ],
+      "steps": [
+        "Identificar a qual dos cinco campos a marca se liga",
+        "Ativar essa ligação de forma distintiva e autêntica numa declaração de ideal",
+        "Construir a cultura em torno do ideal",
+        "Comunicar o ideal para funcionários e clientes",
+        "Entregar experiência próxima do ideal",
+        "Medir progresso e pessoas pelo ideal"
+      ],
+      "inputs": [
+        "história e fundadores",
+        "benefícios do produto",
+        "percepção dos clientes"
+      ],
+      "outputs": [
+        "declaração de ideal",
+        "plano de ativação nas quatro frentes"
+      ],
+      "pitfalls": [
+        "Ideal tão amplo que só descreve a categoria",
+        "Ativar só pela comunicação",
+        "Vender o ideal como garantia de crescimento"
+      ],
+      "criticisms": [
+        "Sharp (2011): metodologia do Stengel 50 fundamentalmente falha (amostra de vencedoras, halo, lógica circular)",
+        "Shotton: falha em precisão dos dados, previsão (9 de 26 bateram o mercado), definição e comparação",
+        "Asbury: Stengel nunca respondeu aos críticos e os casos vitrine têm custos sociais ocultos"
+      ],
+      "domain": [
+        "narrativa-proposito",
+        "cultura-interna"
+      ],
+      "stage": [
+        "plataforma"
+      ],
+      "school": "proposito",
+      "sources": [
+        {
+          "id": "src-sb-stengel-grow-review-2012",
+          "locator": "five fields; four must-dos",
+          "paraphrase": "cinco campos de valor e quatro tarefas para tornar o ideal central"
+        },
+        {
+          "id": "src-shotton-bsi-purpose-wishful-thinking-2019",
+          "locator": "quatro testes",
+          "paraphrase": "o estudo não prova que ideais causam lucro"
+        },
+        {
+          "id": "src-asbury-stengel-purpose-autopsy-2025",
+          "locator": "histórico",
+          "paraphrase": "críticas sem resposta desde 2011"
+        }
+      ]
+    },
+    {
+      "id": "ana-couto-ondas-de-valor",
+      "name": "Ondas de valor: Produto, Pessoas, Propósito (Valometry)",
+      "author": "Ana Couto",
+      "purpose": "Diagnosticar e gerir o valor da marca em três camadas cumulativas, com coerência entre ser, fazer e falar.",
+      "components": [
+        {
+          "name": "Produto",
+          "description": "custo-benefício e diferenciação do que é entregue"
+        },
+        {
+          "name": "Pessoas",
+          "description": "identificação, fidelização e conexão emocional"
+        },
+        {
+          "name": "Propósito",
+          "description": "visão de mundo compartilhada que mobiliza e gera impacto positivo"
+        }
+      ],
+      "steps": [
+        "Medir a percepção da marca em cada onda (qualitativo, social listening, quanti)",
+        "Identificar a onda mais fraca e as lacunas entre ser, fazer e falar",
+        "Priorizar ações de marca, negócio e comunicação por onda",
+        "Acompanhar com indicador contínuo (Branding Value Score)"
+      ],
+      "inputs": [
+        "pesquisa com público",
+        "dados de categoria",
+        "estratégia de negócio"
+      ],
+      "outputs": [
+        "diagnóstico por onda",
+        "prioridades de ação",
+        "indicador de acompanhamento"
+      ],
+      "pitfalls": [
+        "Pular direto para a onda Propósito sem resolver Produto",
+        "Tratar Propósito como discurso, sem ação no negócio"
+      ],
+      "criticisms": [
+        "Metodologia proprietária e não publicada; resultados divulgados pela própria agência (independent=false)",
+        "Escola Ehrenberg-Bass questionaria se a onda Propósito pesa na escolha, dado o baixo conhecimento de propósitos"
+      ],
+      "domain": [
+        "narrativa-proposito",
+        "equity-medicao"
+      ],
+      "stage": [
+        "diagnostico",
+        "plataforma"
+      ],
+      "school": "proposito",
+      "sources": [
+        {
+          "id": "src-mpm-ana-couto-marca-brasil-valometry-2022",
+          "locator": "ondas de valor",
+          "paraphrase": "define as três ondas e aplica com comunidades, social listening e 2.500 entrevistas"
+        },
+        {
+          "id": "src-touche-ana-couto-revolucao-branding-2024",
+          "locator": "sinopse",
+          "paraphrase": "Valometry em três ondas e coerência entre ser, fazer e falar",
+          "quote": "Branding não é uma mudança de marca, é o marco de uma mudança."
+        },
+        {
+          "id": "src-mm-ana-couto-branding-valor-2023",
+          "locator": "palestra",
+          "paraphrase": "branding como gestão de valor; bom produto não basta"
+        }
+      ]
+    },
+    {
+      "id": "storybrand-sb7",
+      "name": "StoryBrand (SB7)",
+      "author": "Donald Miller",
+      "purpose": "Estruturar a mensagem de venda como uma história em que o cliente é o herói e a marca é o guia.",
+      "components": [
+        {
+          "name": "Personagem",
+          "description": "o cliente e o que ele quer"
+        },
+        {
+          "name": "Problema",
+          "description": "obstáculo em três níveis: externo, interno, filosófico"
+        },
+        {
+          "name": "Guia",
+          "description": "a marca, com empatia e autoridade"
+        },
+        {
+          "name": "Plano",
+          "description": "3 ou 4 passos simples"
+        },
+        {
+          "name": "Chamada para ação",
+          "description": "direta (comprar) e transitória (material gratuito)"
+        },
+        {
+          "name": "Fracasso",
+          "description": "o que o cliente perde se não agir"
+        },
+        {
+          "name": "Sucesso",
+          "description": "a situação melhor depois de resolver"
+        }
+      ],
+      "steps": [
+        "Definir o desejo do cliente",
+        "Escrever o problema nos três níveis",
+        "Posicionar a marca como guia com uma prova de empatia e uma de autoridade",
+        "Criar o plano e as chamadas",
+        "Explicitar fracasso e sucesso",
+        "Reaproveitar a mensagem central em todos os canais"
+      ],
+      "inputs": [
+        "dores do cliente",
+        "provas de autoridade",
+        "oferta"
+      ],
+      "outputs": [
+        "roteiro de mensagem",
+        "texto de site e páginas de venda"
+      ],
+      "pitfalls": [
+        "Mensagens iguais às de concorrentes que usam o mesmo molde",
+        "Voz achatada e polida demais",
+        "Forçar o arco em todo conteúdo do dia a dia",
+        "Ignorar vários decisores em B2B"
+      ],
+      "criticisms": [
+        "Column (pratica): simplifica demais, é transacional, falha em B2B e em marcas lideradas por fundador",
+        "Broas (verbal): o papel de Guia é pretensioso para muitos negócios; prefira o comerciante confiável"
+      ],
+      "domain": [
+        "identidade-verbal",
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "narrativa",
+        "ativacao"
+      ],
+      "school": "verbal",
+      "sources": [
+        {
+          "id": "src-mann-storybrand-notes",
+          "locator": "SB7",
+          "paraphrase": "os sete elementos e as regras do guia"
+        },
+        {
+          "id": "src-column-storybrand-drawbacks-2025",
+          "locator": "drawbacks",
+          "paraphrase": "oito limitações e quando funciona"
+        },
+        {
+          "id": "src-stfo-storybrand-frustrating",
+          "locator": "crítica",
+          "paraphrase": "arco narrativo é desajeitado para a mensagem diária"
+        }
+      ]
+    },
+    {
+      "id": "holt-cultural-branding",
+      "name": "Branding cultural (mitos de identidade e crowdcultures)",
+      "author": "Douglas Holt (com Douglas Cameron em Cultural Strategy)",
+      "purpose": "Construir significado de marca resolvendo tensões culturais com uma ideologia crível, em vez de disputar benefícios na mente.",
+      "components": [
+        {
+          "name": "Contradição cultural",
+          "description": "tensão social que gera ansiedade ou desejo coletivo"
+        },
+        {
+          "name": "Mito de identidade",
+          "description": "história simbólica que a marca encarna para aliviar a tensão"
+        },
+        {
+          "name": "Autenticidade populista",
+          "description": "ideologia emprestada de comunidades que vivem suas crenças"
+        },
+        {
+          "name": "Estética carismática",
+          "description": "códigos visuais e de linguagem que dão força ao mito"
+        },
+        {
+          "name": "Crowdculture",
+          "description": "subculturas e mundos de arte conectados que hoje produzem cultura"
+        }
+      ],
+      "steps": [
+        "Mapear a ortodoxia cultural da categoria",
+        "Localizar a oportunidade cultural em comunidades de nicho",
+        "Mirar a crowdculture que defende a alternativa",
+        "Difundir a nova ideologia com conteúdo que ressoe (não precisa ser polido)",
+        "Inovar continuamente nos pontos de tensão do debate público"
+      ],
+      "inputs": [
+        "pesquisa cultural e histórica",
+        "análise de comunidades",
+        "convenções da categoria"
+      ],
+      "outputs": [
+        "brief cultural",
+        "ideologia da marca",
+        "plano de ativação"
+      ],
+      "pitfalls": [
+        "Seguir listas de tendência genéricas",
+        "Assumir ideologia que a operação não sustenta (Chipotle e segurança alimentar)",
+        "Apropriar-se de temas sensíveis sem legitimidade (Pepsi)"
+      ],
+      "criticisms": [
+        "Escola Ehrenberg-Bass: compra é guiada por disponibilidade mental e física, não por ideologia; casos icônicos são poucos e escolhidos a posteriori",
+        "Baseado em análise histórica de casos, sem teste quantitativo",
+        "Holt reconhece que a maioria dos ícones surgiu por intuição e acaso"
+      ],
+      "domain": [
+        "narrativa-proposito",
+        "posicionamento"
+      ],
+      "stage": [
+        "paisagem",
+        "posicionamento",
+        "narrativa"
+      ],
+      "school": "cultural",
+      "sources": [
+        {
+          "id": "src-acawiki-holt-icon-2003",
+          "locator": "princípios",
+          "paraphrase": "contradição cultural, mito, autenticidade populista, estética carismática"
+        },
+        {
+          "id": "src-melnick-holt-crowdculture-2016",
+          "locator": "cinco passos",
+          "paraphrase": "do mapeamento da ortodoxia à inovação em pontos de tensão"
+        }
+      ]
+    },
+    {
+      "id": "lencioni-four-value-types",
+      "name": "Quatro tipos de valores",
+      "author": "Patrick Lencioni",
+      "purpose": "Separar valores centrais de aspiracionais, mínimos e acidentais para que a lista diga algo real.",
+      "components": [
+        {
+          "name": "Central",
+          "description": "princípio enraizado e inegociável, fonte de distintividade"
+        },
+        {
+          "name": "Aspiracional",
+          "description": "o que a empresa precisa e ainda não tem"
+        },
+        {
+          "name": "Permissão para jogar",
+          "description": "mínimo comportamental que qualquer empresa exige; não diferencia"
+        },
+        {
+          "name": "Acidental",
+          "description": "surgiu sozinho pelos perfis da equipe; pode ajudar ou excluir"
+        }
+      ],
+      "steps": [
+        "Grupo pequeno (CEO, fundadores, poucos funcionários-chave) lista candidatos",
+        "Classifica cada um nos quatro tipos",
+        "Leva meses refletindo e testando como cada valor funciona na prática",
+        "Embute os centrais em contratação, avaliação, promoção, recompensa e demissão",
+        "Repete e reforça com histórias e ações"
+      ],
+      "inputs": [
+        "comportamentos de pessoas exemplares",
+        "decisões difíceis passadas"
+      ],
+      "outputs": [
+        "lista curta de valores centrais",
+        "plano de integração em processos"
+      ],
+      "pitfalls": [
+        "Consenso amplo conduzido pelo RH",
+        "Valores de cartão de felicitação (integridade, qualidade, inovação)",
+        "Tratar como lançamento de marketing de uma vez só"
+      ],
+      "criticisms": [
+        "Evidência baseada em casos da consultoria do autor",
+        "A recomendação de não buscar consenso pode conflitar com práticas participativas de cultura"
+      ],
+      "domain": [
+        "cultura-interna"
+      ],
+      "stage": [
+        "plataforma"
+      ],
+      "school": "pratica",
+      "sources": [
+        {
+          "id": "src-lencioni-values-hbr-2002",
+          "locator": "artigo completo",
+          "paraphrase": "quatro tipos, autenticidade agressiva, dono do processo, embutir em tudo"
+        }
+      ]
+    },
+    {
+      "id": "roach-three-purpose-types",
+      "name": "Três tipos de marca com propósito",
+      "author": "Tom Roach",
+      "purpose": "Diagnosticar quão provável é que o propósito gere valor, conforme sua origem.",
+      "components": [
+        {
+          "name": "Nascidas com propósito",
+          "description": "pequenas, lideradas por fundador, propósito em todo o negócio (Patagonia, Toms)"
+        },
+        {
+          "name": "Convertidas corporativas",
+          "description": "grandes empresas que adotaram propósito depois; enfrentam trade-offs com lucro"
+        },
+        {
+          "name": "Pseudo-propositadas",
+          "description": "propósito como campanha, criado no marketing a partir de social listening"
+        }
+      ],
+      "steps": [
+        "Classificar a marca num dos três tipos",
+        "Se for pseudo-propositada, abandonar o propósito como plataforma",
+        "Se for convertida, listar trade-offs e decisões que provam compromisso",
+        "Se nascida com propósito, documentar provas e proteger contra diluição no crescimento"
+      ],
+      "inputs": [
+        "história",
+        "modelo de negócio",
+        "origem do propósito"
+      ],
+      "outputs": [
+        "classificação e recomendação de uso do propósito"
+      ],
+      "pitfalls": [
+        "Achar que propósito em publicidade equivale a propósito no negócio"
+      ],
+      "criticisms": [
+        "Tipologia opinativa, sem medição"
+      ],
+      "domain": [
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "diagnostico",
+        "plataforma"
+      ],
+      "school": "eficacia",
+      "sources": [
+        {
+          "id": "src-roach-truth-lies-brand-purpose-2020",
+          "locator": "three types",
+          "paraphrase": "probabilidade de lucro cai de nascidas para pseudo-propositadas"
+        }
+      ]
+    },
+    {
+      "id": "murrell-purpose-3c-credible-considerate-committed",
+      "name": "Propósito crível, considerado e comprometido",
+      "author": "Alex Murrell",
+      "purpose": "Checar uma proposta de propósito contra as três armadilhas que derrubaram campanhas.",
+      "components": [
+        {
+          "name": "Crível",
+          "description": "baseado num papel que o produto realmente cumpre"
+        },
+        {
+          "name": "Considerado",
+          "description": "trata temas culturalmente sensíveis com cuidado e legitimidade"
+        },
+        {
+          "name": "Comprometido",
+          "description": "todas as ações da empresa alinhadas, de forma consistente e duradoura"
+        }
+      ],
+      "steps": [
+        "Testar se o produto desempenha o papel prometido",
+        "Testar se o tema é sensível e se a marca tem legitimidade para tratá-lo",
+        "Auditar práticas internas que possam contradizer o propósito"
+      ],
+      "inputs": [
+        "proposta de propósito",
+        "práticas da empresa",
+        "contexto cultural"
+      ],
+      "outputs": [
+        "aprovação, ajuste ou descarte do propósito"
+      ],
+      "pitfalls": [
+        "Pensamento preto no branco: tudo propósito ou nada"
+      ],
+      "criticisms": [
+        "Baseado em casos famosos; não prova efeito comercial"
+      ],
+      "domain": [
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "plataforma",
+        "narrativa"
+      ],
+      "school": "pratica",
+      "sources": [
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "locator": "três armadilhas",
+          "paraphrase": "falta de credibilidade, consideração e compromisso derrubam propósitos",
+          "quote": "We must learn to love the grey."
+        }
+      ]
+    },
+    {
+      "id": "benefit-ladder-3cs",
+      "name": "Escada de benefícios com teste dos 3Cs",
+      "author": "Mark Ritson (via MiniMBA)",
+      "purpose": "Escolher o nível de promessa da marca sem cair em promessas genéricas no topo.",
+      "components": [
+        {
+          "name": "Atributos",
+          "description": "características concretas do produto"
+        },
+        {
+          "name": "Benefícios funcionais",
+          "description": "o que o produto faz pelo cliente"
+        },
+        {
+          "name": "Associações emocionais",
+          "description": "sentimentos que a marca desperta"
+        },
+        {
+          "name": "Propósito sociocultural",
+          "description": "causa ampla ou desafio ao status quo"
+        },
+        {
+          "name": "3Cs",
+          "description": "cliente quer, empresa entrega, melhor ou diferente da concorrência"
+        }
+      ],
+      "steps": [
+        "Preencher todos os degraus",
+        "Escolher o degrau mais alto ainda crível e diferente",
+        "Validar com os 3Cs",
+        "Se o degrau escolhido for igual ao dos concorrentes, descer"
+      ],
+      "inputs": [
+        "dados de produto",
+        "pesquisa de cliente",
+        "mensagens de concorrentes"
+      ],
+      "outputs": [
+        "nível de promessa",
+        "frase de posicionamento"
+      ],
+      "pitfalls": [
+        "Assumir que o topo é sempre melhor",
+        "Superestimar o papel da marca na vida das pessoas"
+      ],
+      "criticisms": [
+        "Escola proposito: subestima o papel do significado e da cultura interna"
+      ],
+      "domain": [
+        "posicionamento",
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "posicionamento",
+        "plataforma"
+      ],
+      "school": "posicionamento-diferenciacao",
+      "sources": [
+        {
+          "id": "src-minimba-benefit-ladder-2025",
+          "locator": "artigo",
+          "paraphrase": "pare no degrau adequado e valide com os 3Cs"
+        },
+        {
+          "id": "src-mi3-ritson-purpose-practice-2021",
+          "locator": "3Cs para propósito",
+          "paraphrase": "aplique os 3Cs também ao propósito"
+        }
+      ]
+    },
+    {
+      "id": "purpose-claim-evidence-tests",
+      "name": "Testes de evidência para alegações de propósito",
+      "author": "Richard Shotton / Ehrenberg-Bass / Terry Smith (síntese)",
+      "purpose": "Avaliar se um dado que diz que propósito gera crescimento se sustenta.",
+      "components": [
+        {
+          "name": "Precisão dos dados",
+          "description": "as unidades medidas são comparáveis e isoláveis?"
+        },
+        {
+          "name": "Previsão",
+          "description": "a regra prevê desempenho futuro melhor que o acaso?"
+        },
+        {
+          "name": "Definição",
+          "description": "o propósito é específico ou só descreve a categoria?"
+        },
+        {
+          "name": "Comparação",
+          "description": "há grupo de controle de marcas sem propósito?"
+        },
+        {
+          "name": "Consciência",
+          "description": "o público sabe o propósito, descontado o chute com item falso?"
+        }
+      ],
+      "steps": [
+        "Identificar a fonte e se é parte interessada",
+        "Aplicar os cinco testes",
+        "Classificar a alegação como causal, correlacional ou anedótica"
+      ],
+      "inputs": [
+        "estudo ou dado citado"
+      ],
+      "outputs": [
+        "classificação da força da evidência"
+      ],
+      "pitfalls": [
+        "Aceitar estudos que só olham vencedores (viés de sobrevivência)"
+      ],
+      "criticisms": [
+        "Escola proposito: efeitos de longo prazo e internos são difíceis de isolar e não aparecem nesses testes"
+      ],
+      "domain": [
+        "equity-medicao",
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "diagnostico"
+      ],
+      "school": "comportamental",
+      "sources": [
+        {
+          "id": "src-shotton-bsi-purpose-wishful-thinking-2019",
+          "locator": "four tests",
+          "paraphrase": "quatro testes aplicados ao Stengel 50"
+        },
+        {
+          "id": "src-ebi-purpose-aware-to-care",
+          "locator": "método",
+          "paraphrase": "usar propósitos falsos para estimar chute"
+        },
+        {
+          "id": "src-mw-unilever-purpose-terry-smith-2023",
+          "locator": "Smith",
+          "paraphrase": "sem grupo de controle não há causalidade"
+        }
+      ]
+    },
+    {
+      "id": "estrategia-expressao-narrativas-lemas",
+      "name": "Iceberg estratégia/expressão com narrativas e lemas",
+      "author": "Paulo Lima (Praticando o Branding)",
+      "purpose": "Derivar narrativas e frases de marca da plataforma sem perder coerência.",
+      "components": [
+        {
+          "name": "Estratégia",
+          "description": "DNA, personalidade, posicionamento, propósito; estável por 5 anos ou mais"
+        },
+        {
+          "name": "Narrativa",
+          "description": "recorte dos pilares de comunicação, flexível"
+        },
+        {
+          "name": "Lemas",
+          "description": "frases derivadas, organizadas por função de uso"
+        }
+      ],
+      "steps": [
+        "Partir da plataforma e do DNA",
+        "Responder: sobre o que é a marca, o que deve ser lembrado, quais temas e protagonistas",
+        "Formular a narrativa de forma envolvente",
+        "Criar lemas por função (comunicação, comercial, conteúdo)",
+        "Distribuir pelos pontos de contato"
+      ],
+      "inputs": [
+        "plataforma de marca"
+      ],
+      "outputs": [
+        "narrativas",
+        "lemas por uso"
+      ],
+      "pitfalls": [
+        "Narrativas que não derivam da plataforma",
+        "Base estratégica criativa mas não verdadeira"
+      ],
+      "criticisms": [
+        "Framework de praticante, sem validação externa"
+      ],
+      "domain": [
+        "identidade-verbal",
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "narrativa",
+        "voz"
+      ],
+      "school": "pratica",
+      "sources": [
+        {
+          "id": "src-praticando-narrativas-lemas-2024",
+          "locator": "texto completo",
+          "paraphrase": "estratégia estável e verdadeira, expressão flexível em narrativas e lemas"
+        }
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "id": "purpose-value",
+      "question": "Propósito de marca gera valor e crescimento, ou é discurso sem efeito comprovado que distrai do básico?",
+      "positions": [
+        {
+          "school": "proposito",
+          "claim": "Um ideal ou propósito que melhora a vida das pessoas une a empresa, orienta decisões e impulsiona crescimento; branding começa dentro e é gestão de valor em ondas (Produto, Pessoas, Propósito).",
+          "evidence": "Stengel 50: retorno ~400% acima do S&P 500 (dado de parte interessada, sem controle). Unilever: alto propósito 6,1% x 0,2% em 2021 e ROI de mídia 20% maior (dado interno). Kantar: 76% dos 18-34 dizem que propósito importa (declarado). Edelman: expectativas de que marcas melhorem a vida pessoal. Couto e Troiano: experiência de consultoria no Brasil.",
+          "sources": [
+            {
+              "id": "src-sb-stengel-grow-review-2012",
+              "paraphrase": "ideais são a maior alavanca de vantagem competitiva"
+            },
+            {
+              "id": "src-mw-unilever-purpose-terry-smith-2023",
+              "paraphrase": "Unilever reporta marcas de alto propósito crescendo mais"
+            },
+            {
+              "id": "src-touche-ana-couto-revolucao-branding-2024",
+              "paraphrase": "ondas Produto, Pessoas e Propósito no Valometry"
+            },
+            {
+              "id": "src-mm-troiano-potencia-das-marcas-2026",
+              "paraphrase": "propósito deve orientar decisões, não ser discurso"
+            },
+            {
+              "id": "src-kantar-purpose-consumers-2022",
+              "paraphrase": "propósito pesa mais para jovens e no varejo"
+            },
+            {
+              "id": "src-edelman-change-my-world-2025",
+              "paraphrase": "marcas devem melhorar a vida pessoal antes do mundo"
+            }
+          ]
+        },
+        {
+          "school": "ehrenberg-bass",
+          "claim": "Consumidores mal conhecem o propósito das marcas; crescimento vem de disponibilidade mental e física. Marcas sem propósito não precisam de um, e quem quer impacto social talvez faça mais doando diretamente.",
+          "evidence": "~3.000 respondentes em 3 países: consciência média 18%, dummy 9%, real raramente acima de 10%. Sharp (2011) chamou a metodologia do Grow de fundamentalmente falha.",
+          "sources": [
+            {
+              "id": "src-ebi-purpose-aware-to-care",
+              "paraphrase": "consciência de propósito extremamente baixa mesmo em marcas-exemplo"
+            },
+            {
+              "id": "src-asbury-stengel-purpose-autopsy-2025",
+              "paraphrase": "registro da crítica de Sharp em 2011"
+            }
+          ]
+        },
+        {
+          "school": "posicionamento-diferenciacao",
+          "claim": "Ritson: visões e propósitos no topo da escada de benefícios são intercambiáveis e desconectados do uso do produto; propósito só vale se a empresa pratica (ex.: paga impostos) e se passa nos 3Cs.",
+          "evidence": "Análise de casos (Coca-Cola, McDonald's, Starbucks #RaceTogether, Heineken); opinião especializada sem dados próprios.",
+          "sources": [
+            {
+              "id": "src-ritson-mw-inane-visions-2015",
+              "paraphrase": "visões infladas perderam contato com o uso real"
+            },
+            {
+              "id": "src-mi3-ritson-purpose-practice-2021",
+              "paraphrase": "pratique dentro primeiro; teste dos impostos"
+            },
+            {
+              "id": "src-minimba-benefit-ladder-2025",
+              "paraphrase": "pare no degrau certo da escada"
+            }
+          ]
+        },
+        {
+          "school": "comportamental",
+          "claim": "Shotton: a adoção do propósito é viés de ver o que se deseja; o Stengel 50 falha em quatro testes de evidência.",
+          "evidence": "Reanálise: só 9 de 26 empresas do Stengel 50 bateram o S&P 500 em cinco anos, contra ~13 esperadas por acaso; marcas privadas sem ação na bolsa na amostra.",
+          "sources": [
+            {
+              "id": "src-shotton-bsi-purpose-wishful-thinking-2019",
+              "paraphrase": "Grow não prova que ideais geram lucro"
+            }
+          ]
+        },
+        {
+          "school": "misto",
+          "claim": "Terry Smith (investidor) e Razorfish/Vice: propósito virou sinalização de virtude que distrai do básico, e o consumidor desconfia: há um abismo entre o que marketers acreditam e o que clientes percebem.",
+          "evidence": "Smith: sem grupo de controle, a ligação propósito-crescimento é correlação. Razorfish/Vice (1.000 consumidores EUA, 2021): 43% acreditam que marcas vivem o propósito x 83% dos marketers; só 19% e 27% usam propósito em experiência e produto.",
+          "sources": [
+            {
+              "id": "src-mw-unilever-purpose-terry-smith-2023",
+              "paraphrase": "correlação confundida com causa"
+            },
+            {
+              "id": "src-drum-terry-smith-unilever-2022",
+              "paraphrase": "gestão obcecada em exibir credenciais em vez do básico"
+            },
+            {
+              "id": "src-campaign-razorfish-vice-purpose-washing-2021",
+              "paraphrase": "43% x 83% e sinais de purpose-washing"
+            }
+          ]
+        },
+        {
+          "school": "pratica",
+          "claim": "Murrell e Roach: propósito não é bala de prata nem veneno; funciona quando é crível, considerado, comprometido e embutido no modelo de negócio (marcas nascidas com propósito), e falha como campanha. Asbury vai além: até os casos vitrine escondem contradições.",
+          "evidence": "Casos (Patagonia, Dove a favor; Heineken, Pepsi, State Street contra); tipologia de Roach; dossiê de Asbury sobre Patagonia, Ben & Jerry's, Ford, e.l.f.",
+          "sources": [
+            {
+              "id": "src-murrell-pitfalls-of-purpose",
+              "paraphrase": "três armadilhas e o meio-termo"
+            },
+            {
+              "id": "src-roach-truth-lies-brand-purpose-2020",
+              "paraphrase": "nascidas, convertidas e pseudo-propositadas"
+            },
+            {
+              "id": "src-asbury-stengel-purpose-autopsy-2025",
+              "paraphrase": "casos vitrine têm custos sociais ocultos"
+            }
+          ]
+        }
+      ],
+      "synthesis": "Todas as escolas concordam em quatro pontos: (1) produto bom e valor justo vêm antes de qualquer propósito (até a Unilever admite); (2) propósito só de comunicação, sem prática, é pior que nenhum (Troiano, Couto, Ritson, Roach, Razorfish); (3) causas da moda e temas sensíveis sem legitimidade são arriscados; (4) a prova está no comportamento da empresa, não na frase. A divergência real é sobre se propósito, mesmo genuíno, é alavanca de crescimento: a evidência pró é de parte interessada e correlacional, a contra é empírica sobre consciência e reanálise de dados.",
+      "systemStance": "Padrão do sistema: propósito é OPCIONAL e só entra na plataforma se for operacional e provado por comportamento; nunca como frase de efeito nem como promessa de crescimento. Regras: (a) primeiro posicionamento, benefício e ativos distintivos; propósito é camada extra; (b) para incluir propósito, exigir pelo menos 3 provas atuais (decisões, renúncias, práticas de produto, RH ou impostos) e um custo assumido; sem isso, a plataforma usa benefício funcional/emocional e o campo propósito fica vazio; (c) ancorar no papel que o produto cumpre (escada de benefícios + 3Cs) e no impacto próximo do cliente antes de causas globais; (d) passar no teste de troca (frase não pode servir a concorrente) e no léxico proposito-generico; (e) nunca citar Stengel 50 ou números internos da Unilever como prova causal; (f) adoção interna e valores-como-comportamentos valem sempre, com ou sem propósito declarado. Quando trocar: marca nascida de uma causa, liderada por fundador e com modelo de negócio que a prova (tipo Patagonia) pode usar propósito como eixo central; categorias de alta expressão de identidade, varejo e público jovem dão mais peso ao propósito (Kantar), mas ainda com prova; bens de consumo de baixo envolvimento e B2B de commodity devem tratar propósito como interno ou dispensá-lo. No Brasil, onde as vozes locais mais influentes (Couto, Troiano) são pró-propósito, o agente deve apresentar a visão delas como 'propósito como prática e coerência', ponto em que convergem com os céticos.",
+      "stage": [
+        "plataforma",
+        "posicionamento",
+        "narrativa"
+      ],
+      "domain": [
+        "narrativa-proposito",
+        "ciencia-crescimento",
+        "cultura-interna"
+      ]
+    },
+    {
+      "id": "storybrand-formula-value",
+      "question": "Vale usar o StoryBrand (cliente herói, marca guia) como estrutura de mensagem?",
+      "positions": [
+        {
+          "school": "verbal",
+          "claim": "SB7 dá clareza, foca no cliente e cria uma mensagem central reutilizável em todos os canais.",
+          "evidence": "Framework de praticante amplamente adotado; sem estudo de eficácia independente encontrado.",
+          "sources": [
+            {
+              "id": "src-mann-storybrand-notes",
+              "paraphrase": "sete elementos e marca como guia"
+            },
+            {
+              "id": "src-stfo-storybrand-frustrating",
+              "paraphrase": "mérito da mensagem central reutilizável"
+            }
+          ]
+        },
+        {
+          "school": "pratica",
+          "claim": "O molde gera mensagens intercambiáveis, achata a voz, é transacional e falha em B2B com vários decisores e em conteúdo contínuo; o papel de guia não serve a todo negócio.",
+          "evidence": "Opinião de praticantes com exemplos; sem dados.",
+          "sources": [
+            {
+              "id": "src-column-storybrand-drawbacks-2025",
+              "paraphrase": "oito desvantagens"
+            },
+            {
+              "id": "src-stfo-storybrand-frustrating",
+              "paraphrase": "guia pretensioso; arco desajeitado no dia a dia"
+            }
+          ]
+        }
+      ],
+      "synthesis": "Ambos os lados concordam que colocar o cliente no centro e ter uma mensagem central clara é útil; o problema é tratar o molde como fonte de diferenciação.",
+      "systemStance": "Usar SB7 como esqueleto de páginas de venda e site em B2C e pequenas empresas, sempre depois do posicionamento, com voz própria e teste de troca contra concorrentes. Em B2B complexo, criar versões por decisor ou usar outro framework. Para negócios de serviço comum, usar o papel de fornecedor confiável em vez de guia.",
+      "stage": [
+        "narrativa",
+        "ativacao"
+      ],
+      "domain": [
+        "identidade-verbal",
+        "narrativa-proposito"
+      ]
+    },
+    {
+      "id": "mindshare-vs-cultural-branding",
+      "question": "Marcas se constroem disputando associações de benefício na mente (mindshare) ou encarnando ideologias que resolvem tensões culturais?",
+      "positions": [
+        {
+          "school": "cultural",
+          "claim": "Ícones não nascem de benefícios, personalidade ou relação emocional genérica, mas de mitos de identidade que resolvem contradições culturais; nas redes, quem produz cultura são as crowdcultures, e marcas devem defender ideologias delas.",
+          "evidence": "Análises históricas de casos (Nike, Harley, Budweiser, Mountain Dew, VW, Chipotle); dados de 2016 sobre fracasso de conteúdo de marca no YouTube.",
+          "sources": [
+            {
+              "id": "src-acawiki-holt-icon-2003",
+              "paraphrase": "mitos de identidade e contradições culturais"
+            },
+            {
+              "id": "src-melnick-holt-crowdculture-2016",
+              "paraphrase": "crowdcultures e cinco passos de branding cultural"
+            }
+          ]
+        },
+        {
+          "school": "posicionamento-diferenciacao",
+          "claim": "A promessa deve nascer do que o cliente quer e a empresa entrega melhor (3Cs), parando no degrau crível da escada; subir para ideologia sem lastro comoditiza.",
+          "evidence": "Opinião especializada e casos (Walmart).",
+          "sources": [
+            {
+              "id": "src-minimba-benefit-ladder-2025",
+              "paraphrase": "escada de benefícios e 3Cs"
+            }
+          ]
+        },
+        {
+          "school": "ehrenberg-bass",
+          "claim": "Crescimento vem de alcance, disponibilidade e distintividade; consumidores pouco conhecem os significados elevados que marcas declaram.",
+          "evidence": "Pesquisa de consciência de propósito (18% média, real abaixo de 10%).",
+          "sources": [
+            {
+              "id": "src-ebi-purpose-aware-to-care",
+              "paraphrase": "baixo conhecimento de propósitos"
+            }
+          ]
+        }
+      ],
+      "synthesis": "As escolas concordam que seguir tendências genéricas e prometer significado sem lastro não funciona. Diferem sobre quanto a ideologia cultural move a escolha em massa.",
+      "systemStance": "Padrão: posicionamento por benefício crível + ativos distintivos. Ativar o modo cultural (Holt) quando a categoria for de expressão de identidade (moda, bebida, esporte, música, vida noturna), a marca for desafiante e houver uma comunidade real com ideologia alternativa que a operação consiga sustentar. Mesmo então, manter alcance e distintividade.",
+      "stage": [
+        "posicionamento",
+        "narrativa"
+      ],
+      "domain": [
+        "posicionamento",
+        "narrativa-proposito"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "case-unilever-purpose-terry-smith-2022",
+      "brand": "Unilever (Hellmann's, Lux, Ben & Jerry's)",
+      "year": 2022,
+      "agency": "",
+      "sector": "bens de consumo",
+      "market": "global",
+      "type": "reposicionamento",
+      "challenge": "Defender perante investidores uma estratégia de portfólio guiada por propósito em meio a desempenho fraco em bolsa.",
+      "insight": "A Unilever leu que marcas de alto propósito cresciam mais; o investidor Terry Smith leu correlação sem causa e distração do básico.",
+      "strategy": "Atribuir propósitos sociais a marcas de massa (Hellmann's contra desperdício de comida, Lux contra julgamentos sexistas).",
+      "execution": "Comunicação de propósito por marca e classificação interna alto x baixo propósito.",
+      "results": [
+        {
+          "metric": "crescimento de vendas subjacente 2021, marcas de alto x baixo propósito",
+          "value": "6,1% x 0,2%",
+          "independent": false,
+          "source": "src-mw-unilever-purpose-terry-smith-2023"
+        },
+        {
+          "metric": "ROI de mídia de propósito bem feito",
+          "value": "+20%",
+          "independent": false,
+          "source": "src-mw-unilever-purpose-terry-smith-2023"
+        },
+        {
+          "metric": "posição no fundo Fundsmith 2021",
+          "value": "entre as cinco piores do fundo",
+          "independent": true,
+          "source": "src-drum-terry-smith-unilever-2022"
+        }
+      ],
+      "lessons": [
+        "Dados internos de classificação de propósito não provam causalidade",
+        "Propósito em marca de uso funcional (maionese, sabonete) soa forçado se não muda o produto",
+        "Até o defensor admite que valor e produto vêm antes"
+      ],
+      "principles": [
+        "purpose-skepticism",
+        "benefit-ladder-reasonable-reach",
+        "purpose-must-be-operational"
+      ],
+      "sources": [
+        {
+          "id": "src-mw-unilever-purpose-terry-smith-2023",
+          "paraphrase": "embate Smith x Jope com dados de ambos os lados"
+        },
+        {
+          "id": "src-drum-terry-smith-unilever-2022",
+          "paraphrase": "crítica a Hellmann's e obsessão por credenciais"
+        }
+      ]
+    },
+    {
+      "id": "case-stengel-50-grow-2011",
+      "brand": "Stengel 50 (estudo com Millward Brown)",
+      "year": 2011,
+      "agency": "Millward Brown / Jim Stengel",
+      "sector": "multissetor",
+      "market": "global",
+      "type": "fracasso",
+      "challenge": "Provar que ideais de marca geram crescimento superior.",
+      "insight": "As 50 marcas com mais vínculo emocional/ideal teriam superado o mercado.",
+      "strategy": "Selecionar as marcas do topo de uma base de 50 mil e comparar retorno com o S&P 500.",
+      "execution": "Livro Grow e ampla divulgação, com endosso de líderes do setor.",
+      "results": [
+        {
+          "metric": "retorno das 50 x S&P 500 (2000-2011)",
+          "value": "~382-393% x queda de 7-8%",
+          "independent": false,
+          "source": "src-shotton-bsi-purpose-wishful-thinking-2019"
+        },
+        {
+          "metric": "empresas do estudo que bateram o S&P 500 nos 5 anos seguintes (reanálise)",
+          "value": "9 de 26 (acaso esperaria ~13)",
+          "independent": true,
+          "source": "src-shotton-bsi-purpose-wishful-thinking-2019"
+        }
+      ],
+      "lessons": [
+        "Estudar só vencedores (viés de sobrevivência) não prova causa",
+        "Ideais muito amplos viram descrição de categoria",
+        "Não usar como prova causal em material de cliente"
+      ],
+      "principles": [
+        "purpose-skepticism",
+        "brand-ideal-drives-growth"
+      ],
+      "sources": [
+        {
+          "id": "src-shotton-bsi-purpose-wishful-thinking-2019",
+          "paraphrase": "quatro testes que o estudo não passa"
+        },
+        {
+          "id": "src-sb-stengel-grow-review-2012",
+          "paraphrase": "apresentação favorável do estudo"
+        },
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "paraphrase": "números do estudo e crítica de Sharp"
+        }
+      ]
+    },
+    {
+      "id": "case-heineken-open-your-world-2017",
+      "brand": "Heineken",
+      "year": 2017,
+      "agency": "",
+      "sector": "bebidas",
+      "market": "global",
+      "type": "fracasso",
+      "challenge": "Dar significado elevado à marca de cerveja.",
+      "insight": "Pessoas de lados opostos poderiam se entender conversando.",
+      "strategy": "Filme de ~4 minutos sugerindo que a cerveja une lados políticos opostos.",
+      "execution": "Campanha 'Open Your World'.",
+      "results": [],
+      "lessons": [
+        "Propósito acima do papel do produto perde credibilidade",
+        "Críticos leem isso como marketing que parou de vender"
+      ],
+      "principles": [
+        "benefit-ladder-reasonable-reach"
+      ],
+      "sources": [
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "paraphrase": "exemplo de propósito não crível; cerveja não une lados opostos"
+        }
+      ]
+    },
+    {
+      "id": "case-pepsi-kendall-jenner-2017",
+      "brand": "Pepsi",
+      "year": 2017,
+      "agency": "",
+      "sector": "bebidas",
+      "market": "EUA/global",
+      "type": "fracasso",
+      "challenge": "Associar a marca a união e protesto social.",
+      "insight": "",
+      "strategy": "Comercial em que uma celebridade rica resolve um protesto oferecendo uma lata de Pepsi.",
+      "execution": "Imagética inspirada em protestos do Black Lives Matter.",
+      "results": [
+        {
+          "metric": "tempo no ar",
+          "value": "retirado após cerca de um dia de críticas",
+          "independent": true,
+          "source": "src-murrell-pitfalls-of-purpose"
+        }
+      ],
+      "lessons": [
+        "Trivializar tema culturalmente sensível destrói a marca",
+        "Sem legitimidade, causa vira apropriação"
+      ],
+      "principles": [
+        "purpose-must-be-operational"
+      ],
+      "sources": [
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "paraphrase": "exemplo da armadilha de não ser considerado"
+        }
+      ]
+    },
+    {
+      "id": "case-state-street-fearless-girl-2017",
+      "brand": "State Street Global Advisors",
+      "year": 2017,
+      "agency": "McCann New York",
+      "sector": "serviços financeiros",
+      "market": "EUA",
+      "type": "fracasso",
+      "challenge": "Promover fundo de diversidade de gênero.",
+      "insight": "Símbolo de coragem feminina diante do touro de Wall Street.",
+      "strategy": "Estátua Fearless Girl, muito premiada.",
+      "execution": "Instalação pública em março de 2017.",
+      "results": [
+        {
+          "metric": "acordo por discriminação salarial 7 meses depois",
+          "value": "US$ 5 milhões a mais de 300 mulheres",
+          "independent": true,
+          "source": "src-murrell-pitfalls-of-purpose"
+        }
+      ],
+      "lessons": [
+        "Prática interna contradizendo a mensagem anula o propósito",
+        "Prêmio criativo não equivale a compromisso"
+      ],
+      "principles": [
+        "purpose-must-be-operational",
+        "internal-adoption"
+      ],
+      "sources": [
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "paraphrase": "exemplo da armadilha de não ser comprometido"
+        }
+      ]
+    },
+    {
+      "id": "case-starbucks-race-together-2015",
+      "brand": "Starbucks",
+      "year": 2015,
+      "agency": "",
+      "sector": "food service",
+      "market": "EUA",
+      "type": "fracasso",
+      "challenge": "Traduzir a missão de inspirar o espírito humano em ação.",
+      "insight": "",
+      "strategy": "#RaceTogether: baristas puxando conversa sobre relações raciais com clientes.",
+      "execution": "Iniciativa em lojas.",
+      "results": [],
+      "lessons": [
+        "Visão inflada gera tática inflada",
+        "Ritson aponta incoerência entre discurso de comunidade e minimização de impostos"
+      ],
+      "principles": [
+        "benefit-ladder-reasonable-reach",
+        "purpose-must-be-operational"
+      ],
+      "sources": [
+        {
+          "id": "src-ritson-mw-inane-visions-2015",
+          "paraphrase": "#RaceTogether como tática resultante de visão inflada"
+        },
+        {
+          "id": "src-mi3-ritson-purpose-practice-2021",
+          "paraphrase": "Starbucks fala de comunidade e minimiza impostos"
+        }
+      ]
+    },
+    {
+      "id": "case-patagonia-purpose",
+      "brand": "Patagonia",
+      "year": 2018,
+      "agency": "",
+      "sector": "vestuário outdoor",
+      "market": "global",
+      "type": "reposicionamento",
+      "challenge": "Marca nascida de uma causa ambiental crescendo sem diluí-la.",
+      "insight": "Produto durável e causa ambiental são o mesmo modelo de negócio.",
+      "strategy": "Propósito embutido em produto, operação e doações, não só em publicidade.",
+      "execution": "1% das vendas para causas ambientais desde 1985; anúncio pedindo para consertar em vez de comprar (2011); 100% das vendas da Black Friday 2016 doadas; economia fiscal de US$ 10 mi doada em 2018.",
+      "results": [
+        {
+          "metric": "vendas",
+          "value": "quadruplicaram em uma década, acima de US$ 1 bi (segundo Time, citado)",
+          "independent": false,
+          "source": "src-murrell-pitfalls-of-purpose"
+        }
+      ],
+      "lessons": [
+        "Caso raro aceito até por céticos: propósito com prova e custo",
+        "Mesmo assim há contestação: Asbury aponta influência política e economia de impostos na transferência da empresa"
+      ],
+      "principles": [
+        "purpose-must-be-operational"
+      ],
+      "sources": [
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "paraphrase": "exemplo positivo de propósito comprometido"
+        },
+        {
+          "id": "src-asbury-stengel-purpose-autopsy-2025",
+          "paraphrase": "contraponto sobre a transferência da empresa"
+        },
+        {
+          "id": "src-roach-truth-lies-brand-purpose-2020",
+          "paraphrase": "exemplo de marca nascida com propósito"
+        }
+      ]
+    },
+    {
+      "id": "case-chipotle-scarecrow",
+      "brand": "Chipotle",
+      "year": 2013,
+      "agency": "CAA",
+      "sector": "food service",
+      "market": "EUA",
+      "type": "reposicionamento",
+      "challenge": "Diferenciar fast-food numa categoria industrial.",
+      "insight": "Dúvidas crescentes de nicho sobre segurança e valor da comida industrial.",
+      "strategy": "Assumir a ideologia contra a comida industrial (crowdculture) com filmes como Back to the Start e Scarecrow.",
+      "execution": "Filmes animados e jogo; postura anti-transgênicos.",
+      "results": [
+        {
+          "metric": "equity de marca",
+          "value": "subiu e levou o tema ao mainstream (segundo Holt)",
+          "independent": false,
+          "source": "src-rkconnect-holt-cultural-branding"
+        }
+      ],
+      "lessons": [
+        "Ideologia cultural forte gera significado",
+        "Quando a operação falha no próprio discurso (surtos de E. coli e norovírus), o dano é maior"
+      ],
+      "principles": [
+        "cultural-tension-identity-myth",
+        "purpose-must-be-operational"
+      ],
+      "sources": [
+        {
+          "id": "src-melnick-holt-crowdculture-2016",
+          "paraphrase": "branding cultural e crowdcultures"
+        },
+        {
+          "id": "src-rkconnect-holt-cultural-branding",
+          "paraphrase": "Chipotle elevou equity com filmes contra comida industrial e depois sofreu com surtos"
+        }
+      ]
+    },
+    {
+      "id": "case-enron-values-2000",
+      "brand": "Enron",
+      "year": 2000,
+      "agency": "",
+      "sector": "energia",
+      "market": "EUA",
+      "type": "fracasso",
+      "challenge": "",
+      "insight": "",
+      "strategy": "Lista de valores publicada no relatório anual: comunicação, respeito, integridade, excelência.",
+      "execution": "",
+      "results": [],
+      "lessons": [
+        "Valores genéricos não dizem nada sobre comportamento",
+        "Valores sem prática geram cinismo"
+      ],
+      "principles": [
+        "values-as-behaviours"
+      ],
+      "sources": [
+        {
+          "id": "src-lencioni-values-hbr-2002",
+          "paraphrase": "abertura do artigo com os valores da Enron"
+        }
+      ]
+    },
+    {
+      "id": "case-siebel-professionalism-values",
+      "brand": "Siebel Systems",
+      "year": 2002,
+      "agency": "",
+      "sector": "software",
+      "market": "EUA",
+      "type": "reposicionamento",
+      "challenge": "Ter cultura distinta no Vale do Silício.",
+      "insight": "Ir contra a cultura informal do setor.",
+      "strategy": "Profissionalismo e satisfação do cliente como valores centrais, embutidos em regras e remuneração.",
+      "execution": "Proibido comer na mesa; salas com nomes de clientes; arte dos relatórios de clientes nas paredes; bônus por pesquisa de satisfação feita por auditor externo.",
+      "results": [],
+      "lessons": [
+        "Valor contracultural diferencia mais que valor simpático",
+        "Valor vira real quando entra em regras, espaço e remuneração"
+      ],
+      "principles": [
+        "values-as-behaviours",
+        "internal-adoption"
+      ],
+      "sources": [
+        {
+          "id": "src-lencioni-values-hbr-2002",
+          "paraphrase": "exemplo de autenticidade agressiva e valores embutidos"
+        }
+      ]
+    },
+    {
+      "id": "case-walmart-save-money-live-better",
+      "brand": "Walmart",
+      "year": 2007,
+      "agency": "",
+      "sector": "varejo",
+      "market": "EUA",
+      "type": "reposicionamento",
+      "challenge": "Reverter queda de vendas em meados dos anos 2000.",
+      "insight": "Preço baixo importa pelo que o dinheiro economizado permite.",
+      "strategy": "Subir de atributo (sempre preço baixo) para benefício (Save money. Live better.) e depois emoção (tempo em família), sem subir a propósito sociocultural.",
+      "execution": "Slogan e campanhas como Road Trip.",
+      "results": [],
+      "lessons": [
+        "Parar no degrau crível da escada pode ser a escolha mais forte"
+      ],
+      "principles": [
+        "benefit-ladder-reasonable-reach"
+      ],
+      "sources": [
+        {
+          "id": "src-minimba-benefit-ladder-2025",
+          "paraphrase": "exemplo de subir a escada sem chegar ao propósito"
+        }
+      ]
+    }
+  ],
+  "antipatterns": [
+    {
+      "id": "purpose-washing-trend-cause",
+      "name": "Propósito da moda (purpose-washing)",
+      "description": "Propósito escolhido porque o tema está em alta, sem ligação com produto ou histórico da empresa.",
+      "signals": [
+        "Causa adotada no mesmo ano em que virou tendência",
+        "Nenhuma decisão de produto ou operação mudou",
+        "Propósito definido a partir de social listening",
+        "Comunicação de causa concentrada em datas comemorativas"
+      ],
+      "whyBad": "Consumidores percebem e desconfiam (só 43% acreditam que marcas vivem o propósito); pseudo-propósito é o tipo com menor chance de gerar valor.",
+      "fix": "Abandonar a causa ou trocar por provas de impacto ligadas ao produto e à operação; se não houver, usar benefício.",
+      "domain": [
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "plataforma",
+        "narrativa"
+      ],
+      "sources": [
+        {
+          "id": "src-campaign-razorfish-vice-purpose-washing-2021",
+          "paraphrase": "propósito escolhido pela tendência é sinal de washing"
+        },
+        {
+          "id": "src-roach-truth-lies-brand-purpose-2020",
+          "paraphrase": "pseudo-propósito nasce no marketing via social listening"
+        }
+      ]
+    },
+    {
+      "id": "manifesto-first-purpose",
+      "name": "Propósito que nasce como manifesto",
+      "description": "Escreve-se um manifesto inspirador, testa-se a reação do consumidor e só depois procura-se o que a empresa faz.",
+      "signals": [
+        "Manifesto existe antes de provas e plano de ação",
+        "Teste de propósito feito com consumidores, não com a operação",
+        "Texto cheio de “nós acreditamos”"
+      ],
+      "whyBad": "Inverte a ordem: o texto vira promessa sem lastro e é apontado como sinal de purpose-washing.",
+      "fix": "Começar por decisões e práticas reais; escrever o manifesto por último, curto, com provas.",
+      "domain": [
+        "narrativa-proposito",
+        "identidade-verbal"
+      ],
+      "stage": [
+        "narrativa"
+      ],
+      "sources": [
+        {
+          "id": "src-campaign-razorfish-vice-purpose-washing-2021",
+          "paraphrase": "manifesto testado no consumidor como sinal de washing"
+        },
+        {
+          "id": "src-procopywriters-brand-manifesto-2019",
+          "paraphrase": "mostrar em vez de declarar crença"
+        }
+      ]
+    },
+    {
+      "id": "benefit-ladder-overreach",
+      "name": "Propósito descolado do produto",
+      "description": "A marca salta para uma missão grandiosa que o produto não sustenta (cerveja que une polos políticos, maionese contra o desperdício, cartão de crédito que traz felicidade).",
+      "signals": [
+        "A frase de propósito não menciona nada que o produto faz",
+        "Trocando o nome da marca, a frase serve a concorrentes ou a outra categoria",
+        "Palavras como felicidade, otimismo, potencial humano, mudar o mundo"
+      ],
+      "whyBad": "Perde credibilidade, gera táticas infladas e comoditiza, porque todos no topo da escada dizem o mesmo.",
+      "fix": "Descer a escada até o degrau provado pelo produto e validar nos 3Cs.",
+      "domain": [
+        "narrativa-proposito",
+        "posicionamento"
+      ],
+      "stage": [
+        "posicionamento",
+        "plataforma"
+      ],
+      "sources": [
+        {
+          "id": "src-ritson-mw-inane-visions-2015",
+          "paraphrase": "visões infladas e intercambiáveis"
+        },
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "paraphrase": "Heineken como propósito não crível"
+        },
+        {
+          "id": "src-minimba-benefit-ladder-2025",
+          "paraphrase": "topo da escada gera promessas genéricas"
+        }
+      ]
+    },
+    {
+      "id": "say-do-gap",
+      "name": "Lacuna entre discurso e prática",
+      "description": "A marca comunica uma causa que suas próprias práticas contradizem (diversidade com discriminação salarial, comunidade com elisão fiscal).",
+      "signals": [
+        "Processos trabalhistas, fiscais ou ambientais ligados ao tema da causa",
+        "Campanha premiada sem mudança interna",
+        "Funcionários não reconhecem o propósito"
+      ],
+      "whyBad": "A contradição vira notícia e transforma propósito em prova de hipocrisia.",
+      "fix": "Auditar práticas internas contra o propósito antes de comunicar; corrigir ou desistir da causa.",
+      "domain": [
+        "narrativa-proposito",
+        "cultura-interna"
+      ],
+      "stage": [
+        "diagnostico",
+        "ativacao"
+      ],
+      "sources": [
+        {
+          "id": "src-mi3-ritson-purpose-practice-2021",
+          "paraphrase": "teste dos impostos e prática interna"
+        },
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "paraphrase": "State Street e falta de compromisso"
+        },
+        {
+          "id": "src-gallup-few-believe-values-2016",
+          "paraphrase": "lacuna entre cultura declarada e vivida"
+        }
+      ]
+    },
+    {
+      "id": "trivializing-cultural-causes",
+      "name": "Banalizar tema culturalmente sensível",
+      "description": "Usar movimentos sociais, protestos ou dores coletivas como cenário para o produto.",
+      "signals": [
+        "Produto apresentado como solução de conflito social",
+        "Imagética de movimentos sem envolvimento real com eles",
+        "Celebridade ocupando o lugar de quem vive a causa"
+      ],
+      "whyBad": "Gera reação imediata e dano de reputação (Pepsi retirou o filme em um dia).",
+      "fix": "Só tratar temas sensíveis com legitimidade histórica, participação das comunidades e ação concreta.",
+      "domain": [
+        "narrativa-proposito",
+        "ativacao-eficacia"
+      ],
+      "stage": [
+        "narrativa",
+        "ativacao"
+      ],
+      "sources": [
+        {
+          "id": "src-murrell-pitfalls-of-purpose",
+          "paraphrase": "Pepsi como falta de consideração"
+        }
+      ]
+    },
+    {
+      "id": "purpose-correlation-as-causation",
+      "name": "Vender propósito com correlação",
+      "description": "Apresentar dados de que marcas com propósito crescem mais como prova de que o propósito causa crescimento.",
+      "signals": [
+        "Citação do Stengel 50 ou de números internos da Unilever como prova",
+        "Estudos só com marcas vencedoras",
+        "Ausência de grupo de controle"
+      ],
+      "whyBad": "Engana o cliente e desvia investimento de alavancas comprovadas.",
+      "fix": "Classificar a evidência pelos testes de Shotton e apresentar propósito como escolha de identidade, não de crescimento.",
+      "domain": [
+        "equity-medicao",
+        "narrativa-proposito"
+      ],
+      "stage": [
+        "diagnostico",
+        "plataforma"
+      ],
+      "sources": [
+        {
+          "id": "src-shotton-bsi-purpose-wishful-thinking-2019",
+          "paraphrase": "Stengel 50 falha nos testes"
+        },
+        {
+          "id": "src-mw-unilever-purpose-terry-smith-2023",
+          "paraphrase": "correlação confundida com causa"
+        }
+      ]
+    },
+    {
+      "id": "empty-adjective-values",
+      "name": "Valores de adjetivos vazios",
+      "description": "Lista de valores com palavras que qualquer empresa usaria: integridade, excelência, inovação, respeito, trabalho em equipe, foco no cliente.",
+      "signals": [
+        "Valores de uma palavra só, sem comportamento",
+        "Mesmos valores de concorrentes",
+        "Nenhum valor que alguém possa discordar"
+      ],
+      "whyBad": "Não guiam comportamento, não diferenciam e geram cinismo (Enron tinha integridade e respeito na lista).",
+      "fix": "Reescrever como comportamentos específicos, com exemplos e consequências, e manter só os centrais.",
+      "domain": [
+        "cultura-interna",
+        "identidade-verbal"
+      ],
+      "stage": [
+        "plataforma",
+        "voz"
+      ],
+      "sources": [
+        {
+          "id": "src-lencioni-values-hbr-2002",
+          "paraphrase": "valores genéricos e o caso Enron; 55% das Fortune 100 citam integridade"
+        }
+      ]
+    },
+    {
+      "id": "permission-to-play-as-core-value",
+      "name": "Mínimo obrigatório vendido como valor central",
+      "description": "Colocar como valor diferenciador algo que toda empresa precisa ter (honestidade, ética, cumprir a lei) ou algo que ainda não existe (aspiração).",
+      "signals": [
+        "Valor justificado por regras que todo o setor tem",
+        "Valor que descreve o que a empresa ainda não é",
+        "Líder admite que o valor falta na equipe"
+      ],
+      "whyBad": "Confunde funcionários e soa fora da realidade.",
+      "fix": "Mover mínimos para código de conduta e aspirações para plano de desenvolvimento.",
+      "domain": [
+        "cultura-interna"
+      ],
+      "stage": [
+        "plataforma"
+      ],
+      "sources": [
+        {
+          "id": "src-lencioni-values-hbr-2002",
+          "paraphrase": "senso de urgência como aspiração e integridade como mínimo"
+        }
+      ]
+    },
+    {
+      "id": "values-by-consensus",
+      "name": "Valores definidos por consenso amplo",
+      "description": "RH conduz pesquisas e assembleias para todos sugerirem valores e a lista final é a média.",
+      "signals": [
+        "Valores escolhidos por votação",
+        "CEO não participou ou desmente depois",
+        "Lista longa e conciliatória"
+      ],
+      "whyBad": "Gera valores mornos que a liderança não sustenta; a lacuna entre falar e fazer afasta pessoas.",
+      "fix": "Grupo pequeno com CEO e fundadores define; funcionários-chave testam como funciona na prática.",
+      "domain": [
+        "cultura-interna",
+        "gestao-governanca"
+      ],
+      "stage": [
+        "plataforma"
+      ],
+      "sources": [
+        {
+          "id": "src-lencioni-values-hbr-2002",
+          "paraphrase": "valores não são consenso; caso do CEO que desmentiu colaboração"
+        }
+      ]
+    },
+    {
+      "id": "purpose-as-ad-campaign",
+      "name": "Propósito entregue só por publicidade",
+      "description": "O propósito vive em filmes e posts, não em produto, preço, atendimento ou pessoas.",
+      "signals": [
+        "Orçamento de propósito todo em mídia",
+        "Nenhuma meta operacional associada",
+        "Propósito muda a cada campanha"
+      ],
+      "whyBad": "É o tipo menos provável de gerar valor e alimenta a desconfiança na publicidade.",
+      "fix": "Converter o propósito em decisões operacionais com metas; comunicar só o que já foi feito.",
+      "domain": [
+        "narrativa-proposito",
+        "ativacao-eficacia"
+      ],
+      "stage": [
+        "ativacao"
+      ],
+      "sources": [
+        {
+          "id": "src-roach-truth-lies-brand-purpose-2020",
+          "paraphrase": "pseudo-propósito como campanha"
+        }
+      ]
+    },
+    {
+      "id": "we-believe-manifesto",
+      "name": "Manifesto de “nós acreditamos”",
+      "description": "Manifesto longo feito de declarações de crença e paixão, sem problema nomeado nem prova.",
+      "signals": [
+        "Mais de metade das frases começam com “acreditamos” ou “somos apaixonados”",
+        "Mais de 300 palavras",
+        "Nenhum fato verificável",
+        "Ritmo repetitivo que beira paródia"
+      ],
+      "whyBad": "Soa vazio, ninguém lê e pode servir a qualquer marca.",
+      "fix": "Nomear o problema, a meta e 2 ou 3 provas em até ~100 palavras; mostrar paixão pelo estilo.",
+      "domain": [
+        "identidade-verbal"
+      ],
+      "stage": [
+        "narrativa",
+        "voz"
+      ],
+      "sources": [
+        {
+          "id": "src-procopywriters-brand-manifesto-2019",
+          "paraphrase": "evitar “we believe”, mostrar paixão, ser curto"
+        }
+      ]
+    },
+    {
+      "id": "storybrand-template-sameness",
+      "name": "Mensagem de molde StoryBrand igual à da concorrência",
+      "description": "Site e copy seguem o SB7 à risca e ficam iguais aos de concorrentes que usam o mesmo molde.",
+      "signals": [
+        "Cabeçalho no formato problema + plano em 3 passos idêntico a concorrentes",
+        "Voz polida e neutra",
+        "Marca se apresenta como guia sem nenhuma diferenciação"
+      ],
+      "whyBad": "Clareza sem diferenciação; o molde não substitui posicionamento.",
+      "fix": "Usar o SB7 só como esqueleto e injetar ponto de vista, voz e provas próprias.",
+      "domain": [
+        "identidade-verbal"
+      ],
+      "stage": [
+        "narrativa"
+      ],
+      "sources": [
+        {
+          "id": "src-column-storybrand-drawbacks-2025",
+          "paraphrase": "molde comum gera mensagens intercambiáveis"
+        }
+      ]
+    },
+    {
+      "id": "trend-list-cultural-branding",
+      "name": "Cultura de lista de tendências",
+      "description": "Narrativa construída a partir de relatórios de tendência genéricos em vez de pesquisa cultural própria.",
+      "signals": [
+        "Briefing cita macrotendências de relatório comum",
+        "Mesmos temas que concorrentes adotaram no ano",
+        "Nenhuma comunidade real identificada"
+      ],
+      "whyBad": "Holt: seguir tendências compartilhadas vira commodity e o público ignora.",
+      "fix": "Mapear ortodoxia da categoria e comunidades com ideologia alternativa real.",
+      "domain": [
+        "narrativa-proposito",
+        "posicionamento"
+      ],
+      "stage": [
+        "paisagem",
+        "narrativa"
+      ],
+      "sources": [
+        {
+          "id": "src-melnick-holt-crowdculture-2016",
+          "paraphrase": "seguir listas de tendências vira commodity"
+        }
+      ]
+    }
+  ],
+  "lexicon": [
+    {
+      "term": "fazer do mundo um lugar melhor",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "diga o que concretamente muda, para quem e com que prova",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015",
+        "src-minimba-benefit-ladder-2025"
+      ]
+    },
+    {
+      "term": "transformar o mundo",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "nomeie a transformação mensurável que o produto gera",
+      "sources": [
+        "src-minimba-benefit-ladder-2025"
+      ]
+    },
+    {
+      "term": "mudar o mundo",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "comece pelo que muda na vida do cliente (mudar o meu mundo) e mostre a prova",
+      "sources": [
+        "src-edelman-change-my-world-2025"
+      ]
+    },
+    {
+      "term": "fazer a diferença",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "diga qual diferença, medida em quê",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "inspirar pessoas",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "descreva o que as pessoas passam a fazer por causa da marca",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015",
+        "src-sinek-ted-golden-circle-2009"
+      ]
+    },
+    {
+      "term": "conectar pessoas",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "explique quem se conecta com quem, para fazer o quê, e por que só essa marca",
+      "sources": [
+        "src-minimba-benefit-ladder-2025"
+      ]
+    },
+    {
+      "term": "liberar o potencial humano",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "diga a tarefa que o produto facilita e quanto tempo ou dinheiro poupa",
+      "sources": [
+        "src-minimba-benefit-ladder-2025"
+      ]
+    },
+    {
+      "term": "despertar o melhor de cada um",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "troque por um comportamento observável que o produto possibilita",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "levar felicidade",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "descreva o momento de uso real e o benefício sentido",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "inspirar momentos de otimismo",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "mostre o benefício concreto do produto naquele momento",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "construir um futuro melhor",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "liste a meta, o prazo e o que já foi feito",
+      "sources": [
+        "src-campaign-razorfish-vice-purpose-washing-2021"
+      ]
+    },
+    {
+      "term": "impactar positivamente a sociedade",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "diga qual impacto, onde, medido como, e o que a empresa abriu mão para isso",
+      "sources": [
+        "src-asbury-stengel-purpose-autopsy-2025",
+        "src-murrell-pitfalls-of-purpose"
+      ]
+    },
+    {
+      "term": "gerar impacto positivo",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "troque por um número ou ação verificável",
+      "sources": [
+        "src-campaign-razorfish-vice-purpose-washing-2021"
+      ]
+    },
+    {
+      "term": "transformar vidas",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "conte uma mudança concreta na vida de um cliente real",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "mais do que uma marca, um movimento",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "mostre a comunidade real e o que ela faz; se não existe, não diga",
+      "sources": [
+        "src-melnick-holt-crowdculture-2016"
+      ]
+    },
+    {
+      "term": "acreditamos em um mundo onde",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "manifesto",
+      "replacement": "nomeie o problema que a marca combate e uma ação já feita",
+      "sources": [
+        "src-procopywriters-brand-manifesto-2019"
+      ]
+    },
+    {
+      "term": "nós acreditamos",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "manifesto",
+      "replacement": "substitua a crença por uma ação ou decisão que a prova",
+      "sources": [
+        "src-procopywriters-brand-manifesto-2019"
+      ]
+    },
+    {
+      "term": "somos apaixonados por",
+      "lang": "pt",
+      "kind": "cliche",
+      "category": "manifesto",
+      "replacement": "mostre a paixão com um fato (horas, testes, recusas)",
+      "sources": [
+        "src-procopywriters-brand-manifesto-2019"
+      ]
+    },
+    {
+      "term": "empoderar pessoas",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "diga qual poder concreto a pessoa ganha (acesso, preço, habilidade)",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "democratizar o acesso",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "se significa preço menor, diga o preço e a comparação",
+      "sources": [
+        "src-asbury-stengel-purpose-autopsy-2025"
+      ]
+    },
+    {
+      "term": "unir pessoas",
+      "lang": "pt",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "verifique se o produto realmente une alguém; se não, desça na escada de benefícios",
+      "sources": [
+        "src-murrell-pitfalls-of-purpose"
+      ]
+    },
+    {
+      "term": "ressignificar",
+      "lang": "pt",
+      "kind": "jargao",
+      "category": "proposito",
+      "replacement": "diga qual significado muda, de quê para quê",
+      "sources": [
+        "src-mm-ana-couto-branding-valor-2023"
+      ]
+    },
+    {
+      "term": "marca com propósito",
+      "lang": "pt",
+      "kind": "jargao",
+      "category": "proposito",
+      "replacement": "descreva as decisões que o propósito orienta",
+      "sources": [
+        "src-roach-truth-lies-brand-purpose-2020"
+      ]
+    },
+    {
+      "term": "integridade",
+      "lang": "pt",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "escreva o comportamento: o que fazemos quando ninguém vê, com exemplo da casa",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "excelência",
+      "lang": "pt",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "defina o padrão mensurável e quem o cobra",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "respeito",
+      "lang": "pt",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "descreva o comportamento esperado e o que não toleramos",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "inovação",
+      "lang": "pt",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "diga que risco a empresa aceita e como mede tentativas",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "trabalho em equipe",
+      "lang": "pt",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "descreva como decisões e créditos são compartilhados, com exemplo",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "foco no cliente",
+      "lang": "pt",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "diga a política concreta (troca sem perguntas, bônus por satisfação auditada)",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "qualidade",
+      "lang": "pt",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "dê o critério, o teste e o número",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "make the world a better place",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "say what concretely changes, for whom, with proof",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015",
+        "src-minimba-benefit-ladder-2025"
+      ]
+    },
+    {
+      "term": "change the world",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "start with how the product changes the customer's own world",
+      "sources": [
+        "src-edelman-change-my-world-2025"
+      ]
+    },
+    {
+      "term": "make a difference",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "name the difference and how it is measured",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "inspire people",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "describe what people actually do because of the brand",
+      "sources": [
+        "src-sinek-ted-golden-circle-2009"
+      ]
+    },
+    {
+      "term": "connecting people",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "say who connects with whom, to do what, and why only this brand",
+      "sources": [
+        "src-minimba-benefit-ladder-2025"
+      ]
+    },
+    {
+      "term": "unleash human potential",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "name the task the product makes easier and the time or money saved",
+      "sources": [
+        "src-minimba-benefit-ladder-2025"
+      ]
+    },
+    {
+      "term": "inspire the human spirit",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "describe the real usage moment and its benefit",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "inspire moments of optimism",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "show the concrete benefit in that moment",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "refresh the world",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "stay on the rung the product can prove",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "bring people together",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "check the product really does this; otherwise step down the benefit ladder",
+      "sources": [
+        "src-murrell-pitfalls-of-purpose"
+      ]
+    },
+    {
+      "term": "empower people",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "say what specific power the person gains (access, price, skill)",
+      "sources": [
+        "src-ritson-mw-inane-visions-2015"
+      ]
+    },
+    {
+      "term": "democratize",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "if it means cheaper, state the price and comparison",
+      "sources": [
+        "src-asbury-stengel-purpose-autopsy-2025"
+      ]
+    },
+    {
+      "term": "a force for good",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "list the verified actions and their cost to the company",
+      "sources": [
+        "src-mi3-ritson-purpose-practice-2021"
+      ]
+    },
+    {
+      "term": "do well by doing good",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "separate the commercial claim from the impact claim and evidence each",
+      "sources": [
+        "src-asbury-stengel-purpose-autopsy-2025"
+      ]
+    },
+    {
+      "term": "more than a brand",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "show the community or practice that makes it more; if none, cut",
+      "sources": [
+        "src-melnick-holt-crowdculture-2016"
+      ]
+    },
+    {
+      "term": "positive impact",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "proposito",
+      "replacement": "replace with a number or verifiable action",
+      "sources": [
+        "src-campaign-razorfish-vice-purpose-washing-2021"
+      ]
+    },
+    {
+      "term": "purpose-driven",
+      "lang": "en",
+      "kind": "jargao",
+      "category": "proposito",
+      "replacement": "describe the decisions purpose actually drives",
+      "sources": [
+        "src-roach-truth-lies-brand-purpose-2020"
+      ]
+    },
+    {
+      "term": "we believe in a world where",
+      "lang": "en",
+      "kind": "proposito-generico",
+      "category": "manifesto",
+      "replacement": "name the problem the brand fights and one action already taken",
+      "sources": [
+        "src-procopywriters-brand-manifesto-2019"
+      ]
+    },
+    {
+      "term": "we believe",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "manifesto",
+      "replacement": "replace belief with an action or decision that proves it",
+      "sources": [
+        "src-procopywriters-brand-manifesto-2019"
+      ]
+    },
+    {
+      "term": "we're passionate about",
+      "lang": "en",
+      "kind": "cliche",
+      "category": "manifesto",
+      "replacement": "show passion with a fact (hours, tests, refusals)",
+      "sources": [
+        "src-procopywriters-brand-manifesto-2019"
+      ]
+    },
+    {
+      "term": "integrity",
+      "lang": "en",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "write the behaviour with an in-house example",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "excellence",
+      "lang": "en",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "define the measurable standard and who enforces it",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "innovation",
+      "lang": "en",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "say what risk the company accepts and how attempts are judged",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "teamwork",
+      "lang": "en",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "describe how decisions and credit are shared, with an example",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "customer satisfaction",
+      "lang": "en",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "state the concrete policy behind it",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    },
+    {
+      "term": "respect",
+      "lang": "en",
+      "kind": "adjetivo-vazio",
+      "category": "valores",
+      "replacement": "describe expected behaviour and what is not tolerated",
+      "sources": [
+        "src-lencioni-values-hbr-2002"
+      ]
+    }
+  ]
+}

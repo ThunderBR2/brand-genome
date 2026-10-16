@@ -1,0 +1,22 @@
+{
+ "negocio": "Torrefação de café especial em Bragança Paulista (SP) que vende pelo site para consumidores e atende 14 cafeterias da região; faturou cerca de R$ 1,2 milhão em 2025.",
+ "situacao": "evolucao",
+ "ambicao": "Chegar a 5 mil clientes recorrentes no site até 2028 sem perder o frescor que sustenta a marca.",
+ "problemaDeMarca": "Para quem não conhece, a Grão Alto parece mais uma marca de café especial: o site usa as mesmas palavras dos concorrentes e esconde o fato que os clientes mais citam, a data da torra.",
+ "verdadesDoNegocio": [
+  "Torra às terças e quintas em lotes de 12 kg",
+  "Só envia café com no máximo 5 dias de torra",
+  "Compra direto de 6 sítios da Serra da Mantiqueira, todos a menos de 150 km",
+  "Paga em média 40% acima do preço da bolsa e publica o valor pago por saca",
+  "Cada pacote traz a data da torra e o nome do produtor",
+  "Fundada em 2019 por Marina Couto, engenheira de alimentos"
+ ],
+ "ativosExistentes": [
+  { "ativo": "Nome Grão Alto", "equity": "media", "manter": "sim", "evidencia": "clientes e cafeterias da região usam o nome" },
+  { "ativo": "Data da torra impressa no pacote", "equity": "alta", "manter": "sim", "evidencia": "citada em 4 de 10 avaliações" },
+  { "ativo": "Logo de montanha verde", "equity": "desconhecida", "manter": "avaliar" }
+ ],
+ "restricoes": ["Orçamento de mídia pequeno", "Capacidade de torra de cerca de 200 kg por semana"],
+ "metricasDeSucesso": ["Clientes recorrentes no site", "Lembrança espontânea da marca entre quem compra café especial na região", "Associação da marca com café fresco"],
+ "lacunas": ["Reconhecimento real do logo de montanha", "Por que clientes cancelam a recompra"]
+}
