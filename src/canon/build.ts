@@ -239,14 +239,66 @@ export const buildCanon = (batches: readonly RawBatch[]): Canon => {
     mark(p.id, c);
     if (principles.has(c)) mark(c, p.id);
   }
+  // The same page registered under several ids counts once; unread sources don't count.
+  const normUrl = (u: string): string => u.trim().toLowerCase().replace(/^https?:\/\//, "").replace(/^www\./, "").replace(/[?#].*$/, "").replace(/\/+$/, "");
+  const canonicalId = new Map<string, string>();
+  const byUrl = new Map<string, string>();
+  for (const src of sources.values()) {
+    const key = src.url ? normUrl(src.url) : `id:${src.id}`;
+    const first = byUrl.get(key);
+    if (first) canonicalId.set(src.id, first);
+    else {
+      byUrl.set(key, src.id);
+      canonicalId.set(src.id, src.id);
+    }
+  }
+  const normAuthor = (a: string): string =>
+    fold(a)
+      .replace(/\([^)]*\)/g, " ")
+      .split(/,|;|\/|&| e | and | entrevistad[oa] | interviewed | via | com | with /)[0]!
+      .replace(/[^a-z\s-]/g, " ")
+      .trim()
+      .split(/\s+/)
+      .slice(0, 3)
+      .join(" ");
   const independent = (refs: readonly SourceRef[]): number => {
+    const ids = new Set<string>();
     const authors = new Set<string>();
     for (const r of refs) {
-      const s = sources.get(r.id);
-      authors.add(s?.author ? fold(s.author).split(/[,/&;]| e | and /)[0]!.trim() || r.id : r.id);
+      const id = canonicalId.get(r.id) ?? r.id;
+      const src = sources.get(id);
+      if (src && !src.dissected) continue;
+      ids.add(id);
+      authors.add(src?.author ? normAuthor(src.author) || id : id);
     }
-    return Math.min(new Set(refs.map((r) => r.id)).size, authors.size);
+    return Math.min(ids.size, authors.size);
   };
+  // Cases about the same brand and year are one case seen by several sources.
+  const caseKey = new Map<string, string>();
+  for (const c of [...cases.values()]) {
+    if (!c.year) continue;
+    const key = `${fold(c.brand).split(/[^a-z0-9]+/).filter(Boolean)[0] ?? c.id}:${c.year}`;
+    const first = caseKey.get(key);
+    if (!first) {
+      caseKey.set(key, c.id);
+      continue;
+    }
+    const prev = cases.get(first)!;
+    cases.set(first, {
+      ...prev,
+      challenge: longer(prev.challenge, c.challenge),
+      insight: longer(prev.insight, c.insight),
+      strategy: longer(prev.strategy, c.strategy),
+      execution: longer(prev.execution, c.execution),
+      results: [...prev.results, ...c.results.filter((r) => !prev.results.some((x) => fold(x.metric) === fold(r.metric)))],
+      lessons: uniq([...prev.lessons, ...c.lessons], 14),
+      principles: uniq([...prev.principles, ...c.principles]),
+      sources: mergeRefs(prev.sources, c.sources),
+      batches: [...new Set([...prev.batches, ...c.batches])],
+    });
+    cases.delete(c.id);
+    for (const p of principles.values()) if (p.cases.includes(c.id)) p.cases = uniq(p.cases.map((x) => (x === c.id ? first : x)));
+  }
   const finalPrinciples = [...principles.values()].map((p) => {
     const n = independent(p.sources);
     const support: Support = n >= 2 ? "consolidado" : "fonte-unica";
@@ -262,6 +314,8 @@ export const buildCanon = (batches: readonly RawBatch[]): Canon => {
   return {
     builtAt: new Date().toISOString(),
     batches: batches.map((b) => b.name),
+    uniqueSources: byUrl.size,
+    dissectedSources: [...byUrl.values()].filter((id) => sources.get(id)?.dissected).length,
     sources: [...sources.values()],
     principles: finalPrinciples.sort((a, b) => b.strength * (1 + b.sourceCount) - a.strength * (1 + a.sourceCount)),
     frameworks: [...frameworks.values()],

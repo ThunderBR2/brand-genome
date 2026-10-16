@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-16T04:01:46.452Z",
+ "builtAt": "2026-10-16T04:48:23.793Z",
  "batches": [
   "anti-generico",
   "brasil",
@@ -13,6 +13,8 @@
   "proposito-narrativa-cultura",
   "transcricoes"
  ],
+ "uniqueSources": 330,
+ "dissectedSources": 307,
  "sources": [
   {
    "id": "src-murrell-age-of-average-2023",
@@ -6172,7 +6174,7 @@
     "transcricoes"
    ],
    "support": "consolidado",
-   "sourceCount": 23,
+   "sourceCount": 21,
    "debatedIn": [
     "differentiation-decays-monitor",
     "share-the-pen-co-creation"
@@ -6322,7 +6324,7 @@
    ],
    "cases": [
     "case-brooklyn-org-mother",
-    "case-jaguar-2024-copy-nothing",
+    "case-jaguar-2024",
     "case-thewriter-nielsen-concept-rewrite"
    ],
    "contexts": "Universal. Em luxo, a prova pode ser simbólica (origem, artesão, tempo de feitura) em vez de numérica, mas continua concreta. Universal. Universal. Universal. Vale sempre. Em luxo, o adjetivo pode ser substituído por detalhe sensorial ou de processo, não por número. Universal.",
@@ -6335,7 +6337,7 @@
     "transcricoes"
    ],
    "support": "consolidado",
-   "sourceCount": 16,
+   "sourceCount": 14,
    "debatedIn": [
     "numbers-vs-stories"
    ]
@@ -6489,19 +6491,16 @@
     "case-flamengo-ana-couto",
     "case-panobianco-ana-couto",
     "case-petra-ana-couto",
-    "case-nubank-2026-koto",
+    "case-nubank-brasil-2026",
     "case-itau-2023-100-anos",
     "case-pepsi-2023",
     "case-burberry-2018-2023",
     "case-tropicana-2009",
     "case-gap-2010",
-    "case-jaguar-2024-copy-nothing",
     "case-cracker-barrel-2025",
     "case-twitter-x-2023",
-    "case-uber-2018-rebrand",
-    "case-nasa-1975-danne-blackburn",
-    "case-jaguar-2024-reset",
-    "case-gap-logo-2010"
+    "case-uber-2017-wolff-olins",
+    "case-nasa-1975-danne-blackburn"
    ],
    "contexts": "Vale para marcas com base e memória construídas; marcas sem equity têm menos a preservar. Vale para marcas com reconhecimento relevante. Para marcas fracas, desconhecidas ou com associação tóxica, uma ruptura maior pode ser a escolha certa (Uber 2016 para 2018, Herbal Essences citado pela The Branding Journal). Cuidado com o excesso oposto: o trauma de Tropicana deixou times da PepsiCo avessos a qualquer mudança, segundo um comentarista da própria fonte. Marcas sem equity relevante têm menos a perder num reset. Rebrands de marcas com fama. Quando a marca é nova, tem reputação tóxica ou mudou de negócio, há menos a preservar. Todo rebrand. Em ruptura deliberada (Jaguar), a lista de abandonos é maior, mas deve ser justificada.",
    "batches": [
@@ -6512,7 +6511,7 @@
     "transcricoes"
    ],
    "support": "consolidado",
-   "sourceCount": 16,
+   "sourceCount": 14,
    "debatedIn": [
     "rebrand-vs-evolve"
    ]
@@ -6654,7 +6653,7 @@
     "case-brooklyn-org-mother",
     "case-panobianco-ana-couto",
     "case-petra-ana-couto",
-    "case-jaguar-2024-copy-nothing",
+    "case-jaguar-2024",
     "case-auto-flat-logos-blanding",
     "case-uber-sonic-2024-amp",
     "case-chipotle-scarecrow",
@@ -6670,7 +6669,7 @@
     "transcricoes"
    ],
    "support": "consolidado",
-   "sourceCount": 13,
+   "sourceCount": 12,
    "debatedIn": [
     "zag-against-category-convergence"
    ]
@@ -6789,7 +6788,7 @@
     "identidade-verbal"
    ],
    "support": "consolidado",
-   "sourceCount": 12,
+   "sourceCount": 10,
    "debatedIn": []
   },
   {
@@ -6918,7 +6917,7 @@
     "case-lego-interbrand",
     "case-dutch-police-studio-dumbar",
     "case-light-ana-couto",
-    "case-nubank-2026-koto",
+    "case-nubank-brasil-2026",
     "case-pepsi-2023",
     "case-duolingo-2019-johnson-banks",
     "case-tropicana-2009",
@@ -6933,7 +6932,7 @@
     "identidade-sensorial"
    ],
    "support": "consolidado",
-   "sourceCount": 12,
+   "sourceCount": 10,
    "debatedIn": [
     "differentiation-vs-distinctiveness"
    ]
@@ -7287,7 +7286,7 @@
    ],
    "cases": [
     "case-salesforce-trailblazer-2019",
-    "case-jaguar-2024-copy-nothing"
+    "case-jaguar-2024"
    ],
    "contexts": "Para marca pequena com pouca verba, 'toda a categoria' pode ser toda a categoria numa região ou num canal. Ritson defende definir um alvo antes de posicionar (ver debate). Em B2B a 'categoria' pode ser pequena, então alcance significa cobrir todo o comitê de compra. Marcas de nicho verdadeiro são raras, mas existem.",
    "batches": [
@@ -7402,97 +7401,6 @@
    ],
    "support": "consolidado",
    "sourceCount": 8,
-   "debatedIn": []
-  },
-  {
-   "id": "rebrand-test-before-launch",
-   "title": "Teste o rebrand com a base atual e no contexto real antes de lançar",
-   "statement": "Antes de lançar, teste os novos ativos com clientes atuais (não só com o público que se quer conquistar) e em contexto real de uso, como gôndola, tela e loja; pesquisa declarativa de gosto não basta.",
-   "why": "Tropicana admitiu que a paixão dos clientes leais 'não apareceu na pesquisa'; os clientes não encontravam o produto e o achavam com cara de marca própria. Gap e Cracker Barrel lançaram sem preparar a base e reverteram em dias. Por outro lado, a Mastercard fez centenas de testes de cor e só tirou o nome do símbolo depois de medir 81% de reconhecimento espontâneo; o rebrand de 2018 da Uber partiu de pesquisa com o público que gerou diretrizes concretas.",
-   "how": [
-    "Teste de encontrabilidade: o cliente atual acha o produto em 3 segundos na gôndola ou tela com a nova embalagem?",
-    "Teste de reconhecimento sem nome dos novos ativos versus os antigos.",
-    "Teste qualitativo com os clientes mais leais (são os que reagem primeiro e mais alto).",
-    "Piloto em parte das lojas ou mercados antes do rollout total (sugestão da The Branding Journal para Cracker Barrel).",
-    "Avalie o risco de leitura cultural ou política do novo ativo.",
-    "Testar ativos isolados sem marca para unicidade.",
-    "Aplicar o sistema nos 10 pontos de contato mais críticos (ícone, tela pequena, vídeo de 6 s, áudio, embalagem, sinalização).",
-    "Checar acessibilidade (contraste, legibilidade mínima)."
-   ],
-   "tests": [
-    "Houve teste com clientes atuais, além do público-alvo novo?",
-    "Houve teste no contexto real (prateleira, app, loja) e não só em apresentação?",
-    "Existe um plano de piloto ou rollout gradual?",
-    "Houve teste com público e mock-ups nos pontos de contato reais antes do lançamento?"
-   ],
-   "polarity": "sempre",
-   "domain": [
-    "gestao-governanca",
-    "equity-medicao",
-    "identidade-visual"
-   ],
-   "stage": [
-    "ativos",
-    "ativacao"
-   ],
-   "school": "misto",
-   "evidence": "caso",
-   "strength": 3,
-   "sources": [
-    {
-     "id": "src-tbj-tropicana",
-     "locator": "citação do presidente da Tropicana NA",
-     "paraphrase": "A empresa reconheceu que o vínculo dos clientes leais não apareceu na pesquisa."
-    },
-    {
-     "id": "src-pentagram-mastercard-2016",
-     "locator": "texto",
-     "paraphrase": "Centenas de testes calibraram as cores e uma pesquisa global mediu 81% de reconhecimento sem o nome."
-    },
-    {
-     "id": "src-dezeen-uber-2018",
-     "locator": "corpo",
-     "paraphrase": "A pesquisa com o público gerou três diretrizes que corrigiram o rebrand de 2016."
-    },
-    {
-     "id": "src-tbj-cracker-barrel",
-     "locator": "recomendações",
-     "paraphrase": "Sugere envolver clientes leais e novos, mudar aos poucos e pilotar antes de expandir."
-    },
-    {
-     "id": "src-uber-2018-brand-redesign",
-     "locator": "processo e cor",
-     "paraphrase": "Mais de 1.000 horas de escuta e teste do preto com 88% de aceitação."
-    },
-    {
-     "id": "src-collins-dropbox-2017",
-     "locator": "bloco de 'performance testing'",
-     "paraphrase": "Testa o sistema em todos os pontos de contato, do ícone de app ao outdoor."
-    },
-    {
-     "id": "src-umbrex-distinctive-brand-assets-framework",
-     "locator": "pitfalls de medição",
-     "paraphrase": "Estímulos com marca e perguntas indutoras geram falsos positivos."
-    }
-   ],
-   "conflictsWith": [],
-   "cases": [
-    "case-mastercard-2016-2019-pentagram",
-    "case-uber-2016-inhouse",
-    "case-uber-2017-wolff-olins",
-    "case-tropicana-2009",
-    "case-gap-2010",
-    "case-cracker-barrel-2025",
-    "case-twitter-x-2023",
-    "case-uber-2018-rebrand"
-   ],
-   "contexts": "Universal para marcas com base existente. Em lançamentos do zero, o teste é com o público-alvo; não há base a proteger. Murrell lembra o outro lado: testes de preferência tendem a eliminar o diferente. Teste reconhecimento e funcionamento, não 'gosto'.",
-   "batches": [
-    "cases",
-    "identidade-sensorial"
-   ],
-   "support": "consolidado",
-   "sourceCount": 7,
    "debatedIn": []
   },
   {
@@ -7680,205 +7588,6 @@
    "debatedIn": []
   },
   {
-   "id": "naming-trademark-screening",
-   "title": "Faça pré-triagem de marca cedo e leve vários finalistas ao advogado",
-   "statement": "Pré-tríe os candidatos nas bases de marcas (INPI, WIPO Global Brand Database, TMview/EUIPO, USPTO) e em busca na web, sempre levando vários finalistas, e trate a pré-triagem como filtro, nunca como parecer jurídico.",
-   "why": "A maioria dos favoritos cai na triagem ('Lei da Catchword': quanto mais você gosta, menor a chance de estar livre). A Labbrand alerta para o período cego de 3 a 6 meses em que pedidos recentes não aparecem e recomenda depositar pelo menos dois nomes (caso Haribo). Meyerson relata uma pré-triagem que liberou 12 de 45 nomes. Todas as fontes exigem advogado de marcas; risco é grau, não sim/não.",
-   "how": [
-    "Defina as classes de Nice relevantes hoje e as de extensões prováveis.",
-    "Busque no INPI (BuscaWeb) por radical, olhando classes e semelhança sonora, não só grafia.",
-    "Busque no TMview e na WIPO Global Brand Database para os mercados externos, manualmente (a WIPO proíbe automação), e confira a base nacional de cada país.",
-    "Nos EUA, use tmsearch.uspto.gov: wordmark termo a termo e códigos de design para logos.",
-    "Faça busca na web por usos não registrados (direito de uso anterior).",
-    "Classifique o risco por semelhança de aparência, som e sentido, setor, canal, cliente e preço.",
-    "Leve pelo menos 3 a 5 finalistas ao advogado e deposite pelo menos 2."
-   ],
-   "tests": [
-    "Os finalistas foram pré-triados em INPI e nas bases dos mercados-alvo, por radical e por som?",
-    "Há pelo menos dois candidatos viáveis para depósito, e um advogado revisou o risco?"
-   ],
-   "polarity": "sempre",
-   "domain": [
-    "naming"
-   ],
-   "stage": [
-    "naming"
-   ],
-   "school": "naming",
-   "evidence": "guia-oficial",
-   "strength": 3,
-   "sources": [
-    {
-     "id": "src-catchword-naming-guide-3ed",
-     "locator": "p. 17-19",
-     "paraphrase": "Classes de Nice, risco de confusão por aparência, som, associação, canal, cliente e preço; advogado sempre."
-    },
-    {
-     "id": "src-labbrand-naming-methodology",
-     "paraphrase": "Período cego de 3 a 6 meses nas bases; recomenda registrar ao menos dois candidatos."
-    },
-    {
-     "id": "src-meyerson-on-branding-ep14",
-     "locator": "etapas 4 e 6",
-     "paraphrase": "Pré-triagem antes de apresentar e busca jurídica completa antes de investir; o jurídico dá grau de risco."
-    },
-    {
-     "id": "src-inpi-etapas-registro-marca",
-     "locator": "1. Busca prévia",
-     "paraphrase": "Fazer o maior número de buscas, por radical, no núcleo do sinal, olhando classes e semelhança sonora."
-    },
-    {
-     "id": "src-wipo-gbd-faq",
-     "paraphrase": "A base global é gratuita, mas recomenda checar também a base do escritório nacional; coleções nacionais podem ter atraso."
-    },
-    {
-     "id": "src-uspto-federal-trademark-searching",
-     "paraphrase": "A busca de liberação serve para evitar risco de confusão; wordmark busca termo a termo e logos por código de design."
-    },
-    {
-     "id": "src-inpi-tmview-2021",
-     "paraphrase": "O TMview reúne mais de 70 escritórios, inclusive o INPI, de graça e em português."
-    }
-   ],
-   "conflictsWith": [],
-   "cases": [
-    "case-haribo-china-labbrand",
-    "case-seven-igor"
-   ],
-   "contexts": "Indispensável para qualquer nome de empresa ou produto que vai receber investimento. Um agente de IA só faz pré-triagem e deve dizer isso no entregável.",
-   "batches": [
-    "naming-arquitetura"
-   ],
-   "support": "consolidado",
-   "sourceCount": 7,
-   "debatedIn": []
-  },
-  {
-   "id": "relative-differentiation",
-   "title": "Diferenciação relativa: tenha mais de um atributo valorizado que os rivais",
-   "statement": "Em vez de buscar unicidade (rara e copiável), escolha um conceito de posicionamento com 2 ou 3 atributos que importam e invista para que a marca seja mais associada a eles do que os concorrentes. Entregue isso com execução distintiva.",
-   "why": "Ritson argumenta que unicidade absoluta é quase impossível e logo copiada, e que o mercado exagerou primeiro a diferenciação (Trout, 'Differentiate or Die') e depois a distintividade (Ehrenberg-Bass). Romaniuk, do Ehrenberg-Bass, concorda com a versão relativa ('vantagem mental': ser mais conhecido por algo) e com focar um atributo e mantê-lo, porque uma rede estreita de associações é mais forte que uma rede larga. Keller dá a ordem: associações precisam ser fortes, favoráveis e únicas, nessa ordem; unicidade sem relevância não vale nada. A Branding Strategy Insider dá quatro requisitos para um benefício virar posição (ver testes). Base: opinião de especialistas e um framework acadêmico; a Ehrenberg-Bass prometeu dados, ainda não vistos neste lote.",
-   "how": [
-    "Escolha um conceito com 2 ou 3 atributos que caibam numa página",
-    "Use CEPs e 3Cs para filtrar atributos críveis e pouco disputados",
-    "Fale menos e com mais frequência; ponha excesso de participação de voz nesses atributos",
-    "Acompanhe a vantagem mental (associação acima do esperado) ao longo do tempo",
-    "Liste as três alternativas que o cliente considera.",
-    "Escreva o que você faz que elas não fazem.",
-    "Liste os atributos que movem a escolha na categoria para o alvo (pesquisa qualitativa primeiro, depois quantitativa).",
-    "Meça (ou estime) como cada marca é associada a cada atributo; procure onde você já tem ou pode ter vantagem relativa.",
-    "Escolha um conceito e no máximo dois ou três atributos.",
-    "Verifique que o atributo é favorável (importa ao alvo) antes de verificar se é único."
-   ],
-   "tests": [
-    "O posicionamento tem um conceito só, com poucos atributos?",
-    "Os atributos escolhidos são aqueles em que a marca pode ter vantagem mental medida, e não slogans de unicidade?",
-    "O diferencial declarado é falso para os concorrentes diretos?",
-    "A marca escolheu no máximo três atributos para ser 'mais' que os rivais?",
-    "Cada atributo escolhido é importante para a decisão de compra do alvo (não só 'bonito')?",
-    "Existe algum dado ou sinal de que a marca já é, ou pode plausivelmente ser, mais associada a esse atributo que os concorrentes?",
-    "O benefício passa nos quatro requisitos: importa muito ao alvo, a empresa entrega, os concorrentes não entregam e teriam dificuldade, é claro e crível?",
-    "O posicionamento cabe em 1 ou 2 atributos, e não numa lista de 30 palavras?",
-    "Os atributos escolhidos foram validados como relevantes na decisão do cliente?"
-   ],
-   "polarity": "prefira",
-   "domain": [
-    "posicionamento",
-    "ciencia-crescimento",
-    "equity-medicao"
-   ],
-   "stage": [
-    "posicionamento"
-   ],
-   "school": "posicionamento-diferenciacao",
-   "evidence": "caso",
-   "strength": 2,
-   "sources": [
-    {
-     "id": "src-designstudio-airbnb",
-     "locator": "texto",
-     "paraphrase": "O pertencimento foi definido como verdade e diferencial do Airbnb."
-    },
-    {
-     "id": "src-futurebrand-elavon",
-     "locator": "texto",
-     "paraphrase": "A rara fusão de confiança bancária com inovação em pagamentos virou a ideia central."
-    },
-    {
-     "id": "src-ritson-mw-differentiation-2023",
-     "locator": "argumento central e recomendações",
-     "paraphrase": "Diferenciação relativa, um conceito, poucos atributos, excesso de voz e execução distintiva.",
-     "quote": "Differentiation is not about uniqueness, it's about difference"
-    },
-    {
-     "id": "src-mi3-ritson-dogma-2023",
-     "locator": "crítica central",
-     "paraphrase": "Distintividade sozinha não basta; é preciso combinar com posicionamento relativo e estável."
-    },
-    {
-     "id": "src-ebi-cep-b2b-2022",
-     "locator": "seção sobre vantagem mental",
-     "paraphrase": "O EBI mede 'vantagem mental' como associação acima do esperado, uma versão empírica de diferenciação relativa."
-    },
-    {
-     "id": "src-ritson-differentiation-uniqueness-mw-2023",
-     "locator": "corpo da coluna e réplica de Romaniuk",
-     "paraphrase": "Diferenciação não é unicidade e sim diferença: ter mais de algo que importa do que os rivais.",
-     "quote": "differentiation is about difference"
-    },
-    {
-     "id": "src-mi3-ritson-differentiation-2023",
-     "locator": "relato da fala no ADMA",
-     "paraphrase": "Com dois ou três atributos entregues relativamente melhor que os rivais e mantidos por anos, a marca vence."
-    },
-    {
-     "id": "src-keller-cbbe-msi-2001",
-     "locator": "seção 'Brand Meaning', critérios força/favorabilidade/unicidade",
-     "paraphrase": "Associações precisam ser fortes, favoráveis e únicas, nessa ordem; unicidade sem favorabilidade não importa.",
-     "quote": "strong, favorable, and unique brand associations, in that order"
-    },
-    {
-     "id": "src-bsi-positioning-leadership-decision",
-     "locator": "seção 'The Criteria For Positioning Success'",
-     "paraphrase": "Um benefício só é posição se importar ao alvo, for entregável, não for entregue pelos rivais e for claro e crível; senão é aspiração.",
-     "quote": "If a benefit fails any one of these tests, it is not positioning."
-    },
-    {
-     "id": "src-bsfb-ritson-2026",
-     "locator": "40:00-44:00",
-     "paraphrase": "Diferenciação é relativa (mais ou menos de algo), não unicidade; Porter a definiu de forma errada e mandou gerações procurarem algo único que não existe."
-    },
-    {
-     "id": "src-ehm-ritson-grow-from-nothing-2020",
-     "locator": "trecho 'os dois Ds'",
-     "paraphrase": "Diferenciação nunca foi unicidade, mas dá para ser mais de algo que os concorrentes; para marcas pequenas, comece por ser diferente e depois trabalhe a distintividade."
-    }
-   ],
-   "conflictsWith": [
-    "differentiation-vs-distinctiveness",
-    "onliness-statement"
-   ],
-   "cases": [
-    "case-dropbox-2017-collins",
-    "case-airbnb-2014-designstudio",
-    "case-hinge-red-antler",
-    "case-tourism-australia-consistency"
-   ],
-   "contexts": "Corroboração fraca por casos; a base teórica está em outros lotes. Pesa mais em categorias com diferenças funcionais reais (B2B técnico, tecnologia, saúde) e em marcas novas que precisam dizer o que fazem. Pesa menos em categorias quase indiferenciáveis (vodka, água, combustível). Vale para a maioria das categorias maduras. Em categorias novas ou para desafiantes pequenos, a escola Neumeier/Ries pede diferença mais radical; ver debate. Útil em categorias maduras com produtos parecidos. Em categoria nova ou com inovação real, uma diferença concreta pode ser comunicada diretamente.",
-   "batches": [
-    "cases",
-    "ciencia-crescimento",
-    "estrategia-posicionamento",
-    "transcricoes"
-   ],
-   "support": "consolidado",
-   "sourceCount": 10,
-   "debatedIn": [
-    "differentiation-vs-distinctiveness",
-    "onliness-statement"
-   ]
-  },
-  {
    "id": "pricing-power-brand",
    "title": "Use a marca para defender preço, não promoção",
    "statement": "Conte com construção de marca emocional e famosa para reduzir a sensibilidade a preço; promoção e ativação não fazem isso.",
@@ -8060,7 +7769,7 @@
     "case-uber-2017-wolff-olins",
     "case-burger-king-2021-jkr",
     "case-hinge-red-antler",
-    "case-jaguar-2024-copy-nothing",
+    "case-jaguar-2024",
     "case-twitter-x-2023",
     "case-meta-2021"
    ],
@@ -8068,6 +7777,170 @@
    "batches": [
     "brasil",
     "cases"
+   ],
+   "support": "consolidado",
+   "sourceCount": 6,
+   "debatedIn": []
+  },
+  {
+   "id": "rebrand-test-before-launch",
+   "title": "Teste o rebrand com a base atual e no contexto real antes de lançar",
+   "statement": "Antes de lançar, teste os novos ativos com clientes atuais (não só com o público que se quer conquistar) e em contexto real de uso, como gôndola, tela e loja; pesquisa declarativa de gosto não basta.",
+   "why": "Tropicana admitiu que a paixão dos clientes leais 'não apareceu na pesquisa'; os clientes não encontravam o produto e o achavam com cara de marca própria. Gap e Cracker Barrel lançaram sem preparar a base e reverteram em dias. Por outro lado, a Mastercard fez centenas de testes de cor e só tirou o nome do símbolo depois de medir 81% de reconhecimento espontâneo; o rebrand de 2018 da Uber partiu de pesquisa com o público que gerou diretrizes concretas.",
+   "how": [
+    "Teste de encontrabilidade: o cliente atual acha o produto em 3 segundos na gôndola ou tela com a nova embalagem?",
+    "Teste de reconhecimento sem nome dos novos ativos versus os antigos.",
+    "Teste qualitativo com os clientes mais leais (são os que reagem primeiro e mais alto).",
+    "Piloto em parte das lojas ou mercados antes do rollout total (sugestão da The Branding Journal para Cracker Barrel).",
+    "Avalie o risco de leitura cultural ou política do novo ativo.",
+    "Testar ativos isolados sem marca para unicidade.",
+    "Aplicar o sistema nos 10 pontos de contato mais críticos (ícone, tela pequena, vídeo de 6 s, áudio, embalagem, sinalização).",
+    "Checar acessibilidade (contraste, legibilidade mínima)."
+   ],
+   "tests": [
+    "Houve teste com clientes atuais, além do público-alvo novo?",
+    "Houve teste no contexto real (prateleira, app, loja) e não só em apresentação?",
+    "Existe um plano de piloto ou rollout gradual?",
+    "Houve teste com público e mock-ups nos pontos de contato reais antes do lançamento?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "gestao-governanca",
+    "equity-medicao",
+    "identidade-visual"
+   ],
+   "stage": [
+    "ativos",
+    "ativacao"
+   ],
+   "school": "misto",
+   "evidence": "caso",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-tbj-tropicana",
+     "locator": "citação do presidente da Tropicana NA",
+     "paraphrase": "A empresa reconheceu que o vínculo dos clientes leais não apareceu na pesquisa."
+    },
+    {
+     "id": "src-pentagram-mastercard-2016",
+     "locator": "texto",
+     "paraphrase": "Centenas de testes calibraram as cores e uma pesquisa global mediu 81% de reconhecimento sem o nome."
+    },
+    {
+     "id": "src-dezeen-uber-2018",
+     "locator": "corpo",
+     "paraphrase": "A pesquisa com o público gerou três diretrizes que corrigiram o rebrand de 2016."
+    },
+    {
+     "id": "src-tbj-cracker-barrel",
+     "locator": "recomendações",
+     "paraphrase": "Sugere envolver clientes leais e novos, mudar aos poucos e pilotar antes de expandir."
+    },
+    {
+     "id": "src-uber-2018-brand-redesign",
+     "locator": "processo e cor",
+     "paraphrase": "Mais de 1.000 horas de escuta e teste do preto com 88% de aceitação."
+    },
+    {
+     "id": "src-collins-dropbox-2017",
+     "locator": "bloco de 'performance testing'",
+     "paraphrase": "Testa o sistema em todos os pontos de contato, do ícone de app ao outdoor."
+    },
+    {
+     "id": "src-umbrex-distinctive-brand-assets-framework",
+     "locator": "pitfalls de medição",
+     "paraphrase": "Estímulos com marca e perguntas indutoras geram falsos positivos."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-mastercard-2016-2019-pentagram",
+    "case-uber-2016-inhouse",
+    "case-uber-2017-wolff-olins",
+    "case-tropicana-2009",
+    "case-gap-2010",
+    "case-cracker-barrel-2025",
+    "case-twitter-x-2023"
+   ],
+   "contexts": "Universal para marcas com base existente. Em lançamentos do zero, o teste é com o público-alvo; não há base a proteger. Murrell lembra o outro lado: testes de preferência tendem a eliminar o diferente. Teste reconhecimento e funcionamento, não 'gosto'.",
+   "batches": [
+    "cases",
+    "identidade-sensorial"
+   ],
+   "support": "consolidado",
+   "sourceCount": 6,
+   "debatedIn": []
+  },
+  {
+   "id": "naming-trademark-screening",
+   "title": "Faça pré-triagem de marca cedo e leve vários finalistas ao advogado",
+   "statement": "Pré-tríe os candidatos nas bases de marcas (INPI, WIPO Global Brand Database, TMview/EUIPO, USPTO) e em busca na web, sempre levando vários finalistas, e trate a pré-triagem como filtro, nunca como parecer jurídico.",
+   "why": "A maioria dos favoritos cai na triagem ('Lei da Catchword': quanto mais você gosta, menor a chance de estar livre). A Labbrand alerta para o período cego de 3 a 6 meses em que pedidos recentes não aparecem e recomenda depositar pelo menos dois nomes (caso Haribo). Meyerson relata uma pré-triagem que liberou 12 de 45 nomes. Todas as fontes exigem advogado de marcas; risco é grau, não sim/não.",
+   "how": [
+    "Defina as classes de Nice relevantes hoje e as de extensões prováveis.",
+    "Busque no INPI (BuscaWeb) por radical, olhando classes e semelhança sonora, não só grafia.",
+    "Busque no TMview e na WIPO Global Brand Database para os mercados externos, manualmente (a WIPO proíbe automação), e confira a base nacional de cada país.",
+    "Nos EUA, use tmsearch.uspto.gov: wordmark termo a termo e códigos de design para logos.",
+    "Faça busca na web por usos não registrados (direito de uso anterior).",
+    "Classifique o risco por semelhança de aparência, som e sentido, setor, canal, cliente e preço.",
+    "Leve pelo menos 3 a 5 finalistas ao advogado e deposite pelo menos 2."
+   ],
+   "tests": [
+    "Os finalistas foram pré-triados em INPI e nas bases dos mercados-alvo, por radical e por som?",
+    "Há pelo menos dois candidatos viáveis para depósito, e um advogado revisou o risco?"
+   ],
+   "polarity": "sempre",
+   "domain": [
+    "naming"
+   ],
+   "stage": [
+    "naming"
+   ],
+   "school": "naming",
+   "evidence": "guia-oficial",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-catchword-naming-guide-3ed",
+     "locator": "p. 17-19",
+     "paraphrase": "Classes de Nice, risco de confusão por aparência, som, associação, canal, cliente e preço; advogado sempre."
+    },
+    {
+     "id": "src-labbrand-naming-methodology",
+     "paraphrase": "Período cego de 3 a 6 meses nas bases; recomenda registrar ao menos dois candidatos."
+    },
+    {
+     "id": "src-meyerson-on-branding-ep14",
+     "locator": "etapas 4 e 6",
+     "paraphrase": "Pré-triagem antes de apresentar e busca jurídica completa antes de investir; o jurídico dá grau de risco."
+    },
+    {
+     "id": "src-inpi-etapas-registro-marca",
+     "locator": "1. Busca prévia",
+     "paraphrase": "Fazer o maior número de buscas, por radical, no núcleo do sinal, olhando classes e semelhança sonora."
+    },
+    {
+     "id": "src-wipo-gbd-faq",
+     "paraphrase": "A base global é gratuita, mas recomenda checar também a base do escritório nacional; coleções nacionais podem ter atraso."
+    },
+    {
+     "id": "src-uspto-federal-trademark-searching",
+     "paraphrase": "A busca de liberação serve para evitar risco de confusão; wordmark busca termo a termo e logos por código de design."
+    },
+    {
+     "id": "src-inpi-tmview-2021",
+     "paraphrase": "O TMview reúne mais de 70 escritórios, inclusive o INPI, de graça e em português."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-haribo-china-labbrand",
+    "case-seven-igor"
+   ],
+   "contexts": "Indispensável para qualquer nome de empresa ou produto que vai receber investimento. Um agente de IA só faz pré-triagem e deve dizer isso no entregável.",
+   "batches": [
+    "naming-arquitetura"
    ],
    "support": "consolidado",
    "sourceCount": 6,
@@ -8270,7 +8143,7 @@
     "case-quintoandar-porto-rocha",
     "case-itau-2023-100-anos",
     "case-wikimedia-rename-2021",
-    "case-siebel-professionalism-values"
+    "case-siebel-intel-values"
    ],
    "contexts": "Universal; mais crítico em redes de franquia, empresas multinacionais e organizações de comunidade. Crítico em serviços, varejo e B2B, onde o funcionário é a marca. Em empresas familiares (Troiano), conecte com sucessão e continuidade. Céticos do propósito concordam com esta parte (Ritson: pratique dentro primeiro).",
    "batches": [
@@ -8280,6 +8153,131 @@
    "support": "consolidado",
    "sourceCount": 8,
    "debatedIn": []
+  },
+  {
+   "id": "relative-differentiation",
+   "title": "Diferenciação relativa: tenha mais de um atributo valorizado que os rivais",
+   "statement": "Em vez de buscar unicidade (rara e copiável), escolha um conceito de posicionamento com 2 ou 3 atributos que importam e invista para que a marca seja mais associada a eles do que os concorrentes. Entregue isso com execução distintiva.",
+   "why": "Ritson argumenta que unicidade absoluta é quase impossível e logo copiada, e que o mercado exagerou primeiro a diferenciação (Trout, 'Differentiate or Die') e depois a distintividade (Ehrenberg-Bass). Romaniuk, do Ehrenberg-Bass, concorda com a versão relativa ('vantagem mental': ser mais conhecido por algo) e com focar um atributo e mantê-lo, porque uma rede estreita de associações é mais forte que uma rede larga. Keller dá a ordem: associações precisam ser fortes, favoráveis e únicas, nessa ordem; unicidade sem relevância não vale nada. A Branding Strategy Insider dá quatro requisitos para um benefício virar posição (ver testes). Base: opinião de especialistas e um framework acadêmico; a Ehrenberg-Bass prometeu dados, ainda não vistos neste lote.",
+   "how": [
+    "Escolha um conceito com 2 ou 3 atributos que caibam numa página",
+    "Use CEPs e 3Cs para filtrar atributos críveis e pouco disputados",
+    "Fale menos e com mais frequência; ponha excesso de participação de voz nesses atributos",
+    "Acompanhe a vantagem mental (associação acima do esperado) ao longo do tempo",
+    "Liste as três alternativas que o cliente considera.",
+    "Escreva o que você faz que elas não fazem.",
+    "Liste os atributos que movem a escolha na categoria para o alvo (pesquisa qualitativa primeiro, depois quantitativa).",
+    "Meça (ou estime) como cada marca é associada a cada atributo; procure onde você já tem ou pode ter vantagem relativa.",
+    "Escolha um conceito e no máximo dois ou três atributos.",
+    "Verifique que o atributo é favorável (importa ao alvo) antes de verificar se é único."
+   ],
+   "tests": [
+    "O posicionamento tem um conceito só, com poucos atributos?",
+    "Os atributos escolhidos são aqueles em que a marca pode ter vantagem mental medida, e não slogans de unicidade?",
+    "O diferencial declarado é falso para os concorrentes diretos?",
+    "A marca escolheu no máximo três atributos para ser 'mais' que os rivais?",
+    "Cada atributo escolhido é importante para a decisão de compra do alvo (não só 'bonito')?",
+    "Existe algum dado ou sinal de que a marca já é, ou pode plausivelmente ser, mais associada a esse atributo que os concorrentes?",
+    "O benefício passa nos quatro requisitos: importa muito ao alvo, a empresa entrega, os concorrentes não entregam e teriam dificuldade, é claro e crível?",
+    "O posicionamento cabe em 1 ou 2 atributos, e não numa lista de 30 palavras?",
+    "Os atributos escolhidos foram validados como relevantes na decisão do cliente?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "posicionamento",
+    "ciencia-crescimento",
+    "equity-medicao"
+   ],
+   "stage": [
+    "posicionamento"
+   ],
+   "school": "posicionamento-diferenciacao",
+   "evidence": "caso",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-designstudio-airbnb",
+     "locator": "texto",
+     "paraphrase": "O pertencimento foi definido como verdade e diferencial do Airbnb."
+    },
+    {
+     "id": "src-futurebrand-elavon",
+     "locator": "texto",
+     "paraphrase": "A rara fusão de confiança bancária com inovação em pagamentos virou a ideia central."
+    },
+    {
+     "id": "src-ritson-mw-differentiation-2023",
+     "locator": "argumento central e recomendações",
+     "paraphrase": "Diferenciação relativa, um conceito, poucos atributos, excesso de voz e execução distintiva.",
+     "quote": "Differentiation is not about uniqueness, it's about difference"
+    },
+    {
+     "id": "src-mi3-ritson-dogma-2023",
+     "locator": "crítica central",
+     "paraphrase": "Distintividade sozinha não basta; é preciso combinar com posicionamento relativo e estável."
+    },
+    {
+     "id": "src-ebi-cep-b2b-2022",
+     "locator": "seção sobre vantagem mental",
+     "paraphrase": "O EBI mede 'vantagem mental' como associação acima do esperado, uma versão empírica de diferenciação relativa."
+    },
+    {
+     "id": "src-ritson-differentiation-uniqueness-mw-2023",
+     "locator": "corpo da coluna e réplica de Romaniuk",
+     "paraphrase": "Diferenciação não é unicidade e sim diferença: ter mais de algo que importa do que os rivais.",
+     "quote": "differentiation is about difference"
+    },
+    {
+     "id": "src-mi3-ritson-differentiation-2023",
+     "locator": "relato da fala no ADMA",
+     "paraphrase": "Com dois ou três atributos entregues relativamente melhor que os rivais e mantidos por anos, a marca vence."
+    },
+    {
+     "id": "src-keller-cbbe-msi-2001",
+     "locator": "seção 'Brand Meaning', critérios força/favorabilidade/unicidade",
+     "paraphrase": "Associações precisam ser fortes, favoráveis e únicas, nessa ordem; unicidade sem favorabilidade não importa.",
+     "quote": "strong, favorable, and unique brand associations, in that order"
+    },
+    {
+     "id": "src-bsi-positioning-leadership-decision",
+     "locator": "seção 'The Criteria For Positioning Success'",
+     "paraphrase": "Um benefício só é posição se importar ao alvo, for entregável, não for entregue pelos rivais e for claro e crível; senão é aspiração.",
+     "quote": "If a benefit fails any one of these tests, it is not positioning."
+    },
+    {
+     "id": "src-bsfb-ritson-2026",
+     "locator": "40:00-44:00",
+     "paraphrase": "Diferenciação é relativa (mais ou menos de algo), não unicidade; Porter a definiu de forma errada e mandou gerações procurarem algo único que não existe."
+    },
+    {
+     "id": "src-ehm-ritson-grow-from-nothing-2020",
+     "locator": "trecho 'os dois Ds'",
+     "paraphrase": "Diferenciação nunca foi unicidade, mas dá para ser mais de algo que os concorrentes; para marcas pequenas, comece por ser diferente e depois trabalhe a distintividade."
+    }
+   ],
+   "conflictsWith": [
+    "differentiation-vs-distinctiveness",
+    "onliness-statement"
+   ],
+   "cases": [
+    "case-dropbox-2017-collins",
+    "case-airbnb-2014-designstudio",
+    "case-hinge-red-antler",
+    "case-tourism-australia-consistency"
+   ],
+   "contexts": "Corroboração fraca por casos; a base teórica está em outros lotes. Pesa mais em categorias com diferenças funcionais reais (B2B técnico, tecnologia, saúde) e em marcas novas que precisam dizer o que fazem. Pesa menos em categorias quase indiferenciáveis (vodka, água, combustível). Vale para a maioria das categorias maduras. Em categorias novas ou para desafiantes pequenos, a escola Neumeier/Ries pede diferença mais radical; ver debate. Útil em categorias maduras com produtos parecidos. Em categoria nova ou com inovação real, uma diferença concreta pode ser comunicada diretamente.",
+   "batches": [
+    "cases",
+    "ciencia-crescimento",
+    "estrategia-posicionamento",
+    "transcricoes"
+   ],
+   "support": "consolidado",
+   "sourceCount": 8,
+   "debatedIn": [
+    "differentiation-vs-distinctiveness",
+    "onliness-statement"
+   ]
   },
   {
    "id": "motion-principles-from-brand",
@@ -8856,7 +8854,7 @@
     "case-bp-landor",
     "case-light-ana-couto",
     "case-flamengo-ana-couto",
-    "case-nubank-2026-koto",
+    "case-nubank-brasil-2026",
     "case-itau-2023-100-anos",
     "case-meta-2021",
     "case-natura-co-2019-2025",
@@ -9160,71 +9158,6 @@
    "support": "consolidado",
    "sourceCount": 4,
    "debatedIn": []
-  },
-  {
-   "id": "distinctive-assets-portfolio-beyond-logo",
-   "title": "Construa uma carteira de ativos além do logo",
-   "statement": "Planeje desde o início ativos que funcionem quando o logo não aparece ou não é lido: cor, forma, produto, personagem, som, movimento, tipografia.",
-   "why": "Na pesquisa Ipsos, o produto foi o tipo de ativo com mais Ouro (31%), à frente do logo (19%) e do mascote (16%); cor (4%) e slogan (6%) raramente chegam lá. Em telas pequenas, vídeo pulado, áudio e varejo o logo muitas vezes some, e a marca precisa ser reconhecida por outros sinais.",
-   "how": [
-    "Mapear os contextos onde o logo fica pequeno, ilegível ou ausente (feed, áudio, prateleira de longe, notificação, ícone de app).",
-    "Escolher 1 ou 2 sinais não-logo por contexto (ex.: som no áudio, forma/cor na prateleira, movimento no vídeo).",
-    "Projetar o produto ou a interface para ter um detalhe atípico próprio, já que produto distinto é o ativo mais reconhecido."
-   ],
-   "tests": [
-    "Se o logo for removido de uma peça típica, outro elemento ainda identifica a marca?",
-    "A marca tem pelo menos um ativo sonoro ou de movimento planejado?"
-   ],
-   "polarity": "prefira",
-   "domain": [
-    "ativos-distintivos",
-    "identidade-visual",
-    "sonoro-motion"
-   ],
-   "stage": [
-    "ativos"
-   ],
-   "school": "ehrenberg-bass",
-   "evidence": "empirica",
-   "strength": 3,
-   "sources": [
-    {
-     "id": "src-ipsos-jkr-be-distinctive-everywhere-2023",
-     "locator": "resumo da pesquisa",
-     "paraphrase": "Percentual Ouro por tipo: logo 19%, slogan 6%, mascote 16%, cor 4%, produto 31%."
-    },
-    {
-     "id": "src-jkr-be-distinctive-microsite-2023",
-     "locator": "/product e /logos",
-     "paraphrase": "Quanto mais atípico o produto, mais distintiva a marca; e poucos logos atingem o padrão esperado."
-    },
-    {
-     "id": "src-umbrex-distinctive-brand-assets-framework",
-     "locator": "'Common Pitfalls', dependência do logo",
-     "paraphrase": "Recomenda construir sinais não-logo (cor, forma, movimento, som) que funcionem quando o logo não pode."
-    },
-    {
-     "id": "src-discord-branding",
-     "locator": "termos de uso",
-     "paraphrase": "Trata como ativos protegidos o look and feel, combinações de cor, personagens, sons e tipografia, não só o logo."
-    }
-   ],
-   "conflictsWith": [
-    "brand-is-not-logo"
-   ],
-   "cases": [
-    "case-uber-sonic-2024-amp",
-    "case-instagram-motion-studio-dumbar"
-   ],
-   "contexts": "Crítico em marcas digitais e de áudio. Em B2B de nicho com poucos pontos de contato, a carteira pode ser menor, mas o teste do logo coberto continua valendo.",
-   "batches": [
-    "identidade-sensorial"
-   ],
-   "support": "consolidado",
-   "sourceCount": 4,
-   "debatedIn": [
-    "brand-is-not-logo"
-   ]
   },
   {
    "id": "active-voice-default",
@@ -9670,8 +9603,7 @@
    "cases": [
     "case-enron-values-2000",
     "case-siebel-intel-values",
-    "case-bergdorf-goodman-wolff-olins",
-    "case-siebel-professionalism-values"
+    "case-bergdorf-goodman-wolff-olins"
    ],
    "contexts": "Universal. Em pequenas empresas, os valores costumam vir do fundador; escreva os que já existem, não os desejados. Mais relevante em serviços e empresas com muitos pontos de atendimento. Vale para qualquer porte. Em pequena empresa, 2 ou 3 comportamentos bastam. Valores difíceis ou contraculturais (Siebel: profissionalismo no Vale do Silício) diferenciam mais que valores simpáticos.",
    "batches": [
@@ -9964,81 +9896,6 @@
    "batches": [
     "cases",
     "estrategia-posicionamento"
-   ],
-   "support": "consolidado",
-   "sourceCount": 5,
-   "debatedIn": []
-  },
-  {
-   "id": "sonic-identity-consistency",
-   "title": "Construa som próprio e consistente, não só trilhas por campanha",
-   "statement": "Trate o som como ativo de longo prazo: um logo sonoro e uma linguagem musical própria, usados com consistência e adaptados por contexto, em vez de trocar de música a cada campanha.",
-   "why": "No Best Audio Brands 2026 (150+ marcas), a nota A exige som como ativo central, sem música de banco e com cerca de 30% do áudio próprio; enquanto isso, a música customizada por campanha cresceu 140% e a música de marca caiu 67%, sinal de troca de equity por impacto de curto prazo. Estudos da amp em 2024 indicaram preferência por logos visuais acompanhados de som.",
-   "how": [
-    "Criar um logo sonoro curto e uma paleta sonora (instrumentos, timbres, andamento) derivada da ideia de marca.",
-    "Definir versões por ponto de contato: abertura e fechamento de vídeo, app/UX, eventos, espera telefônica, podcast.",
-    "Usar o mesmo motivo em campanhas diferentes, rearranjado, em vez de trilhas sem relação.",
-    "Evitar sons genéricos da categoria (campainha, batimento, porta de carro).",
-    "Mapeie sons do produto e da experiência.",
-    "Defina assinatura sonora e regras de uso."
-   ],
-   "tests": [
-    "A marca tem um logo sonoro usado em pelo menos 3 pontos de contato?",
-    "As últimas campanhas compartilham algum motivo sonoro?",
-    "O som seria reconhecido sem imagem?",
-    "A marca tem algum som proprietário usado com consistência?"
-   ],
-   "polarity": "prefira",
-   "domain": [
-    "sonoro-motion",
-    "ativos-distintivos"
-   ],
-   "stage": [
-    "ativos",
-    "ativacao"
-   ],
-   "school": "pratica",
-   "evidence": "empirica",
-   "strength": 2,
-   "sources": [
-    {
-     "id": "src-anacouto-intelbras",
-     "locator": "texto",
-     "paraphrase": "Os sons dos próprios produtos eram um território que ninguém percebia."
-    },
-    {
-     "id": "src-futurebrand-riyadh-air",
-     "locator": "texto",
-     "paraphrase": "A identidade sonora integrou a experiência multissensorial."
-    },
-    {
-     "id": "src-amp-best-audio-brands-2026",
-     "locator": "comunicado",
-     "paraphrase": "Marcas nota A soam como elas mesmas e flexionam sua identidade; uso de música de marca caiu 67%.",
-     "quote": "A-grade brands don't just sound good, they sound like themselves."
-    },
-    {
-     "id": "src-amp-best-audio-brands-2024",
-     "locator": "estudos especiais",
-     "paraphrase": "Participantes preferiram logos visuais com logo sonoro; evitar sons não proprietários."
-    },
-    {
-     "id": "src-sixieme-son-faq",
-     "locator": "resposta sobre 'só preciso de um logo'",
-     "paraphrase": "O logo sonoro é a âncora de um sistema de texturas e instrumentos adaptável a todos os pontos de contato."
-    }
-   ],
-   "conflictsWith": [],
-   "cases": [
-    "case-riyadh-air-futurebrand",
-    "case-intelbras-ana-couto",
-    "case-uber-sonic-2024-amp",
-    "case-govbr-2025-secom"
-   ],
-   "contexts": "Mais relevante em produtos com som, varejo físico, mídia de áudio e vídeo. Pesa mais em marcas com muito vídeo, áudio, app ou atendimento por voz. A Sixième Son afirma que 40% dos clientes são B2B. Evidência vem de agências que vendem o serviço: trate números como indicativos.",
-   "batches": [
-    "cases",
-    "identidade-sensorial"
    ],
    "support": "consolidado",
    "sourceCount": 5,
@@ -10552,6 +10409,71 @@
    ]
   },
   {
+   "id": "distinctive-assets-portfolio-beyond-logo",
+   "title": "Construa uma carteira de ativos além do logo",
+   "statement": "Planeje desde o início ativos que funcionem quando o logo não aparece ou não é lido: cor, forma, produto, personagem, som, movimento, tipografia.",
+   "why": "Na pesquisa Ipsos, o produto foi o tipo de ativo com mais Ouro (31%), à frente do logo (19%) e do mascote (16%); cor (4%) e slogan (6%) raramente chegam lá. Em telas pequenas, vídeo pulado, áudio e varejo o logo muitas vezes some, e a marca precisa ser reconhecida por outros sinais.",
+   "how": [
+    "Mapear os contextos onde o logo fica pequeno, ilegível ou ausente (feed, áudio, prateleira de longe, notificação, ícone de app).",
+    "Escolher 1 ou 2 sinais não-logo por contexto (ex.: som no áudio, forma/cor na prateleira, movimento no vídeo).",
+    "Projetar o produto ou a interface para ter um detalhe atípico próprio, já que produto distinto é o ativo mais reconhecido."
+   ],
+   "tests": [
+    "Se o logo for removido de uma peça típica, outro elemento ainda identifica a marca?",
+    "A marca tem pelo menos um ativo sonoro ou de movimento planejado?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativos-distintivos",
+    "identidade-visual",
+    "sonoro-motion"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "school": "ehrenberg-bass",
+   "evidence": "empirica",
+   "strength": 3,
+   "sources": [
+    {
+     "id": "src-ipsos-jkr-be-distinctive-everywhere-2023",
+     "locator": "resumo da pesquisa",
+     "paraphrase": "Percentual Ouro por tipo: logo 19%, slogan 6%, mascote 16%, cor 4%, produto 31%."
+    },
+    {
+     "id": "src-jkr-be-distinctive-microsite-2023",
+     "locator": "/product e /logos",
+     "paraphrase": "Quanto mais atípico o produto, mais distintiva a marca; e poucos logos atingem o padrão esperado."
+    },
+    {
+     "id": "src-umbrex-distinctive-brand-assets-framework",
+     "locator": "'Common Pitfalls', dependência do logo",
+     "paraphrase": "Recomenda construir sinais não-logo (cor, forma, movimento, som) que funcionem quando o logo não pode."
+    },
+    {
+     "id": "src-discord-branding",
+     "locator": "termos de uso",
+     "paraphrase": "Trata como ativos protegidos o look and feel, combinações de cor, personagens, sons e tipografia, não só o logo."
+    }
+   ],
+   "conflictsWith": [
+    "brand-is-not-logo"
+   ],
+   "cases": [
+    "case-uber-sonic-2024-amp",
+    "case-instagram-motion-studio-dumbar"
+   ],
+   "contexts": "Crítico em marcas digitais e de áudio. Em B2B de nicho com poucos pontos de contato, a carteira pode ser menor, mas o teste do logo coberto continua valendo.",
+   "batches": [
+    "identidade-sensorial"
+   ],
+   "support": "consolidado",
+   "sourceCount": 3,
+   "debatedIn": [
+    "brand-is-not-logo"
+   ]
+  },
+  {
    "id": "identity-governance-living-system",
    "title": "Governe a marca como sistema vivo, com donos, níveis e ferramentas",
    "statement": "Estabeleça quem decide, o que é norma e o que é exemplo, e entregue a identidade como sistema em camadas (estratégia → princípios → diretrizes com exemplos → templates e toolkits), não como um PDF de logo.",
@@ -10909,6 +10831,81 @@
    "contexts": "Franquias, cooperativas, redes de clínicas e escolas, órgãos públicos, holdings.",
    "batches": [
     "brasil"
+   ],
+   "support": "consolidado",
+   "sourceCount": 4,
+   "debatedIn": []
+  },
+  {
+   "id": "sonic-identity-consistency",
+   "title": "Construa som próprio e consistente, não só trilhas por campanha",
+   "statement": "Trate o som como ativo de longo prazo: um logo sonoro e uma linguagem musical própria, usados com consistência e adaptados por contexto, em vez de trocar de música a cada campanha.",
+   "why": "No Best Audio Brands 2026 (150+ marcas), a nota A exige som como ativo central, sem música de banco e com cerca de 30% do áudio próprio; enquanto isso, a música customizada por campanha cresceu 140% e a música de marca caiu 67%, sinal de troca de equity por impacto de curto prazo. Estudos da amp em 2024 indicaram preferência por logos visuais acompanhados de som.",
+   "how": [
+    "Criar um logo sonoro curto e uma paleta sonora (instrumentos, timbres, andamento) derivada da ideia de marca.",
+    "Definir versões por ponto de contato: abertura e fechamento de vídeo, app/UX, eventos, espera telefônica, podcast.",
+    "Usar o mesmo motivo em campanhas diferentes, rearranjado, em vez de trilhas sem relação.",
+    "Evitar sons genéricos da categoria (campainha, batimento, porta de carro).",
+    "Mapeie sons do produto e da experiência.",
+    "Defina assinatura sonora e regras de uso."
+   ],
+   "tests": [
+    "A marca tem um logo sonoro usado em pelo menos 3 pontos de contato?",
+    "As últimas campanhas compartilham algum motivo sonoro?",
+    "O som seria reconhecido sem imagem?",
+    "A marca tem algum som proprietário usado com consistência?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "sonoro-motion",
+    "ativos-distintivos"
+   ],
+   "stage": [
+    "ativos",
+    "ativacao"
+   ],
+   "school": "pratica",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-anacouto-intelbras",
+     "locator": "texto",
+     "paraphrase": "Os sons dos próprios produtos eram um território que ninguém percebia."
+    },
+    {
+     "id": "src-futurebrand-riyadh-air",
+     "locator": "texto",
+     "paraphrase": "A identidade sonora integrou a experiência multissensorial."
+    },
+    {
+     "id": "src-amp-best-audio-brands-2026",
+     "locator": "comunicado",
+     "paraphrase": "Marcas nota A soam como elas mesmas e flexionam sua identidade; uso de música de marca caiu 67%.",
+     "quote": "A-grade brands don't just sound good, they sound like themselves."
+    },
+    {
+     "id": "src-amp-best-audio-brands-2024",
+     "locator": "estudos especiais",
+     "paraphrase": "Participantes preferiram logos visuais com logo sonoro; evitar sons não proprietários."
+    },
+    {
+     "id": "src-sixieme-son-faq",
+     "locator": "resposta sobre 'só preciso de um logo'",
+     "paraphrase": "O logo sonoro é a âncora de um sistema de texturas e instrumentos adaptável a todos os pontos de contato."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-riyadh-air-futurebrand",
+    "case-intelbras-ana-couto",
+    "case-uber-sonic-2024-amp",
+    "case-govbr-2025-secom"
+   ],
+   "contexts": "Mais relevante em produtos com som, varejo físico, mídia de áudio e vídeo. Pesa mais em marcas com muito vídeo, áudio, app ou atendimento por voz. A Sixième Son afirma que 40% dos clientes são B2B. Evidência vem de agências que vendem o serviço: trate números como indicativos.",
+   "batches": [
+    "cases",
+    "identidade-sensorial"
    ],
    "support": "consolidado",
    "sourceCount": 4,
@@ -11307,7 +11304,7 @@
    ],
    "cases": [
     "case-dropbox-2017-collins",
-    "case-uber-2018-rebrand",
+    "case-uber-2017-wolff-olins",
     "case-twitch-2019-collins",
     "case-uber-sonic-2024-amp"
    ],
@@ -11371,128 +11368,9 @@
    ],
    "conflictsWith": [],
    "cases": [
-    "case-uber-2018-rebrand"
+    "case-uber-2017-wolff-olins"
    ],
    "contexts": "Universal; obrigatório em serviço público e produtos digitais.",
-   "batches": [
-    "identidade-sensorial"
-   ],
-   "support": "consolidado",
-   "sourceCount": 4,
-   "debatedIn": []
-  },
-  {
-   "id": "color-ownership-in-context",
-   "title": "Possua uma cor dentro de um contexto, não no mundo",
-   "statement": "Busque possuir uma cor (ou combinação) dentro da sua categoria e dos seus pontos de contato, usando-a com dominância e consistência, em vez de tentar uma cor 'universalmente sua'.",
-   "why": "Só 4% das cores testadas pela Ipsos chegaram a Ouro; a JKR observa que é quase impossível possuir uma cor entre categorias e raramente necessário. Combinações e proporções (cor dominante + apoio) aumentam a unicidade. A Slack possui o berinjela no contexto da área de trabalho; a Twitch, o roxo no streaming.",
-   "how": [
-    "Mapear as cores dos principais concorrentes na categoria.",
-    "Escolher uma cor ou combinação pouco usada na categoria e definir proporção de uso.",
-    "Aplicar com dominância nos pontos de alto alcance; nunca diluir com muitas cores secundárias."
-   ],
-   "tests": [
-    "A cor principal é única entre os 5 maiores concorrentes?",
-    "A proporção de uso da cor está definida no guia?"
-   ],
-   "polarity": "prefira",
-   "domain": [
-    "identidade-visual",
-    "ativos-distintivos"
-   ],
-   "stage": [
-    "paisagem",
-    "ativos"
-   ],
-   "school": "misto",
-   "evidence": "empirica",
-   "strength": 2,
-   "sources": [
-    {
-     "id": "src-ipsos-jkr-be-distinctive-everywhere-2023",
-     "locator": "resumo",
-     "paraphrase": "Cor foi o tipo de ativo com menor taxa de Ouro (4%)."
-    },
-    {
-     "id": "src-jkr-be-distinctive-microsite-2023",
-     "locator": "/colour",
-     "paraphrase": "Possuir uma cor depende do contexto da categoria."
-    },
-    {
-     "id": "src-umbrex-distinctive-brand-assets-framework",
-     "locator": "tipos de ativo: cor",
-     "paraphrase": "Dominância de uma cor ou combinações distintas, com proporções de uso."
-    },
-    {
-     "id": "src-pentagram-slack-2019",
-     "locator": "paleta",
-     "paraphrase": "Paleta reduzida de 11 para 4 cores, mantendo o berinjela como acento reconhecível."
-    }
-   ],
-   "conflictsWith": [],
-   "cases": [
-    "case-slack-2019-pentagram",
-    "case-twitch-2019-collins"
-   ],
-   "contexts": "Marcas novas em categorias onde 'as boas cores já foram tomadas' devem apostar em combinação e proporção, não em matiz isolado.",
-   "batches": [
-    "identidade-sensorial"
-   ],
-   "support": "consolidado",
-   "sourceCount": 4,
-   "debatedIn": []
-  },
-  {
-   "id": "tagline-as-asset-requires-consistency",
-   "title": "Slogan só vira ativo com uso longo e consistente",
-   "statement": "Trate a tagline como ativo apenas se ela for testada e usada por anos; trocar de slogan a cada campanha não constrói memória.",
-   "why": "Slogans tiveram a menor taxa de Ouro entre os tipos 'clássicos' na Ipsos (6%); a JKR diz que boas linhas criam conexão com o tempo e linhas ruins nunca criam. Murrell mostra a convergência para fórmulas como 'Find your X', que nenhuma marca consegue possuir.",
-   "how": [
-    "Separar no guia 'linha de marca' (permanente) de 'linhas de campanha' (temporárias).",
-    "Testar unicidade da linha contra frases de concorrentes.",
-    "Comprometer-se com a linha de marca por vários anos."
-   ],
-   "tests": [
-    "A tagline atual tem mais de 3 anos?",
-    "A tagline segue uma fórmula usada por outras marcas?"
-   ],
-   "polarity": "evite",
-   "domain": [
-    "ativos-distintivos",
-    "identidade-verbal"
-   ],
-   "stage": [
-    "voz",
-    "ativos"
-   ],
-   "school": "misto",
-   "evidence": "empirica",
-   "strength": 2,
-   "sources": [
-    {
-     "id": "src-ipsos-jkr-be-distinctive-everywhere-2023",
-     "locator": "resumo",
-     "paraphrase": "Apenas 6% dos slogans testados atingiram Ouro."
-    },
-    {
-     "id": "src-jkr-be-distinctive-microsite-2023",
-     "locator": "/slogans",
-     "paraphrase": "Linhas usadas com consistência entram na cultura; linhas fracas nunca conectam."
-    },
-    {
-     "id": "src-murrell-age-of-average",
-     "locator": "taglines 'Find your X'",
-     "paraphrase": "27 marcas usando a mesma estrutura de slogan."
-    },
-    {
-     "id": "src-umbrex-distinctive-brand-assets-framework",
-     "locator": "tipos de ativo",
-     "paraphrase": "Taglines só contam como ativo se testadas."
-    }
-   ],
-   "conflictsWith": [],
-   "cases": [],
-   "contexts": "Universal.",
    "batches": [
     "identidade-sensorial"
    ],
@@ -12439,7 +12317,7 @@
    "conflictsWith": [],
    "cases": [
     "case-mastercard-2016-2019-pentagram",
-    "case-nubank-2026-koto"
+    "case-nubank-brasil-2026"
    ],
    "contexts": "Mais crítico para marcas com muitos pontos físicos (cartões, lojas, frota, embalagens).",
    "batches": [
@@ -13045,25 +12923,26 @@
    "debatedIn": []
   },
   {
-   "id": "characters-as-assets",
-   "title": "Considere personagens e mascotes como ativos sérios",
-   "statement": "Avalie um personagem ou mascote como ativo, com papel e limites definidos, em vez de descartá-lo por parecer pouco sofisticado.",
-   "why": "Na pesquisa Ipsos, 16% dos mascotes chegaram a Ouro, perto dos logos (19%). A JKR argumenta que personagens atravessam idiomas, criam vínculo e ficam distintivos rapidamente quando combinados a outros ativos; o Discord mantém o Clyde como ativo protegido.",
+   "id": "color-ownership-in-context",
+   "title": "Possua uma cor dentro de um contexto, não no mundo",
+   "statement": "Busque possuir uma cor (ou combinação) dentro da sua categoria e dos seus pontos de contato, usando-a com dominância e consistência, em vez de tentar uma cor 'universalmente sua'.",
+   "why": "Só 4% das cores testadas pela Ipsos chegaram a Ouro; a JKR observa que é quase impossível possuir uma cor entre categorias e raramente necessário. Combinações e proporções (cor dominante + apoio) aumentam a unicidade. A Slack possui o berinjela no contexto da área de trabalho; a Twitch, o roxo no streaming.",
    "how": [
-    "Se a marca já tem personagem, medir fama e unicidade antes de aposentá-lo.",
-    "Definir papel (porta-voz, guia, assinatura) e limites de comportamento e aparência.",
-    "Combinar o personagem com cor e logo nas primeiras aplicações."
+    "Mapear as cores dos principais concorrentes na categoria.",
+    "Escolher uma cor ou combinação pouco usada na categoria e definir proporção de uso.",
+    "Aplicar com dominância nos pontos de alto alcance; nunca diluir com muitas cores secundárias."
    ],
    "tests": [
-    "Um personagem existente foi medido antes de ser retirado?",
-    "O guia define limites de uso do personagem?"
+    "A cor principal é única entre os 5 maiores concorrentes?",
+    "A proporção de uso da cor está definida no guia?"
    ],
    "polarity": "prefira",
    "domain": [
-    "ativos-distintivos",
-    "identidade-visual"
+    "identidade-visual",
+    "ativos-distintivos"
    ],
    "stage": [
+    "paisagem",
     "ativos"
    ],
    "school": "misto",
@@ -13073,22 +12952,88 @@
     {
      "id": "src-ipsos-jkr-be-distinctive-everywhere-2023",
      "locator": "resumo",
-     "paraphrase": "16% dos mascotes testados atingiram Ouro."
+     "paraphrase": "Cor foi o tipo de ativo com menor taxa de Ouro (4%)."
     },
     {
      "id": "src-jkr-be-distinctive-microsite-2023",
-     "locator": "/mascots",
-     "paraphrase": "Mascotes atravessam idiomas, criam conexão e ficam distintivos rápido em combinação com outros ativos."
+     "locator": "/colour",
+     "paraphrase": "Possuir uma cor depende do contexto da categoria."
     },
     {
-     "id": "src-discord-branding",
-     "locator": "termos",
-     "paraphrase": "O personagem Clyde aparece entre as marcas protegidas do Discord."
+     "id": "src-umbrex-distinctive-brand-assets-framework",
+     "locator": "tipos de ativo: cor",
+     "paraphrase": "Dominância de uma cor ou combinações distintas, com proporções de uso."
+    },
+    {
+     "id": "src-pentagram-slack-2019",
+     "locator": "paleta",
+     "paraphrase": "Paleta reduzida de 11 para 4 cores, mantendo o berinjela como acento reconhecível."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [
+    "case-slack-2019-pentagram",
+    "case-twitch-2019-collins"
+   ],
+   "contexts": "Marcas novas em categorias onde 'as boas cores já foram tomadas' devem apostar em combinação e proporção, não em matiz isolado.",
+   "batches": [
+    "identidade-sensorial"
+   ],
+   "support": "consolidado",
+   "sourceCount": 3,
+   "debatedIn": []
+  },
+  {
+   "id": "tagline-as-asset-requires-consistency",
+   "title": "Slogan só vira ativo com uso longo e consistente",
+   "statement": "Trate a tagline como ativo apenas se ela for testada e usada por anos; trocar de slogan a cada campanha não constrói memória.",
+   "why": "Slogans tiveram a menor taxa de Ouro entre os tipos 'clássicos' na Ipsos (6%); a JKR diz que boas linhas criam conexão com o tempo e linhas ruins nunca criam. Murrell mostra a convergência para fórmulas como 'Find your X', que nenhuma marca consegue possuir.",
+   "how": [
+    "Separar no guia 'linha de marca' (permanente) de 'linhas de campanha' (temporárias).",
+    "Testar unicidade da linha contra frases de concorrentes.",
+    "Comprometer-se com a linha de marca por vários anos."
+   ],
+   "tests": [
+    "A tagline atual tem mais de 3 anos?",
+    "A tagline segue uma fórmula usada por outras marcas?"
+   ],
+   "polarity": "evite",
+   "domain": [
+    "ativos-distintivos",
+    "identidade-verbal"
+   ],
+   "stage": [
+    "voz",
+    "ativos"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ipsos-jkr-be-distinctive-everywhere-2023",
+     "locator": "resumo",
+     "paraphrase": "Apenas 6% dos slogans testados atingiram Ouro."
+    },
+    {
+     "id": "src-jkr-be-distinctive-microsite-2023",
+     "locator": "/slogans",
+     "paraphrase": "Linhas usadas com consistência entram na cultura; linhas fracas nunca conectam."
+    },
+    {
+     "id": "src-murrell-age-of-average",
+     "locator": "taglines 'Find your X'",
+     "paraphrase": "27 marcas usando a mesma estrutura de slogan."
+    },
+    {
+     "id": "src-umbrex-distinctive-brand-assets-framework",
+     "locator": "tipos de ativo",
+     "paraphrase": "Taglines só contam como ativo se testadas."
     }
    ],
    "conflictsWith": [],
    "cases": [],
-   "contexts": "Forte em consumo, apps, infantil, alimentação e marcas com muito conteúdo social. Em luxo e B2B formal, exige mais cuidado de tom.",
+   "contexts": "Universal.",
    "batches": [
     "identidade-sensorial"
    ],
@@ -13940,8 +13885,8 @@
    ],
    "conflictsWith": [],
    "cases": [
-    "case-gap-logo-2010",
-    "case-jaguar-2024-reset",
+    "case-gap-2010",
+    "case-jaguar-2024",
     "case-citi-logo-scher"
    ],
    "contexts": "Todo rebrand visível. Marcas pequenas podem fazer o mesmo com um post explicativo e aplicações reais.",
@@ -14410,7 +14355,7 @@
    ],
    "conflictsWith": [],
    "cases": [
-    "case-jaguar-2024-copy-nothing",
+    "case-jaguar-2024",
     "case-cracker-barrel-2025"
    ],
    "contexts": "Vale para qualquer avaliação; é especialmente importante ao usar cases de agência como evidência.",
@@ -15254,6 +15199,58 @@
    "debatedIn": []
   },
   {
+   "id": "characters-as-assets",
+   "title": "Considere personagens e mascotes como ativos sérios",
+   "statement": "Avalie um personagem ou mascote como ativo, com papel e limites definidos, em vez de descartá-lo por parecer pouco sofisticado.",
+   "why": "Na pesquisa Ipsos, 16% dos mascotes chegaram a Ouro, perto dos logos (19%). A JKR argumenta que personagens atravessam idiomas, criam vínculo e ficam distintivos rapidamente quando combinados a outros ativos; o Discord mantém o Clyde como ativo protegido.",
+   "how": [
+    "Se a marca já tem personagem, medir fama e unicidade antes de aposentá-lo.",
+    "Definir papel (porta-voz, guia, assinatura) e limites de comportamento e aparência.",
+    "Combinar o personagem com cor e logo nas primeiras aplicações."
+   ],
+   "tests": [
+    "Um personagem existente foi medido antes de ser retirado?",
+    "O guia define limites de uso do personagem?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "ativos-distintivos",
+    "identidade-visual"
+   ],
+   "stage": [
+    "ativos"
+   ],
+   "school": "misto",
+   "evidence": "empirica",
+   "strength": 2,
+   "sources": [
+    {
+     "id": "src-ipsos-jkr-be-distinctive-everywhere-2023",
+     "locator": "resumo",
+     "paraphrase": "16% dos mascotes testados atingiram Ouro."
+    },
+    {
+     "id": "src-jkr-be-distinctive-microsite-2023",
+     "locator": "/mascots",
+     "paraphrase": "Mascotes atravessam idiomas, criam conexão e ficam distintivos rápido em combinação com outros ativos."
+    },
+    {
+     "id": "src-discord-branding",
+     "locator": "termos",
+     "paraphrase": "O personagem Clyde aparece entre as marcas protegidas do Discord."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Forte em consumo, apps, infantil, alimentação e marcas com muito conteúdo social. Em luxo e B2B formal, exige mais cuidado de tom.",
+   "batches": [
+    "identidade-sensorial"
+   ],
+   "support": "consolidado",
+   "sourceCount": 2,
+   "debatedIn": []
+  },
+  {
    "id": "movement-brand-adaptable-opt-in",
    "title": "Em marcas de comunidade, desenhe para adoção gradual e opcional",
    "statement": "Quando a marca pertence a uma comunidade ou rede (movimento, open source, franquias de voluntários, criadores), crie critérios com a comunidade e um sistema que possa ser adotado aos poucos e localizado.",
@@ -15294,7 +15291,7 @@
    ],
    "conflictsWith": [],
    "cases": [
-    "case-wikimedia-rename-paused-2021",
+    "case-wikimedia-rename-2021",
     "case-twitch-2019-collins"
    ],
    "contexts": "ONGs, open source, cooperativas, plataformas de criadores, franquias. Pouco aplicável a marcas com controle central.",
@@ -18121,53 +18118,6 @@
    "debatedIn": []
   },
   {
-   "id": "scarcity-signals-value",
-   "title": "Exclusividade e escassez aumentam o desejo",
-   "statement": "Considere limitar acesso, disponibilidade ou público para tornar a marca mais desejada, desde que a restrição seja crível.",
-   "why": "Sutherland conta que Frederico, o Grande, só fez os camponeses aceitarem a batata ao declará-la 'vegetal real' e mandar guardas vigiarem mal a plantação: o que vale guardar vale roubar. Na Ogilvy, a frase de mala direta 'o cartão American Express não é para todos', vendendo por exclusividade, teria valido bilhões. Ele também cita produtos sazonais que não deixam o público se acostumar.",
-   "how": [
-    "Identifique o que pode ser limitado de forma crível (tempo, quantidade, acesso, critério).",
-    "Comunique a restrição como sinal de valor, não como desculpa.",
-    "Evite escassez falsa, que destrói confiança."
-   ],
-   "tests": [
-    "A marca usa algum mecanismo crível de exclusividade ou sazonalidade?"
-   ],
-   "polarity": "prefira",
-   "domain": [
-    "posicionamento",
-    "ativacao-eficacia"
-   ],
-   "stage": [
-    "posicionamento",
-    "ativacao"
-   ],
-   "school": "comportamental",
-   "evidence": "caso",
-   "strength": 1,
-   "sources": [
-    {
-     "id": "src-ted-sutherland-life-lessons-2009",
-     "locator": "trecho da batata",
-     "paraphrase": "Ao tornar a batata um vegetal real e guardado, Frederico a rebatizou e criou demanda."
-    },
-    {
-     "id": "src-bsfb-sutherland-alchemy-2025",
-     "locator": "41:30-42:30",
-     "paraphrase": "Uma frase de exclusividade ('não é para todos') valeu mais que quase tudo o que se fez para a American Express."
-    }
-   ],
-   "conflictsWith": [],
-   "cases": [],
-   "contexts": "Premium, lançamentos, edições sazonais. Não serve para utilidades essenciais.",
-   "batches": [
-    "transcricoes"
-   ],
-   "support": "consolidado",
-   "sourceCount": 2,
-   "debatedIn": []
-  },
-  {
    "id": "ceo-as-brand-signal",
    "title": "Porta-voz convence pelo comportamento, não pela declaração",
    "statement": "Quando o CEO ou fundador fala pela marca, ele deve demonstrar envolvimento real com o produto; declarar amor sem mostrar destrói credibilidade.",
@@ -18384,7 +18334,7 @@
     "messaging-hierarchy"
    ],
    "cases": [
-    "case-jaguar-2024-copy-nothing"
+    "case-jaguar-2024"
    ],
    "contexts": "Plataformas podem ter apoio (provas, tom), mas o centro deve ser um só.",
    "batches": [
@@ -18938,7 +18888,7 @@
     "reach-over-targeting"
    ],
    "cases": [
-    "case-jaguar-2024-reset"
+    "case-jaguar-2024"
    ],
    "contexts": "Luxo e nicho de alto preço. Para marcas de massa, a rejeição alta limita a penetração.",
    "batches": [
@@ -18949,6 +18899,53 @@
    "debatedIn": [
     "reach-over-targeting"
    ]
+  },
+  {
+   "id": "scarcity-signals-value",
+   "title": "Exclusividade e escassez aumentam o desejo",
+   "statement": "Considere limitar acesso, disponibilidade ou público para tornar a marca mais desejada, desde que a restrição seja crível.",
+   "why": "Sutherland conta que Frederico, o Grande, só fez os camponeses aceitarem a batata ao declará-la 'vegetal real' e mandar guardas vigiarem mal a plantação: o que vale guardar vale roubar. Na Ogilvy, a frase de mala direta 'o cartão American Express não é para todos', vendendo por exclusividade, teria valido bilhões. Ele também cita produtos sazonais que não deixam o público se acostumar.",
+   "how": [
+    "Identifique o que pode ser limitado de forma crível (tempo, quantidade, acesso, critério).",
+    "Comunique a restrição como sinal de valor, não como desculpa.",
+    "Evite escassez falsa, que destrói confiança."
+   ],
+   "tests": [
+    "A marca usa algum mecanismo crível de exclusividade ou sazonalidade?"
+   ],
+   "polarity": "prefira",
+   "domain": [
+    "posicionamento",
+    "ativacao-eficacia"
+   ],
+   "stage": [
+    "posicionamento",
+    "ativacao"
+   ],
+   "school": "comportamental",
+   "evidence": "caso",
+   "strength": 1,
+   "sources": [
+    {
+     "id": "src-ted-sutherland-life-lessons-2009",
+     "locator": "trecho da batata",
+     "paraphrase": "Ao tornar a batata um vegetal real e guardado, Frederico a rebatizou e criou demanda."
+    },
+    {
+     "id": "src-bsfb-sutherland-alchemy-2025",
+     "locator": "41:30-42:30",
+     "paraphrase": "Uma frase de exclusividade ('não é para todos') valeu mais que quase tudo o que se fez para a American Express."
+    }
+   ],
+   "conflictsWith": [],
+   "cases": [],
+   "contexts": "Premium, lançamentos, edições sazonais. Não serve para utilidades essenciais.",
+   "batches": [
+    "transcricoes"
+   ],
+   "support": "fonte-unica",
+   "sourceCount": 1,
+   "debatedIn": []
   },
   {
    "id": "serious-play-over-solemn-design",
@@ -27280,26 +27277,30 @@
    "type": "reposicionamento",
    "challenge": "Ter cultura distinta no Vale do Silício.",
    "insight": "Valores que contrariam o padrão do entorno diferenciam (profissionalismo formal na Siebel; confronto construtivo na Intel).",
-   "strategy": "Valores duros e até polêmicos, aplicados de verdade.",
-   "execution": "Siebel: sem comer na mesa, salas com nomes de clientes, bônus por satisfação auditada. Intel: treino de debate na integração.",
+   "strategy": "Profissionalismo e satisfação do cliente como valores centrais, embutidos em regras e remuneração.",
+   "execution": "Proibido comer na mesa; salas com nomes de clientes; arte dos relatórios de clientes nas paredes; bônus por pesquisa de satisfação feita por auditor externo.",
    "results": [],
    "lessons": [
     "Valor que tem oposto plausível (o Vale informal) diferencia.",
-    "Valor vira marca quando aparece em regras, espaços e remuneração."
+    "Valor vira marca quando aparece em regras, espaços e remuneração.",
+    "Valor contracultural diferencia mais que valor simpático",
+    "Valor vira real quando entra em regras, espaço e remuneração"
    ],
    "principles": [
     "point-of-view-over-neutrality",
-    "values-as-behaviours"
+    "values-as-behaviours",
+    "internal-adoption"
    ],
    "sources": [
     {
      "id": "src-lencioni-values-hbr-2002",
-     "locator": "p. 7-8",
-     "paraphrase": "Exemplos de valores autênticos que contrariam a cultura local."
+     "paraphrase": "Exemplos de valores autênticos que contrariam a cultura local.",
+     "locator": "p. 7-8"
     }
    ],
    "batches": [
-    "anti-generico"
+    "anti-generico",
+    "proposito-narrativa-cultura"
    ]
   },
   {
@@ -27529,10 +27530,10 @@
    "sector": "banco/fintech",
    "market": "Brasil",
    "type": "lancamento",
-   "challenge": "Entrar num mercado bancário concentrado, com consumidores desconfiados de bancos e muitas opções.",
-   "insight": "Uma diferença clara e simples (cartão sem anuidade, tudo no app) num setor visto como burocrático.",
+   "challenge": "Com 135 mi de clientes em três países e vários produtos, a marca precisava de uma arquitetura que acomodasse expressões distintas (Masterbrand, Ultravioleta, Nu U18, Nu Empresas).",
+   "insight": "O roxo é o ativo central; ele precisa aparecer em qualquer contexto, inclusive em co-branding e fundos de outras cores.",
    "strategy": "Começar com um produto diferente e expandir para serviços simples dentro do setor e para México e Colômbia, mantendo a diferença.",
-   "execution": "Produto e experiência digital, comunicação com propriedades culturais com fandom no Brasil (Game of Thrones, Friends).",
+   "execution": "Logo dentro do quadrado roxo como versão preferencial; paleta com hierarquia (roxo saturado no master, tríade própria no Ultravioleta); NuSans Display e Text com métricas próximas à fonte anterior para não quebrar layouts do app.",
    "results": [
     {
      "metric": "Valor de marca BrandZ 2026",
@@ -27545,25 +27546,47 @@
      "value": "Demand Power 257; Future Power 147",
      "independent": false,
      "source": "src-kantar-brandz-brasil-2026"
+    },
+    {
+     "metric": "Resultados",
+     "value": "não publicados",
+     "independent": false,
+     "source": "src-nubank-brand-refresh-2026"
     }
    ],
    "lessons": [
     "Uma diferença de produto fácil de explicar pode bastar para entrar numa categoria saturada.",
-    "A Kantar nota que a diferença dos bancos digitais começa a perder força quando os tradicionais reagem: diferença precisa ser renovada."
+    "A Kantar nota que a diferença dos bancos digitais começa a perder força quando os tradicionais reagem: diferença precisa ser renovada.",
+    "Se o ativo distintivo é uma cor, garanta que ela vá junto com o logo em qualquer fundo (container).",
+    "Fonte proprietária com métricas compatíveis permite trocar sem atrito no produto.",
+    "Submarcas podem ter expressão própria (premium como experiência, não como status) mantendo raízes comuns."
    ],
    "principles": [
     "pricing-power-brand",
-    "brand-promise-delivery"
+    "brand-promise-delivery",
+    "distinctive-assets-fame-uniqueness",
+    "brand-architecture-spectrum",
+    "rebrand-keep-equity",
+    "staged-rollout-coexistence"
    ],
    "sources": [
     {
      "id": "src-kantar-brandz-brasil-2026",
      "locator": "p. 29 e pp. 38-41",
      "paraphrase": "Caso de Diferença Significativa e confiança construída rapidamente."
+    },
+    {
+     "id": "src-nubank-brand-refresh-2026",
+     "paraphrase": "Refresh com container roxo preferencial, paleta hierárquica, NuSans e arquitetura para submarcas; sem resultados."
+    },
+    {
+     "id": "src-canaltech-nubank-2021",
+     "paraphrase": "Refresh anterior de 2021 com 38 mi de clientes, mostrando evolução incremental."
     }
    ],
    "batches": [
-    "brasil"
+    "brasil",
+    "cases"
    ]
   },
   {
@@ -27655,28 +27678,115 @@
    "sector": "automotivo",
    "market": "global",
    "type": "rebrand",
-   "challenge": "Rejuvenescer uma marca de luxo e preparar a transição elétrica.",
-   "insight": "Busca de modernidade ('modernismo exuberante', 'copy nothing').",
-   "strategy": "Ruptura de identidade e de público-alvo.",
-   "execution": "Novo logo e comunicação de moda, sem os códigos ingleses e aristocráticos; carros já tinham perdido o design marcante.",
-   "results": [],
+   "challenge": "Transformar a marca em ultra-luxo elétrico, com preço cerca de duas vezes maior, novo público e só três modelos a partir de 2026.",
+   "insight": "Partindo do lema do fundador ('copy nothing'), a marca decidiu se descolar de quase tudo que a definia, aceitando perder a maior parte dos clientes atuais.",
+   "strategy": "Reset total: novos logos, tipografia, paleta colorida e linguagem de 'criatividade destemida', aceitando manter só 10% a 15% dos clientes.",
+   "execution": "Teaser provocativo, revelação do conceito Type 00 em Miami, aparições em Paris Fashion Week, NBA All Star e Mônaco; leaper redesenhado, growler abandonado, novo monograma e 'strikethrough' de 18 linhas.",
+   "results": [
+    {
+     "metric": "Registros na Europa em abril de 2025",
+     "value": "49, contra 1.961 em abril de 2024 (-97,5%, ACEA)",
+     "independent": true,
+     "source": "src-designrush-jaguar"
+    },
+    {
+     "metric": "Clientes atuais que a marca espera manter",
+     "value": "10-15%",
+     "independent": true,
+     "source": "src-tbj-jaguar"
+    },
+    {
+     "metric": "Conta criativa",
+     "value": "entrou em revisão após a reação",
+     "independent": true,
+     "source": "src-designrush-jaguar"
+    },
+    {
+     "metric": "retenção esperada da base",
+     "value": "10% a 15%",
+     "independent": false,
+     "source": "src-ritson-jaguar-2024"
+    },
+    {
+     "metric": "reação nas redes",
+     "value": "cerca de 9 milhões de visualizações no X, majoritariamente negativas",
+     "independent": true,
+     "source": "src-ritson-jaguar-2024"
+    },
+    {
+     "metric": "cobertura de imprensa",
+     "value": "cerca de 1,1 bilhão de oportunidades de ver, sem mídia paga",
+     "independent": false,
+     "source": "src-ucmo-jaguar-2025"
+    },
+    {
+     "metric": "impressões em redes sociais",
+     "value": "cerca de 500 milhões",
+     "independent": false,
+     "source": "src-ucmo-jaguar-2025"
+    },
+    {
+     "metric": "interessados cadastrados",
+     "value": "cerca de 35 mil",
+     "independent": false,
+     "source": "src-ucmo-jaguar-2025"
+    }
+   ],
    "lessons": [
     "Re-logo não é rebranding; para uma montadora o desenho do carro pesa mais que o logo.",
-    "Tratar legado como peso aliena a base sem garantir aceitação no novo público."
+    "Tratar legado como peso aliena a base sem garantir aceitação no novo público.",
+    "Separe efeito de produto e de marca: a queda de vendas veio principalmente da linha descontinuada antes dos substitutos, não do logo.",
+    "Lançar marca nova sem produto para mostrar deixa a promessa vazia e convida a interpretação negativa.",
+    "Abandonar ativos com equity (o felino) e a herança só faz sentido se o novo público valorizar mais o que entra.",
+    "Um filme sem o produto, numa categoria em que o produto é o desejo, rompe o código sem dar nada no lugar.",
+    "Revitalizar em vez de resetar",
+    "Em mudança de produto, reforce os códigos",
+    "Não fale 'luxo' de si mesmo",
+    "Não descarte a base que mais compraria o novo produto",
+    "Jargão interno não é posicionamento",
+    "Ruptura precisa de diagnóstico convergente e de um ativo-âncora preservado.",
+    "Ser falado não é o mesmo que vender; resultados de vendas ainda não existiam.",
+    "Ver o produto ao vivo e entender o porquê muda opiniões."
    ],
    "principles": [
     "rebrand-keep-equity",
-    "core-vs-extended-identity"
+    "core-vs-extended-identity",
+    "brand-promise-delivery",
+    "separate-product-and-brand-effects",
+    "codes-of-category-break-or-follow",
+    "specificity-over-adjectives",
+    "reach-over-targeting",
+    "launch-identity-in-context",
+    "accept-polarization-premium-niche"
    ],
    "sources": [
     {
      "id": "src-bedendo-exame-jaguar-2024",
      "locator": "texto inteiro",
      "paraphrase": "Rebranding que ignorou a identidade nuclear."
+    },
+    {
+     "id": "src-tbj-jaguar",
+     "paraphrase": "Reset total em 18/11/2024, sem felino, filme sem carros, espera manter 10-15% dos clientes."
+    },
+    {
+     "id": "src-designrush-jaguar",
+     "paraphrase": "49 carros na Europa em abril de 2025; a queda é atribuída sobretudo ao vácuo de produto."
+    },
+    {
+     "id": "src-ritson-jaguar-2024",
+     "paraphrase": "Crítica do rebrand em novembro de 2024."
+    },
+    {
+     "id": "src-ucmo-jaguar-2025",
+     "paraphrase": "O diretor-geral explica a lógica do reset da Jaguar."
     }
    ],
    "batches": [
-    "brasil"
+    "brasil",
+    "cases",
+    "eficacia",
+    "transcricoes"
    ]
   },
   {
@@ -28230,7 +28340,7 @@
    "challenge": "A cultura agressiva que permitiu o hipercrescimento virou crise de confiança com motoristas, funcionários e passageiros; a empresa precisava ir de app para plataforma de mobilidade e preparar o IPO.",
    "insight": "A virada de marca tinha de começar pela cultura e pelos problemas reais das pessoas (retenção de motoristas, segurança de passageiros, orgulho de funcionários), não pela identidade.",
    "strategy": "Sequência: cultura e EVP ('Go Far and Fast Together'), ética e compliance, narrativa 'movement ignites opportunity', arquitetura simplificada para o IPO e só depois sistema global de identidade, baseado em audit com 200+ stakeholders.",
-   "execution": "Wordmark em vez de símbolo, U de volta, preto com respiro, 'safety blue' usado só em momentos de suporte, fonte Uber Move inspirada em sinalização de transporte, treinamentos regionais para adoção.",
+   "execution": "Wordmark ajustado; tipografia própria Uber Move inspirada em sinalização de transporte; paleta preto e branco (21:1) com azul de segurança pontual; grade derivada do logo; diretrizes de motion para vídeo (esquerda para direita) e, depois, identidade sonora com a amp.",
    "results": [
     {
      "metric": "Brand value antes do IPO",
@@ -28243,19 +28353,31 @@
      "value": "luz no preto; wordmark, não símbolo; trazer o U de volta",
      "independent": true,
      "source": "src-dezeen-uber-2018"
+    },
+    {
+     "metric": "Aceitação do preto em teste pré-lançamento",
+     "value": "88%",
+     "independent": false,
+     "source": "src-uber-2018-brand-redesign"
     }
    ],
    "lessons": [
     "Quando a crise é de comportamento, mude comportamento e cultura antes do logo.",
     "Uma cor pode ser um compromisso operacional (segurança) se for usada só nos momentos que o provam.",
     "Adoção global depende de tempo com os times regionais, não de um manual.",
-    "Pesquisa com o público pode gerar diretrizes de design concretas (wordmark, trazer o U)."
+    "Pesquisa com o público pode gerar diretrizes de design concretas (wordmark, trazer o U).",
+    "Escuta extensa e teste de decisões-chave antes do lançamento reduzem risco.",
+    "Tipografia própria e regra de contraste fazem a identidade ser reconhecível e acessível.",
+    "Motion precisa de guia próprio; sem ele, cada equipe anima de um jeito."
    ],
    "principles": [
     "brand-as-behaviour",
     "internal-adoption",
     "rebrand-test-before-launch",
-    "brand-promise-delivery"
+    "brand-promise-delivery",
+    "rebrand-keep-equity",
+    "identity-accessibility-built-in",
+    "motion-principles-from-brand"
    ],
    "sources": [
     {
@@ -28265,10 +28387,19 @@
     {
      "id": "src-dezeen-uber-2018",
      "paraphrase": "A pesquisa gerou três diretrizes que corrigiram o rebrand de 2016."
+    },
+    {
+     "id": "src-uber-2018-brand-redesign",
+     "paraphrase": "Racional oficial do redesenho."
+    },
+    {
+     "id": "src-uber-motion-guidelines-behance",
+     "paraphrase": "Guia de motion criado por inconsistência entre vídeos."
     }
    ],
    "batches": [
-    "cases"
+    "cases",
+    "identidade-sensorial"
    ]
   },
   {
@@ -29343,51 +29474,6 @@
    ]
   },
   {
-   "id": "case-nubank-2026-koto",
-   "brand": "Nubank",
-   "year": 2026,
-   "agency": "Koto + time Nubank",
-   "sector": "financeiro/fintech",
-   "market": "Brasil/LatAm",
-   "type": "rebrand",
-   "challenge": "Com 135 mi de clientes em três países e vários produtos, a marca precisava de uma arquitetura que acomodasse expressões distintas (Masterbrand, Ultravioleta, Nu U18, Nu Empresas).",
-   "insight": "O roxo é o ativo central; ele precisa aparecer em qualquer contexto, inclusive em co-branding e fundos de outras cores.",
-   "strategy": "Refresh profundo sem trocar o símbolo: arquitetura de cores e tipografia com raízes comuns e expressões próprias.",
-   "execution": "Logo dentro do quadrado roxo como versão preferencial; paleta com hierarquia (roxo saturado no master, tríade própria no Ultravioleta); NuSans Display e Text com métricas próximas à fonte anterior para não quebrar layouts do app.",
-   "results": [
-    {
-     "metric": "Resultados",
-     "value": "não publicados",
-     "independent": false,
-     "source": "src-nubank-brand-refresh-2026"
-    }
-   ],
-   "lessons": [
-    "Se o ativo distintivo é uma cor, garanta que ela vá junto com o logo em qualquer fundo (container).",
-    "Fonte proprietária com métricas compatíveis permite trocar sem atrito no produto.",
-    "Submarcas podem ter expressão própria (premium como experiência, não como status) mantendo raízes comuns."
-   ],
-   "principles": [
-    "distinctive-assets-fame-uniqueness",
-    "brand-architecture-spectrum",
-    "rebrand-keep-equity",
-    "staged-rollout-coexistence"
-   ],
-   "sources": [
-    {
-     "id": "src-nubank-brand-refresh-2026",
-     "paraphrase": "Refresh com container roxo preferencial, paleta hierárquica, NuSans e arquitetura para submarcas; sem resultados."
-    },
-    {
-     "id": "src-canaltech-nubank-2021",
-     "paraphrase": "Refresh anterior de 2021 com 38 mi de clientes, mostrando evolução incremental."
-    }
-   ],
-   "batches": [
-    "cases"
-   ]
-  },
-  {
    "id": "case-itau-2023-100-anos",
    "brand": "Itaú Unibanco",
    "year": 2023,
@@ -29622,109 +29708,41 @@
      "value": "~US$ 100 mi (estimativa secundária, discutível)",
      "independent": true,
      "source": "src-tbj-gap"
+    },
+    {
+     "metric": "desfecho",
+     "value": "logo retirado após reação negativa",
+     "independent": true,
+     "source": "src-dm-wheeler-2011"
     }
    ],
    "lessons": [
     "Identidade visual é o último passo de uma mudança estratégica, não o primeiro.",
     "Funcionários se cansam do logo muito antes dos consumidores.",
     "Não tente reenquadrar um erro como estratégia (crowdsourcing): isso piora a credibilidade.",
-    "Um logo genérico (Helvetica e degradê) não tem como competir com um ativo de 20 anos."
+    "Um logo genérico (Helvetica e degradê) não tem como competir com um ativo de 20 anos.",
+    "Faça auditoria de equity antes de mexer.",
+    "Nunca lance um símbolo sozinho."
    ],
    "principles": [
     "rebrand-needs-business-reason",
     "rebrand-keep-equity",
-    "rebrand-test-before-launch"
+    "rebrand-test-before-launch",
+    "launch-identity-in-context"
    ],
    "sources": [
     {
      "id": "src-tbj-gap",
      "paraphrase": "Logo trocado sem mudança de negócio e revertido em seis dias após reação massiva."
-    }
-   ],
-   "batches": [
-    "cases"
-   ]
-  },
-  {
-   "id": "case-jaguar-2024-copy-nothing",
-   "brand": "Jaguar",
-   "year": 2024,
-   "agency": "Accenture Song",
-   "sector": "automotivo/luxo",
-   "market": "global",
-   "type": "fracasso",
-   "challenge": "Transformar a marca em ultra-luxo elétrico, com preço cerca de duas vezes maior, novo público e só três modelos a partir de 2026.",
-   "insight": "Partindo do lema do fundador ('copy nothing'), a marca decidiu se descolar de quase tudo que a definia, aceitando perder a maior parte dos clientes atuais.",
-   "strategy": "Reset total: novos logos, tipografia, paleta colorida e linguagem de 'criatividade destemida', aceitando manter só 10% a 15% dos clientes.",
-   "execution": "Fim do felino saltando no logo; wordmark 'JaGuar'; filme de lançamento sem carros; valores como slogans ('delete ordinary', 'live vivid'); paleta primária vibrante.",
-   "results": [
-    {
-     "metric": "Registros na Europa em abril de 2025",
-     "value": "49, contra 1.961 em abril de 2024 (-97,5%, ACEA)",
-     "independent": true,
-     "source": "src-designrush-jaguar"
     },
     {
-     "metric": "Clientes atuais que a marca espera manter",
-     "value": "10-15%",
-     "independent": true,
-     "source": "src-tbj-jaguar"
-    },
-    {
-     "metric": "Conta criativa",
-     "value": "entrou em revisão após a reação",
-     "independent": true,
-     "source": "src-designrush-jaguar"
-    },
-    {
-     "metric": "retenção esperada da base",
-     "value": "10% a 15%",
-     "independent": false,
-     "source": "src-ritson-jaguar-2024"
-    },
-    {
-     "metric": "reação nas redes",
-     "value": "cerca de 9 milhões de visualizações no X, majoritariamente negativas",
-     "independent": true,
-     "source": "src-ritson-jaguar-2024"
-    }
-   ],
-   "lessons": [
-    "Separe efeito de produto e de marca: a queda de vendas veio principalmente da linha descontinuada antes dos substitutos, não do logo.",
-    "Lançar marca nova sem produto para mostrar deixa a promessa vazia e convida a interpretação negativa.",
-    "Abandonar ativos com equity (o felino) e a herança só faz sentido se o novo público valorizar mais o que entra.",
-    "Um filme sem o produto, numa categoria em que o produto é o desejo, rompe o código sem dar nada no lugar.",
-    "Revitalizar em vez de resetar",
-    "Em mudança de produto, reforce os códigos",
-    "Não fale 'luxo' de si mesmo",
-    "Não descarte a base que mais compraria o novo produto",
-    "Jargão interno não é posicionamento"
-   ],
-   "principles": [
-    "rebrand-keep-equity",
-    "brand-promise-delivery",
-    "separate-product-and-brand-effects",
-    "codes-of-category-break-or-follow",
-    "specificity-over-adjectives",
-    "reach-over-targeting"
-   ],
-   "sources": [
-    {
-     "id": "src-tbj-jaguar",
-     "paraphrase": "Reset total em 18/11/2024, sem felino, filme sem carros, espera manter 10-15% dos clientes."
-    },
-    {
-     "id": "src-designrush-jaguar",
-     "paraphrase": "49 carros na Europa em abril de 2025; a queda é atribuída sobretudo ao vácuo de produto."
-    },
-    {
-     "id": "src-ritson-jaguar-2024",
-     "paraphrase": "Crítica do rebrand em novembro de 2024."
+     "id": "src-dm-wheeler-2011",
+     "paraphrase": "O caso Gap afetou toda a indústria: clientes passaram a temer 'ter uma experiência Gap'."
     }
    ],
    "batches": [
     "cases",
-    "eficacia"
+    "transcricoes"
    ]
   },
   {
@@ -29809,7 +29827,8 @@
     "Um nome que virou verbo é um ativo raro; descartá-lo exige um ganho muito claro.",
     "Rebrand que promete algo que o produto ainda não entrega soa impulsivo e corrói confiança, ainda mais para serviços financeiros.",
     "Rollout inconsistente comunica improviso.",
-    "Marcas ligadas a uma pessoa herdam a reputação dela."
+    "Marcas ligadas a uma pessoa herdam a reputação dela.",
+    "Léxico proprietário é ativo de marca; trocá-lo sem oferecer algo melhor rompe o vínculo."
    ],
    "principles": [
     "rebrand-keep-equity",
@@ -29820,10 +29839,16 @@
     {
      "id": "src-tbj-twitter-x",
      "paraphrase": "Troca para X em dias, perda do verbo 'tweetar', promessa sem produto e perda de valor estimada em US$ 4-20 bi."
+    },
+    {
+     "id": "src-thewriter-rewrite-language-2025",
+     "locator": "Not every rewrite works",
+     "paraphrase": "Perdeu um dos léxicos de marca mais ricos dos últimos 20 anos."
     }
    ],
    "batches": [
-    "cases"
+    "cases",
+    "identidade-verbal"
    ]
   },
   {
@@ -29837,7 +29862,7 @@
    "challenge": "O nome Wikimedia era desconhecido e confuso para o mundo; a proposta era usar o nome mais conhecido (Wikipedia) para o movimento e a Fundação.",
    "insight": "Racional de awareness forte, mas os voluntários (que produzem o conteúdo) eram stakeholders com poder de veto moral e não aceitavam a Fundação se chamar Wikipedia.",
    "strategy": "Projeto de naming e design system com critérios do movimento; após RfC contrária, o board pausou e depois encerrou o renaming, exigindo processo participativo para qualquer retomada.",
-   "execution": "Critérios de branding do movimento (clareza, proteção de voluntários, adesão opcional por afiliados); resolução do board em 2021.",
+   "execution": "Critérios definidos em consulta; RfC da comunidade rejeitou a fundação se chamar Wikipedia; conselho pausou o renaming e redirecionou o trabalho de marca.",
    "results": [
     {
      "metric": "Decisão",
@@ -29855,21 +29880,29 @@
    "lessons": [
     "Em marcas de comunidade, quem cria o valor precisa participar da decisão de nome desde o início.",
     "Awareness não é o único critério de naming: legitimidade e proteção de stakeholders pesam.",
-    "Defina governança e critérios de decisão antes de apresentar opções."
+    "Defina governança e critérios de decisão antes de apresentar opções.",
+    "Mudanças de nome e marca em comunidades exigem co-criação desde o início.",
+    "Critérios explícitos ajudam a decidir e a pausar."
    ],
    "principles": [
     "internal-adoption",
     "naming-criteria-scoring",
-    "stakeholder-governance-renaming"
+    "stakeholder-governance-renaming",
+    "movement-brand-adaptable-opt-in"
    ],
    "sources": [
     {
      "id": "src-wikimedia-brand-project",
      "paraphrase": "O board pausou e encerrou o renaming após a comunidade rejeitar a Fundação se chamar Wikipedia."
+    },
+    {
+     "id": "src-wikimedia-movement-brand-project",
+     "paraphrase": "Página do projeto e resolução do conselho."
     }
    ],
    "batches": [
-    "cases"
+    "cases",
+    "identidade-sensorial"
    ]
   },
   {
@@ -30971,51 +31004,6 @@
    ]
   },
   {
-   "id": "case-uber-2018-rebrand",
-   "brand": "Uber",
-   "year": 2018,
-   "agency": "Uber Brand Experience (interno)",
-   "sector": "mobilidade",
-   "market": "global",
-   "type": "rebrand",
-   "challenge": "Identidade anterior confusa (o 'U' sumido) e sistema pouco unificado entre mercados.",
-   "insight": "O nome já era muito conhecido; movimento é a fonte de oportunidade que a marca oferece.",
-   "strategy": "Investir em wordmark, restaurar o U, abraçar o preto e criar sistema de nove elementos.",
-   "execution": "Wordmark ajustado; tipografia própria Uber Move inspirada em sinalização de transporte; paleta preto e branco (21:1) com azul de segurança pontual; grade derivada do logo; diretrizes de motion para vídeo (esquerda para direita) e, depois, identidade sonora com a amp.",
-   "results": [
-    {
-     "metric": "Aceitação do preto em teste pré-lançamento",
-     "value": "88%",
-     "independent": false,
-     "source": "src-uber-2018-brand-redesign"
-    }
-   ],
-   "lessons": [
-    "Escuta extensa e teste de decisões-chave antes do lançamento reduzem risco.",
-    "Tipografia própria e regra de contraste fazem a identidade ser reconhecível e acessível.",
-    "Motion precisa de guia próprio; sem ele, cada equipe anima de um jeito."
-   ],
-   "principles": [
-    "rebrand-keep-equity",
-    "rebrand-test-before-launch",
-    "identity-accessibility-built-in",
-    "motion-principles-from-brand"
-   ],
-   "sources": [
-    {
-     "id": "src-uber-2018-brand-redesign",
-     "paraphrase": "Racional oficial do redesenho."
-    },
-    {
-     "id": "src-uber-motion-guidelines-behance",
-     "paraphrase": "Guia de motion criado por inconsistência entre vídeos."
-    }
-   ],
-   "batches": [
-    "identidade-sensorial"
-   ]
-  },
-  {
    "id": "case-uber-sonic-2024-amp",
    "brand": "Uber",
    "year": 2024,
@@ -31214,36 +31202,6 @@
    ]
   },
   {
-   "id": "case-wikimedia-rename-paused-2021",
-   "brand": "Wikimedia",
-   "year": 2021,
-   "agency": "Wikimedia Foundation Brand Studio",
-   "sector": "terceiro-setor",
-   "market": "global",
-   "type": "fracasso",
-   "challenge": "O nome 'Wikimedia' é desconhecido e confuso; o movimento queria uma marca mais clara baseada em Wikipedia.",
-   "insight": "Em marcas de comunidade, legitimidade do processo pesa tanto quanto a qualidade da proposta.",
-   "strategy": "Proposta de convenção de nomes e design baseada na marca mais conhecida, com adoção opcional pelos afiliados.",
-   "execution": "Critérios definidos em consulta; RfC da comunidade rejeitou a fundação se chamar Wikipedia; conselho pausou o renaming e redirecionou o trabalho de marca.",
-   "results": [],
-   "lessons": [
-    "Mudanças de nome e marca em comunidades exigem co-criação desde o início.",
-    "Critérios explícitos ajudam a decidir e a pausar."
-   ],
-   "principles": [
-    "movement-brand-adaptable-opt-in"
-   ],
-   "sources": [
-    {
-     "id": "src-wikimedia-movement-brand-project",
-     "paraphrase": "Página do projeto e resolução do conselho."
-    }
-   ],
-   "batches": [
-    "identidade-sensorial"
-   ]
-  },
-  {
    "id": "case-back-market-vucko-motion",
    "brand": "Back Market",
    "year": 2024,
@@ -31394,36 +31352,6 @@
      "id": "src-thewriter-rewrite-language-2025",
      "locator": "artigo",
      "paraphrase": "Caso descrito pela agência, sem número de resultado final."
-    }
-   ],
-   "batches": [
-    "identidade-verbal"
-   ]
-  },
-  {
-   "id": "case-twitter-x-lexicon-loss",
-   "brand": "Twitter / X",
-   "year": 2023,
-   "agency": "",
-   "sector": "tecnologia",
-   "market": "global",
-   "type": "fracasso",
-   "challenge": "Rebrand de Twitter para X.",
-   "insight": "A marca tinha um dos léxicos proprietários mais ricos (tweet, retweet, o pássaro).",
-   "strategy": "Abandono do léxico em favor de um novo nome e identidade.",
-   "execution": "Termos substituídos de uma vez.",
-   "results": [],
-   "lessons": [
-    "Léxico proprietário é ativo de marca; trocá-lo sem oferecer algo melhor rompe o vínculo."
-   ],
-   "principles": [
-    "rebrand-keep-equity"
-   ],
-   "sources": [
-    {
-     "id": "src-thewriter-rewrite-language-2025",
-     "locator": "Not every rewrite works",
-     "paraphrase": "Perdeu um dos léxicos de marca mais ricos dos últimos 20 anos."
     }
    ],
    "batches": [
@@ -32213,37 +32141,6 @@
    ]
   },
   {
-   "id": "case-siebel-professionalism-values",
-   "brand": "Siebel Systems",
-   "year": 2002,
-   "agency": "",
-   "sector": "software",
-   "market": "EUA",
-   "type": "reposicionamento",
-   "challenge": "Ter cultura distinta no Vale do Silício.",
-   "insight": "Ir contra a cultura informal do setor.",
-   "strategy": "Profissionalismo e satisfação do cliente como valores centrais, embutidos em regras e remuneração.",
-   "execution": "Proibido comer na mesa; salas com nomes de clientes; arte dos relatórios de clientes nas paredes; bônus por pesquisa de satisfação feita por auditor externo.",
-   "results": [],
-   "lessons": [
-    "Valor contracultural diferencia mais que valor simpático",
-    "Valor vira real quando entra em regras, espaço e remuneração"
-   ],
-   "principles": [
-    "values-as-behaviours",
-    "internal-adoption"
-   ],
-   "sources": [
-    {
-     "id": "src-lencioni-values-hbr-2002",
-     "paraphrase": "exemplo de autenticidade agressiva e valores embutidos"
-    }
-   ],
-   "batches": [
-    "proposito-narrativa-cultura"
-   ]
-  },
-  {
    "id": "case-walmart-save-money-live-better",
    "brand": "Walmart",
    "year": 2007,
@@ -32671,96 +32568,6 @@
     {
      "id": "src-ucmo-mcdonalds-wk-2023",
      "paraphrase": "A W+K conta como fan truths e Famous Orders devolveram o swagger ao McDonald's."
-    }
-   ],
-   "batches": [
-    "transcricoes"
-   ]
-  },
-  {
-   "id": "case-jaguar-2024-reset",
-   "brand": "Jaguar (JLR)",
-   "year": 2024,
-   "agency": "",
-   "sector": "automotivo-luxo",
-   "market": "global",
-   "type": "rebrand",
-   "challenge": "Marca querida, mas com vendas em queda, clientes envelhecendo e competindo com as premium alemãs num jogo de eficiência.",
-   "insight": "A Jaguar prosperou quando vendia pouco, caro e com design que parecia de outro planeta; o fundador dizia que um Jaguar deve ser 'cópia de nada'.",
-   "strategy": "Parar a produção, dobrar o preço-alvo, migrar para elétrico e reposicionar como luxo disruptivo e exuberante, aceitando polarizar.",
-   "execution": "Teaser provocativo, revelação do conceito Type 00 em Miami, aparições em Paris Fashion Week, NBA All Star e Mônaco; leaper redesenhado, growler abandonado, novo monograma e 'strikethrough' de 18 linhas.",
-   "results": [
-    {
-     "metric": "cobertura de imprensa",
-     "value": "cerca de 1,1 bilhão de oportunidades de ver, sem mídia paga",
-     "independent": false,
-     "source": "src-ucmo-jaguar-2025"
-    },
-    {
-     "metric": "impressões em redes sociais",
-     "value": "cerca de 500 milhões",
-     "independent": false,
-     "source": "src-ucmo-jaguar-2025"
-    },
-    {
-     "metric": "interessados cadastrados",
-     "value": "cerca de 35 mil",
-     "independent": false,
-     "source": "src-ucmo-jaguar-2025"
-    }
-   ],
-   "lessons": [
-    "Ruptura precisa de diagnóstico convergente e de um ativo-âncora preservado.",
-    "Ser falado não é o mesmo que vender; resultados de vendas ainda não existiam.",
-    "Ver o produto ao vivo e entender o porquê muda opiniões."
-   ],
-   "principles": [
-    "rebrand-keep-equity",
-    "launch-identity-in-context",
-    "accept-polarization-premium-niche"
-   ],
-   "sources": [
-    {
-     "id": "src-ucmo-jaguar-2025",
-     "paraphrase": "O diretor-geral explica a lógica do reset da Jaguar."
-    }
-   ],
-   "batches": [
-    "transcricoes"
-   ]
-  },
-  {
-   "id": "case-gap-logo-2010",
-   "brand": "Gap",
-   "year": 2010,
-   "agency": "",
-   "sector": "moda-varejo",
-   "market": "EUA",
-   "type": "fracasso",
-   "challenge": "Modernizar o logo de uma marca de varejo muito conhecida.",
-   "insight": "Ausente: segundo Wheeler, a marca não auditou seu equity nem ouviu clientes.",
-   "strategy": "Trocar o logo sem explicação de contexto.",
-   "execution": "Novo símbolo divulgado isoladamente; recuo diante da reação pública.",
-   "results": [
-    {
-     "metric": "desfecho",
-     "value": "logo retirado após reação negativa",
-     "independent": true,
-     "source": "src-dm-wheeler-2011"
-    }
-   ],
-   "lessons": [
-    "Faça auditoria de equity antes de mexer.",
-    "Nunca lance um símbolo sozinho."
-   ],
-   "principles": [
-    "rebrand-keep-equity",
-    "launch-identity-in-context"
-   ],
-   "sources": [
-    {
-     "id": "src-dm-wheeler-2011",
-     "paraphrase": "O caso Gap afetou toda a indústria: clientes passaram a temer 'ter uma experiência Gap'."
     }
    ],
    "batches": [

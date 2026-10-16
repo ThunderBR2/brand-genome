@@ -25,7 +25,7 @@ export const landscapeMarkdown = (l: Landscape, detail: "summary" | "full" = "su
     const v = l.categoryVoice;
     L.push("## Voz da categoria (média dos concorrentes)", `Formalidade ${v.formality}/5, frases de ${v.avgSentence} palavras, ${pct(v.we)} das marcas de pessoa em "nós", ${pct(v.you)} em "você", exclamação em ${v.exclamations}% das frases.`, "");
   }
-  L.push("## Marcas", "");
+  if (l.entities.length) L.push("## Marcas", "");
   for (const e of l.entities) {
     L.push(`### ${e.entity} (${e.role}) — ${e.words} palavras`);
     L.push(`Voz: ${e.voiceSummary}. Formalidade ${e.voice.formality}/5. Genérico: ${e.genericPer100} termos a cada 100 palavras.`);

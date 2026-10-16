@@ -5,7 +5,7 @@
 1. **Evidência antes de opinião.** Fatos sobre a marca apontam para uma fonte (trecho e localizador). Fatos medidos (convenções, voz, similaridade) são calculados, não julgados.
 2. **Precisão explícita.** `measured` (calculado do texto), `declared` (o cliente afirmou), `observed` (o público disse ou o concorrente mostra), `inferred` (julgamento do modelo).
 3. **Desconhecido não é ausência.** Sem fontes do público, insight é hipótese. Sem busca no INPI, o nome é candidato. O brief lista o que não se sabe e diz para não inventar.
-4. **Cada fonte vota uma vez.** No cânone, um princípio só fica "consolidado" com duas ou mais fontes independentes (autores diferentes).
+4. **Cada fonte vota uma vez.** No cânone, um princípio só fica "consolidado" com duas ou mais fontes independentes: páginas diferentes (a mesma URL registrada duas vezes conta uma), autores diferentes (nome normalizado, sem cargo nem "entrevistado por") e só fontes que foram de fato lidas.
 5. **Escolas não se misturam em silêncio.** Debates registram as posições de cada escola e a posição padrão do sistema. Princípios em debate são marcados.
 6. **O mesmo instrumento mede a referência e o resultado.** O verificador usa o mesmo léxico, as mesmas convenções e os mesmos vetores de vocabulário que construíram a paisagem.
 

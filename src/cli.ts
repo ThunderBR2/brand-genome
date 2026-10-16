@@ -18,7 +18,14 @@ const proj = (): Record<string, unknown> => {
   return p ? { project: p } : {};
 };
 const show = async (tool: string, args: Record<string, unknown>): Promise<void> => {
-  const r = await TOOLS[tool]!({ ...proj(), ...args }, ctx());
+  let r;
+  try {
+    r = await TOOLS[tool]!({ ...proj(), ...args }, ctx());
+  } catch (e) {
+    process.stderr.write(`Erro: ${e instanceof Error ? e.message : String(e)}\n`);
+    process.exitCode = 1;
+    return;
+  }
   const out = r.content.map((c) => c.text).join("\n");
   if (r.isError) {
     process.stderr.write(`${out}\n`);
@@ -26,7 +33,7 @@ const show = async (tool: string, args: Record<string, unknown>): Promise<void> 
   } else process.stdout.write(`${out}\n`);
 };
 
-program.command("init <name>").description("criar um projeto de marca").option("--sector <s>", "setor").option("--market <m>", "mercado", "Brasil").option("--brand <b>", "nome da marca (se diferente)").action((name: string, o: { sector?: string; market?: string; brand?: string }) => show("brand_projects", { action: "create", name, sector: o.sector, market: o.market, brandName: o.brand }));
+program.command("init <name>").description("criar um projeto de marca").option("--sector <s>", "setor").option("--market <m>", "mercado", "Brasil").option("--brand <b>", "nome da marca (se diferente)").option("--lang <l>", "idioma da marca: pt ou en", "pt").action((name: string, o: { sector?: string; market?: string; brand?: string; lang?: string }) => show("brand_projects", { action: "create", name, sector: o.sector, market: o.market, brandName: o.brand, lang: o.lang }));
 program.command("projects").description("listar projetos").action(() => show("brand_projects", {}));
 program.command("status").description("situação do projeto e próximo passo").action(() => show("brand_status", {}));
 program.command("add <items...>").description("adicionar fontes (links, arquivos, pastas)").requiredOption("--role <role>", SOURCE_ROLES.join("|")).option("--entity <name>", "nome do concorrente/marca").option("--pages <n>", "páginas por site", Number).action((items: string[], o: { role: SourceRole; entity?: string; pages?: number }) => show("brand_add_sources", { sources: items.map((uri) => ({ uri, role: o.role, ...(o.entity ? { entity: o.entity } : {}), ...(o.pages ? { maxPages: o.pages } : {}) })) }));
@@ -34,7 +41,17 @@ program.command("note <file>").description("adicionar uma nota a partir de um ar
 program.command("sources").description("listar fontes").action(() => show("brand_sources", {}));
 program.command("landscape").description("paisagem da categoria").option("--full").action((o: { full?: boolean }) => show("brand_landscape", { detail: o.full ? "full" : "summary" }));
 program.command("stage <stage>").description(`brief de uma etapa (${STAGES.join(", ")})`).action((stage: Stage) => show("brand_stage_request", { stage }));
-program.command("submit <stage> <json>").description("enviar a entrega de uma etapa (arquivo JSON)").action(async (stage: Stage, json: string) => show("brand_stage_submit", { stage, output: JSON.parse(await readFile(json, "utf8")) }));
+program.command("submit <stage> <json>").description("enviar a entrega de uma etapa (arquivo JSON)").action(async (stage: Stage, json: string) => {
+  let output: unknown;
+  try {
+    output = JSON.parse(await readFile(json, "utf8"));
+  } catch (e) {
+    process.stderr.write(`Erro: não consegui ler ${json} como JSON (${e instanceof Error ? e.message : String(e)})\n`);
+    process.exitCode = 1;
+    return;
+  }
+  await show("brand_stage_submit", { stage, output });
+});
 program.command("approve <stage>").description("aprovar uma etapa (com o OK do cliente)").option("--note <n>").option("--force").action((stage: Stage, o: { note?: string; force?: boolean }) => show("brand_stage_approve", { stage, note: o.note, force: o.force }));
 program.command("conflicts").description("conflitos").action(() => show("brand_conflicts", {}));
 program.command("verify <target>").description("verificar um texto, arquivo ou URL").option("--no-voice", "ignorar a voz da marca").action((target: string, o: { voice: boolean }) => show("brand_verify", { target, useVoice: o.voice }));
@@ -46,7 +63,7 @@ const canon = program.command("canon").description("cânone de branding");
 canon.command("build").description("consolidar os lotes e gravar canon/canon.json").action(async () => {
   const c = buildCanon(await readBatches([`${appCanonDir()}/raw`, userCanonDir()]));
   const f = await writeCompiledCanon(c);
-  process.stdout.write(`${JSON.stringify({ file: f, batches: c.batches.length, sources: c.sources.length, principles: c.principles.length, consolidated: c.principles.filter((p) => p.support === "consolidado").length, frameworks: c.frameworks.length, debates: c.debates.length, cases: c.cases.length, antipatterns: c.antipatterns.length, lexicon: c.lexicon.length, warnings: c.warnings }, null, 1)}\n`);
+  process.stdout.write(`${JSON.stringify({ file: f, batches: c.batches.length, uniqueSources: c.uniqueSources, dissectedSources: c.dissectedSources, principles: c.principles.length, consolidated: c.principles.filter((p) => p.support === "consolidado").length, frameworks: c.frameworks.length, debates: c.debates.length, cases: c.cases.length, antipatterns: c.antipatterns.length, lexicon: c.lexicon.length, warnings: c.warnings }, null, 1)}\n`);
 });
 canon.command("search <query...>").description("buscar no cânone").option("--stage <s>").action(async (q: string[], o: { stage?: string }) => {
   const c = await loadCanon();
@@ -73,4 +90,9 @@ program.command("worker", { hidden: true }).action(async () => {
   await runWorker();
 });
 
-await program.parseAsync();
+try {
+  await program.parseAsync();
+} catch (e) {
+  process.stderr.write(`Erro: ${e instanceof Error ? e.message : String(e)}\n`);
+  process.exitCode = 1;
+}

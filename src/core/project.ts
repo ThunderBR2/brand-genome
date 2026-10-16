@@ -42,12 +42,15 @@ export interface AddSourceInput {
 export const randomId = (prefix: string): string => `${prefix}_${randomBytes(4).toString("hex")}`;
 
 const DOC_EXT = new Set([".pdf", ".md", ".markdown", ".txt", ".html", ".htm", ".docx", ".csv", ".json", ".srt", ".vtt"]);
+/** Folders that hold credentials: never read, even if a path points there. */
+const PRIVATE_PATH = /([\\/]\.(ssh|aws|gnupg|azure|kube|docker|npmrc|git-credentials|env)|[\\/]\.env(\.|$)|id_rsa|id_ed25519|credentials)/i;
 
 export const detectKind = (uri: string): SourceKind => {
   if (/^https?:\/\//i.test(uri)) {
     const ext = extname(new URL(uri).pathname).toLowerCase();
     return ext === ".pdf" || ext === ".docx" || ext === ".txt" || ext === ".md" ? "document" : "web";
   }
+  if (PRIVATE_PATH.test(uri)) throw new Error(`Por segurança, não leio arquivos de credenciais ou configuração (${uri}).`);
   if (DOC_EXT.has(extname(uri).toLowerCase())) return "document";
   throw new Error(`Não sei que tipo de fonte é esta: ${uri}. Use um link, um arquivo (PDF, DOCX, MD, TXT, HTML, CSV, SRT) ou uma nota de texto.`);
 };

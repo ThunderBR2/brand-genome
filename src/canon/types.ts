@@ -179,6 +179,9 @@ export type Support = "consolidado" | "fonte-unica";
 export interface Canon {
   readonly builtAt: string;
   readonly batches: readonly string[];
+  /** Distinct pages (by URL) and how many of them were actually read. */
+  readonly uniqueSources: number;
+  readonly dissectedSources: number;
   readonly sources: readonly CanonSource[];
   readonly principles: readonly (Principle & { support: Support; sourceCount: number; batches: string[]; debatedIn: string[] })[];
   readonly frameworks: readonly (Framework & { batches: string[] })[];

@@ -1,7 +1,7 @@
 import type { LexiconEntry } from "../canon/types.js";
-import { contentTokens, count, excerpt, findPhrase, fold, round, sentences, STOPWORDS, terms, TfIdf, words } from "../core/text.js";
+import { contentTokens, count, detectLang, excerpt, findPhrase, fold, round, sentences, stem, STOPWORDS, terms, TfIdf, words } from "../core/text.js";
 import type { Landscape } from "./landscape.js";
-import { findLexicon } from "./lexicon.js";
+import { findLexicon, isSingleWord } from "./lexicon.js";
 import { measureVoice, type VoiceMetrics } from "./voice.js";
 
 /** The voice a brand committed to (output of the "voz" stage), in the form the checker reads. */
@@ -45,7 +45,17 @@ export interface AssessContext {
   readonly brandText?: string;
   readonly brandName?: string;
   readonly voice?: VoiceSpec | null;
+  /** Words the brand chose to own (never flagged as generic). */
+  readonly allow?: readonly string[];
 }
+
+/** Praise words that say nothing without a fact next to them. */
+const EVALUATIVE = new Set([
+  "bom", "boa", "bons", "boas", "otimo", "otima", "melhor", "melhores", "incrivel", "incriveis", "perfeito", "perfeita", "verdade", "verdadeiro", "verdadeira",
+  "especial", "especiais", "carinho", "amor", "gostoso", "gostosa", "saboroso", "saborosa", "delicioso", "deliciosa", "maravilhoso", "maravilhosa", "excelente",
+  "sensacional", "fantastico", "fantastica", "diferenciado", "diferenciada", "premium", "top", "great", "best", "amazing", "perfect", "real",
+  "true", "love", "awesome", "wonderful", "excellent", "special", "delicious", "good",
+].map((w) => stem(w)));
 
 const FACET_LABEL: Record<Deviation["facet"], string> = {
   generico: "Linguagem genérica",
@@ -57,6 +67,8 @@ const FACET_LABEL: Record<Deviation["facet"], string> = {
 const KIND_WEIGHT: Record<string, number> = { cliche: 1, jargao: 1, "promessa-vaga": 1.2, "proposito-generico": 1.2, categoria: 1, "adjetivo-vazio": 0.5 };
 const KIND_LABEL: Record<string, string> = { cliche: "clichê", jargao: "jargão", "promessa-vaga": "promessa vaga", "proposito-generico": "propósito genérico", categoria: "convenção da categoria", "adjetivo-vazio": "adjetivo vazio" };
 
+const voice0Lang = (text: string, fallback: "pt" | "en"): "pt" | "en" => (words(text).length >= 6 ? detectLang(text) : fallback);
+
 const clamp = (n: number): number => Math.max(0, Math.min(100, Math.round(n)));
 
 const tokensFor = (t: string): string[] => terms(t);
@@ -64,11 +76,11 @@ const tokensFor = (t: string): string[] => terms(t);
 /** Capitalized words that are not sentence-initial: names, places, products (signals of specificity). */
 const properNouns = (text: string, brandName?: string): string[] => {
   const out: string[] = [];
-  const brand = brandName ? fold(brandName) : "";
+  const brandWords = new Set(brandName ? words(brandName).map(fold) : []);
   for (const s of sentences(text)) {
     const ws = words(s);
     ws.slice(1).forEach((w) => {
-      if (/^\p{Lu}/u.test(w) && !STOPWORDS.has(fold(w)) && fold(w) !== brand && w.length > 1 && w !== w.toUpperCase()) out.push(w);
+      if (/^\p{Lu}/u.test(w) && !STOPWORDS.has(fold(w)) && !brandWords.has(fold(w)) && w.length > 1 && w !== w.toUpperCase()) out.push(w);
     });
   }
   return out;
@@ -82,18 +94,25 @@ const properNouns = (text: string, brandName?: string): string[] => {
 export const assessText = (text: string, ctx: AssessContext): Assessment => {
   const deviations: Deviation[] = [];
   const facets: Assessment["facets"][number][] = [];
-  const voice = measureVoice(text, ctx.lang);
+  const lang = voice0Lang(text, ctx.lang);
+  const voice = measureVoice(text, lang);
   const n = Math.max(1, voice.words);
   const short = voice.words < 14;
+  if (voice.words < 3) {
+    return { score: 50, verdict: "curto demais para medir", facets: [], deviations: [{ severity: "baixa", facet: "especificidade", message: "Texto com menos de 3 palavras: não dá para avaliar sozinho. Verifique a frase dentro do contexto em que ela vai aparecer." }], voice, closest: [] };
+  }
 
   // 1. Generic language from the canon's lexicon.
-  const hits = findLexicon(text, ctx.lexicon, { sector: ctx.sector, lang: ctx.lang });
-  const weighted = hits.reduce((s, h) => s + (KIND_WEIGHT[h.kind] ?? 1), 0);
+  const allow = [...(ctx.allow ?? []), ...(ctx.voice?.use ?? []), ...(ctx.voice?.ownWords ?? [])];
+  const hits = findLexicon(text, ctx.lexicon, { sector: ctx.sector, lang, allow });
+  const strongKind = (k: string) => k === "promessa-vaga" || k === "proposito-generico";
+  const weightOf = (h: (typeof hits)[number]) => (KIND_WEIGHT[h.kind] ?? 1) * (isSingleWord(h.term) && !strongKind(h.kind) ? 0.5 : 1);
+  const weighted = hits.reduce((s, h) => s + weightOf(h), 0);
   const density = (weighted / n) * 100;
   const genericScore = clamp(100 - density * (short ? 9 : 16));
   for (const h of hits.slice(0, 25)) {
     deviations.push({
-      severity: h.kind === "adjetivo-vazio" ? "baixa" : "media",
+      severity: h.kind === "adjetivo-vazio" || (isSingleWord(h.term) && !strongKind(h.kind)) ? "baixa" : "media",
       facet: "generico",
       message: `"${h.term}" é ${KIND_LABEL[h.kind] ?? h.kind}${h.kind === "categoria" && h.category ? ` (${h.category})` : ""}: qualquer marca poderia dizer isso.`,
       excerpt: h.excerpt,
@@ -108,7 +127,9 @@ export const assessText = (text: string, ctx: AssessContext): Assessment => {
     const toks = tokensFor(text);
     const convSet = new Map(conv.map((c) => [c.stems, c]));
     const used = new Map<string, number>();
-    for (const t of toks) if (convSet.has(t)) used.set(t, (used.get(t) ?? 0) + 1);
+    for (const t of toks) if (convSet.has(t) && t.includes(" ")) used.set(t, (used.get(t) ?? 0) + 1);
+    const inPairs = new Set([...used.keys()].flatMap((b) => b.split(" ")));
+    for (const t of toks) if (convSet.has(t) && !t.includes(" ") && !inPairs.has(t)) used.set(t, (used.get(t) ?? 0) + 1);
     const contentCount = contentTokens(text).length || 1;
     const share = Math.min(1, [...used.entries()].reduce((s, [t, c]) => s + c * t.split(" ").length, 0) / contentCount);
     const score = clamp(100 - Math.max(0, share - 0.04) * 260);
@@ -151,15 +172,27 @@ export const assessText = (text: string, ctx: AssessContext): Assessment => {
     }
   }
 
-  // 4. Specificity: numbers, names, concrete detail.
-  if (!short) {
+  // 4. Specificity: numbers, names, concrete detail; praise without facts and repetition count against it.
+  const content = contentTokens(text).map(stem);
+  const evaluative = content.filter((t) => EVALUATIVE.has(t));
+  const freq = count(content.filter((t) => t.length > 3));
+  const repeated = [...freq.entries()].filter(([, c]) => c >= 3 || (c >= 2 && content.length < 16)).map(([t]) => t);
+  if (voice.words >= 3) {
     const proper = properNouns(text, ctx.brandName);
-    const per100 = voice.numbersPer100 + (proper.length / n) * 100;
-    const score = clamp(35 + per100 * 18);
-    if (per100 < 1 && voice.words > 40) {
+    const concrete = voice.numbersPer100 + (proper.length / n) * 100;
+    const distinct = content.filter((t) => !EVALUATIVE.has(t) && !hits.some((h) => fold(h.term).includes(t)));
+    let score = clamp(35 + concrete * 18 - (evaluative.length / Math.max(1, content.length)) * 120 - repeated.length * 8);
+    if (short && concrete === 0) score = Math.min(score, distinct.length >= 3 ? 75 : 45);
+    if (concrete === 0 && voice.words >= 8 && !short) {
       deviations.push({ severity: "media", facet: "especificidade", message: "Não há nenhum número, nome ou detalhe concreto: o texto afirma, mas não prova.", fix: "Inclua um fato verificável (quanto, quando, onde, quem, como)." });
     }
-    facets.push({ facet: "especificidade", label: FACET_LABEL.especificidade, score, weight: 0.1, note: `${round(voice.numbersPer100, 1)} números e ${proper.length} nomes próprios` });
+    if (evaluative.length >= 2 || (evaluative.length && concrete === 0 && short)) {
+      deviations.push({ severity: "media", facet: "especificidade", message: `Elogio sem prova: ${[...new Set(words(text).filter((w) => EVALUATIVE.has(stem(fold(w)))))].slice(0, 6).map((w) => `"${w}"`).join(", ")}.`, fix: "Troque o adjetivo pelo fato que faria alguém usar esse adjetivo." });
+    }
+    if (repeated.length) {
+      deviations.push({ severity: "baixa", facet: "especificidade", message: `Repetição que soa vazia: ${repeated.slice(0, 4).join(", ")}.`, fix: "Diga a mesma coisa uma vez, com um fato a mais." });
+    }
+    facets.push({ facet: "especificidade", label: FACET_LABEL.especificidade, score, weight: short ? 0.35 : 0.15, note: `${round(voice.numbersPer100, 1)} números e ${proper.length} nomes próprios; ${evaluative.length} elogio(s) sem prova` });
   }
 
   // 5. The brand's committed voice.
@@ -218,7 +251,10 @@ export const assessText = (text: string, ctx: AssessContext): Assessment => {
   }
 
   const totalW = facets.reduce((s, f) => s + f.weight, 0) || 1;
-  const score = clamp(facets.reduce((s, f) => s + f.score * f.weight, 0) / totalW);
+  let score = clamp(facets.reduce((s, f) => s + f.score * f.weight, 0) / totalW);
+  // Without a single verifiable fact a text cannot be strong, however clean its words are.
+  const specFacet = facets.find((f) => f.facet === "especificidade");
+  if (specFacet && voice.words >= 8) score = Math.min(score, clamp(55 + specFacet.score * 0.45));
   const highs = deviations.filter((d) => d.severity === "alta").length;
   const verdict = score >= 85 && !highs ? "forte: específico e com cara de marca" : score >= 70 ? "bom, com ajustes" : score >= 50 ? "fraco: ainda soa genérico" : "genérico: reescreva";
   return { score, verdict, facets, deviations: deviations.sort((a, b) => ["alta", "media", "baixa"].indexOf(a.severity) - ["alta", "media", "baixa"].indexOf(b.severity)), voice, closest };

@@ -3,7 +3,27 @@ import { load, type CheerioAPI } from "cheerio";
 import type { Segment } from "../core/model.js";
 import { fold, words } from "../core/text.js";
 
-const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36 brand-genome";
+const UA = "Mozilla/5.0 (compatible; brand-genome/0.1; +https://github.com/ThunderBR2/brand-genome)";
+
+/** Disallow rules for all agents in robots.txt. Extra pages the crawler finds on its own respect them. */
+const robotsRules = async (url: string): Promise<string[]> => {
+  try {
+    const res = await fetch(new URL("/robots.txt", url), { headers: { "user-agent": UA }, signal: AbortSignal.timeout(10_000) });
+    if (!res.ok) return [];
+    const rules: string[] = [];
+    let applies = false;
+    for (const raw of (await res.text()).split(/\r?\n/)) {
+      const line = raw.replace(/#.*/, "").trim();
+      const [k, ...rest] = line.split(":");
+      const v = rest.join(":").trim();
+      if (/^user-agent$/i.test(k ?? "")) applies = v === "*" || /brand-genome/i.test(v);
+      else if (applies && /^disallow$/i.test(k ?? "") && v) rules.push(v);
+    }
+    return rules;
+  } catch {
+    return [];
+  }
+};
 
 /** Pages that usually carry what a brand says about itself. */
 const KEY_PATHS = /(sobre|quem-somos|about|manifesto|nossa-historia|historia|story|missao|mission|proposito|purpose|valores|values|empresa|company|marca|brand|produtos?|products?|servicos?|services?|solucoes|solutions|por-que|why)/i;
@@ -100,11 +120,17 @@ export const readSite = async (url: string, opts: { maxPages?: number; idPrefix:
   const pages: WebPage[] = [];
   const queue: string[] = [url];
   const visited = new Set<string>();
+  const disallow = await robotsRules(url);
+  const allowed = (u: string): boolean => u === url || !disallow.some((d) => new URL(u).pathname.startsWith(d));
   while (queue.length && pages.length < maxPages) {
     const next = queue.shift()!;
     const norm = next.replace(/#.*$/, "").replace(/\/$/, "");
     if (visited.has(norm)) continue;
     visited.add(norm);
+    if (!allowed(next)) {
+      limitations.push(`${next} não foi lida: o robots.txt do site pede para robôs não acessarem`);
+      continue;
+    }
     let html: string;
     let finalUrl = next;
     try {

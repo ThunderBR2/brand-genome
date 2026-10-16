@@ -63,27 +63,45 @@ const fromSubtitles = (raw: string, idPrefix: string, label: string): Segment[] 
   return segs;
 };
 
+/** Parse CSV with quoted fields (commas, semicolons and line breaks inside quotes). The separator comes from the header. */
+export const parseCsv = (raw: string): string[][] => {
+  const text = raw.replace(/^\uFEFF/, "").replace(/\r\n?/g, "\n");
+  const firstLine = text.split("\n", 1)[0] ?? "";
+  const countOutside = (line: string, ch: string): number => {
+    let n = 0;
+    let q = false;
+    for (const c of line) {
+      if (c === '"') q = !q;
+      else if (c === ch && !q) n++;
+    }
+    return n;
+  };
+  const sep = [";", "\t", ","].map((c) => ({ c, n: countOutside(firstLine, c) })).sort((a, b) => b.n - a.n)[0]!;
+  const delim = sep.n > 0 ? sep.c : ",";
+  const rows: string[][] = [];
+  let row: string[] = [];
+  let cur = "";
+  let q = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i]!;
+    if (q) {
+      if (c === '"' && text[i + 1] === '"') { cur += '"'; i++; } else if (c === '"') q = false; else cur += c;
+    } else if (c === '"') q = true;
+    else if (c === delim) { row.push(cur); cur = ""; }
+    else if (c === "\n") { row.push(cur); rows.push(row); row = []; cur = ""; }
+    else cur += c;
+  }
+  if (cur || row.length) { row.push(cur); rows.push(row); }
+  return rows.filter((r) => r.some((x) => x.trim()));
+};
+
 /** CSV rows (reviews, survey answers): every text-heavy cell becomes a quote. */
 const fromCsv = (raw: string, idPrefix: string, label: string): Segment[] => {
-  const rows = raw.replace(/\r/g, "").split("\n").filter(Boolean);
-  const split = (line: string): string[] => {
-    const out: string[] = [];
-    let cur = "";
-    let q = false;
-    for (let i = 0; i < line.length; i++) {
-      const c = line[i]!;
-      if (c === '"') {
-        if (q && line[i + 1] === '"') { cur += '"'; i++; } else q = !q;
-      } else if ((c === "," || c === ";") && !q) { out.push(cur); cur = ""; } else cur += c;
-    }
-    out.push(cur);
-    return out;
-  };
+  const rows = parseCsv(raw);
   const segs: Segment[] = [];
   rows.forEach((row, r) => {
-    if (r === 0 && rows.length > 1 && split(row).every((c) => words(c).length <= 3)) return;
-    const cells = split(row).filter((c) => words(c).length >= 4);
-    for (const c of cells) segs.push({ id: `${idPrefix}-${segs.length + 1}`, kind: "quote", text: c.trim(), locator: `${label} linha ${r + 1}` });
+    if (r === 0 && rows.length > 1 && row.every((c) => words(c).length <= 3)) return;
+    for (const c of row.filter((x) => words(x).length >= 4)) segs.push({ id: `${idPrefix}-${segs.length + 1}`, kind: "quote", text: c.replace(/\s+/g, " ").trim(), locator: `${label} linha ${r + 1}` });
   });
   return segs;
 };

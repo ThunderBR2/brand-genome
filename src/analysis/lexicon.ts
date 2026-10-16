@@ -33,9 +33,28 @@ export interface LexiconHit {
   readonly excerpt: string;
 }
 
+/**
+ * Ordinary words that some plain-language lists flag (GOV.UK, style guides)
+ * but that are not signs of a generic brand on their own. They are never
+ * flagged as single words.
+ */
+const EVERYDAY = new Set([
+  "produto", "produtos", "proximo", "proxima", "basta", "simplesmente", "adquirir", "utilizar", "solicitar", "efetuar", "auxiliar", "implementar",
+  "escalar", "completo", "completa", "unico", "unica", "moderno", "moderna", "eficiente", "resultado", "resultados", "pilar", "pilares", "seguranca",
+  "respeito", "feedback", "integral", "global", "digital", "grupo", "pro", "frescor", "fresco", "fresca", "praticidade", "sabor", "aroma", "conforto",
+  "servico", "servicos", "cliente", "clientes", "time", "equipe", "pessoas", "dados", "plano", "planos", "simples", "rapido", "facil",
+  "key", "via", "e.g.", "deliver", "drive", "impact", "service", "value", "results", "just", "simply", "easy", "quickly", "discover", "clean",
+  "natural", "secure", "leading", "dialogue", "transform", "team", "people", "data", "plan", "simple", "fast", "fresh", "product", "products",
+]);
+
+/** Single words count less and only when they are typical brand self-praise. */
+export const isSingleWord = (term: string): boolean => !/\s/.test(term.trim());
+
 export const lexiconFrom = (canon: Canon | null): LexiconEntry[] => {
   const map = new Map<string, LexiconEntry>();
   for (const e of [...SEED, ...(canon?.lexicon ?? [])]) {
+    if (isSingleWord(e.term) && EVERYDAY.has(fold(e.term))) continue;
+    if (!e.sources.length && isSingleWord(e.term)) continue;
     const key = `${e.lang}:${fold(e.term)}:${e.kind === "categoria" ? fold(e.category) : ""}`;
     const prev = map.get(key);
     map.set(key, prev && prev.replacement ? prev : e);
@@ -76,13 +95,17 @@ export const sectorMatches = (category: string, sector: string): boolean => {
 };
 
 /** Find lexicon terms in a text. Category terms only count when they match the sector. */
-export const findLexicon = (text: string, lexicon: readonly LexiconEntry[], opts: { sector?: string; lang?: "pt" | "en" } = {}): LexiconHit[] => {
+export const findLexicon = (text: string, lexicon: readonly LexiconEntry[], opts: { sector?: string; lang?: "pt" | "en"; includeNaming?: boolean; allow?: readonly string[] } = {}): LexiconHit[] => {
+  const allowed = new Set((opts.allow ?? []).map((a) => fold(a).trim()));
   const hits: LexiconHit[] = [];
   const taken: [number, number][] = [];
   const sorted = [...lexicon].sort((a, b) => b.term.length - a.term.length);
   for (const e of sorted) {
     if (opts.lang && e.lang !== opts.lang && !(e.lang === "en" && /[a-z]/.test(e.term) && e.term.split(" ").length > 1)) continue;
+    // Naming clichés ("pro", "go", "hub") are about names, never about running text.
+    if (fold(e.category) === "naming" && !opts.includeNaming) continue;
     if (e.kind === "categoria" && !sectorMatches(e.category, opts.sector ?? "")) continue;
+    if (allowed.has(fold(e.term))) continue;
     for (const at of findPhrase(text, e.term, { accents: true })) {
       const end = at + e.term.length;
       if (taken.some(([s, f]) => at < f && end > s)) continue;

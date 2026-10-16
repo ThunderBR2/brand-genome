@@ -23,7 +23,7 @@ import {
 import { Project, type AddSourceInput } from "./core/project.js";
 import { fold, words } from "./core/text.js";
 import { extractSource } from "./extractors/index.js";
-import { foundInCompetitors, specFromVoz, STAGE_GATES, type CompetitorSegment, type GateContext } from "./stages/gates.js";
+import { categoryPairs, foundInCompetitors, specFromVoz, STAGE_GATES, type CompetitorSegment, type GateContext } from "./stages/gates.js";
 import { STAGE_INFO } from "./stages/info.js";
 import { STAGE_SCHEMAS, type StageOutput } from "./stages/schemas.js";
 
@@ -40,7 +40,11 @@ export interface BrandState {
   readonly audienceText: string;
   readonly voiceSpec: VoiceSpec | null;
   readonly brandText: string;
+  /** Words the brand chose to own: never flagged as generic. */
+  readonly allow: string[];
 }
+
+const READABLE_EXT = new Set([".pdf", ".docx", ".md", ".markdown", ".txt", ".html", ".htm", ".csv", ".srt", ".vtt"]);
 
 export interface Unknown { readonly what: string; readonly why: string; readonly how: string }
 
@@ -69,21 +73,30 @@ export class BrandService {
   async addSources(inputs: readonly AddSourceInput[], extract = true): Promise<{ source: Source; ok: boolean; words?: number; limitations?: string[]; error?: string }[]> {
     const p = await this.project();
     const out: { source: Source; ok: boolean; words?: number; limitations?: string[]; error?: string }[] = [];
-    for (const input of inputs) {
-      const source = await p.addSource(input);
-      if (!extract) {
-        out.push({ source, ok: true });
-        continue;
+    try {
+      for (const input of inputs) {
+        let source: Source;
+        try {
+          source = await p.addSource(input);
+        } catch (err) {
+          out.push({ source: { id: "", kind: "document", role: input.role, uri: input.uri, label: input.label ?? input.uri, addedAt: "", options: {} }, ok: false, error: err instanceof Error ? err.message : String(err) });
+          continue;
+        }
+        if (!extract) {
+          out.push({ source, ok: true });
+          continue;
+        }
+        try {
+          const e = await extractSource(p, source, this.log);
+          out.push({ source, ok: true, words: e.wordCount, limitations: e.limitations });
+        } catch (err) {
+          out.push({ source, ok: false, error: `${err instanceof Error ? err.message : String(err)} (a fonte ficou registrada sem texto; tente brand_reextract ou remova com brand_remove_source)` });
+        }
       }
-      try {
-        const e = await extractSource(p, source, this.log);
-        out.push({ source, ok: true, words: e.wordCount, limitations: e.limitations });
-      } catch (err) {
-        out.push({ source, ok: false, error: err instanceof Error ? err.message : String(err) });
-      }
+    } finally {
+      this.state = null;
+      await this.saveLandscape();
     }
-    this.state = null;
-    await this.saveLandscape();
     return out;
   }
 
@@ -133,13 +146,15 @@ export class BrandService {
       if (!s) continue;
       if (s.role === "concorrente") {
         const name = s.entity?.trim() || s.label;
-        for (const seg of e.segments) competitorSegments.push({ entity: name, sourceId: s.id, locator: seg.locator, text: seg.text });
+        for (const seg of e.segments) competitorSegments.push({ entity: name, sourceId: s.id, locator: seg.locator, text: seg.text, kind: seg.kind });
         competitorTexts.set(name, `${competitorTexts.get(name) ?? ""}\n${textOf(e)}`);
       } else if (s.role === "publico") audienceText += `\n${textOf(e)}`;
     }
     const voz = stages.voz?.output as StageOutput<"voz"> | undefined;
     const voiceSpec = voz ? specFromVoz(voz) : null;
-    this.state = { project, canon, lexicon, extractions, landscape, stages, decisions, competitorSegments, competitorTexts, audienceText, voiceSpec, brandText: strategicText(stages) };
+    const pos = stages.posicionamento?.output as StageOutput<"posicionamento"> | undefined;
+    const allow = [pos?.palavraParaPossuir ?? "", ...(voz?.lexico.palavrasProprias ?? []), ...(voz?.lexico.usar ?? [])].filter((x) => x.trim().length > 1);
+    this.state = { project, canon, lexicon, extractions, landscape, stages, decisions, competitorSegments, competitorTexts, audienceText, voiceSpec, brandText: strategicText(stages), allow };
     return this.state;
   }
 
@@ -153,6 +168,7 @@ export class BrandService {
       competitorTexts: s.competitorTexts,
       ...(s.brandText ? { brandText: s.brandText } : {}),
       brandName: s.project.brandName,
+      allow: s.allow,
       voice: opts.voice !== undefined ? opts.voice : opts.useVoice === false ? null : s.voiceSpec,
     });
   }
@@ -177,6 +193,7 @@ export class BrandService {
           competitorTexts: s.competitorTexts,
           ...(s.brandText ? { brandText: s.brandText } : {}),
           brandName: s.project.brandName,
+          allow: s.allow,
           voice: o?.voice ?? null,
         }),
     };
@@ -237,8 +254,9 @@ export class BrandService {
     const id = (k: string): string => `c_${createHash("sha1").update(k).digest("hex").slice(0, 8)}`;
     const pos = s.stages.posicionamento?.output as StageOutput<"posicionamento"> | undefined;
     if (pos) {
+      const ignore = categoryPairs(this.gateContext(s), [pos.quadroDeReferencia, ...pos.pontosDeParidade]);
       for (const pod of pos.pontosDeDiferenca) {
-        const found = foundInCompetitors(pod.diferencial, s.competitorSegments);
+        const found = foundInCompetitors(pod.diferencial, s.competitorSegments, { ignore });
         if (found.length) out.push({ id: id(`pod:${fold(pod.diferencial)}`), kind: "diferencial-na-categoria", stage: "posicionamento", title: `O diferencial "${pod.diferencial}" já aparece em concorrentes`, sides: [{ label: "Declarado como diferencial", detail: pod.diferencial }, ...found.map((f) => ({ label: `Dito por ${f.entity}`, detail: f.ev.excerpt, evidence: [f.ev] }))] });
       }
     }
@@ -288,13 +306,15 @@ export class BrandService {
   async status(): Promise<{ brand: string; sector: string; market: string; sources: Record<SourceRole, number>; stages: { stage: Stage; title: string; status: string; version: number; failing: string[] }[]; next: string; canon: { principles: number; sources: number; lexicon: number } }> {
     const s = await this.load();
     const sources = { cliente: 0, concorrente: 0, publico: 0, categoria: 0, referencia: 0, pesquisa: 0 } as Record<SourceRole, number>;
-    for (const src of s.project.sources) sources[src.role]++;
+    const read = new Map(s.extractions.map((e) => [e.sourceId, e.wordCount]));
+    for (const src of s.project.sources) if ((read.get(src.id) ?? 0) >= 40) sources[src.role]++;
+    const competitorsRead = s.landscape.entities.filter((e) => e.role === "concorrente" && e.words >= 40).length;
     const stages = STAGES.map((st) => {
       const r = s.stages[st];
       return { stage: st, title: STAGE_INFO[st].title, status: r?.status ?? (STAGE_INFO[st].optional ? "vazia (opcional)" : "vazia"), version: r?.version ?? 0, failing: (r?.gates ?? []).filter((g) => !g.pass && g.severity !== "dica").map((g) => g.title) };
     });
     let next = "";
-    if (sources.concorrente < 3) next = "Adicione 3 a 6 concorrentes (brand_add_sources, role concorrente) e materiais do público e da própria marca; depois rode brand_landscape.";
+    if (competitorsRead < 3) next = "Adicione 3 a 6 concorrentes (brand_add_sources, role concorrente) e materiais do público e da própria marca; depois rode brand_landscape.";
     else {
       const pending = stages.find((x) => x.status === "vazia" || x.status === "reprovada" || x.status === "rascunho");
       next = pending ? (pending.status === "rascunho" ? `Mostre a etapa "${pending.title}" ao usuário e peça aprovação (brand_stage_approve), ou melhore e reenvie.` : `Etapa "${pending.title}": brand_stage_request com stage "${pending.stage}".`) : "Todas as etapas entregues. Exporte o brand book (brand_export) e verifique cada texto novo com brand_verify.";
@@ -316,6 +336,11 @@ export class BrandService {
       return { text: r.pages.flatMap((p) => p.segments.filter((x) => x.kind !== "meta").map((x) => x.text)).join("\n"), label: target };
     }
     if (target.length < 400 && existsSync(target)) {
+      const { statSync } = await import("node:fs");
+      const { basename, extname } = await import("node:path");
+      if (!statSync(target).isFile()) throw new Error(`${target} é uma pasta. Passe um arquivo, um link ou o texto.`);
+      const ext = extname(target).toLowerCase();
+      if (basename(target).startsWith(".") || !READABLE_EXT.has(ext)) throw new Error(`Por segurança, só leio documentos (${[...READABLE_EXT].join(", ")}). ${basename(target)} não é um deles.`);
       const { readDocument } = await import("./extractors/document.js");
       const r = await readDocument({ uri: target, local: target, idPrefix: "v", label: target });
       return { text: r.segments.map((x) => x.text).join("\n"), label: target };

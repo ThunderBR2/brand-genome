@@ -91,3 +91,51 @@ describe("canon", () => {
     expect(c.warnings.length).toBe(2);
   });
 });
+
+describe("review fixes", () => {
+  it("stems singular and plural to the same term", async () => {
+    const { stem } = await import("../../src/core/text.js");
+    for (const [a, b] of [["inovacao", "inovacoes"], ["especial", "especiais"], ["cor", "cores"], ["solucao", "solucoes"], ["papel", "papeis"], ["jovem", "jovens"]]) expect(stem(a!)).toBe(stem(b!));
+  });
+
+  it("keeps naming clichés out of running text", () => {
+    const lex = [...lexicon, { term: "pro", lang: "pt" as const, kind: "cliche" as const, category: "naming", replacement: "", sources: ["x"] }];
+    expect(findLexicon("Leva pro trabalho numa garrafa térmica", lex, { sector: "cafe" }).some((h) => h.term === "pro")).toBe(false);
+    expect(findLexicon("Leva pro trabalho", lex, { sector: "cafe", includeNaming: true }).some((h) => h.term === "pro")).toBe(true);
+  });
+
+  it("does not let short or vague texts score as strong", () => {
+    const tiny = assessText("a", { lexicon, sector: "", lang: "pt" });
+    expect(tiny.verdict).toContain("curto");
+    const vague = assessText("Somos a única marca de café bom para quem gosta de café bom de verdade.", { lexicon, sector: "cafe", lang: "pt" });
+    expect(vague.score).toBeLessThan(60);
+    const english = assessText("Our seamless platform helps you leverage synergy and empower teams. Innovation and excellence.", { lexicon, sector: "", lang: "pt" });
+    expect(english.score).toBeLessThan(60);
+  });
+
+  it("measures neutral Portuguese and English as neutral", () => {
+    expect(measureVoice("Nos dias de semana, a bolsa cara e a massa fresca vendem demais. A beleza do produto é que ele sabe durar.", "pt").formality).toBeGreaterThanOrEqual(2.5);
+    expect(measureVoice("We want to help you to get to know how to talk to your customers. Our team answers within two hours.", "en").formality).toBeGreaterThanOrEqual(2.5);
+  });
+
+  it("does not flag Portuguese names for sounding normal", () => {
+    const res = checkNames(["Amor", "Elo", "Ipê", "Prosa", "Amigo", "Spotify", "CafeHub"], { competitors: [], lexicon, sector: "", market: "Brasil", landscape: null });
+    const flagged = (n: string) => res.find((r) => r.name === n)!.flags.some((f) => f.severity !== "baixa");
+    for (const n of ["Amor", "Elo", "Ipê", "Prosa", "Amigo"]) expect(flagged(n), n).toBe(false);
+    expect(flagged("Spotify")).toBe(true);
+    expect(flagged("CafeHub")).toBe(true);
+  });
+
+  it("parses CSV with decimal commas and line breaks in quotes", async () => {
+    const { parseCsv } = await import("../../src/extractors/document.js");
+    const rows = parseCsv('nota;comentario\n4,5;"Café ótimo, chegou rápido.\nVoltarei"\n');
+    expect(rows[1]).toEqual(["4,5", "Café ótimo, chegou rápido.\nVoltarei"]);
+  });
+
+  it("counts a page registered twice as one source", () => {
+    const batch = { batch: "a", sources: [{ id: "src-1", url: "https://x.com/a", author: "Rory Sutherland", dissected: true }, { id: "src-2", url: "http://www.x.com/a/", author: "Rory Sutherland (Ogilvy), entrevistado por Fulano", dissected: true }], principles: [{ id: "p", title: "P", statement: "S", sources: [{ id: "src-1" }, { id: "src-2" }] }] };
+    const c = buildCanon([{ name: "a", data: batch }]);
+    expect(c.principles[0]!.sourceCount).toBe(1);
+    expect(c.uniqueSources).toBe(1);
+  });
+});

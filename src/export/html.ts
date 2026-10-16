@@ -3,7 +3,7 @@ import type { BrandState, Unknown } from "../service.js";
 import { STAGE_INFO } from "../stages/info.js";
 import type { StageOutput } from "../stages/schemas.js";
 
-/** A self-contained, printable brand book page. No external scripts. */
+/** A single-file, printable brand book page. No scripts; the only external request is the Google Fonts stylesheet (system fonts are the fallback offline). */
 
 const esc = (s: unknown): string => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 

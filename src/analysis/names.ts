@@ -20,12 +20,17 @@ export interface NameCheck {
   readonly manualChecks: readonly { what: string; where: string }[];
 }
 
+/** Patterns tested on the name as written (case matters for e-/i- prefixes). */
 const CLICHE_PATTERNS: [RegExp, string][] = [
-  [/(ify|ly|fy|io|ize|er|r)$/i, "terminação da moda em startups (-ify, -ly, -io, -r sem vogal): envelhece rápido e se parece com centenas de nomes"],
-  [/^(e|i|my|meu|minha|smart|super|mega|top|pro|easy|fácil|facil)[- ]?/i, "prefixo batido (e-, i-, my, smart, super, pro, fácil)"],
-  [/(hub|tech|solutions|solucoes|soluções|group|grupo|labs?|digital|brasil|br|online|global|plus|max|360|express)$/i, "sufixo genérico (hub, tech, soluções, group, labs, digital, plus, 360): diz pouco e quase todos usam"],
+  [/(ify|[^aeiou]ly|io|ize|[^aeiou]r)$/i, "terminação da moda em startups (-ify, -ly, -io, -r sem vogal antes, como Flickr): envelhece rápido e se parece com centenas de nomes"],
+  [/^(e-|i(?=[A-Z])|my(?=[A-Z ])|smart|super(?=[A-Z ])|mega(?=[A-Z ])|easy|f[aá]cil)/, "prefixo batido (e-, iAlgo, My, Smart, Super, Mega, Fácil)"],
   [/[0-9]/, "número no nome: difícil de falar e de buscar"],
 ];
+
+const GENERIC_TAIL = new Set(["hub", "tech", "solutions", "solucoes", "group", "grupo", "lab", "labs", "digital", "brasil", "br", "online", "global", "plus", "max", "360", "express"]);
+
+/** Words of a name, splitting CamelCase: "CafeHub" -> cafe, hub. */
+const nameWords = (name: string): string[] => fold(name.replace(/([a-z])([A-Z])/g, "$1 $2")).split(/[^a-z0-9]+/).filter(Boolean);
 
 const vowelGroups = (s: string): number => (fold(s).match(/[aeiouy]+/g) ?? []).length;
 
@@ -60,8 +65,18 @@ export const checkNames = (names: readonly string[], ctx: { competitors: readonl
     if (letters > 14) { score -= 15; flags.push({ severity: "media", message: `${letters} letras: nomes longos viram apelido (quem decide o apelido é o público).` }); }
     if (syl > 4) { score -= 10; flags.push({ severity: "baixa", message: `${syl} sílabas: difícil de falar de uma vez.` }); }
     if (letters <= 3) { score -= 5; flags.push({ severity: "baixa", message: "Nome de até 3 letras: quase sempre já registrado e difícil de dar significado." }); }
-    for (const [re, msg] of CLICHE_PATTERNS) if (re.test(fold(name))) { score -= 15; flags.push({ severity: "media", message: msg }); }
-    for (const e of naming) if (fold(name).includes(fold(e.term).replace(/^-/, ""))) { score -= 10; flags.push({ severity: "media", message: `Contém "${e.term}", um clichê de naming${e.replacement ? `: ${e.replacement}` : ""}.` }); }
+    for (const [re, msg] of CLICHE_PATTERNS) if (re.test(name.normalize("NFC"))) { score -= 15; flags.push({ severity: "media", message: msg }); }
+    const ws = nameWords(name);
+    if (ws.length > 1 && GENERIC_TAIL.has(ws.at(-1)!)) { score -= 15; flags.push({ severity: "media", message: "palavra final genérica (hub, tech, soluções, group, labs, digital, plus, 360): diz pouco e quase todos usam" }); }
+    const seen = new Set<string>();
+    for (const e of naming) {
+      const t = fold(e.term).trim();
+      const hit = t.startsWith("-") ? ws.some((w) => w.endsWith(t.slice(1)) && w.length > t.length + 1) : ws.includes(t);
+      if (!hit || seen.has(t.replace(/^-/, ""))) continue;
+      seen.add(t.replace(/^-/, ""));
+      score -= 10;
+      flags.push({ severity: "media", message: `Usa "${e.term}", um clichê de naming${e.replacement ? `: ${e.replacement}` : ""}.` });
+    }
     const f = fold(name);
     if (/[^aeiou\s]{4,}/.test(f.replace(/[^a-z\s]/g, ""))) { score -= 8; flags.push({ severity: "baixa", message: "Encontro de 4+ consoantes: difícil de pronunciar em português." }); }
     if (/(ch|sh|x|ss|ç|c[ei]|s[ei]|z|w|k|y|ph|th)/.test(f)) flags.push({ severity: "baixa", message: "Ao ouvir, pode ser escrito de mais de um jeito (ch/x, s/ç/ss, k/c, w/v, y/i): teste o 'ditado' com 5 pessoas." });

@@ -21,15 +21,17 @@ export interface VoiceMetrics {
   readonly longWordShare: number;
 }
 
-const WE_PT = /^(nos|nosso|nossa|nossos|nossas|conosco|somos|estamos|fazemos|acreditamos|criamos|queremos)$/;
+const WE_PT = /^(nosso|nossa|nossos|nossas|conosco|somos|estamos|fazemos|acreditamos|criamos|queremos|torramos|vendemos|oferecemos|temos|trabalhamos)$/;
 const YOU_PT = /^(voce|voces|seu|sua|seus|suas|contigo|vc|te|teu|tua)$/;
 const WE_EN = /^(we|our|ours|us|we're|we've|we'll)$/;
 const YOU_EN = /^(you|your|yours|you're|you've|you'll)$/;
 const IT_RE = /\b(a empresa|a companhia|a organizacao|a marca|the company|the brand|the organization)\b/g;
 
-const INFORMAL_PT = /\b(pra|pro|pros|pras|ta|tá|né|ne|a gente|vc|bora|beleza|massa|top|demais|tipo assim|valeu|rola|curtir|galera|cara|tô|to|tamo|tamos|fala serio|olha so|sabe)\b/g;
-const FORMAL_PT = /\b(prezado|prezada|senhor|senhora|mediante|outrossim|ademais|conforme|doravante|vimos por meio|solicitamos|informamos|cordialmente|atenciosamente|referente|no tocante|tendo em vista|haja vista|destarte|portanto|todavia|entretanto|contudo)\b/g;
-const INFORMAL_EN = /\b(\w+'(re|ll|ve|d|s|t)|gonna|wanna|gotta|hey|awesome|cool|yeah|stuff|kinda|folks|y'all)\b/g;
+// Unambiguous casual markers only (no "cara", "beleza", "massa": they are also ordinary words). Matched on lowercase text, accents kept.
+const INFORMAL_PT = /(?<![\p{L}])(pra|pras|pros|tá|né|a gente|vc|vcs|bora|valeu|galera|tô|tamo|tamos|tipo assim|olha só|fala sério|beleza\?|show de bola)(?![\p{L}])/gu;
+const FORMAL_PT = /\b(prezado|prezada|prezados|vossa senhoria|mediante|outrossim|ademais|doravante|vimos por meio|solicitamos|informamos que|cordialmente|atenciosamente|no tocante|tendo em vista|haja vista|destarte|todavia|outrossim|em conformidade)\b/g;
+const INFORMAL_EN = /\b(gonna|wanna|gotta|hey|awesome|yeah|stuff|kinda|folks|y'all|super cool)\b/g;
+const CONTRACTION_EN = /\b\w+'(re|ll|ve|d|t)\b/g;
 const FORMAL_EN = /\b(hereby|pursuant|kindly|therefore|furthermore|moreover|whereas|herein|thereof|nevertheless|accordingly|regards|sincerely)\b/g;
 
 const EMOJI = /\p{Extended_Pictographic}/gu;
@@ -44,15 +46,20 @@ export const measureVoice = (text: string, lang: Lang = "pt"): VoiceMetrics => {
   const ftext = fold(text);
   let we = 0;
   let you = 0;
+  const lower = text.toLowerCase();
   for (const w of folded) {
-    if ((lang === "pt" ? WE_PT : WE_EN).test(w) || WE_PT.test(w) || WE_EN.test(w)) we++;
-    else if ((lang === "pt" ? YOU_PT : YOU_EN).test(w) || YOU_PT.test(w) || YOU_EN.test(w)) you++;
+    if (lang === "pt" ? WE_PT.test(w) : WE_EN.test(w)) we++;
+    else if (lang === "pt" ? YOU_PT.test(w) : YOU_EN.test(w)) you++;
   }
-  we += (ftext.match(/\ba gente\b/g) ?? []).length;
+  if (lang === "pt") {
+    // "nós" only with the accent: folded "nos" is also the contraction "em + os".
+    we += (lower.match(/(?<![\p{L}])nós(?![\p{L}])/gu) ?? []).length;
+    we += (ftext.match(/\ba gente\b/g) ?? []).length;
+  }
   const it = (ftext.match(IT_RE) ?? []).length;
   const personTotal = we + you + it || 1;
-  const informal = (ftext.match(INFORMAL_PT) ?? []).length + (text.toLowerCase().match(INFORMAL_EN) ?? []).length;
-  const formal = (ftext.match(FORMAL_PT) ?? []).length + (ftext.match(FORMAL_EN) ?? []).length;
+  const informal = lang === "pt" ? (lower.match(INFORMAL_PT) ?? []).length : (lower.match(INFORMAL_EN) ?? []).length + 0.25 * (lower.match(CONTRACTION_EN) ?? []).length;
+  const formal = lang === "pt" ? (ftext.match(FORMAL_PT) ?? []).length : (ftext.match(FORMAL_EN) ?? []).length;
   const excl = sents.filter((s) => /!\s*$/.test(s) || /!/.test(s)).length;
   const quest = sents.filter((s) => /\?/.test(s)).length;
   const emoji = (text.match(EMOJI) ?? []).length;

@@ -4,11 +4,11 @@
 
 O Brand Genome é o irmão do [Design Genome](https://github.com/ThunderBR2/design-genome). O Design Genome faz engenharia reversa de sistemas visuais. O Brand Genome faz o mesmo com a estratégia e a linguagem de uma marca: posicionamento, plataforma, naming, tom de voz, ativos distintivos, narrativa e ativação. Ele tem três partes.
 
-1. **Um cânone** destilado de 351 fontes de branding: ciência de marketing (Ehrenberg-Bass), eficácia (IPA, Binet & Field, System1), posicionamento (Ries & Trout, Keller, Dunford, Ritson), identidade verbal (GOV.UK, Mailchimp, Monzo, NN/g), naming (Catchword, Igor, Labbrand), ativos distintivos (Romaniuk, Ipsos × JKR), o debate sobre propósito, mais de 150 cases e fracassos, e fontes brasileiras (Kantar BrandZ Brasil, Bedendo, Ana Couto, Troiano, Lei 15.263). Ao todo são 213 princípios (157 confirmados por duas ou mais fontes independentes), 86 frameworks, 29 debates entre escolas, 151 cases, 144 antipadrões e cerca de 900 termos que denunciam linguagem genérica, em português e inglês.
+1. **Um cânone** destilado de 307 fontes de branding lidas de verdade (330 catalogadas; as 23 restantes estavam bloqueadas ou atrás de paywall e ficam só como referência): ciência de marketing (Ehrenberg-Bass), eficácia (IPA, Binet & Field, System1), posicionamento (Ries & Trout, Keller, Dunford, Ritson), identidade verbal (GOV.UK, Mailchimp, Monzo, NN/g), naming (Catchword, Igor, Labbrand), ativos distintivos (Romaniuk, Ipsos × JKR), o debate sobre propósito, mais de 150 cases e fracassos, e fontes brasileiras (Kantar BrandZ Brasil, Bedendo, Ana Couto, Troiano, Lei 15.263). Ao todo são 213 princípios (156 confirmados por duas ou mais fontes independentes, contando cada página e cada autor uma vez só), 86 frameworks, 29 debates entre escolas, 143 cases, 144 antipadrões e 885 termos que denunciam linguagem genérica, em português e inglês.
 2. **A categoria medida.** O sistema lê os sites dos concorrentes e mostra o que quase todos repetem: o "mar de mesmice", com a frase de cada um como prova. Mostra também como cada marca soa, o que o público diz com as próprias palavras e onde está o espaço livre.
 3. **Um processo em 11 etapas com portões de qualidade.** Cada entrega é verificada. Um diferencial que já aparece no site de um concorrente é barrado com a evidência. O mesmo acontece com um manifesto cheio de clichês, um posicionamento sem renúncia ou um propósito sem prova operacional.
 
-No fim, qualquer texto da marca passa pelo **verificador**. Ele mede linguagem genérica, convenções da categoria, semelhança com concorrentes (o teste de troca), especificidade e fidelidade ao tom de voz. Cada desvio vem com o trecho e a correção.
+No fim, qualquer texto da marca passa pelo **verificador**. A nota depende dos concorrentes carregados no projeto; o exemplo abaixo é do projeto de teste. Ele mede linguagem genérica, convenções da categoria, semelhança com concorrentes (o teste de troca), especificidade e fidelidade ao tom de voz. Cada desvio vem com o trecho e a correção.
 
 ```
 Verificação: "Somos apaixonados por café e oferecemos uma experiência única…"
@@ -26,7 +26,7 @@ Nota 100/100 — forte: específico e com cara de marca
 ```mermaid
 flowchart LR
   F[Fontes da marca, concorrentes, público] --> L[Paisagem medida]
-  C[(Cânone: 351 fontes)] --> E
+  C[(Cânone: 307 fontes lidas)] --> E
   L --> E[Etapa: brief com método, fatos e cânone]
   E --> IA[Claude pensa com você]
   IA --> P[Portões de qualidade]
@@ -58,6 +58,9 @@ O cânone não mistura escolas em silêncio. Os 29 debates mostram onde elas div
 
 ## Começando
 
+**Windows, um clique:** baixe [`scripts/instalar-brand-genome.bat`](scripts/instalar-brand-genome.bat) e abra. Ele instala em `%USERPROFILE%\BrandGenome` e conecta ao Claude Desktop.
+
+
 > **Passo a passo:** [docs/comecando.md](docs/comecando.md)
 
 Requisito: Node.js 22+. O Chromium é opcional: sem ele os sites comuns são lidos normalmente; com ele, também os montados por JavaScript.
@@ -76,7 +79,7 @@ Feche e abra o Claude Desktop. Depois é só pedir: "crie uma marca para uma tor
 Pelo terminal:
 
 ```bash
-brand init "Grão Alto" --sector "cafe especial"
+brand init "Grão Alto" --sector "cafe especial"   # --lang en para marcas em inglês
 brand add https://concorrente1.com.br --role concorrente --entity "Concorrente 1"
 brand add ./avaliacoes.csv --role publico
 brand add ./briefing.docx --role cliente
@@ -101,7 +104,7 @@ brand export brandbook-html
 | `brand_canon_search`, `brand_canon_card`, `brand_canon_stats` | consultar o cânone |
 | `brand_canon_dissect_request`, `brand_canon_dissect_submit` | crescer o cânone com novas fontes |
 | `brand_export` | brand book (MD e HTML), brief, voz em JSON, prompt de agente, brief de design, paisagem, JSON |
-| `brand_update` | atualizar a partir do GitHub |
+| `brand_update` | atualizar a partir do GitHub (só quando você pedir; compila à parte e volta à versão anterior se algo falhar) |
 
 Junto vem a skill [`skills/brand-genome/SKILL.md`](skills/brand-genome/SKILL.md).
 
@@ -114,7 +117,8 @@ A etapa de ativos gera o `design-brief`, com a ideia de marca, a tradução da p
 - O cânone é **conhecimento destilado**: princípios parafraseados com a fonte citada, nunca texto copiado. Há no máximo uma citação curta por fonte. Fontes bloqueadas a robôs (WARC, Cannes Lions, Effie, Fonts In Use) não foram coletadas. Nada foi tirado de cópias piratas.
 - Resultados de cases divulgados pela própria agência ou marca estão marcados como declarados, não independentes.
 - A triagem de nomes não substitui a busca de marca no INPI nem um advogado de propriedade intelectual.
-- Analise só o que você tem direito de acessar e respeite os termos de uso dos sites dos concorrentes.
+- Analise só o que você tem direito de acessar e respeite os termos de uso dos sites dos concorrentes. O leitor de sites se identifica como brand-genome e respeita o robots.txt nas páginas que encontra sozinho.
+- Por segurança, as ferramentas só leem arquivos de documento (PDF, DOCX, MD, TXT, HTML, CSV, SRT, VTT) e nunca arquivos de credenciais.
 
 ## Arquitetura
 
@@ -137,6 +141,7 @@ src/mcp.ts        servidor MCP (cada chamada roda num processo novo: atualizaç�
 ```bash
 npm run typecheck
 npm test          # unitários + o método inteiro numa marca fictícia (torrefação Grão Alto)
+npm run mcp       # servidor MCP direto do código-fonte
 brand canon build # consolida os lotes do cânone em canon/canon.json
 ```
 

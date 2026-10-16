@@ -31,10 +31,16 @@ beforeAll(async () => {
   root = join(home, "projects");
   ({ TOOLS } = await import("../../src/tools.js"));
   server = createServer(async (req, res) => {
+    let body: Buffer | null = null;
     try {
-      res.writeHead(200, { "content-type": "text/html; charset=utf-8" });
-      res.end(await readFile(join(FIX, "concorrentes", (req.url ?? "/").replace(/^\//, ""))));
+      body = await readFile(join(FIX, "concorrentes", (req.url ?? "/").replace(/^\//, "")));
     } catch {
+      body = null;
+    }
+    if (body) {
+      res.writeHead(200, { "content-type": "text/html; charset=utf-8" });
+      res.end(body);
+    } else {
       res.writeHead(404);
       res.end();
     }

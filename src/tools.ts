@@ -43,7 +43,8 @@ export const projectDir = async (ctx: ToolContext, project?: string): Promise<st
     if (all.length === 1) return all[0]!.dir;
     throw new Error(all.length ? `Qual projeto? Passe project com um destes: ${all.map((p) => p.name).join(", ")}.` : 'Nenhum projeto de marca ainda. Crie um com brand_projects {action: "create", name, sector}.');
   }
-  if (/[\\/]/.test(name) || /^[a-z]:/i.test(name)) return resolve(name);
+  // Only absolute paths (or ./relative) are paths; any other name is a project under the root.
+  if (/^([a-z]:[\\/]|[\\/]|\.{1,2}[\\/])/i.test(name)) return resolve(name);
   return join(ctx.root, slug(name));
 };
 
@@ -76,9 +77,11 @@ export const TOOLS: Record<string, (args: Args, ctx: ToolContext) => Promise<Too
       const name = String(args.name ?? "").trim();
       if (!name) throw new Error("Passe name.");
       const dir = join(ctx.root, slug(name));
+      const existing = await Project.tryOpen(dir);
+      if (existing && existing.name !== name) throw new Error(`Já existe o projeto "${existing.name}" na pasta ${slug(name)}. Use outro nome (por exemplo "${name} 2") ou abra o existente com project "${existing.name}".`);
       const p = await Project.create(dir, { name, brandName: (args.brandName as string) || name, sector: (args.sector as string) ?? "", market: (args.market as string) ?? "Brasil", lang: args.lang === "en" ? "en" : "pt" });
       await writeState({ lastProject: dir });
-      return text({ created: p.name, brandName: p.brandName, dir: p.root, next: "Adicione fontes com brand_add_sources: o site e materiais da marca (role cliente), 3 a 6 concorrentes (role concorrente, entity com o nome), e a voz do público (role publico: avaliações, entrevistas, comentários). Depois rode brand_landscape e brand_stage_request com stage diagnostico." });
+      return text({ created: p.name, alreadyExisted: Boolean(existing), brandName: p.brandName, dir: p.root, next: "Adicione fontes com brand_add_sources: o site e materiais da marca (role cliente), 3 a 6 concorrentes (role concorrente, entity com o nome), e a voz do público (role publico: avaliações, entrevistas, comentários). Depois rode brand_landscape e brand_stage_request com stage diagnostico." });
     }
     if (action === "update") {
       const s = await svc(ctx, args);
@@ -225,7 +228,7 @@ export const TOOLS: Record<string, (args: Args, ctx: ToolContext) => Promise<Too
     const c = await loadCanon();
     const bySupport = { consolidado: 0, "fonte-unica": 0, emDebate: 0 };
     for (const p of c.principles) { bySupport[p.support]++; if (p.debatedIn.length) bySupport.emDebate++; }
-    return text({ batches: c.batches, sources: c.sources.length, dissected: c.sources.filter((s) => s.dissected).length, principles: c.principles.length, bySupport, frameworks: c.frameworks.length, debates: c.debates.length, cases: c.cases.length, antipatterns: c.antipatterns.length, lexicon: c.lexicon.length, warnings: c.warnings.slice(0, 20) });
+    return text({ batches: c.batches, sourceRecords: c.sources.length, uniqueSources: c.uniqueSources, dissectedSources: c.dissectedSources, principles: c.principles.length, bySupport, frameworks: c.frameworks.length, debates: c.debates.length, cases: c.cases.length, antipatterns: c.antipatterns.length, lexicon: c.lexicon.length, warnings: c.warnings.slice(0, 20) });
   },
 
   async brand_canon_dissect_request(args) {
@@ -266,28 +269,43 @@ export const TOOLS: Record<string, (args: Args, ctx: ToolContext) => Promise<Too
     return text(args.includeContent === false || format === "brandbook-html" ? { saved: file, chars: out.length } : `Salvo em ${file}\n\n${out}`);
   },
 
-  async brand_update(_args, ctx) {
+  async brand_update(args, ctx) {
+    if (args.confirm !== true) throw new Error("A atualização baixa e instala código do GitHub. Só rode com confirm: true depois que o usuário pedir para atualizar.");
     const appRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
     const tmp = await mkdtemp(join(tmpdir(), "brand-update-"));
     const win = process.platform === "win32";
+    const npm = win ? "npm.cmd" : "npm";
+    const opts = { shell: win, maxBuffer: 64 * 1024 * 1024, timeout: 10 * 60_000 };
     try {
       ctx.log("update: baixando a versão mais nova");
-      const res = await fetch("https://github.com/ThunderBR2/brand-genome/archive/refs/heads/main.zip");
+      const res = await fetch("https://github.com/ThunderBR2/brand-genome/archive/refs/heads/main.tar.gz");
       if (!res.ok) throw new Error(`Falha ao baixar do GitHub (${res.status})`);
-      const zip = join(tmp, "src.zip");
-      await writeFile(zip, Buffer.from(await res.arrayBuffer()));
-      await run("tar", ["-xf", zip, "-C", tmp]);
+      const tgz = join(tmp, "src.tar.gz");
+      await writeFile(tgz, Buffer.from(await res.arrayBuffer()));
+      // .tar.gz works with the tar of Linux, macOS and Windows 10+.
+      await run("tar", ["-xzf", tgz, "-C", tmp]);
       const folder = (await readdir(tmp, { withFileTypes: true })).find((d) => d.isDirectory())!;
       const src = join(tmp, folder.name);
-      for (const entry of await readdir(src)) {
-        if (entry === "node_modules") continue;
-        await cp(join(src, entry), join(appRoot, entry), { recursive: true, force: true });
+      // Build the new version on the side first: if anything fails, the installed one stays intact.
+      ctx.log("update: instalando dependências e compilando numa pasta temporária");
+      await run(npm, ["install", "--no-audit", "--no-fund"], { cwd: src, ...opts });
+      await run(npm, ["run", "build"], { cwd: src, ...opts });
+      const backup = join(tmp, "backup");
+      await mkdir(backup, { recursive: true });
+      for (const entry of ["dist", "src", "canon", "skills", "docs", "package.json", "package-lock.json"]) {
+        if (existsSync(join(appRoot, entry))) await cp(join(appRoot, entry), join(backup, entry), { recursive: true });
       }
-      const npm = win ? "npm.cmd" : "npm";
-      ctx.log("update: instalando dependências");
-      await run(npm, ["install", "--no-audit", "--no-fund"], { cwd: appRoot, shell: win, maxBuffer: 64 * 1024 * 1024, timeout: 10 * 60_000 });
-      ctx.log("update: compilando");
-      await run(npm, ["run", "build"], { cwd: appRoot, shell: win, maxBuffer: 64 * 1024 * 1024, timeout: 10 * 60_000 });
+      try {
+        for (const entry of await readdir(src)) {
+          if (entry === "node_modules") continue;
+          await rm(join(appRoot, entry), { recursive: true, force: true });
+          await cp(join(src, entry), join(appRoot, entry), { recursive: true, force: true });
+        }
+        await run(npm, ["install", "--no-audit", "--no-fund"], { cwd: appRoot, ...opts });
+      } catch (e) {
+        for (const entry of await readdir(backup)) await cp(join(backup, entry), join(appRoot, entry), { recursive: true, force: true });
+        throw new Error(`A atualização falhou e a versão anterior foi restaurada: ${e instanceof Error ? e.message : String(e)}`);
+      }
       const pkg = JSON.parse(await readFile(join(appRoot, "package.json"), "utf8")) as { version: string };
       return text({ updated: true, version: pkg.version, note: "A lógica nova já vale. Ferramentas novas aparecem depois de reiniciar o Claude." });
     } finally {

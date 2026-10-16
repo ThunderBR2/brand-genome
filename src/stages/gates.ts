@@ -7,7 +7,7 @@ import type { EvidenceRef, GateResult, Stage, StageRecord } from "../core/model.
 import { contentTokens, excerpt, fold, ngrams, stem, terms, words } from "../core/text.js";
 import type { StageOutput } from "./schemas.js";
 
-export interface CompetitorSegment { readonly entity: string; readonly sourceId: string; readonly locator: string; readonly text: string }
+export interface CompetitorSegment { readonly entity: string; readonly sourceId: string; readonly locator: string; readonly text: string; readonly kind?: string }
 
 export interface GateContext {
   readonly sector: string;
@@ -29,23 +29,48 @@ const gate = (id: string, title: string, severity: GateResult["severity"], pass:
 const bigramStems = (t: string): Set<string> => new Set(terms(t).filter((x) => x.includes(" ")));
 const hasNumberOrName = (t: string): boolean => /\d/.test(t) || words(t).slice(1).some((w) => /^\p{Lu}/u.test(w) && w !== w.toUpperCase());
 
-/** Where a phrase's meaningful word pairs already appear in competitors' text. */
-export const foundInCompetitors = (text: string, segs: readonly CompetitorSegment[], minShared = 1): { entity: string; ev: EvidenceRef; shared: string[] }[] => {
-  const mine = bigramStems(text);
+/**
+ * Where a claim's meaningful word pairs already appear in a competitor's text.
+ * Pairs that only name the category (frame of reference, parity points and
+ * conventions most competitors share) are ignored, as are page titles and meta
+ * descriptions. Short claims need one shared pair; longer ones need two.
+ */
+export const foundInCompetitors = (text: string, segs: readonly CompetitorSegment[], opts: { ignore?: ReadonlySet<string>; minShared?: number } = {}): { entity: string; ev: EvidenceRef; shared: string[] }[] => {
+  const ignore = opts.ignore ?? new Set<string>();
+  const mine = new Set([...bigramStems(text)].filter((b) => !ignore.has(b)));
   if (!mine.size) return [];
+  const need = opts.minShared ?? (mine.size <= 2 ? 1 : 2);
   const out: { entity: string; ev: EvidenceRef; shared: string[] }[] = [];
   const seen = new Set<string>();
   for (const s of segs) {
-    if (seen.has(s.entity)) continue;
+    if (seen.has(s.entity) || s.kind === "title" || s.kind === "meta") continue;
     const theirs = bigramStems(s.text);
     const shared = [...mine].filter((b) => theirs.has(b));
-    if (shared.length >= minShared) {
+    if (shared.length >= need) {
       seen.add(s.entity);
       out.push({ entity: s.entity, ev: { sourceId: s.sourceId, locator: s.locator, excerpt: s.text.slice(0, 220) }, shared });
     }
   }
   return out;
 };
+
+/** Word pairs that only place the brand in its category: never evidence of copying. */
+export const categoryPairs = (ctx: GateContext, extra: readonly string[] = []): Set<string> => {
+  const out = new Set<string>();
+  for (const c of ctx.landscape?.conventions ?? []) if (c.share >= 0.5 && c.stems.includes(" ")) out.add(c.stems);
+  const pais = ctx.stages.paisagem?.output as { categoria?: { nome?: string; quadroDeReferencia?: string }; convencoes?: { convencao: string; decisao: string }[] } | undefined;
+  const texts = [...extra, pais?.categoria?.nome ?? "", pais?.categoria?.quadroDeReferencia ?? "", ...(pais?.convencoes ?? []).filter((c) => c.decisao === "seguir").map((c) => c.convencao)];
+  for (const t of texts) for (const b of bigramStems(t)) out.add(b);
+  return out;
+};
+
+const truthsOverlap = (t: string, ctx: GateContext): boolean => {
+  const diag = ctx.stages.diagnostico?.output as { verdadesDoNegocio?: string[] } | undefined;
+  const mine = new Set(contentTokens(t).map(stem).filter((x) => x.length > 3));
+  return (diag?.verdadesDoNegocio ?? []).some((v) => contentTokens(v).map(stem).filter((x) => mine.has(x)).length >= 2);
+};
+
+const FALSE_SACRIFICE = /(ruim|ruins|\bmal\b|\bma\b|pior|piores|baixa qualidade|sem qualidade|mediocre|porcaria|de segunda|qualquer coisa|\bbad\b|poor|low quality|cheap quality|nada)/;
 
 const genericIn = (t: string, ctx: GateContext) => findLexicon(t, ctx.lexicon, { sector: ctx.sector, lang: ctx.lang });
 /** In analytical fields single words like "confiança" are fine; only phrases and jargon count. */
@@ -56,11 +81,13 @@ const conventionShare = (t: string, ctx: GateContext): { share: number; terms: s
   if (!conv.size) return { share: 0, terms: [] };
   const toks = contentTokens(t).map(stem);
   const all = terms(t);
-  const hits = all.filter((x) => conv.has(x));
+  const pairs = all.filter((x) => x.includes(" ") && conv.has(x));
+  const inPairs = new Set(pairs.flatMap((p) => p.split(" ")));
+  const hits = [...pairs, ...all.filter((x) => !x.includes(" ") && conv.has(x) && !inPairs.has(x))];
   return { share: toks.length ? hits.reduce((n, h) => n + h.split(" ").length, 0) / toks.length : 0, terms: [...new Set(hits.map((h) => conv.get(h)!))] };
 };
 
-const BRAND_METRIC = /(lembran|recall|awareness|consider|preferen|saliencia|salience|associa|reconhec|recogni|penetra|share of search|nps|mental|marca)/i;
+const BRAND_METRIC = /(lembran|recall|awareness|consider|preferen|saliencia|salience|associa|reconhec|recogni|penetra|share of search|nps|mental|top of mind|brand lift|imagem de marca)/i;
 
 type Out<S extends Stage> = StageOutput<S>;
 
@@ -111,31 +138,38 @@ export const STAGE_GATES: { [S in Stage]: (o: Out<S>, ctx: GateContext) => GateR
 
   posicionamento: (o, ctx) => {
     const out: GateResult[] = [];
+    const ignore = categoryPairs(ctx, [o.quadroDeReferencia, ...o.pontosDeParidade]);
     for (const [i, pod] of o.pontosDeDiferenca.entries()) {
-      const found = foundInCompetitors(`${pod.diferencial}`, ctx.competitorSegments);
+      const found = foundInCompetitors(pod.diferencial, ctx.competitorSegments, { ignore });
       const conv = conventionShare(pod.diferencial, ctx);
-      out.push(gate(`diferencial-${i + 1}-exclusivo`, `Diferencial ${i + 1} não aparece nos concorrentes`, "bloqueia", found.length === 0 && conv.share < 0.5, found.length ? `"${pod.diferencial}" já aparece em ${found.map((f) => f.entity).join(", ")}.` : conv.share >= 0.5 ? `"${pod.diferencial}" é feito de convenções da categoria: ${conv.terms.join(", ")}.` : "Não encontrado nos textos dos concorrentes.", "Se o concorrente já diz isso, é ponto de paridade. Mova para 'pontosDeParidade' ou encontre o recorte que só vocês têm.", found.map((f) => f.ev)));
-      out.push(gate(`diferencial-${i + 1}-prova`, `Diferencial ${i + 1} tem prova concreta`, "alerta", hasNumberOrName(pod.prova) || words(pod.prova).length >= 8, `Prova: ${pod.prova}`, "Prova é fato: número, processo, certificação, nome, origem, garantia."));
+      out.push(gate(`diferencial-${i + 1}-exclusivo`, `Diferencial ${i + 1} não aparece nos concorrentes`, "bloqueia", found.length === 0 && conv.share < 0.5, found.length ? `"${pod.diferencial}" já aparece em ${found.map((f) => `${f.entity} ("${f.shared.join('", "')}")`).join(", ")}.` : conv.share >= 0.5 ? `"${pod.diferencial}" é feito de convenções da categoria: ${conv.terms.join(", ")}.` : "Não encontrado nos textos dos concorrentes (o nome da categoria e os pontos de paridade não contam).", "Se o concorrente já diz isso, é ponto de paridade. Mova para 'pontosDeParidade' ou encontre o recorte que só vocês têm.", found.map((f) => f.ev)));
+      const proofOk = hasNumberOrName(pod.prova) || truthsOverlap(pod.prova, ctx);
+      out.push(gate(`diferencial-${i + 1}-prova`, `Diferencial ${i + 1} tem prova concreta`, "bloqueia", proofOk, `Prova: ${pod.prova}`, "Prova é fato: número, processo, certificação, nome, origem, garantia — de preferência uma das verdades do negócio do diagnóstico. 'Clientes elogiam' não é prova."));
     }
-    const onlyRe = /(unic[ao]|só (a|o|nós)|only|nenhuma outra|ninguem mais)/;
+    const onlyRe = /(unic[ao]|so (a|o|nos)\b|only|nenhuma outra|nenhum outro|ninguem mais)/;
     const onl = ctx.assess(o.onliness);
-    const onlFound = foundInCompetitors(o.onliness, ctx.competitorSegments, 2);
-    out.push(gate("onliness", "A frase 'somos a única' é realmente só nossa", "bloqueia", onlyRe.test(fold(o.onliness)) && onlFound.length === 0 && onl.score >= 60, `Nota ${onl.score}/100${onlFound.length ? `; partes já ditas por ${onlFound.map((f) => f.entity).join(", ")}` : ""}${onlyRe.test(fold(o.onliness)) ? "" : "; a frase não afirma ser 'a única'"}.`, "Formato: 'Somos a única [categoria] que [diferencial] para [quem] que [necessidade] em [contexto]'. Se cabe em outro, troque o diferencial.", onlFound.map((f) => f.ev)));
+    const onlFound = foundInCompetitors(o.onliness, ctx.competitorSegments, { ignore, minShared: 3 });
+    const saysOnly = onlyRe.test(fold(o.onliness));
+    out.push(gate("onliness", "A frase 'somos a única' é realmente só nossa", "bloqueia", saysOnly && onlFound.length === 0 && onl.score >= 60, `Nota ${onl.score}/100${onlFound.length ? `; partes já ditas por ${onlFound.map((f) => f.entity).join(", ")}` : ""}${saysOnly ? "" : "; a frase não afirma ser 'a única'"}. ${onl.deviations.filter((d) => d.severity !== "baixa").slice(0, 2).map((d) => d.message).join(" ")}`.trim(), "Formato: 'Somos a única [categoria] que [diferencial com fato] para [quem] que [necessidade]'. Se cabe em outro, troque o diferencial.", onlFound.map((f) => f.ev)));
     const decl = ctx.assess(o.declaracao);
     out.push(gate("declaracao-especifica", "Declaração de posicionamento não é genérica", "bloqueia", decl.score >= 60, `Nota ${decl.score}/100 (${decl.verdict}). ${decl.deviations.slice(0, 3).map((d) => d.message).join(" ")}`, "Reescreva com o quadro de referência, o alvo e o diferencial com prova."));
-    out.push(gate("sacrificio", "Há sacrifício explícito", "bloqueia", o.sacrificio.length > 0 && o.sacrificio.every((x) => words(x).length >= 3), o.sacrificio.join("; ") || "nenhum", "Diga de que público, ocasião, atributo ou canal a marca abre mão."));
+    const fakeSacrifice = o.sacrificio.filter((x) => FALSE_SACRIFICE.test(fold(x)));
+    out.push(gate("sacrificio", "Há sacrifício explícito (algo bom de que a marca abre mão)", "bloqueia", o.sacrificio.length > 0 && o.sacrificio.every((x) => words(x).length >= 3) && fakeSacrifice.length === 0, fakeSacrifice.length ? `Renúncia falsa: ${fakeSacrifice.join("; ")}. Abrir mão do que é ruim não custa nada.` : o.sacrificio.join("; ") || "nenhum", "Diga de que público, ocasião, atributo ou canal atraente a marca abre mão: algo que um concorrente escolheria."));
     const oppGeneric = clicheIn(o.opostoPlausivel, ctx);
-    const silly = /(sem qualidade|ruim|pior|caro e ruim|nao se importa|não se importa|desonest|bad|worst|no quality)/i.test(fold(o.opostoPlausivel));
-    out.push(gate("oposto-plausivel", "O oposto do posicionamento é algo que um concorrente sério defenderia", "alerta", !silly && oppGeneric.length === 0, `Oposto: ${o.opostoPlausivel}`, "Se ninguém defenderia o oposto, o posicionamento não é uma escolha. Ex.: oposto de 'rápido e simples' é 'completo e personalizado' (alguém defende)."));
-    const weakRtb = o.razoesParaAcreditar.filter((r) => !hasNumberOrName(r) && genericIn(r, ctx).length > 0);
-    out.push(gate("rtb-concretas", "Razões para acreditar são concretas", "alerta", weakRtb.length === 0, weakRtb.length ? `Vagas: ${weakRtb.join("; ")}` : "Razões concretas.", "Use as verdades do negócio do diagnóstico."));
+    const silly = FALSE_SACRIFICE.test(fold(o.opostoPlausivel)) || /(nao se importa|desonest|enganar|no quality)/.test(fold(o.opostoPlausivel));
+    const pais = ctx.stages.paisagem?.output as { categoria?: { nome?: string } } | undefined;
+    const frame = new Set(contentTokens(`${o.quadroDeReferencia} ${pais?.categoria?.nome ?? ""}`).map(stem));
+    const sameCategory = contentTokens(o.opostoPlausivel).map(stem).some((t) => frame.has(t));
+    out.push(gate("oposto-plausivel", "O oposto é uma escolha que um concorrente sério da mesma categoria faria", "alerta", !silly && oppGeneric.length === 0 && sameCategory && words(o.opostoPlausivel).length >= 8, `Oposto: ${o.opostoPlausivel}${sameCategory ? "" : " (não fala da mesma categoria)"}`, "O oposto precisa disputar o mesmo cliente na mesma categoria. Ex.: oposto de 'rápido e simples' é 'completo e personalizado' (alguém defende)."));
+    const weakRtb = o.razoesParaAcreditar.filter((r) => !hasNumberOrName(r) && !truthsOverlap(r, ctx));
+    out.push(gate("rtb-concretas", "Razões para acreditar são fatos", "alerta", weakRtb.length === 0, weakRtb.length ? `Sem fato: ${weakRtb.join("; ")}` : "Razões concretas.", "Use as verdades do negócio do diagnóstico: números, processos, nomes."));
     return out;
   },
 
   plataforma: (o, ctx) => {
     const out: GateResult[] = [];
     out.push(gate("ideia-curta", "Ideia de marca curta (2 a 7 palavras)", "alerta", words(o.ideiaDeMarca).length >= 2 && words(o.ideiaDeMarca).length <= 7, `"${o.ideiaDeMarca}" tem ${words(o.ideiaDeMarca).length} palavras.`, "A ideia de marca é um norte que cabe na cabeça, não um parágrafo."));
-    const ideaFound = foundInCompetitors(o.ideiaDeMarca, ctx.competitorSegments);
+    const ideaFound = foundInCompetitors(o.ideiaDeMarca, ctx.competitorSegments, { ignore: categoryPairs(ctx) });
     out.push(gate("ideia-propria", "Ideia de marca não é dita pelos concorrentes", "alerta", ideaFound.length === 0, ideaFound.length ? `Aparece em ${ideaFound.map((f) => f.entity).join(", ")}.` : "Não aparece nos concorrentes.", undefined, ideaFound.map((f) => f.ev)));
     const emptyValues = o.valores.filter((v) => genericIn(v.valor, ctx).some((h) => h.kind === "adjetivo-vazio" || h.kind === "promessa-vaga") && !hasNumberOrName(v.comportamento) && words(v.comportamento).length < 10);
     out.push(gate("valores-comportamento", "Valores viram comportamento observável", "alerta", emptyValues.length === 0, emptyValues.length ? `Valores genéricos sem comportamento concreto: ${emptyValues.map((v) => v.valor).join(", ")}.` : "Cada valor tem comportamento.", "Troque o nome do valor por um comportamento ('mostramos o custo de cada item na nota') ou detalhe o que muda nas decisões."));
@@ -218,7 +252,7 @@ export const STAGE_GATES: { [S in Stage]: (o: Out<S>, ctx: GateContext) => GateR
     out.push(gate("manifesto", "Manifesto forte no verificador", "bloqueia", m.score >= 70, `Nota ${m.score}/100 (${m.verdict}).`, m.deviations.slice(0, 4).map((d) => d.message).join(" ") || undefined));
     for (const a of o.assinaturas) {
       const r = ctx.assess(a.frase, { voice: ctx.voiceSpec });
-      const found = foundInCompetitors(a.frase, ctx.competitorSegments);
+      const found = foundInCompetitors(a.frase, ctx.competitorSegments, { ignore: categoryPairs(ctx) });
       out.push(gate(`assinatura-${fold(a.frase).replace(/[^a-z0-9]+/g, "-").slice(0, 30)}`, `Assinatura "${a.frase}"`, "alerta", r.score >= 70 && found.length === 0, `Nota ${r.score}/100${found.length ? `; já dito por ${found.map((f) => f.entity).join(", ")}` : ""}.`, r.deviations.slice(0, 2).map((d) => d.message).join(" ") || undefined, found.map((f) => f.ev)));
     }
     const p = ctx.assess(o.pitch.longo, { voice: ctx.voiceSpec });

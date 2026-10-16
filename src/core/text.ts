@@ -38,16 +38,21 @@ export const contentTokens = (text: string): string[] =>
     .map(fold)
     .filter((w) => w.length > 2 && !STOPWORDS.has(w) && !/^\d+$/.test(w));
 
-/** Very light stemmer, enough to merge plurals and common suffixes in PT/EN. */
+/**
+ * Light stemmer, enough to merge singular and plural (and common suffixes) in
+ * Portuguese and English: inovação/inovações, especial/especiais, cor/cores.
+ */
 export const stem = (w: string): string => {
-  let s = w;
-  for (const suf of ["mente", "coes", "cao", "oes", "ies", "ing", "es", "s"]) {
-    if (s.length > suf.length + 3 && s.endsWith(suf)) {
-      s = suf === "coes" ? `${s.slice(0, -4)}cao` : suf === "ies" ? `${s.slice(0, -3)}y` : s.slice(0, -suf.length);
-      break;
-    }
+  if (w.length <= 3) return w;
+  const rules: [string, string][] = [
+    ["mente", ""], ["coes", "cao"], ["soes", "sao"], ["oes", "ao"], ["aes", "ao"], ["ais", "al"], ["eis", "el"], ["ois", "ol"], ["uis", "ul"],
+    ["res", "r"], ["zes", "z"], ["ns", "m"], ["ies", "y"], ["ing", ""],
+  ];
+  for (const [suf, rep] of rules) {
+    if (w.length >= suf.length + 2 && w.endsWith(suf)) return w.slice(0, -suf.length) + rep;
   }
-  return s;
+  if (w.endsWith("s") && !w.endsWith("ss") && !w.endsWith("us") && !w.endsWith("is")) return w.slice(0, -1);
+  return w;
 };
 
 export const stems = (text: string): string[] => contentTokens(text).map(stem);
@@ -200,8 +205,10 @@ export const round = (n: number, digits = 2): number => {
   return Math.round(n * f) / f;
 };
 
-export const slug = (s: string): string =>
-  fold(s)
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-    .slice(0, 60) || "item";
+export const slug = (s: string): string => {
+  const latin = fold(s).replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60);
+  // Names without Latin letters keep their own letters, so "東京" and "Марка" never collide.
+  if (latin.replace(/-/g, "").length >= Math.min(2, s.trim().length)) return latin || "item";
+  const own = s.trim().toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "-").replace(/^-+|-+$/g, "").slice(0, 60);
+  return own || "item";
+};
