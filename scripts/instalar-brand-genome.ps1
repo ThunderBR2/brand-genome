@@ -25,8 +25,18 @@ try {
 
   $tmp = Join-Path $env:TEMP ("brand-genome-" + [guid]::NewGuid().ToString("N"))
   New-Item -ItemType Directory -Path $tmp | Out-Null
-  Write-Host "Baixando do GitHub..."
-  Invoke-WebRequest -UseBasicParsing -Uri "https://github.com/ThunderBR2/brand-genome/archive/refs/heads/main.zip" -OutFile (Join-Path $tmp "src.zip")
+  $localZip = Join-Path $PSScriptRoot "brand-genome.zip"
+  if (Test-Path $localZip) {
+    Write-Host "Usando o pacote local brand-genome.zip"
+    Copy-Item $localZip (Join-Path $tmp "src.zip")
+  } else {
+    Write-Host "Baixando do GitHub..."
+    try {
+      Invoke-WebRequest -UseBasicParsing -Uri "https://github.com/ThunderBR2/brand-genome/archive/refs/heads/main.zip" -OutFile (Join-Path $tmp "src.zip")
+    } catch {
+      Fail "nao consegui baixar do GitHub ($($_.Exception.Message)). Se o repositorio for privado, coloque o arquivo brand-genome.zip nesta mesma pasta e rode de novo."
+    }
+  }
   Expand-Archive -Path (Join-Path $tmp "src.zip") -DestinationPath $tmp -Force
   $src = Get-ChildItem -Path $tmp -Directory | Select-Object -First 1
   New-Item -ItemType Directory -Path $dest -Force | Out-Null
