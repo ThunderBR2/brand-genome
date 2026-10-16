@@ -58,7 +58,7 @@ O cânone não mistura escolas em silêncio. Os 29 debates mostram onde elas div
 
 ## Começando
 
-**Windows, um clique:** baixe [`scripts/instalar-brand-genome.bat`](scripts/instalar-brand-genome.bat) e abra. Ele instala em `%USERPROFILE%\BrandGenome` e conecta ao Claude Desktop.
+**Windows, um clique:** baixe [`scripts/instalar-brand-genome.bat`](scripts/instalar-brand-genome.bat) e o `.ps1` ao lado, na mesma pasta, e abra o `.bat`. Ele instala em `%USERPROFILE%\BrandGenome` e conecta ao Claude Desktop.
 
 
 > **Passo a passo:** [docs/comecando.md](docs/comecando.md)
